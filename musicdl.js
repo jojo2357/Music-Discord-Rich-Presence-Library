@@ -27,7 +27,11 @@ function findCoverFromApple(albumName = "Origins", artistName = "") {
 
         req.on('exit', () => {
             console.log("query finnished");
-            let json = JSON.parse(out);
+            let json;
+            try {
+                json = JSON.parse(out);
+            } catch (e) {
+            }
             let album = json.results.filter((listing) => (listing.artistName + "").toLowerCase().includes(artistName.toLowerCase()));
             if (album.length === 0)
                 reject("Nope");
@@ -117,7 +121,7 @@ function locateMP3FromFolder(folder) {
     return new Promise(async (resolve, reject) => {
         for (const file of fs.readdirSync(folder)) {
             if (fs.lstatSync(folder + '\\' + file).isDirectory())
-                locateMP3FromFolder(folder + '\\' + file).then().catch(reject);
+                locateMP3FromFolder(folder + '\\' + file).then().catch();
             else if ((folder + '\\' + file).includes(".mp3")) {
                 try {
                     let thing = (await fetchAlbumsFromMP3(folder, file));
@@ -136,7 +140,7 @@ function locateMP3FromFolder(folder) {
                                         }).catch(reject1);
                                     }).catch((reason) => reject1("Could not download art for " + thing.tags.album, reason));
                                 }));
-                            }catch (a){
+                            } catch (a) {
                                 console.log(a);
                             }
                         }
@@ -255,8 +259,9 @@ function writeOverwritable(message = "") {
         if (message.length >= process.stdout.columns)
             message = message.substring(0, process.stdout.columns - 2);
         process.stdout.write(message + ' '.repeat(process.stdout.columns - 3 - message.length) + '\r');
-    } catch(e){}
+    } catch (e) {
     }
+}
 
 process.on('unhandledRejection', (reason, p) => {
     console.trace('Unhandled Rejection at: Promise', p, 'reason:', reason);
