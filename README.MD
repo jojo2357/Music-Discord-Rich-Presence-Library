@@ -22,6 +22,6 @@ Unfortunately, there are people that like to be mean and since I cant control/mo
 0. [Create a fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) of this repo and [Get Started](https://github.com/jojo2357/Music-Discord-Rich-Presence-Library#getting-started) from step 2 up to step 6.
 1. Make a folder under `Pending_User_Files` matching your github username that you definitely used when u ran the program :eyes:
 2. Move all of the generated folders there.
-3. Open a PR to [this repository](https://github.com/jojo2357/Music-Discord-Rich-Presence) (linked just in case you are reading this in a fork)
+3. Open a PR to [this repository](https://github.com/jojo2357/Music-Discord-Rich-Presence-Library) (linked just in case you are reading this in a fork)
 4. Wait for me to do the do. Once i do the do, you will be able to find your generated files under `User_Generated_Files/<your username>`. 
 5. Move the dat files i made into your `clientdata` folder in MDRP.
