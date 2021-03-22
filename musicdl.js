@@ -12,6 +12,7 @@ let guysFailed = 0;
 let fetchedAlbums = 0;
 let expectedAlbums = 0;
 let completed = [];
+let albumsAskedFor = [];
 let user = "";
 
 Main();
@@ -123,44 +124,57 @@ function locateMP3FromFolder(folder) {
     return new Promise((resolve, reject) => {
         for (const file of fs.readdirSync(folder)) {
             if (fs.lstatSync(folder + '\\' + file).isDirectory())
-                locateMP3FromFolder(folder + '\\' + file).then(resolve).catch(reject);
+                locateMP3FromFolder(folder + '\\' + file).then(() => {
+                    if (fetchedAlbums === expectedAlbums)
+                        resolve();
+                }).catch(reject);
             else if ((folder + '\\' + file).includes(".mp3")) {
                 expectedAlbums++;
                 fetchAlbumsFromMP3(folder, file).then(thing => {
-                    fetchedAlbums++;
-                    if (completed.includes(thing.tags.album))
-                        if (fetchedAlbums === expectedAlbums)
+                    if (completed.includes(thing.tags.album)) {
+                        if (++fetchedAlbums === expectedAlbums)
                             resolve();
-                        else
-                            return;
+                        return;
+                    }
                     guysdone++;
                     if (!thing.tags.picture) {
                         if (thing.tags.album.length > 0 && thing.tags.album.trim() !== "Unknown Album") {
-                            try {
-                                await(new Promise((resolve1, reject1) => {
-                                    findCoverFromApple(thing.tags.album, thing.tags.artist.substring(0, 8)).then((url = "") => {
-                                        downloadImageFromWeb(thing.tags.album, url).then((res) => {
-                                            completed.push(thing.tags.album);
-                                            fs.appendFileSync(path.join(process.cwd(), "all.dat"), thing.tags.album + "\r\n");
-                                            resolve1(res);
-                                        }).catch(reject1);
-                                    }).catch((reason) => reject1("Could not download art for " + thing.tags.album, reason));
-                                }));
-                            } catch (a) {
-                                console.log(a);
-                            }
-                        }
-                        if (fetchedAlbums === expectedAlbums)
-                            resolve();
+                            new Promise((resolve1, reject1) => {
+                                if (albumsAskedFor.includes(thing.tags.album)) {
+                                    resolve1();
+                                    return;
+                                }
+                                albumsAskedFor.push(thing.tags.album);
+                                findCoverFromApple(thing.tags.album, thing.tags.artist.substring(0, 8)).then((url = "") => {
+                                    downloadImageFromWeb(thing.tags.album, url).then((res) => {
+                                        completed.push(thing.tags.album);
+                                        fs.appendFileSync(path.join(process.cwd(), "all.dat"), thing.tags.album + "\r\n");
+                                        resolve1(res);
+                                    }).catch(() => {
+                                        resolve1();
+                                    });
+                                }).catch((reason) => {
+                                    reject1("Could not download art for " + thing.tags.album, reason);
+                                });
+                            }).then(() => {
+                                if (++fetchedAlbums === expectedAlbums)
+                                    resolve();
+                            }).catch(() => {
+                                if (++fetchedAlbums === expectedAlbums)
+                                    resolve();
+                            });
+                        }else
+                            expectedAlbums--;
                     } else {
                         const {data, format} = thing.tags.picture;
                         fs.writeFileSync(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + ".jpg"), Buffer.from(data));
                         completed.push(thing.tags.album);
                         fs.appendFileSync(path.join(process.cwd(), "all.dat"), thing.tags.album + "\r\n");
-                        if (fetchedAlbums === expectedAlbums)
+                        if (++fetchedAlbums === expectedAlbums)
                             resolve();
                     }
                 }).catch(e => {
+                    expectedAlbums--;
                     console.error(`Something went wrong reading art from ${file} ${e}`);
                 });
             }
