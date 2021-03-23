@@ -6,6 +6,7 @@ const readline = require('readline').createInterface({
 const fs = require("fs");
 const jsmediatags = require("jsmediatags");
 const path = require("path");
+const resizer = require("sharp");
 
 let guysdone = 0;
 let guysFailed = 0;
@@ -163,15 +164,24 @@ function locateMP3FromFolder(folder) {
                                 if (++fetchedAlbums === expectedAlbums)
                                     resolve();
                             });
-                        }else
+                        } else
                             expectedAlbums--;
                     } else {
                         const {data, format} = thing.tags.picture;
-                        fs.writeFileSync(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + ".jpg"), Buffer.from(data));
+                        fs.writeFileSync(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + "_raw.jpg"), Buffer.from(data));
                         completed.push(thing.tags.album);
                         fs.appendFileSync(path.join(process.cwd(), "all.dat"), thing.tags.album + "\r\n");
-                        if (++fetchedAlbums === expectedAlbums)
-                            resolve();
+                        resizer(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + "_raw.jpg")).resize({
+                            height: 512,
+                            width: 512
+                        }).toFile(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + ".jpg")).then(() => {
+                            //fs.unlinkSync(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + "_raw.jpg"));
+                            if (++fetchedAlbums === expectedAlbums)
+                                resolve();
+                        }).catch(() => {
+                            if (++fetchedAlbums === expectedAlbums)
+                                resolve();
+                        });
                     }
                 }).catch(e => {
                     expectedAlbums--;
