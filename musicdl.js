@@ -91,11 +91,12 @@ function downloadAlbumsFromFile(file) {
         let resolves = 0;
         let data = fs.readFileSync(file).toString().split("\n");
         data.forEach((line) => {
-            var album = line.split('==')[0];
-            var link = line.split('==')[1].replace('\r', '');
+            const allTheExtraStuff = line.split('==')[0];
+            const album = allTheExtraStuff.shift();
+            const link = allTheExtraStuff.shift().replace('\r', '');
             downloadImageFromWeb(cleanUp(album), link).then((res) => {
                 writeOverwritable(`Downloaded album cover (${resolves}) : ` + album);
-                fs.appendFileSync(path.join(process.cwd(), "all.dat"), album + "\r\n");
+                fs.appendFileSync(path.join(process.cwd(), "all.dat"), album + (allTheExtraStuff.length > 0 ? allTheExtraStuff.join('==') : "") + "\r\n");
                 if (++resolves === data.length)
                     resolve();
             }).catch((thing) => {
@@ -149,7 +150,7 @@ function locateMP3FromFolder(folder) {
                                 findCoverFromApple(thing.tags.album, thing.tags.artist.substring(0, 8)).then((url = "") => {
                                     downloadImageFromWeb(thing.tags.album, url).then((res) => {
                                         completed.push(thing.tags.album);
-                                        fs.appendFileSync(path.join(process.cwd(), "all.dat"), thing.tags.album + "\r\n");
+                                        fs.appendFileSync(path.join(process.cwd(), "all.dat"), thing.tags.album + (thing.tags.artist ? "==" + thing.tags.artist : "") + "\r\n");
                                         resolve1(res);
                                     }).catch(() => {
                                         resolve1();
@@ -170,7 +171,7 @@ function locateMP3FromFolder(folder) {
                         const {data, format} = thing.tags.picture;
                         fs.writeFileSync(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + "_raw.jpg"), Buffer.from(data));
                         completed.push(thing.tags.album);
-                        fs.appendFileSync(path.join(process.cwd(), "all.dat"), thing.tags.album + "\r\n");
+                        fs.appendFileSync(path.join(process.cwd(), "all.dat"), thing.tags.album + (thing.tags.artist ? "==" + thing.tags.artist : "") + "\r\n");
                         resizer(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + "_raw.jpg")).resize({
                             height: 512,
                             width: 512
@@ -243,10 +244,12 @@ function beginToExport(version) {
         if (windex > 146 || image === '') {
             return;
         }
+        const lineParsed = image.split('==');
+        const imageName = lineParsed.shift()
         writeOverwritable(`Copying image (${windex}) images/` + cleanUp(image) + ".jpg");// + " to " + path.join(process.cwd(), name + version + "/" + windex + ".jpg") + '\r'); //debug ig
-        addImageKey("groove", version, startTime, image, windex);
-        addImageKey("spotify", version, startTime, image, windex);
-        addImageKey("musicbee", version, startTime, image, windex);
+        addImageKey("groove", version, startTime, imageName, windex, lineParsed);
+        addImageKey("spotify", version, startTime, imageName, windex, lineParsed);
+        addImageKey("musicbee", version, startTime, imageName, windex, lineParsed);
     });
     var dater = fs.readFileSync(path.join(process.cwd(), 'all.dat')).toString().split('\r\n');
     dater.splice(0, 147);
@@ -277,8 +280,8 @@ function createExportFolder(playerName, version = 1) {
     fs.copyFileSync(path.join(process.cwd(), "assets/" + playerName + ".png"), path.join(process.cwd(), playerName + version + "/" + playerName + ".png"));
 }
 
-function addImageKey(playerName, version, startTime, image, windex) {
-    fs.appendFileSync(path.join(process.cwd(), playerName + version + "/" + name + playerName + startTime + version + ".dat"), image + '==' + windex + '\n');
+function addImageKey(playerName, version, startTime, image, windex, extraStuff = []) {
+    fs.appendFileSync(path.join(process.cwd(), playerName + version + "/" + name + playerName + startTime + version + ".dat"), image + '==' + windex + (extraStuff.length > 0 ? "==" + extraStuff.join('==') : "") + '\n');
     fs.copyFileSync(path.join(process.cwd(), "images/" + cleanUp(image) + ".jpg"), path.join(process.cwd(), playerName + version + "/" + windex + ".jpg"));
 }
 
