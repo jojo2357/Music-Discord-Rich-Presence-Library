@@ -8,6 +8,11 @@ const jsmediatags = require("jsmediatags");
 const path = require("path");
 const resizer = require("sharp");
 
+const startTime = new Date().getTime();
+
+let version = -1;
+let amountExported = 0;
+
 let guysdone = 0;
 let guysFailed = 0;
 let fetchedAlbums = 0;
@@ -51,18 +56,24 @@ function Main() {
         fs.mkdirSync(path.join(process.cwd(), "images"));
     fs.writeFileSync(path.join(process.cwd(), "all.dat"), "");
     readline.question("Who is this (github username is good, just for naming your files for the library)\n", (nameIn) => {
-        name = nameIn;
+        user = nameIn;
         readline.question("MP3 or DAT: ", (choice) => {
+            readLast();
+            if (!fs.existsSync("groove0")) {
+                createExportFolder("spotify");
+                createExportFolder("groove");
+                createExportFolder("musicbee");
+            }
             if (choice.toLowerCase() === "dat") {
                 fs.readdirSync(process.cwd()).forEach(filder => {
                     if (filder.includes('.dat') && !filder.includes("all.dat")) {
                         downloadAlbumsFromFile(filder).then(() => {
                             console.log("\nFinished downloading.");
-                            setupExport();
+                            //setupExport();
                             process.exit(0);
                         }).catch((e) => {
                             console.error(e);
-                            setupExport();
+                            //setupExport();
                             process.exit(1);
                         });
                     }
@@ -72,7 +83,7 @@ function Main() {
                     if (fs.lstatSync(loc).isDirectory())
                         locateMP3FromFolder(loc).then((resolver) => {
                             console.log(`All done from ${resolver} ${guysdone} (${guysFailed})`);
-                            setupExport();
+                            //setupExport();
                             process.exit(0);
                         }).catch(console.error);
                     else
@@ -91,27 +102,31 @@ function downloadAlbumsFromFile(file) {
         let resolves = 0;
         let data = fs.readFileSync(file).toString().split("\n");
         data.forEach((line) => {
-            const allTheExtraStuff = line.split('==')[0];
+            const allTheExtraStuff = line.replace('\r', '').split('==');
             const album = allTheExtraStuff.shift();
             const link = allTheExtraStuff.shift().replace('\r', '');
-            downloadImageFromWeb(cleanUp(album), link).then((res) => {
+            if (!completed.includes(album + allTheExtraStuff.join('')))
+            downloadImageFromWeb(cleanUp(album), cleanUp(allTheExtraStuff.join('')), link).then((res) => {
                 writeOverwritable(`Downloaded album cover (${resolves}) : ` + album);
-                fs.appendFileSync(path.join(process.cwd(), "all.dat"), album + (allTheExtraStuff.length > 0 ? allTheExtraStuff.join('==') : "") + "\r\n");
+                fs.appendFileSync(path.join(process.cwd(), "all.dat"), album + (allTheExtraStuff.length > 0 ? "==" + allTheExtraStuff.join('==') : "") + "\r\n");
+                appendSingleton(album, allTheExtraStuff);
                 if (++resolves === data.length)
                     resolve();
             }).catch((thing) => {
                 if (++resolves === data.length)
                     resolve();
             });
+            else if (++resolves === data.length)
+                resolve();
         });
     });
 }
 
-function downloadImageFromWeb(albumName, url) {
+function downloadImageFromWeb(albumName, artist, url) {
     return new Promise((resolve, reject) => {
         writeOverwritable(`I'm downloading ` + url);
         let p = spawn("curl", [url]);
-        let out = fs.createWriteStream(path.join(process.cwd(), "images/" + cleanUp(albumName) + ".jpg"));
+        let out = fs.createWriteStream(path.join(process.cwd(), "images/" + cleanUp(albumName) + cleanUp(artist) + ".jpg"));
         p.stdout.pipe(out);
         p.on("exit", (code) => {
             if (code === 0)
@@ -133,7 +148,7 @@ function locateMP3FromFolder(folder) {
             else if ((folder + '\\' + file).includes(".mp3")) {
                 expectedAlbums++;
                 fetchAlbumsFromMP3(folder, file).then(thing => {
-                    if (completed.includes(thing.tags.album)) {
+                    if (completed.includes(thing.tags.album + thing.tags.artist)) {
                         if (++fetchedAlbums === expectedAlbums)
                             resolve();
                         return;
@@ -148,9 +163,10 @@ function locateMP3FromFolder(folder) {
                                 }
                                 albumsAskedFor.push(thing.tags.album);
                                 findCoverFromApple(thing.tags.album, thing.tags.artist.substring(0, 8)).then((url = "") => {
-                                    downloadImageFromWeb(thing.tags.album, url).then((res) => {
-                                        completed.push(thing.tags.album);
+                                    downloadImageFromWeb(thing.tags.album, thing.tags.artist, url).then((res) => {
+                                        completed.push(thing.tags.album + thing.tags.artist);
                                         fs.appendFileSync(path.join(process.cwd(), "all.dat"), thing.tags.album + (thing.tags.artist ? "==" + thing.tags.artist : "") + "\r\n");
+                                        appendSingleton(thing.tags.album, thing.tags.artist ? [thing.tags.artist] : []);
                                         resolve1(res);
                                     }).catch(() => {
                                         resolve1();
@@ -169,14 +185,15 @@ function locateMP3FromFolder(folder) {
                             expectedAlbums--;
                     } else {
                         const {data, format} = thing.tags.picture;
-                        fs.writeFileSync(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + "_raw.jpg"), Buffer.from(data));
-                        completed.push(thing.tags.album);
+                        fs.writeFileSync(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + cleanUp(thing.tags.artist) + "_raw.jpg"), Buffer.from(data));
+                        completed.push(thing.tags.album + thing.tags.artist);
                         fs.appendFileSync(path.join(process.cwd(), "all.dat"), thing.tags.album + (thing.tags.artist ? "==" + thing.tags.artist : "") + "\r\n");
-                        resizer(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + "_raw.jpg")).resize({
+                        resizer(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + cleanUp(thing.tags.artist) + "_raw.jpg")).resize({
                             height: 512,
                             width: 512
-                        }).toFile(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + ".jpg")).then(() => {
-                            //fs.unlinkSync(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + "_raw.jpg"));
+                        }).toFile(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + cleanUp(thing.tags.artist) + ".jpg")).then(() => {
+                            appendSingleton(thing.tags.album, thing.tags.artist ? [thing.tags.artist] : []);
+                            fs.unlinkSync(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + cleanUp(thing.tags.artist ? thing.tags.artist : "") + "_raw.jpg"));
                             if (++fetchedAlbums === expectedAlbums)
                                 resolve();
                         }).catch(() => {
@@ -211,77 +228,49 @@ function fetchAlbumsFromMP3(folder, file) {
     });
 }
 
-function setupExport() {
-    console.log("Reading archive...");
-    if (fs.existsSync("archive")) {
-        var dater = fs.readFileSync(path.join(process.cwd(), 'all.dat')).toString().split('\r\n');
-        fs.readdirSync(path.join(process.cwd(), "archive")).forEach((file) => {
-            fs.readFileSync(path.join(process.cwd(), "archive/" + file)).toString().split(/(\r\n|\r|\n)+/).forEach(line => {
-                if (line.includes('==') && dater.includes(line.split('==')[0]))
-                    dater.splice(dater.indexOf(line.split('==')[0]), 1);
-            });
-        });
-        fs.writeFileSync(path.join(process.cwd(), 'all.dat'), dater.join('\r\n'));
+function appendSingleton(image, otherStuff = []) {
+    fs.appendFileSync(findDat("spotify", version), image + "==" + (amountExported) + (otherStuff.length > 0 ? ('==' + otherStuff.join('==')) : "") + '\r\n');
+    fs.appendFileSync(findDat("groove", version), image + "==" + (amountExported) + (otherStuff.length > 0 ? ('==' + otherStuff.join('==')) : "") + '\r\n');
+    fs.appendFileSync(findDat("musicbee", version), image + "==" + (amountExported) + (otherStuff.length > 0 ? ('==' + otherStuff.join('==')) : "") + '\r\n');
+    fs.copyFileSync(path.join(process.cwd(), "images/" + cleanUp(image) + cleanUp(otherStuff.join('')) + ".jpg"), path.join(process.cwd(), "spotify" + version + "/" + amountExported + ".jpg"));
+    fs.copyFileSync(path.join(process.cwd(), "images/" + cleanUp(image) + cleanUp(otherStuff.join('')) + ".jpg"), path.join(process.cwd(), "groove" + version + "/" + amountExported + ".jpg"));
+    fs.copyFileSync(path.join(process.cwd(), "images/" + cleanUp(image) + cleanUp(otherStuff.join('')) + ".jpg"), path.join(process.cwd(), "musicbee" + version + "/" + amountExported + ".jpg"));
+    fs.unlinkSync(path.join(process.cwd(), "images/" + cleanUp(image) + cleanUp(otherStuff.join('')) + ".jpg"));
+    amountExported++;
+    if (amountExported > 296) {
+        amountExported = 0;
+        version++;
+        createExportFolder("spotify");
+        createExportFolder("groove");
+        createExportFolder("musicbee");
     }
-    console.log("Starting export...");
-    beginToExport(0);
-}
-
-function beginToExport(version) {
-    console.log("Begin export level " + version);
-    if (version === undefined) {
-        version = 1;
-    }
-    createExportFolder("spotify", version);
-    createExportFolder("groove", version);
-    createExportFolder("musicbee", version);
-
-    const startTime = (new Date().getTime());
-    fs.writeFileSync(path.join(process.cwd(), "spotify" + version + "/" + name + "spotify" + startTime + version + ".dat"), "spotify=spotify\nid=\n");
-    fs.writeFileSync(path.join(process.cwd(), "groove" + version + "/" + name + "groove" + startTime + version + ".dat"), "music.ui=groove\nid=\n");
-    fs.writeFileSync(path.join(process.cwd(), "musicbee" + version + "/" + name + "musicbee" + startTime + version + ".dat"), "musicbee=musicbee\nid=\n");
-    fs.readFileSync(path.join(process.cwd(), 'all.dat')).toString().split('\r\n').forEach((image, windex) => {
-        if (windex > 146 || image === '') {
-            return;
-        }
-        const lineParsed = image.split('==');
-        const imageName = lineParsed.shift()
-        writeOverwritable(`Copying image (${windex}) images/` + cleanUp(image) + ".jpg");// + " to " + path.join(process.cwd(), name + version + "/" + windex + ".jpg") + '\r'); //debug ig
-        addImageKey("groove", version, startTime, imageName, windex, lineParsed);
-        addImageKey("spotify", version, startTime, imageName, windex, lineParsed);
-        addImageKey("musicbee", version, startTime, imageName, windex, lineParsed);
-    });
-    var dater = fs.readFileSync(path.join(process.cwd(), 'all.dat')).toString().split('\r\n');
-    dater.splice(0, 147);
-    if (dater.length > 0) {
-        fs.writeFileSync(path.join(process.cwd(), 'all.dat'), dater.join('\r\n'));
-        beginToExport(version + 1);
-    } else {
-        console.log("Wrapping up exports");
-        killDirectory(path.join(process.cwd(), 'images'));
-        while (fs.existsSync(path.join(process.cwd(), "groove" + ++version))) {
-            killDirectory(path.join(process.cwd(), 'groove' + version));
-            killDirectory(path.join(process.cwd(), 'musicbee' + version));
-            killDirectory(path.join(process.cwd(), 'spotify' + version));
-        }
-    }
-    console.log("All finnished");
 }
 
 function cleanUp(instring) {
     return instring.replace(/[\\/?:<>|"*]/g, '');
 }
 
-function createExportFolder(playerName, version = 1) {
+function createExportFolder(playerName) {
     killDirectory(path.join(process.cwd(), playerName + version));
     fs.mkdirSync(path.join(process.cwd(), playerName + version));
     fs.copyFileSync(path.join(process.cwd(), "assets/paused.jpg"), path.join(process.cwd(), playerName + version + "/paused.png"));
     fs.copyFileSync(path.join(process.cwd(), "assets/" + playerName + "_small.png"), path.join(process.cwd(), playerName + version + "/" + playerName + "_small.png"));
     fs.copyFileSync(path.join(process.cwd(), "assets/" + playerName + ".png"), path.join(process.cwd(), playerName + version + "/" + playerName + ".png"));
+    switch (playerName) {
+        case 'spotify':
+            fs.writeFileSync(path.join(process.cwd(), "spotify" + version + "/" + user + "spotify" + startTime + version + ".dat"), "spotify=spotify\nid=\n");
+            break;
+        case 'groove':
+            fs.writeFileSync(path.join(process.cwd(), "groove" + version + "/" + user + "groove" + startTime + version + ".dat"), "music.ui=groove\nid=\n");
+            break;
+        case 'musicbee':
+            fs.writeFileSync(path.join(process.cwd(), "musicbee" + version + "/" + user + "musicbee" + startTime + version + ".dat"), "musicbee=musicbee\nid=\n");
+            break;
+    }
 }
 
 function addImageKey(playerName, version, startTime, image, windex, extraStuff = []) {
-    fs.appendFileSync(path.join(process.cwd(), playerName + version + "/" + name + playerName + startTime + version + ".dat"), image + '==' + windex + (extraStuff.length > 0 ? "==" + extraStuff.join('==') : "") + '\n');
+    fs.appendFileSync(path.join(process.cwd(), playerName + version + "/" + user + playerName + startTime + version + ".dat"), image + '==' + windex + (extraStuff.length > 0 ? "==" + extraStuff.join('==') : "") + '\n');
     fs.copyFileSync(path.join(process.cwd(), "images/" + cleanUp(image) + ".jpg"), path.join(process.cwd(), playerName + version + "/" + windex + ".jpg"));
 }
 
@@ -303,6 +292,38 @@ function writeOverwritable(message = "") {
         process.stdout.write(message + ' '.repeat(process.stdout.columns - 3 - message.length) + '\r');
     } catch (e) {
     }
+}
+
+function readLast() {
+    if (fs.existsSync(path.join(process.cwd(), "archive"))) {
+        fs.readdirSync(path.join(process.cwd(), "archive"))
+            .forEach((file) => {
+            fs.readFileSync(path.join(process.cwd(), "archive", file)).toString().split('\n').forEach(line => {
+                line = line.replace('\r', '');
+                if (line.includes('=='))
+                    completed.push(line.split('==')[0] + (line.split('==').length > 2 ? line.split('==').splice(2).join("") : ""));
+            });
+        });
+    }
+    while (fs.existsSync(path.join(process.cwd(), "groove" + (++version)))) {
+        amountExported = 0;
+        fs.readdirSync(path.join(process.cwd(), "groove" + version)).forEach(file => {
+            if (file.includes('.dat')) {
+                fs.readFileSync(path.join(process.cwd(), "groove" + version, file)).toString().split('\n').forEach(line => {
+                    line = line.replace('\r', '');
+                    if (line.split('==').length > 1) {
+                        completed.push(line.split('==')[0] + line.split('==').splice(2).join(""));
+                        amountExported++;
+                    }
+                });
+            }
+        });
+    }
+    version = Math.max(version - 1, 0);
+}
+
+function findDat(player, vers) {
+    return path.join(process.cwd(), player + vers, fs.readdirSync(path.join(process.cwd(), player + vers)).find(file => file.includes('.dat')));
 }
 
 process.on('unhandledRejection', (reason, p) => {
