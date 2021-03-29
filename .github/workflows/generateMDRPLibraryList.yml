@@ -1,0 +1,25 @@
+name: Generate a list of albums added in the MDRP
+
+on: push
+
+jobs:
+  generate-file:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Set up python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      - name: Run the script
+        run: python -m generate_artists
+
+      - name: Git Auto Commit
+        uses: stefanzweifel/git-auto-commit-action@v4.9.2
+        with:
+          commit_message: Commit the generated file
+          file_pattern: *.md
+          commit_author: Github Actions [bot] <actions@github.com>
