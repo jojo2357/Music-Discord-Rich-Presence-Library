@@ -17,6 +17,9 @@ jobs:
       - name: Run the script
         run: python -m generate_artists
 
+      - name: Manually add generated file to git
+        run: git add Albums_in_MDRP.md
+        
       - name: Git Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v4.9.2
         with:
