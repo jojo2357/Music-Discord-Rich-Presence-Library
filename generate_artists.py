@@ -41,6 +41,22 @@ def get_album_and_artist(line: str) -> Tuple[str, str]:
     return album, artist
 
 
+def escape(string: str):
+    """
+    escapes the special characters with a backslash
+    :param string:
+    :return:
+    """
+    escaped_string = ""
+    for letter in string:
+        if not letter.isalnum() and letter != " ":
+            logger.debug("escaping: %s \t %s", letter, string)
+            escaped_string += rf"\{letter}"
+        else:
+            escaped_string += letter
+    return escaped_string
+
+
 if __name__ == '__main__':
     # Test prints
     # print(find_all_dat_files())
@@ -84,12 +100,12 @@ if __name__ == '__main__':
     # Go through the artist's name in alphabetical order
     for artist in sorted(ALL_ALBUMS_WITH_ARTISTS.keys(), key=lambda x: x.lower()):
         # Append the artist name with level 2 headings
-        MARKDOWN_CONTENT +=  f"## {artist}\n"
+        MARKDOWN_CONTENT +=  f"## {escape(artist)}\n"
 
         # Now for their albums:
         for album in sorted(ALL_ALBUMS_WITH_ARTISTS[artist]):
             # Add the album name with bullet points
-            MARKDOWN_CONTENT += f" - {album}\n"
+            MARKDOWN_CONTENT += f" - {escape(album)}\n"
 
     # Now write the Markdown file
     with open("Albums_in_MDRP.md", "w") as file:
