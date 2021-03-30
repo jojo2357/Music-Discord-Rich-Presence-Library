@@ -112,6 +112,7 @@ if __name__ == '__main__':
         file.write("# List of Albums:\n")
         file.write("This file contains the list of all the songs that are currently added in the MDRP discord"
                    " applications.\n\n")
+        file.write("---\n")
 
         file.write(MARKDOWN_CONTENT)
         logger.info("Created the markdown file")
