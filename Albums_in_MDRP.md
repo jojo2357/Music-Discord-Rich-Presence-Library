@@ -1,6 +1,7 @@
 # List of Albums:
 This file contains the list of all the songs that are currently added in the MDRP discord applications.
 
+---
 ## Death Cab For Cutie
  - Plans
 ## Dragonforce
