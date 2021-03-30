@@ -12,7 +12,15 @@ jobs:
       - name: Set up python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.9'
+          python-version: "3.9"
+
+      - name: Switch branch before running script
+        uses: stefanzweifel/git-auto-commit-action@v4.9.2
+        with:
+          commit_message: Commit the generated file
+          branch: testing
+          commit_author: Github Actions [bot] <actions@github.com>
+          commmit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
 
       - name: Run the script
         run: python -m generate_artists
@@ -23,3 +31,4 @@ jobs:
           commit_message: Commit the generated file
           branch: testing
           commit_author: Github Actions [bot] <actions@github.com>
+          commmit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
