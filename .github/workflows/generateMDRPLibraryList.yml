@@ -20,6 +20,6 @@ jobs:
       - name: Git Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v4.9.2
         with:
-          commit_message: Commit the generated file
+          commit_message: Update file to reflect new albums in library 🥳
           commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
           commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
