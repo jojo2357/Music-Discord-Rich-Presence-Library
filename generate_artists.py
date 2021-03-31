@@ -100,7 +100,7 @@ if __name__ == '__main__':
     # Go through the artist's name in alphabetical order
     for artist in sorted(ALL_ALBUMS_WITH_ARTISTS.keys(), key=lambda x: x.lower()):
         # Append the artist name with level 2 headings
-        MARKDOWN_CONTENT +=  f"## {escape(artist)}\n"
+        MARKDOWN_CONTENT += f"## {escape(artist)}\n"
 
         # Now for their albums:
         for album in sorted(ALL_ALBUMS_WITH_ARTISTS[artist]):
@@ -116,3 +116,23 @@ if __name__ == '__main__':
 
         file.write(MARKDOWN_CONTENT)
         logger.info("Created the markdown file")
+
+    # Repeat the above part again cuz.. faszt computers ⚡⚡
+
+    TEXT_CONTENT = ""
+    # Go through the artist's name in alphabetical order
+    for artist in sorted(ALL_ALBUMS_WITH_ARTISTS.keys(), key=lambda x: x.lower()):
+        # Append the artist name with level 2 headings
+        TEXT_CONTENT += f"⁕ {artist}\n"
+
+        # Now for their albums:
+        for album in sorted(ALL_ALBUMS_WITH_ARTISTS[artist]):
+            # Add the album name with bullet points
+            TEXT_CONTENT += f"\t • {album}\n"
+
+        TEXT_CONTENT += "\n\n"
+
+    # Now write the text file
+    with open("Albums_in_MDRP.txt", "w") as file:
+        file.write(TEXT_CONTENT)
+        logger.info("Created the text file")
