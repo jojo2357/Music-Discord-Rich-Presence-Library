@@ -3,3 +3,5 @@ groove[0-9]/*
 spotify[0-9]/*
 musicbee[0-9]/*
 archive
+__pycache__/*
+*.pyc
