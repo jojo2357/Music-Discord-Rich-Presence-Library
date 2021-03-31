@@ -98,7 +98,9 @@ if __name__ == '__main__':
     MARKDOWN_CONTENT = ""
 
     # Go through the artist's name in alphabetical order
-    for artist in sorted(ALL_ALBUMS_WITH_ARTISTS.keys(), key=lambda x: x.lower()):
+    sorted_artists = sorted(ALL_ALBUMS_WITH_ARTISTS.keys(), key=lambda x: x.lower())
+    sorted_artists += [sorted_artists.pop(sorted_artists.index("Unknown Artist"))]
+    for artist in sorted_artists:
         # Append the artist name with level 2 headings
         MARKDOWN_CONTENT += f"## {escape(artist)}\n"
 
@@ -121,7 +123,7 @@ if __name__ == '__main__':
 
     TEXT_CONTENT = ""
     # Go through the artist's name in alphabetical order
-    for artist in sorted(ALL_ALBUMS_WITH_ARTISTS.keys(), key=lambda x: x.lower()):
+    for artist in sorted_artists:
         # Append the artist name with level 2 headings
         TEXT_CONTENT += f"⁕ {artist}\n"
 
