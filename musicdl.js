@@ -140,6 +140,7 @@ function Main() {
 function downloadAlbumsFromFile(file) {
     return new Promise((resolve, reject) => {
         let data = fs.readFileSync(file).toString().split("\n");
+
         function lol(windex) {
             const line = data[windex];
             const allTheExtraStuff = line.replace('\r', '').split('==');
@@ -149,22 +150,24 @@ function downloadAlbumsFromFile(file) {
                 downloadImageFromWeb(cleanUp(album), cleanUp(allTheExtraStuff.join('')), link).then((res) => {
                     writeOverwritable(`Downloaded album cover (${windex}) : ` + album);
                     fs.appendFileSync(path.join(process.cwd(), "all.dat"), album + (allTheExtraStuff.length > 0 ? "==" + allTheExtraStuff.join('==') : "") + "\r\n");
-                    appendSingleton(album, allTheExtraStuff);
-                    if (++windex === data.length)
-                        resolve();
-                    else
-                        lol(windex)
+                    appendSingleton(album, allTheExtraStuff).then(() => {
+                        if (++windex === data.length)
+                            resolve();
+                        else
+                            lol(windex);
+                    });
                 }).catch((thing) => {
                     if (++windex === data.length)
                         resolve();
                     else
-                        lol(windex)
+                        lol(windex);
                 });
             else if (++windex === data.length)
                 resolve();
             else
-                lol(windex)
+                lol(windex);
         }
+
         lol(0);
     });
 }
@@ -213,8 +216,8 @@ function locateMP3FromFolder(folder) {
                                     downloadImageFromWeb(thing.tags.album, thing.tags.artist, url).then((res) => {
                                         completed.push(thing.tags.album + thing.tags.artist);
                                         fs.appendFileSync(path.join(process.cwd(), "all.dat"), thing.tags.album + (thing.tags.artist ? "==" + thing.tags.artist : "") + "\r\n");
-                                        appendSingleton(thing.tags.album, thing.tags.artist ? [thing.tags.artist] : []);
-                                        resolve1(res);
+                                        appendSingleton(thing.tags.album, thing.tags.artist ? [thing.tags.artist] : [])
+                                            .then(() => resolve1(res)).catch(reject1);
                                     }).catch(() => {
                                         resolve1();
                                     });
@@ -239,10 +242,12 @@ function locateMP3FromFolder(folder) {
                             height: 512,
                             width: 512
                         }).toFile(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + cleanUp(thing.tags.artist) + ".jpg")).then(() => {
-                            appendSingleton(thing.tags.album, thing.tags.artist ? [thing.tags.artist] : []);
-                            fs.unlinkSync(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + cleanUp(thing.tags.artist ? thing.tags.artist : "") + "_raw.jpg"));
-                            if (++fetchedAlbums === expectedAlbums)
-                                resolve();
+                            appendSingleton(thing.tags.album, thing.tags.artist ? [thing.tags.artist] : []).then(() => {
+                                fs.unlinkSync(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + cleanUp(thing.tags.artist ? thing.tags.artist : "") + "_raw.jpg"));
+                                fs.unlinkSync(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + cleanUp(thing.tags.artist ? thing.tags.artist : "") + ".jpg"));
+                                if (++fetchedAlbums === expectedAlbums)
+                                    resolve();
+                            }).catch(console.error);
                         }).catch(() => {
                             if (++fetchedAlbums === expectedAlbums)
                                 resolve();
@@ -250,7 +255,7 @@ function locateMP3FromFolder(folder) {
                     }
                 }).catch(e => {
                     expectedAlbums--;
-                    console.error(`Something went wrong reading art from ${file} ${e}`);
+                    console.error(`Something went wrong reading art from ${file} `, e);
                 });
             }
         }
@@ -276,53 +281,65 @@ function fetchAlbumsFromMP3(folder, file) {
 }
 
 function appendSingleton(image, otherStuff = []) {
-    new Promise((resolve, reject) => {
-        let expected_resolves = 0;
-        let local_resolves = 0;
-        for (let vers = 0; vers <= version; vers++) {
-            if (fs.existsSync(path.join(process.cwd(), "groove" + vers))) {
-                for (let img = 0; img < 300; img++) {
-                    if (fs.existsSync(path.join(process.cwd(), "groove" + vers, img + '.jpg'))) {
-                        expected_resolves++;
-                        areTwoPicsTheSame(path.join(process.cwd(), "groove" + vers, img + '.jpg'), path.join(process.cwd(), "images/" + cleanUp(image) + cleanUp(otherStuff.join('')) + ".jpg")).then((returned) => {
-                            local_resolves++;
-                            if (returned) {
-                                fs.appendFileSync(path.join(process.cwd(), "doops.dat"), `${image} by ${otherStuff.join(', ')}<=>${vers}/${img}.jpg`);
-                                resolve({folder: vers, imageNum: img});
-                            } else if (local_resolves === expected_resolves)
-                                resolve();
-                        }).catch(reject);
+    return new Promise((resolve1, reject1) => {
+        new Promise((resolve, reject) => {
+            let expected_resolves = 0;
+            let local_resolves = 0;
+            for (let vers = 0; vers <= version; vers++) {
+                if (fs.existsSync(path.join(process.cwd(), "groove" + vers))) {
+                    for (let img = 0; img < 300; img++) {
+                        if (fs.existsSync(path.join(process.cwd(), "groove" + vers, img + '.jpg'))) {
+                            expected_resolves++;
+                            areTwoPicsTheSame(path.join(process.cwd(), "groove" + vers, img + '.jpg'), path.join(process.cwd(), "images/" + cleanUp(image) + cleanUp(otherStuff.join('')) + ".jpg")).then((returned) => {
+                                local_resolves++;
+                                if (returned) {
+                                    fs.appendFileSync(path.join(process.cwd(), "doops.dat"), `${image} by ${otherStuff.join(', ')}<=>${vers}/${img}.jpg\n`);
+                                    resolve({folder: vers, imageNum: img});
+                                } else if (local_resolves === expected_resolves)
+                                    resolve();
+                            }).catch(reject);
+                        }
                     }
                 }
             }
-        }
-        if (expected_resolves === 0)
-            resolve();
-    }).then((folder) => {
-        if (folder && folder.imageNum){
-            console.log(`Saved another duplicate (${++totalSavings})`);
-            fs.appendFileSync(findDat("spotify", folder.folder), image + "==" + (folder.imageNum) + (otherStuff.length > 0 ? ('==' + otherStuff.join('==')) : "") + '\r\n');
-            fs.appendFileSync(findDat("groove", folder.folder), image + "==" + (folder.imageNum) + (otherStuff.length > 0 ? ('==' + otherStuff.join('==')) : "") + '\r\n');
-            fs.appendFileSync(findDat("musicbee", folder.folder), image + "==" + (folder.imageNum) + (otherStuff.length > 0 ? ('==' + otherStuff.join('==')) : "") + '\r\n');
-            fs.unlinkSync(path.join(process.cwd(), "images/" + cleanUp(image) + cleanUp(otherStuff.join('')) + ".jpg"));
-        } else {
-            fs.copyFileSync(path.join(process.cwd(), "images/" + cleanUp(image) + cleanUp(otherStuff.join('')) + ".jpg"), path.join(process.cwd(), "spotify" + version + "/" + amountExported + ".jpg"));
-            fs.copyFileSync(path.join(process.cwd(), "images/" + cleanUp(image) + cleanUp(otherStuff.join('')) + ".jpg"), path.join(process.cwd(), "groove" + version + "/" + amountExported + ".jpg"));
-            fs.copyFileSync(path.join(process.cwd(), "images/" + cleanUp(image) + cleanUp(otherStuff.join('')) + ".jpg"), path.join(process.cwd(), "musicbee" + version + "/" + amountExported + ".jpg"));
-            fs.appendFileSync(findDat("spotify", version), image + "==" + (amountExported) + (otherStuff.length > 0 ? ('==' + otherStuff.join('==')) : "") + '\r\n');
-            fs.appendFileSync(findDat("groove", version), image + "==" + (amountExported) + (otherStuff.length > 0 ? ('==' + otherStuff.join('==')) : "") + '\r\n');
-            fs.appendFileSync(findDat("musicbee", version), image + "==" + (amountExported) + (otherStuff.length > 0 ? ('==' + otherStuff.join('==')) : "") + '\r\n');
-            fs.unlinkSync(path.join(process.cwd(), "images/" + cleanUp(image) + cleanUp(otherStuff.join('')) + ".jpg"));
-            amountExported++;
-            if (amountExported > 296) {
-                amountExported = 0;
-                version++;
-                createExportFolder("spotify");
-                createExportFolder("groove");
-                createExportFolder("musicbee");
+            if (expected_resolves === 0)
+                resolve();
+        }).then((folder) => {
+            if (folder && folder.imageNum) {
+                console.log(`Saved another duplicate (${++totalSavings})`);
+
+                function doTheThing(player) {
+                    let lel = fs.readFileSync(findDat(player, folder.folder)).toString().split('\n');
+                    let windex = lel.indexOf(lel.find(line => line.includes(image + '==' + folder.imageNum)));
+                    if (windex && windex !== -1)
+                        lel[windex] = lel[windex].replace('\r', '') + '==' + otherStuff.join('==');
+                    else
+                        lel[lel.length - 1] = (image + "==" + (folder.imageNum) + (otherStuff.length > 0 ? ('==' + otherStuff.join('==')) : "") + '\r\n');
+                    fs.writeFileSync(findDat(player, folder.folder), lel.join('\n'));
+                }
+
+                doTheThing("groove");
+                doTheThing("spotify");
+                doTheThing("musicbee");
+            } else {
+                fs.copyFileSync(path.join(process.cwd(), "images/" + cleanUp(image) + cleanUp(otherStuff.join('')) + ".jpg"), path.join(process.cwd(), "spotify" + version + "/" + amountExported + ".jpg"));
+                fs.copyFileSync(path.join(process.cwd(), "images/" + cleanUp(image) + cleanUp(otherStuff.join('')) + ".jpg"), path.join(process.cwd(), "groove" + version + "/" + amountExported + ".jpg"));
+                fs.copyFileSync(path.join(process.cwd(), "images/" + cleanUp(image) + cleanUp(otherStuff.join('')) + ".jpg"), path.join(process.cwd(), "musicbee" + version + "/" + amountExported + ".jpg"));
+                fs.appendFileSync(findDat("spotify", version), image + "==" + (amountExported) + (otherStuff.length > 0 ? ('==' + otherStuff.join('==')) : "") + '\r\n');
+                fs.appendFileSync(findDat("groove", version), image + "==" + (amountExported) + (otherStuff.length > 0 ? ('==' + otherStuff.join('==')) : "") + '\r\n');
+                fs.appendFileSync(findDat("musicbee", version), image + "==" + (amountExported) + (otherStuff.length > 0 ? ('==' + otherStuff.join('==')) : "") + '\r\n');
+                amountExported++;
+                if (amountExported > 296) {
+                    amountExported = 0;
+                    version++;
+                    createExportFolder("spotify");
+                    createExportFolder("groove");
+                    createExportFolder("musicbee");
+                }
             }
-        }
-    }).catch(console.error);
+            resolve1();
+        }).catch(reject1);
+    });
 }
 
 function cleanUp(instring) {
