@@ -2,55 +2,76 @@
 This file contains the list of all the songs that are currently added in the MDRP discord applications.
 
 ---
+## Alan Walker
+ - Faded
+## Bad Computer
+ - Chasing Clouds
+ - Destroy Me
+ - Silhouette \(Feed Me Remix\)
+## Cannons
+ - Shadows
+## Conro
+ - Level Days
 ## Death Cab For Cutie
  - Plans
 ## Dragonforce
  - Inhuman Rampage
+## duumu
+ - Talk\!
+ - Worst Part of Heaven
 ## Foreigner
  - Records
+## grant
+ - Color
 ## Imagine Dragons
  - Continued Silence EP
  - Evolve
  - Night Visions
  - Origins
+## Julia Michaels
+ - There\'s No Way
+## K\-391
+ - End of Time
+## K\-391\/Alan Walker\/Tungevaag\/Mangoo
+ - Play
+## Kaskade
+ - Reset
+## Koven
+ - Gold \/ YES
+## Kygo\/Selena Gomez
+ - It Ain\'t Me
+## Lauv
+ - I met you when I was 18\. \(the playlist\)
+ - Slow Grenade
+## Lauv\/Anne\-Marie
+ - \~how i\'m feeling\~
+## Maroon 5
+ - Don\'t Wanna Know
 ## Mumford \& Sons
- - Babel
  - Delta
  - Sigh No More
  - Wilder Mind
-## Of Monsters and Men
+## Mumford \& Sons Feat\. Jerry Douglas \& Paul Simon
+ - Babel
+## Of Monsters And Men
  - Fever Dream
  - Live From Vatnagarðar
- - Live from Vatnagarðar
  - My Head Is An Animal
+## Of Monsters and Men
+ - Live from Vatnagarðar
  - The Hunger Games\: Catching Fire 
+## OneRepublic
+ - Native
+## Pixel Terror
+ - Upgrade
+## Sullivan King
+ - Someone Else
 ## The Lumineers
  - Cleopatra
  - III
  - The Lumineers
-## Unknown Artist
- - Chasing Clouds
- - Color
- - Destroy Me
- - Don\'t Wanna Know
- - End of Time
- - Faded
- - Gold \/ YES
- - Good 4 Me \/ Union
- - I met you when I was 18\. \(the playlist\)
- - It Ain\'t Me
- - Level Days
- - Native
- - Origins
- - Play
- - Reset
- - Shadows
- - Silhouette \(Feed Me Remix\)
- - Slow Grenade
- - Someone Else
- - Talk\!
- - There\'s No Way
- - Upgrade
+## Throttle
  - Where U Are
- - Worst Part of Heaven
- - \~how i\'m feeling\~
+## Vindata
+ - Good 4 Me \/ Union
+## Unknown Artist
