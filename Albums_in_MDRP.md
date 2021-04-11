@@ -111,8 +111,14 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Audioscribe
  - Free Fall
 ## Avilon
+ - Atacc
  - Butter
  - Desire
+ - Foxstep
+ - Hicstep
+ - Wotah
+ - Zomrap
+ - kazoo
 ## AWOLNATION
  - Run
 ## Backstreet Boys
@@ -370,6 +376,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Anime \& Chill Lofi Beats for Study
 ## Fujifabric
  - 楽園
+## Gabowtf
+ - Long Shot \(From \"Re\:ZERO \-Starting Life in Another World\- Season 2\"\) \[Cover\]
 ## Geek Music
  - Death Note \- L\'s Theme \- Main Theme
  - Naruto Shippuden \- Girei \- Pains Theme
@@ -1280,6 +1288,9 @@ This file contains the list of all the songs that are currently added in the MDR
 ## 前島麻由
  - From Dream And You
  - TVアニメ\「Re\:ゼロから始める異世界生活\」2nd season 後期オープニングテーマ\「Long shot\」
+## 大原ゆい子
+ - オンリー
+ - 旅人の唄
 ## 妖精帝國
  - PAX VESANIA
 ## 安月名莉子
