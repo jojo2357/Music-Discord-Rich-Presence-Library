@@ -210,6 +210,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - JOJO\'S BIZARRE ADVENTURE \-The anthology songs 2
 ## Codeko
  - Crest
+## Coldplay
+ - Hymn For The Weekend
 ## Cole Sipe
  - Way Back Home
 ## Coleman Trapp
@@ -329,6 +331,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Summersong 2018
  - Vision
  - Vitality
+## Ellie Goulding\/Lauv
+ - Slow Grenade
 ## Elton John
  - Curtain Call\: The Hits
  - Honky Chateau
@@ -512,6 +516,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - This Life
 ## Jonah Hitchens
  - Inception
+## Jonas Blue
+ - Perfect Strangers
 ## Jonth
  - Game Time
 ## JO\☆STARS \〜TOMMY\,Coda\,JIN\〜
@@ -520,6 +526,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - High
 ## Julia Michaels
  - There\'s No Way
+## Julian Calor
+ - No Fear Anymore
 ## Jüri Pootsmann
  - NCS\: The Best of 2016
 ## K\-391
@@ -587,7 +595,10 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Lauv
  - I met you when I was 18\. \(the playlist\)
  - Slow Grenade
+ - There\'s No Way
 ## Lauv\/Anne\-Marie
+ - \~how i\'m feeling\~
+## Lauv\/Sofia Reyes
  - \~how i\'m feeling\~
 ## LAY
  - Sheep \(Alan Walker Relift\)
@@ -677,6 +688,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - Deep In Abyss \(Made In Abyss OST\)
 ## Maroon 5
  - Don\'t Wanna Know
+ - Memories
 ## Marshmello
  - Alone
 ## Masako Iwanaga
@@ -823,6 +835,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - TVアニメ\「Re\:ゼロから始める異世界生活\」2nd seasonエンディングテーマ\「Memento\」
 ## Nori
  - Lets Fly Away
+## Notaker
+ - Each Other
 ## Of Monsters And Men
  - Fever Dream
  - Live From Vatnagarðar
@@ -883,8 +897,12 @@ This file contains the list of all the songs that are currently added in the MDR
 ## PornoGraffitti
  - Butterfly Effect
  - Melissa
+## Post Malone
+ - Spider\-Man\: Into the Spider\-Verse \(Soundtrack From \& Inspired by the Motion Picture\)
 ## princess a la mode
  - 歌物語2 \-\〈物語\〉シリーズ主題歌集\-
+## Protostar
+ - Galaxies
 ## Qaijff
  - Koufukuron
 ## Quarks
@@ -941,6 +959,10 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Robert Chen
  - Realize \(From \"Re\: Zero \-Starting Life in Another World\"\)
  - Tabibito no Uta \(From \"Mushoku Tensei\: Jobless Reincarnation\"\)
+## Rogue
+ - Let\'s Talk
+## Rome in Silver
+ - Forever Flame
 ## Romix
  - Papermoon
  - 海底のオーケストラ
@@ -1011,6 +1033,8 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Slippy
  - Immortal
  - Unity
+## Slushii
+ - All I Need
 ## Smash Mouth
  - Astro Lounge
 ## Sonita Alizadeh
@@ -1030,6 +1054,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Monstercat 012 \- Aftermath
 ## STEREO DIVE FOUNDATION
  - Daisy \(アーティスト盤\)
+## Steve Aoki
+ - Just Hold On
 ## Steve Hansen
  - Memento \(From \"Re\:Zero Season 2\"\)
 ## Stewart Wallace
@@ -1075,6 +1101,14 @@ This file contains the list of all the songs that are currently added in the MDR
  - Goodbye Yellow Brick Road \(Remastered \/ Deluxe Edition\)
 ## The Beatles
  - 1 \(Remastered\)
+## The Chainsmokers
+ - All We Know
+ - Setting Fires
+ - This Feeling \(Single\)
+## The Chainsmokers \& Coldplay
+ - Memories\.\.\.Do Not Open
+## The Chainsmokers\/Rozes
+ - Roses
 ## The Clash
  - Combat Rock \(Remastered\)
 ## THE DU
@@ -1150,6 +1184,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - HYPE
  - MOSHI
  - PLAY
+ - Rocket League x Monstercat Vol\. 1
 ## Tones And I
  - Dance Monkey \(Stripped Back\) \/ Dance Monkey
 ## Tony Igy
@@ -1180,6 +1215,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - UNSER
 ## Vantage
  - J\-Funk City \: Vantage\'s Edits Collection
+## Varien \& 7 Minutes Dead
+ - Mirai Sekai
 ## Veorra
  - Ruby
 ## Vickeblanka

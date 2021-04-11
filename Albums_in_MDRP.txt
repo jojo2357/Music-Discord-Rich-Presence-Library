@@ -364,6 +364,10 @@
 	 • Crest
 
 
+⁕ Coldplay
+	 • Hymn For The Weekend
+
+
 ⁕ Cole Sipe
 	 • Way Back Home
 
@@ -579,6 +583,10 @@
 	 • Summersong 2018
 	 • Vision
 	 • Vitality
+
+
+⁕ Ellie Goulding/Lauv
+	 • Slow Grenade
 
 
 ⁕ Elton John
@@ -892,6 +900,10 @@
 	 • Inception
 
 
+⁕ Jonas Blue
+	 • Perfect Strangers
+
+
 ⁕ Jonth
 	 • Game Time
 
@@ -906,6 +918,10 @@
 
 ⁕ Julia Michaels
 	 • There's No Way
+
+
+⁕ Julian Calor
+	 • No Fear Anymore
 
 
 ⁕ Jüri Pootsmann
@@ -1027,9 +1043,14 @@
 ⁕ Lauv
 	 • I met you when I was 18. (the playlist)
 	 • Slow Grenade
+	 • There's No Way
 
 
 ⁕ Lauv/Anne-Marie
+	 • ~how i'm feeling~
+
+
+⁕ Lauv/Sofia Reyes
 	 • ~how i'm feeling~
 
 
@@ -1179,6 +1200,7 @@
 
 ⁕ Maroon 5
 	 • Don't Wanna Know
+	 • Memories
 
 
 ⁕ Marshmello
@@ -1431,6 +1453,10 @@
 	 • Lets Fly Away
 
 
+⁕ Notaker
+	 • Each Other
+
+
 ⁕ Of Monsters And Men
 	 • Fever Dream
 	 • Live From Vatnagarðar
@@ -1535,8 +1561,16 @@
 	 • Melissa
 
 
+⁕ Post Malone
+	 • Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+
+
 ⁕ princess a la mode
 	 • 歌物語2 -〈物語〉シリーズ主題歌集-
+
+
+⁕ Protostar
+	 • Galaxies
 
 
 ⁕ Qaijff
@@ -1633,6 +1667,14 @@
 ⁕ Robert Chen
 	 • Realize (From "Re: Zero -Starting Life in Another World")
 	 • Tabibito no Uta (From "Mushoku Tensei: Jobless Reincarnation")
+
+
+⁕ Rogue
+	 • Let's Talk
+
+
+⁕ Rome in Silver
+	 • Forever Flame
 
 
 ⁕ Romix
@@ -1763,6 +1805,10 @@
 	 • Unity
 
 
+⁕ Slushii
+	 • All I Need
+
+
 ⁕ Smash Mouth
 	 • Astro Lounge
 
@@ -1798,6 +1844,10 @@
 
 ⁕ STEREO DIVE FOUNDATION
 	 • Daisy (アーティスト盤)
+
+
+⁕ Steve Aoki
+	 • Just Hold On
 
 
 ⁕ Steve Hansen
@@ -1883,6 +1933,20 @@
 
 ⁕ The Beatles
 	 • 1 (Remastered)
+
+
+⁕ The Chainsmokers
+	 • All We Know
+	 • Setting Fires
+	 • This Feeling (Single)
+
+
+⁕ The Chainsmokers & Coldplay
+	 • Memories...Do Not Open
+
+
+⁕ The Chainsmokers/Rozes
+	 • Roses
 
 
 ⁕ The Clash
@@ -2000,6 +2064,7 @@
 	 • HYPE
 	 • MOSHI
 	 • PLAY
+	 • Rocket League x Monstercat Vol. 1
 
 
 ⁕ Tones And I
@@ -2054,6 +2119,10 @@
 
 ⁕ Vantage
 	 • J-Funk City : Vantage's Edits Collection
+
+
+⁕ Varien & 7 Minutes Dead
+	 • Mirai Sekai
 
 
 ⁕ Veorra
