@@ -3,8 +3,8 @@ This file contains the list of all the songs that are currently added in the MDR
 
 ---
 ## \(K\)NoW\_NAME
- - TVアニメ\「ドロヘドロ\」EDテーマソングアルバム\「混沌の中で踊れ\」
- - TVアニメ\「ドロヘドロ\」オープニングテーマ\「Welcome トゥ 混沌\」
+ - TVアニメ「ドロヘドロ」EDテーマソングアルバム「混沌の中で踊れ」
+ - TVアニメ「ドロヘドロ」オープニングテーマ「Welcome トゥ 混沌」
 ## 24hrs
  - BINGE
 ## 5 Seconds of Summer
@@ -14,7 +14,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - COLORFUL
 ## 9mm Parabellum Bullet
  - インフェルノ
-## AC\/DC
+## AC/DC
  - Back In Black
  - Dirty Deeds Done Dirt Cheap
  - High Voltage
@@ -26,7 +26,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - Titans
 ## Aerosmith
  - Aerosmith
- - Aerosmith\'s Greatest Hits
+ - Aerosmith's Greatest Hits
 ## Against The Current
  - Legends Never Die
 ## Agnes
@@ -39,7 +39,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - Burn the House Down
  - Let the Games Begin
 ## Akano
- - Kamado Tanjirou no Uta \(From \"Demon Slayer\: Kimetsu no Yaiba\"\) \[Full Version\]
+ - Kamado Tanjirou no Uta \(From "Demon Slayer: Kimetsu no Yaiba"\) \[Full Version\]
 ## Akari Kito
  - Swinging Heart
 ## AKLO
@@ -55,7 +55,7 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Alec Benjamin
  - Narrated For You
 ## Alex Skrindo
- - NCS is Love\, NCS is Life\, Vol\. 1
+ - NCS is Love, NCS is Life, Vol. 1
  - Passion
  - Tell Me
 ## AleXa
@@ -64,7 +64,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - Taking Over
 ## ALI
  - Wild Side
- - Wild Side \-Anime Ver\.\- \(Anime Version\)
+ - Wild Side \-Anime Ver.\- \(Anime Version\)
 ## Aloe Blacc
  - SOS
 ## Amamiya Sora
@@ -79,13 +79,13 @@ This file contains the list of all the songs that are currently added in the MDR
 ## AnimationStation
  - Near Theme
 ## Anime Kei
- - L\'s Themes \(The Greatest Instrumental Themes from Death Note\)
- - Naruto Sad Vol\.1
+ - L's Themes \(The Greatest Instrumental Themes from Death Note\)
+ - Naruto Sad Vol.1
 ## AnimeHub
  - Ayaya Intensifies
  - Chika Dance
 ## Animelmack
- - Hikaru Nara \(Shigatsu Wa Kimi No Uso\) \[feat\. Animelmack\]
+ - Hikaru Nara \(Shigatsu Wa Kimi No Uso\) \[feat. Animelmack\]
 ## Anjulie
  - Close To The Sun
  - Fly Away
@@ -103,11 +103,11 @@ This file contains the list of all the songs that are currently added in the MDR
 ## ASIAN KUNG\-FU GENERATION
  - Best Hit AKG
  - Blood Circulator
- - Dororo \/ Liberated Zone
+ - Dororo / Liberated Zone
 ## Astrophysics
- - Astro\'s Bizarre Discotheque
+ - Astro's Bizarre Discotheque
  - Fly Me to the Moon
- - Komm\, süsser Tod
+ - Komm, süsser Tod
 ## Audioscribe
  - Free Fall
 ## Avilon
@@ -132,11 +132,11 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Bastille
  - Happier
 ## Beat Saber
- - Beat Saber \(Original Game Soundtrack\)\, Vol\. II
+ - Beat Saber \(Original Game Soundtrack\), Vol. II
 ## Becky Hanson
- - Suicide Squad\: The Album
+ - Suicide Squad: The Album
 ## Beyoncé
- - Walk On Water \(feat\. Beyoncé\)
+ - Walk On Water \(feat. Beyoncé\)
 ## Billy Joel
  - Piano Man \(Legacy Edition\)
  - Storm Front
@@ -149,7 +149,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - Josukes Theme Lofi \(Jojos Bizarre Adventure\)
 ## BLUE ENCOUNT
  - Polaris \(Special Edition\)
- - Q\.E\.D
+ - Q.E.D
 ## Bobu Sama
  - Plastic Love
 ## Bon Jovi
@@ -165,22 +165,22 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Brenton Mattheus
  - Forever
 ## Bruna Higs
- - Realize \(Re\:zero\) \[feat\. Bruna Higs\]
+ - Realize \(Re:zero\) \[feat. Bruna Higs\]
 ## Bruno Mars
- - No\.6 Collaborations Project
+ - No.6 Collaborations Project
 ## BURNOUT SYNDROMES
  - Burnout Syndromez
- - Good Morning World\!
+ - Good Morning World!
 ## C418
  - Minecraft \- Volume Beta
 ## Camellia
- - 4orce\!
+ - 4orce!
  - Blackmagik Blazing
- - Cyphisonia E\.P\.
- - PLANET\/\/SHAPER
+ - Cyphisonia E.P.
+ - PLANET//SHAPER
  - Spin Eternally
  - crystallized
- - ふぉーす\!
+ - ふぉーす!
 ## Camila Cabello
  - Señorita
 ## Cannons
@@ -198,16 +198,16 @@ This file contains the list of all the songs that are currently added in the MDR
 ## cinema staff
  - Great Escape
 ## CIX
- - WIN \(\"The God of HighSchool\" ED\)
-## Clarence Burke Jr\.
- - The First Family of Soul\: The Best of The Five Stairsteps
+ - WIN \("The God of HighSchool" ED\)
+## Clarence Burke Jr.
+ - The First Family of Soul: The Best of The Five Stairsteps
 ## ClariS
  - Owarimonogatari Gekihanongakushu \(Original Soundtrack\)
 ## Coda
  - BLOODY STREAM
  - Bloody Stream
- - Fighting Gold \(English Ver\.\)
- - JOJO\'S BIZARRE ADVENTURE \-The anthology songs 2
+ - Fighting Gold \(English Ver.\)
+ - JOJO'S BIZARRE ADVENTURE \-The anthology songs 2
 ## Codeko
  - Crest
 ## Coldplay
@@ -221,13 +221,13 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Contacreast
  - Tropic Love
 ## CORPSE
- - DAYWALKER\! \(feat\. CORPSE\)
+ - DAYWALKER! \(feat. CORPSE\)
 ## Cory Friesenhan
- - Dream of Something Sweet \(feat\. Cory Friesenhan\)
+ - Dream of Something Sweet \(feat. Cory Friesenhan\)
 ## Creedence Clearwater Revival
  - Willy And The Poor Boys \(40th Anniversary Edition\)
-## CRIMVAEL\(CV\:MIYU TOMITA\)
- - OPENING\&ENDING THEME FROM TV SERIES \”INTERSPECIES REVIEWERS\”
+## CRIMVAEL\(CV:MIYU TOMITA\)
+ - OPENING&ENDING THEME FROM TV SERIES ”INTERSPECIES REVIEWERS”
 ## Cristina Vee
  - Bullet Hell II
 ## D12
@@ -237,17 +237,17 @@ This file contains the list of all the songs that are currently added in the MDR
  - Discovery
  - Homework
 ## Daisuke Hasegawa
- - Uragirimonono Requiem \(From Jo Jo\'s Bizarre Adventure \- Golden Wind\) \[English Version\]
+ - Uragirimonono Requiem \(From Jo Jo's Bizarre Adventure \- Golden Wind\) \[English Version\]
 ## Daniel Levi
- - On \& On
+ - On & On
 ## Daniel Tidwell
- - At Doom\'s Gate \(DOOM E1M1\)
+ - At Doom's Gate \(DOOM E1M1\)
 ## Darude
  - Before The Storm
-## Daryl Hall \& John Oates
+## Daryl Hall & John Oates
  - Voices
 ## dave rodgers
- - SUPER EUROBEAT presents DAVE RODGERS Special COLLECTION \(Vol\.2\)
+ - SUPER EUROBEAT presents DAVE RODGERS Special COLLECTION \(Vol.2\)
 ## Dave Stewart
  - Sweet Dreams \(Are Made Of This\)
 ## David Bowie
@@ -271,7 +271,7 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Death Cab For Cutie
  - Plans
 ## DEATH NOTE デスノート
- - the WORLD\/アルミナ
+ - the WORLD/アルミナ
 ## Deep Purple
  - Deep Purple in Rock
 ## Delta Ultimate Collection Presents
@@ -281,7 +281,7 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Desmeon
  - Back From The Dead
  - Hellcat
- - NCS\: The Best of 2015
+ - NCS: The Best of 2015
 ## Diana Garnet
  - FLOW ANIME BEST 極
 ## Different Heaven
@@ -293,7 +293,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - Blank
  - Summer Tune
 ## DM DOKURO
- - UNDERTALE\: The Underground
+ - UNDERTALE: The Underground
 ## DM Galaxy
  - Paralyzed \(Disfigure Remix\)
 ## Domastic
@@ -305,11 +305,11 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Dustin Miles
  - Pure Tropical House
 ## duumu
- - Talk\!
+ - Talk!
  - Worst Part of Heaven
 ## EDOist
  - 葛西ハーコーズ
-## EH\!DE
+## EH!DE
  - My Heart
 ## Eivør
  - God of War \(PlayStation Soundtrack\)
@@ -322,7 +322,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - Rubik
  - Skyline
  - Symbolism
- - Symbolism pt\. II
+ - Symbolism pt. II
 ## Elektronomia
  - Energy
  - Fire
@@ -331,10 +331,10 @@ This file contains the list of all the songs that are currently added in the MDR
  - Summersong 2018
  - Vision
  - Vitality
-## Ellie Goulding\/Lauv
+## Ellie Goulding/Lauv
  - Slow Grenade
 ## Elton John
- - Curtain Call\: The Hits
+ - Curtain Call: The Hits
  - Honky Chateau
  - Honky Chateau \(Remastered\)
  - Madman Across The Water
@@ -348,13 +348,13 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Enigma
  - The Screen Behind The Mirror
 ## Eve
- - Kaikai Kitan \/ Ao No Waltz
+ - Kaikai Kitan / Ao No Waltz
  - 闇夜
 ## evening cinema
  - summertime
 ## Farruko
  - On My Way
-## Fear\, and Loathing in Las Vegas
+## Fear, and Loathing in Las Vegas
  - All That We Have Now
  - Feeling of Unity
 ## fhána
@@ -362,8 +362,8 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Fleetwood Mac
  - Rumours \(Super Deluxe\)
 ## FLOW
- - FLOW the Best\: Single Collection
- - Go\!\!\!
+ - FLOW the Best: Single Collection
+ - Go!!!
  - Microcosm
 ## Foreigner
  - Records
@@ -375,24 +375,24 @@ This file contains the list of all the songs that are currently added in the MDR
  - Steel Ball Run Johnny Joestar Theme
  - Ultimate Battle
  - Vegeta Royal Blue Theme
- - チャラ\・ヘッチャラ
+ - チャラ・ヘッチャラ
 ## Frozen Silence
- - Anime \& Chill Lofi Beats for Study
+ - Anime & Chill Lofi Beats for Study
 ## Fujifabric
  - 楽園
 ## Gabowtf
- - Long Shot \(From \"Re\:ZERO \-Starting Life in Another World\- Season 2\"\) \[Cover\]
+ - Long Shot \(From "Re:ZERO \-Starting Life in Another World\- Season 2"\) \[Cover\]
 ## Geek Music
- - Death Note \- L\'s Theme \- Main Theme
+ - Death Note \- L's Theme \- Main Theme
  - Naruto Shippuden \- Girei \- Pains Theme
  - The Anime Collection Volume One
-## Gigi D\'Agostino
+## Gigi D'Agostino
  - In My Mind
 ## GIN
- - POP TEAM EPIC\: ALL TIME BEST
+ - POP TEAM EPIC: ALL TIME BEST
 ## grant
  - Color
-## Guns N\' Roses
+## Guns N' Roses
  - Appetite For Destruction
 ## Hailie Jade
  - The Eminem Show
@@ -404,21 +404,21 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Heather Sommer
  - Perfect 10
 ## Hige Driver
- - HIGECORE\!
+ - HIGECORE!
 ## Hilcrhyme
  - ヨリドコロ
 ## Hiroaki Tommy Tominaga
  - Jojo Sono Chino Sadame
- - ジョジョ\〜その血の運命
+ - ジョジョ〜その血の運命
 ## Hiroyuki Sawano
- - TV Anime \"Attack on Titan Season 2\" \(Original Soundtrack\)
- - TV Anime \"Attack on Titan\" Original Soundtrack
+ - TV Anime "Attack on Titan Season 2" \(Original Soundtrack\)
+ - TV Anime "Attack on Titan" Original Soundtrack
 ## Holo Bass
  - Ground Pound
  - Lofi Hip Hop for Eldritch Horrors to Draw to
  - Pop on Rocks
 ## Hololive English \-Myth\-
- - Hololive English \-Myth\- Image Soundtrack\(ft\. Camellia\)
+ - Hololive English \-Myth\- Image Soundtrack\(ft. Camellia\)
 ## hololive IDOL PROJECT
  - BLUE CLAPPER
  - Candy\-Go\-Round
@@ -427,18 +427,18 @@ This file contains the list of all the songs that are currently added in the MDR
  - Shiny Smily Story
  - Suspect
  - あすいろClearSky
- - でいり\〜だいあり\〜\!
- - キラメキライダー\☆
- - 今宵はHalloween Night\!
+ - でいり〜だいあり〜!
+ - キラメキライダー☆
+ - 今宵はHalloween Night!
  - 夢見る空へ
  - 百花繚乱花吹雪
  - 至上主義アドトラック
 ## HYDE
  - Red Swan
 ## Hype Turner
- - Reload \(feat\. Hype Turner\)
+ - Reload \(feat. Hype Turner\)
 ## Ikanaide
- - Let\'s Fighting Love \(From \"South Park\"\)
+ - Let's Fighting Love \(From "South Park"\)
 ## Ikimonogakari
  - Chou Ikimonobakari Tennen Kinen Members Best Selection
  - Hajimarinouta
@@ -451,14 +451,14 @@ This file contains the list of all the songs that are currently added in the MDR
  - Night Visions \(Deluxe\)
  - Origins
  - Origins \(Deluxe\)
- - Smoke \+ Mirrors \(Deluxe\)
+ - Smoke + Mirrors \(Deluxe\)
 ## Imogen Heap
  - \> album title goes here \<
 ## ISÁK
- - Are You Lonely \(feat\. ISÁK\)
+ - Are You Lonely \(feat. ISÁK\)
 ## Itro
  - Cloud 9
- - NCS\: Uplifting
+ - NCS: Uplifting
  - Panda
  - Sunburst
 ## Jake Steed
@@ -470,13 +470,13 @@ This file contains the list of all the songs that are currently added in the MDR
 ## James Roche
  - Make Me Move \(James Roche Remix\)
 ## Janji
- - Together \(Feat\. Vivien\)
+ - Together \(Feat. Vivien\)
 ## Jaroslav Beck
  - FitBeat
 ## Jason Paige
- - Pokémon Theme \(TheFatRat Remix\) \[feat\. Jason Paige\]
+ - Pokémon Theme \(TheFatRat Remix\) \[feat. Jason Paige\]
 ## Jay Black
- - Come A Little Bit Closer\: The Best Of Jay \& The Americans
+ - Come A Little Bit Closer: The Best Of Jay & The Americans
 ## JAY\-Z
  - Scorpion
 ## Jaykol
@@ -486,14 +486,14 @@ This file contains the list of all the songs that are currently added in the MDR
  - Donuts
  - Joystick
 ## Jeremy Soule
- - The Elder Scrolls V\: Skyrim\: Original Game Soundtrack
+ - The Elder Scrolls V: Skyrim: Original Game Soundtrack
 ## Jessie Reyez
  - Kamikaze
 ## Jillian Aversa
  - Metal Gear Solid 3 \(Snake Eater\)
 ## Jim Croce
- - Photographs \& Memories\: His Greatest Hits
- - You Don\'t Mess Around With Jim
+ - Photographs & Memories: His Greatest Hits
+ - You Don't Mess Around With Jim
 ## Jim Yosef
  - Arrow
  - Canary
@@ -509,8 +509,8 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Joell Ortiz
  - Music To Be Murdered By
 ## John Denver
- - Poems\, Prayers and Promises
- - The John Denver Collection\, Vol\. 1\: Take Me Home Country Roads
+ - Poems, Prayers and Promises
+ - The John Denver Collection, Vol. 1: Take Me Home Country Roads
 ## Johnning
  - Heroes Tonight
  - This Life
@@ -520,20 +520,20 @@ This file contains the list of all the songs that are currently added in the MDR
  - Perfect Strangers
 ## Jonth
  - Game Time
-## JO\☆STARS \〜TOMMY\,Coda\,JIN\〜
- - JoJo Sonochino Kioku\~end of THE WORLD\~
+## JO☆STARS 〜TOMMY,Coda,JIN〜
+ - JoJo Sonochino Kioku~end of THE WORLD~
 ## JPB
  - High
 ## Julia Michaels
- - There\'s No Way
+ - There's No Way
 ## Julian Calor
  - No Fear Anymore
 ## Jüri Pootsmann
- - NCS\: The Best of 2016
+ - NCS: The Best of 2016
 ## K\-391
  - Earth
  - End of Time
-## K\-391\/Alan Walker\/Tungevaag\/Mangoo
+## K\-391/Alan Walker/Tungevaag/Mangoo
  - Play
 ## Kameron
  - Live Fast \(PUBGM\)
@@ -548,14 +548,14 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Kazunobu Mineta
  - 大森靖子
 ## Kazuya Yoshii
- - 超絶\☆ダイナミック\!
-## Ke\'nekt
+ - 超絶☆ダイナミック!
+## Ke'nekt
  - You And Me
 ## Kevin Max
  - Thunderbolt and Lightning
 ## Kiki Dee
  - Rocket Man \(Deluxe Edition\)
-## KISIDA KYODAN \& THE AKEBOSI ROCKETS
+## KISIDA KYODAN & THE AKEBOSI ROCKETS
  - HIGHSCHOOL OF THE DEAD
 ## Kisma
  - Fingertips
@@ -563,14 +563,14 @@ This file contains the list of all the songs that are currently added in the MDR
  - Pirates Of The Caribbean Original Soundtrack
 ## Konomi Suzuki
  - NEVER\-END TALE
- - OPENING THEME FROM TV SERIES \”RE\:ZERO \-STARTING LIFE IN ANOTHER WORLD\-\” 2ND SEASON
- - Shake Up\!
+ - OPENING THEME FROM TV SERIES ”RE:ZERO \-STARTING LIFE IN ANOTHER WORLD\-” 2ND SEASON
+ - Shake Up!
 ## Koven
- - Gold \/ YES
+ - Gold / YES
 ## Kumi Koda
  - DNA
-## Kygo\/Selena Gomez
- - It Ain\'t Me
+## Kygo/Selena Gomez
+ - It Ain't Me
 ## Kyoresu
  - Soviet Loli Anthem
 ## Kédo Rebelle
@@ -578,32 +578,32 @@ This file contains the list of all the songs that are currently added in the MDR
 ## LarsM
  - Lovers
 ## Laszlo
- - Don\'t Look Down
+ - Don't Look Down
  - Fall To Light
  - Here We Are
  - Imaginary Friends
  - One Step Away
 ## Laura Brehm
  - MAYDAY
- - Monody \(feat\. Laura Brehm\)
+ - Monody \(feat. Laura Brehm\)
  - The Calling
- - We\'ll Meet Again
+ - We'll Meet Again
 ## Laura Shigihara
- - Plants Vs\. Zombies \(Original Video Game Soundtrack\)
+ - Plants Vs. Zombies \(Original Video Game Soundtrack\)
 ## Lauren Bennett
  - The Lady Killer
 ## Lauv
- - I met you when I was 18\. \(the playlist\)
+ - I met you when I was 18. \(the playlist\)
  - Slow Grenade
- - There\'s No Way
-## Lauv\/Anne\-Marie
- - \~how i\'m feeling\~
-## Lauv\/Sofia Reyes
- - \~how i\'m feeling\~
+ - There's No Way
+## Lauv/Anne\-Marie
+ - ~how i'm feeling~
+## Lauv/Sofia Reyes
+ - ~how i'm feeling~
 ## LAY
  - Sheep \(Alan Walker Relift\)
 ## Le Castle Vania
- - John Wick\: Chapter 2 \(Original Motion Picture Soundtrack\)
+ - John Wick: Chapter 2 \(Original Motion Picture Soundtrack\)
 ## Led Zeppelin
  - Led Zeppelin
  - Led Zeppelin III \(Remaster\)
@@ -611,35 +611,35 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Lensko
  - Cetus
  - Circles
- - Let\'s Go\!
+ - Let's Go!
  - Rebirth
 ## Leon Alex
- - Believe in you \(From \"Re\:Zero Season 2\) \[Instrumental\]
- - Chiisana Koi No Uta \(From \"Karakai Jouzu No Takagi\-San\"\) \[Instrumental\]
+ - Believe in you \(From "Re:Zero Season 2\) \[Instrumental\]
+ - Chiisana Koi No Uta \(From "Karakai Jouzu No Takagi\-San"\) \[Instrumental\]
  - Dango Daikazoku
- - Is There Still Anything That Love Can Do\? \(From \"Weathering With You\"\) \[Instrumental\]
- - Kara No Kokoro \(From \"Naruto Shippuden Opening 20\"\) \[Instrumental\]
- - Lit \(From \"Koe No Katachi\"\)
- - Nandemonaiya \(From \"Kimi No Na Wa\"\)
- - Realize \(From \"Re\: Zero \-Starting Life in Another World\"\) \[Instrumental\]
- - Sadness and Sorrow \(From \"Naruto\"\)
- - Sangenshoku \(From \"Dr\. Stone\"\)
+ - Is There Still Anything That Love Can Do? \(From "Weathering With You"\) \[Instrumental\]
+ - Kara No Kokoro \(From "Naruto Shippuden Opening 20"\) \[Instrumental\]
+ - Lit \(From "Koe No Katachi"\)
+ - Nandemonaiya \(From "Kimi No Na Wa"\)
+ - Realize \(From "Re: Zero \-Starting Life in Another World"\) \[Instrumental\]
+ - Sadness and Sorrow \(From "Naruto"\)
+ - Sangenshoku \(From "Dr. Stone"\)
  - Way Back Home \(Instrumental\)
- - We\'ll Be Alright \(From \"Weathering With You\"\) \[Instrumental\]
- - Wind \(From \"Naruto Ending 1\"\) \[Instrumental\]
+ - We'll Be Alright \(From "Weathering With You"\) \[Instrumental\]
+ - Wind \(From "Naruto Ending 1"\) \[Instrumental\]
 ## Ling tosite sigure
  - Abnormalize
 ## Linked Horizon
  - Akatsuki no Requiem \(TV Size\)
- - Guren no Yumiya Tv Size Ver\.
+ - Guren no Yumiya Tv Size Ver.
  - Jiyuu E No Shingeki
  - Rakuen Eno Shingeki
  - Shingeki no Kiseki
  - Shinjitsu eno Shingeki
- - Shinzo wo Sasageyo\! \(TV Size\)
+ - Shinzo wo Sasageyo! \(TV Size\)
  - Shoukei to Shikabane no Michi \[TV Size\]
 ## LiSA
- - Akai Wana \(Who Loves It\?\) \/ ADAMAS
+ - Akai Wana \(Who Loves It?\) / ADAMAS
  - Gurenge
  - LANDSPACE
  - LiSA Best \(Day\)
@@ -647,7 +647,7 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Little Glee Monster
  - Juice
 ## Lloyd Banks
- - Get Rich Or Die Tryin\'
+ - Get Rich Or Die Tryin'
 ## Lola Blanc
  - Oblivion
 ## Looking Glass
@@ -657,13 +657,13 @@ This file contains the list of all the songs that are currently added in the MDR
 ## lovelytheband
  - finding it hard to smile
 ## LSKR
- - Off Brand \(Unofficial JoJo\'s Bizarre Adventure Stone Ocean Original Soundtrack \(Jolyne Kujo\'s Theme\)
+ - Off Brand \(Unofficial JoJo's Bizarre Adventure Stone Ocean Original Soundtrack \(Jolyne Kujo's Theme\)
 ## Ludmilla
  - Lies
 ## Luna Haruna
  - Utamonogatari Special Edition \(Original Soundtrack\)
 ## LunchMoney Lewis
- - Greenlight \(feat\. Flo Rida \& LunchMoney Lewis\)
+ - Greenlight \(feat. Flo Rida & LunchMoney Lewis\)
 ## Machico
  - SOL
 ## Machine Gun Kelly
@@ -671,7 +671,7 @@ This file contains the list of all the songs that are currently added in the MDR
 ## MADKID
  - CIRCUS
 ## Mai Yamane
- - COWBOY BEBOP Tank\! the\! Best\!
+ - COWBOY BEBOP Tank! the! Best!
 ## Main Reaktor
  - Recession
 ## Maisy Kay
@@ -687,12 +687,12 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Mariye Ise
  - Deep In Abyss \(Made In Abyss OST\)
 ## Maroon 5
- - Don\'t Wanna Know
+ - Don't Wanna Know
  - Memories
 ## Marshmello
  - Alone
 ## Masako Iwanaga
- - 熱烈\!アニソン魂 ULTIMATEカバーシリーズ2017 JAPAN ANIMESONG COLLECTION vol\.54
+ - 熱烈!アニソン魂 ULTIMATEカバーシリーズ2017 JAPAN ANIMESONG COLLECTION vol.54
 ## Master Andross
  - The Velvet Lounge
 ## Max Frost
@@ -701,16 +701,16 @@ This file contains the list of all the songs that are currently added in the MDR
  - Bu\-ikikaesu
 ## MC Mota
  - Gunslinga
- - Rapture \(feat\. MC Mota\)
+ - Rapture \(feat. MC Mota\)
 ## MC Virgins
- - DEATH NOTE\?
- - Golden Wind\!
+ - DEATH NOTE?
+ - Golden Wind!
 ## MEGA NRG MAN
  - SUPER EUROBEAT presents INITIAL D DAVE RODGERS SELECTION
 ## Meme Station
  - Childish Flamingo
 ## Mendum
- - NCS\: Infinity
+ - NCS: Infinity
 ## Meron Ryan
  - Heavyweight
 ## Michael Giacchino
@@ -718,7 +718,7 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Mika Nakashima
  - Yuki No Hana 15th Anniversary Best Bible
 ## Mike Mago
- - The Days \/ Nights
+ - The Days / Nights
 ## Miki Matsubara
  - Miki Matsubara Best Collection
  - POCKET PARK \(Remastered\)
@@ -736,66 +736,66 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Missy Elliott
  - Sweetener
 ## Miura Jam
- - Long Shot \(Re\:Zero\)
- - Love Dramatic \(From \"Kaguya\-sama\: Love is War\"\)
+ - Long Shot \(Re:Zero\)
+ - Love Dramatic \(From "Kaguya\-sama: Love is War"\)
 ## Modernmadeit
  - Arabic Nokia Type Beat
 ## Monstercat
  - Monstercat 007 \- Solace
  - Monstercat 010 \- Conquest
  - Monstercat 016 \- Expedition
- - Monstercat Uncaged Vol\. 8
+ - Monstercat Uncaged Vol. 8
 ## Moona Hoshinova
  - 愛の小さな歌
 ## Mori Calliope
  - Cursed Night
  - DEAD BEATS
  - Off With Their Heads
- - Your Mori\.
+ - Your Mori.
  - 居場所
 ## Motoi Sakuraba
  - Dark Souls
-## Mr\. Nickelz
- - Free\, Vol\. 4
-## Mrs\. GREEN APPLE
+## Mr. Nickelz
+ - Free, Vol. 4
+## Mrs. GREEN APPLE
  - Attitude
-## Mumford \& Sons
+## Mumford & Sons
  - Delta
  - Sigh No More
  - Wilder Mind
-## Mumford \& Sons Feat\. Jerry Douglas \& Paul Simon
+## Mumford & Sons Feat. Jerry Douglas & Paul Simon
  - Babel
 ## Mutrix
  - Origins
-## MYTH \& ROID
- - MYTH \& ROID ベストアルバム\「MUSEUM\-THE BEST OF MYTH \& ROID\-\」
- - OPENING THEME FROM TV SERIES \”SHINCHO YUSHA\”
- - eYe\'s
-## N\.O\.\-SYO
+## MYTH & ROID
+ - MYTH & ROID ベストアルバム「MUSEUM\-THE BEST OF MYTH & ROID\-」
+ - OPENING THEME FROM TV SERIES ”SHINCHO YUSHA”
+ - eYe's
+## N.O.\-SYO
  - Exit Trance Presents Cm Trance
-## Namba Hi\-Tech Full On\'s
+## Namba Hi\-Tech Full On's
  - KASAI HARCORES2 ALL STAR
 ## Nanahira
  - Colory Starry
  - Confetti\-Box
  - EDM Extreme
- - GOIN\'\!
+ - GOIN'!
  - Love Chu
- - Love Chu\! 2
+ - Love Chu! 2
  - Meltical sugar wave
  - Midnight Future
  - Secretale
  - Wonder Trick
  - Xronial Xero
- - いんふぃにてぃ\・もふりてぃ\!
- - こ\゙ーいん\!
- - ふわもふはぴねす24\/7\!\!
- - りぷれい\!
- - トリップ\×フロリック
-## NARUZO MACHIO\(CV\:KAITO ISHIKAWA\)
- - TV SERIES \”DUMBBELL NAN\-KILO MOTERU\?\” OPENING THEME\「ONEGAI MUSCLE\」\/ENDING THEME\「MACHO ARE NAME\?\」
+ - いんふぃにてぃ・もふりてぃ!
+ - ごーいん!
+ - ふわもふはぴねす24/7!!
+ - りぷれい!
+ - トリップ×フロリック
+## NARUZO MACHIO\(CV:KAITO ISHIKAWA\)
+ - TV SERIES ”DUMBBELL NAN\-KILO MOTERU?” OPENING THEME「ONEGAI MUSCLE」/ENDING THEME「MACHO ARE NAME?」
 ## Natalia Natchan
- - Doom Crossing\: Eternal Horizons
+ - Doom Crossing: Eternal Horizons
 ## Nate Ruess
  - The Marshall Mathers LP2
 ## NAV
@@ -803,7 +803,7 @@ This file contains the list of all the songs that are currently added in the MDR
 ## nayuta
  - ななめが王国
 ## nekodex
- - circles\!
+ - circles!
 ## NGHTMRE
  - Sick Boy
 ## Nightcore
@@ -831,8 +831,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Brain Power
  - Cytus II\-Neko \(Original Soundtracks\)
 ## nonoc
- - TVアニメ\「Re\:ゼロから始める異世界生活\」2nd season 後期エンディングテーマ\「Believe in you\」
- - TVアニメ\「Re\:ゼロから始める異世界生活\」2nd seasonエンディングテーマ\「Memento\」
+ - TVアニメ「Re:ゼロから始める異世界生活」2nd season 後期エンディングテーマ「Believe in you」
+ - TVアニメ「Re:ゼロから始める異世界生活」2nd seasonエンディングテーマ「Memento」
 ## Nori
  - Lets Fly Away
 ## Notaker
@@ -840,10 +840,9 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Of Monsters And Men
  - Fever Dream
  - Live From Vatnagarðar
- - My Head Is An Animal
-## Of Monsters and Men
  - Live from Vatnagarðar
- - The Hunger Games\: Catching Fire 
+ - My Head Is An Animal
+ - The Hunger Games: Catching Fire 
 ## Omar LinX
  - Joytime
 ## OMFG
@@ -856,16 +855,16 @@ This file contains the list of all the songs that are currently added in the MDR
  - Native
 ## OxT
  - Hello New World
-## P\!nk
+## P!nk
  - Revival
 ## P\*Light
- - すりーぷ\!
+ - すりーぷ!
 ## PABLO
  - LEO\-NiNE
-## Panic\! At The Disco
- - A Fever You Can\'t Sweat Out
+## Panic! At The Disco
+ - A Fever You Can't Sweat Out
  - Pray for the Wicked
-## Panta\.Q
+## Panta.Q
  - Ignite \(Remixes\)
 ## Pegboard Nerds
  - Disconnected
@@ -883,11 +882,11 @@ This file contains the list of all the songs that are currently added in the MDR
  - Sunlight
 ## Phantom Sage
  - Crystal Clouds
-## Philly K\.
+## Philly K.
  - Savannah
 ## PHQUASE
  - Lop Step Rabbits
- - ばーさす\!
+ - ばーさす!
 ## Pink Floyd
  - The Wall
 ## Pixel Terror
@@ -898,9 +897,9 @@ This file contains the list of all the songs that are currently added in the MDR
  - Butterfly Effect
  - Melissa
 ## Post Malone
- - Spider\-Man\: Into the Spider\-Verse \(Soundtrack From \& Inspired by the Motion Picture\)
+ - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
 ## princess a la mode
- - 歌物語2 \-\〈物語\〉シリーズ主題歌集\-
+ - 歌物語2 \-〈物語〉シリーズ主題歌集\-
 ## Protostar
  - Galaxies
 ## Qaijff
@@ -913,18 +912,18 @@ This file contains the list of all the songs that are currently added in the MDR
  - Greatest Hits \- We Will Rock You Edition
  - Jazz \(Deluxe Remastered Version\)
  - Live At The Rainbow
- - Queen 40 Limited Edition Collector\'s Box Set
+ - Queen 40 Limited Edition Collector's Box Set
  - Queen On Air
  - Sheer Heart Attack \(2011 Remaster\)
  - The Game \(Deluxe Remastered Version\)
-## Queen \+ Paul Rodgers
+## Queen + Paul Rodgers
  - Stone Cold Classics
 ## QUEEN BEE
  - Fire \(Full Edition\)
 ## Rainych
  - Say So \(Japanese Version\)
-## Rats \& Star
- - All Time Rock \'n\' Roll
+## Rats & Star
+ - All Time Rock 'n' Roll
 ## Raya
  - Flames
 ## Razihel
@@ -937,9 +936,9 @@ This file contains the list of all the songs that are currently added in the MDR
  - Heroes
  - Puzzle
 ## Richie Kohan
- - Spider\-Man\: Into the Spider\-Verse \(Soundtrack From \& Inspired by the Motion Picture\)
+ - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
 ## Richmond Tang
- - Anime Songs \#1
+ - Anime Songs #1
 ## Rifti Beats
  - ANIME REMIXES
 ## Rihanna
@@ -948,25 +947,25 @@ This file contains the list of all the songs that are currently added in the MDR
  - Funky Flag
  - Love Dramatic
 ## RIKO AZUNA
- - Ending theme from TV anime series \”Cautious Hero\: The Hero Is Overpowered but Overly Cautious\”\”be perfect\, plz\!\”
+ - Ending theme from TV anime series ”Cautious Hero: The Hero Is Overpowered but Overly Cautious””be perfect, plz!”
 ## RIOT
  - Aiwa
  - Dogma Resistance
  - Overkill
- - You Don\'t Even Know Me
+ - You Don't Even Know Me
 ## Rivers Cuomo
  - The Click
 ## Robert Chen
- - Realize \(From \"Re\: Zero \-Starting Life in Another World\"\)
- - Tabibito no Uta \(From \"Mushoku Tensei\: Jobless Reincarnation\"\)
+ - Realize \(From "Re: Zero \-Starting Life in Another World"\)
+ - Tabibito no Uta \(From "Mushoku Tensei: Jobless Reincarnation"\)
 ## Rogue
- - Let\'s Talk
+ - Let's Talk
 ## Rome in Silver
  - Forever Flame
 ## Romix
  - Papermoon
  - 海底のオーケストラ
-## Royce Da 5\'9\"
+## Royce Da 5'9"
  - The Slim Shady LP
  - The Slim Shady LP \(Expanded Edition\)
 ## Rude\-α
@@ -976,27 +975,27 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Rupert Holmes
  - Partners In Crime
 ## RØRY
- - Try \(feat\. RØRY\)
+ - Try \(feat. RØRY\)
 ## sajou no hana
- - 99\.9
+ - 99.9
 ## Sakutasuke
- - TV Anime \" ACTORS \- Songs Connection \- \" Opening Theme \" Titania \"
+ - TV Anime " ACTORS \- Songs Connection \- " Opening Theme " Titania "
 ## Satsy
- - 熱烈\!アニソン魂 ULTIMATEカバーシリーズ2017 JAPAN ANIMESONG COLLECTION mini vol\.4
+ - 熱烈!アニソン魂 ULTIMATEカバーシリーズ2017 JAPAN ANIMESONG COLLECTION mini vol.4
 ## Savage Garden
  - Savage Garden
-## SawanoHiroyuki\[nZk\]\:Gemie\&Tielle
- - Chaos Drifters \/ CRY
-## SawanoHiroyuki\[nZk\]\:mizuki
- - A\/Z \| aLIEz
+## SawanoHiroyuki\[nZk\]:Gemie&Tielle
+ - Chaos Drifters / CRY
+## SawanoHiroyuki\[nZk\]:mizuki
+ - A/Z | aLIEz
 ## Scorpions
  - Love At First Sting
 ## SEUNGRI
  - Ignite
 ## Seventh Sage
  - Baka Mitai
- - Giorno\'s Theme
- - Kira\'s Theme
+ - Giorno's Theme
+ - Kira's Theme
  - Plastic JoJo
  - Shining Justice
  - Torture Dance \(Canzoni Preferite\)
@@ -1012,7 +1011,7 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Shiro Sagisu
  - Neon Genesis Evangelion \(Original Series Soundtrack\)
 ## Shoko Nakagawa
- - Big Bang\!\!\!
+ - Big Bang!!!
  - Magic Time
 ## Shoujy
  - Hacking to the Gate
@@ -1038,18 +1037,18 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Smash Mouth
  - Astro Lounge
 ## Sonita Alizadeh
- - SAMURAI SESSIONS vol\.2
+ - SAMURAI SESSIONS vol.2
 ## Sophia Somajo
  - Different World
 ## Spektrem
  - Shine
- - Shine \(Gabriel Drew \& Bloom Remix\)
+ - Shine \(Gabriel Drew & Bloom Remix\)
 ## Stahl
  - Moments
 ## Stasia Estep
  - Warrior Songs
 ## stei
- - STEAL\!\!
+ - STEAL!!
 ## Stephen Walking
  - Monstercat 012 \- Aftermath
 ## STEREO DIVE FOUNDATION
@@ -1057,12 +1056,12 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Steve Aoki
  - Just Hold On
 ## Steve Hansen
- - Memento \(From \"Re\:Zero Season 2\"\)
+ - Memento \(From "Re:Zero Season 2"\)
 ## Stewart Wallace
  - Future Vibes
 ## Stray Kids
- - SLUMP \-Japanese ver\.\-
- - TOP \-Japanese ver\.\-
+ - SLUMP \-Japanese ver.\-
+ - TOP \-Japanese ver.\-
 ## Subtact
  - Away
 ## Sukima Switch
@@ -1072,17 +1071,17 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Survive Said The Prophet
  - Mukanjyo
 ## Swae Lee
- - Close To Me \(feat\. Swae Lee\)
+ - Close To Me \(feat. Swae Lee\)
 ## Sweet
  - Best Of Sweet
  - Desolation Boulevard
 ## Syn Cole
  - Feel Good
 ## Synergy
- - The Wall \(Buunshin Remix\) \/ If U \(Synergy Remix\)
+ - The Wall \(Buunshin Remix\) / If U \(Synergy Remix\)
 ## Synthesia Orchestra
- - Komm\, süsser Tod \/ Ven\, dulce muerte
-## t\+pazolite
+ - Komm, süsser Tod / Ven, dulce muerte
+## t+pazolite
  - HYPER4ID
 ## Takanashi Kiara
  - HINOTORI
@@ -1090,24 +1089,24 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Takayoshi Tanimoto
  - Career along
 ## Taku Iwasaki
- - JOJO\'S BIZARRE ADVENTURE \-O\.S\.T Battle Tendency \[Musik\]
+ - JOJO'S BIZARRE ADVENTURE \-O.S.T Battle Tendency \[Musik\]
 ## Tammi Terrell
- - Guardians of the Galaxy\: Awesome Mix Vol\. 1 \(Original Motion Picture Soundtrack\)
+ - Guardians of the Galaxy: Awesome Mix Vol. 1 \(Original Motion Picture Soundtrack\)
  - United
 ## Teminite
  - Kiko
  - Unstoppable EP
 ## The Band Perry
- - Goodbye Yellow Brick Road \(Remastered \/ Deluxe Edition\)
+ - Goodbye Yellow Brick Road \(Remastered / Deluxe Edition\)
 ## The Beatles
  - 1 \(Remastered\)
 ## The Chainsmokers
  - All We Know
  - Setting Fires
  - This Feeling \(Single\)
-## The Chainsmokers \& Coldplay
- - Memories\.\.\.Do Not Open
-## The Chainsmokers\/Rozes
+## The Chainsmokers & Coldplay
+ - Memories...Do Not Open
+## The Chainsmokers/Rozes
  - Roses
 ## The Clash
  - Combat Rock \(Remastered\)
@@ -1122,10 +1121,10 @@ This file contains the list of all the songs that are currently added in the MDR
  - III
  - The Lumineers
 ## The Marcus Hedges Trend Orchestra
- - Ultra Instinct Mastered \(From \"Dragon Ball Super\"\)
-## The Notorious B\.I\.G\.
+ - Ultra Instinct Mastered \(From "Dragon Ball Super"\)
+## The Notorious B.I.G.
  - Curtain Call \(Deluxe\)
- - Curtain Call\: The Hits \(Deluxe Edition\)
+ - Curtain Call: The Hits \(Deluxe Edition\)
 ## THE ORAL CIGARETTES
  - FIXION
 ## the peggies
@@ -1134,7 +1133,7 @@ This file contains the list of all the songs that are currently added in the MDR
 ## The Runaways
  - The Runaways
 ## The Spinners
- - The Rubberband Man \/ Now That We\'re Together \[Digital 45\]
+ - The Rubberband Man / Now That We're Together \[Digital 45\]
 ## The White Stripes
  - Elephant
 ## THEATRE BROOK
@@ -1184,9 +1183,9 @@ This file contains the list of all the songs that are currently added in the MDR
  - HYPE
  - MOSHI
  - PLAY
- - Rocket League x Monstercat Vol\. 1
+ - Rocket League x Monstercat Vol. 1
 ## Tones And I
- - Dance Monkey \(Stripped Back\) \/ Dance Monkey
+ - Dance Monkey \(Stripped Back\) / Dance Monkey
 ## Tony Igy
  - Astronomia
 ## TORIENA
@@ -1197,11 +1196,11 @@ This file contains the list of all the songs that are currently added in the MDR
  - ASTROWORLD
 ## Tristam
  - Razor Sharp
-## Tsuko G\.
+## Tsuko G.
  - Deja Vu \(Initial D\)
 ## Twenty One Pilots
  - Blurryface
- - Jumpsuit \/ Nico And The Niners
+ - Jumpsuit / Nico And The Niners
  - My Blood And A Few Others From Trench
  - Trench
 ## Tyler Fiore
@@ -1214,8 +1213,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Touch off
  - UNSER
 ## Vantage
- - J\-Funk City \: Vantage\'s Edits Collection
-## Varien \& 7 Minutes Dead
+ - J\-Funk City : Vantage's Edits Collection
+## Varien & 7 Minutes Dead
  - Mirai Sekai
 ## Veorra
  - Ruby
@@ -1226,9 +1225,9 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Victor Borba
  - Bury the Light
 ## Vindata
- - Good 4 Me \/ Union
+ - Good 4 Me / Union
 ## VitaminMer
- - Everybody\'s Circulation
+ - Everybody's Circulation
 ## Voicians
  - Seconds
 ## Warbly Jets
@@ -1236,17 +1235,17 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Warptech
  - Last Summer
 ## Waylon Reavis
- - Beat Saber \(Original Game Soundtrack\)\, Vol\. IV
+ - Beat Saber \(Original Game Soundtrack\), Vol. IV
 ## Waysons
  - Daydream
  - Eternal Minds
  - Running
-## We\.B
- - Bloody Stream \(From \"Jojo\'s Bizarre Adventure\: Battle Tendency\"\)
- - Dragon Soul \(From \"Dragon Ball Z Kai\"\)
- - Limit Break X Survivor \(From \"Dragon Ball Super\"\)
- - Traitor\'s Requiem \(From \"Jojo\'s Bizarre Adventure\: Golden Wind\"\)
- - Ultimate Battle \- Ka Ka Kachi Daze \(From \"Dragon Ball Super\"\)
+## We.B
+ - Bloody Stream \(From "Jojo's Bizarre Adventure: Battle Tendency"\)
+ - Dragon Soul \(From "Dragon Ball Z Kai"\)
+ - Limit Break X Survivor \(From "Dragon Ball Super"\)
+ - Traitor's Requiem \(From "Jojo's Bizarre Adventure: Golden Wind"\)
+ - Ultimate Battle \- Ka Ka Kachi Daze \(From "Dragon Ball Super"\)
 ## Ween
  - The Mollusk
 ## Weezer
@@ -1257,12 +1256,12 @@ This file contains the list of all the songs that are currently added in the MDR
  - Return to the Sauce
 ## XI
  - Parousia
-## Y\&V
+## Y&V
  - Back In Time
 ## yama
  - Sleeping town
 ## Yeah Yeah Yeahs
- - It\'s Blitz\! \(Deluxe Edition\)
+ - It's Blitz! \(Deluxe Edition\)
 ## Yes
  - Fragile
  - Fragile \(Deluxe Edition\)
@@ -1271,18 +1270,18 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Yoko Hikasa
  - Utsukushiki Zankokuna Sekai
 ## Yoshihisa Hirano
- - HUNTER\×HUNTER セレクト\×ベスト\×α
+ - HUNTER×HUNTER セレクト×ベスト×α
 ## YoungBoy Never Broke Again
  - The Bigger Artist
 ## Yugo Kanno
- - JOJO\'S BIZARRE ADVENTURE \-Diamond is unbreakable O\.S\.T Vol\.1 \-Good Morning Morioh Cho\- Music by Yugo Kanno
- - JOJO\'S BIZARRE ADVENTURE \-Diamond is unbreakable O\.S\.T Vol\.2 \-Good Night Morioh Cho\- Music by Yugo Kanno
- - JOJO\'S BIZARRE ADVENTURE \-Golden Wind O\.S\.T vol\.1 Overture
- - JOJO\'S BIZARRE ADVENTURE \-Golden Wind O\.S\.T vol\.3 Finare
- - JOJO\'S BIZARRE ADVENTURE \-Stardust Crusaders O\.S\.T \[Departure\]
- - JOJO\'S BIZARRE ADVENTURE \-Stardust Crusaders O\.S\.T \[Destination\]
- - ジョジョの奇妙な冒険 スターダストクルセイダース O\.S\.T\. \[Departure\]
- - ジョジョの奇妙な冒険 黄金の風 O\.S\.T \(vol\.1 Overture\)
+ - JOJO'S BIZARRE ADVENTURE \-Diamond is unbreakable O.S.T Vol.1 \-Good Morning Morioh Cho\- Music by Yugo Kanno
+ - JOJO'S BIZARRE ADVENTURE \-Diamond is unbreakable O.S.T Vol.2 \-Good Night Morioh Cho\- Music by Yugo Kanno
+ - JOJO'S BIZARRE ADVENTURE \-Golden Wind O.S.T vol.1 Overture
+ - JOJO'S BIZARRE ADVENTURE \-Golden Wind O.S.T vol.3 Finare
+ - JOJO'S BIZARRE ADVENTURE \-Stardust Crusaders O.S.T \[Departure\]
+ - JOJO'S BIZARRE ADVENTURE \-Stardust Crusaders O.S.T \[Destination\]
+ - ジョジョの奇妙な冒険 スターダストクルセイダース O.S.T. \[Departure\]
+ - ジョジョの奇妙な冒険 黄金の風 O.S.T \(vol.1 Overture\)
 ## YUI
  - HOLIDAYS IN THE SUN
 ## YUI for 雨音 薫
@@ -1291,7 +1290,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - MIND HACK
 ## Yun Head
  - Trap Anthem
-## Yusuf \/ Cat Stevens
+## Yusuf / Cat Stevens
  - Tea for the Tillerman
 ## Zaza
  - Be Together
@@ -1301,69 +1300,69 @@ This file contains the list of all the songs that are currently added in the MDR
  - Ark
 ## ぁゅ
  - Voltage Ignition 2
-## かめりあ as \"Bang Riot\"
+## かめりあ as "Bang Riot"
  - GALAXY BURST
 ## さくらみこ
- - さくら色ハイテンション\!
+ - さくら色ハイテンション!
  - サクラカゼ
 ## ももすももす
  - アネクドット
-## アキ\・ローゼンタール
+## アキ・ローゼンタール
  - シャルイース
  - ヒロインオーディション
 ## ハセガワダイスケ
  - Great Days
- - Uragirimonono Requiem \(English Ver\.\)
+ - Uragirimonono Requiem \(English Ver.\)
 ## ボインゴ
- - Akuyaku Kyousoukyoku \- Oingo\&Boingo \(TV edit\)
-## ユミコ\/なかにし鈴子
- - JAPAN ANIMESONG COLLECTION VOL\.28 \[アニソン\・ジャパン\]
+ - Akuyaku Kyousoukyoku \- Oingo&Boingo \(TV edit\)
+## ユミコ/なかにし鈴子
+ - JAPAN ANIMESONG COLLECTION VOL.28 \[アニソン・ジャパン\]
 ## 不知火フレア
- - Smile \& Go\!\!
+ - Smile & Go!!
 ## 兎田ぺこら
- - ぺこらんだむぶれいん\!
+ - ぺこらんだむぶれいん!
 ## 前島麻由
  - From Dream And You
- - TVアニメ\「Re\:ゼロから始める異世界生活\」2nd season 後期オープニングテーマ\「Long shot\」
+ - TVアニメ「Re:ゼロから始める異世界生活」2nd season 後期オープニングテーマ「Long shot」
 ## 大原ゆい子
  - オンリー
  - 旅人の唄
 ## 妖精帝國
  - PAX VESANIA
 ## 安月名莉子
- - OVA\「Re\:ゼロから始める異世界生活 Memory Snow\」Memory Album
+ - OVA「Re:ゼロから始める異世界生活 Memory Snow」Memory Album
 ## 宝鐘マリン
- - Ahoy\!\! 我ら宝鐘海賊団\☆
+ - Ahoy!! 我ら宝鐘海賊団☆
 ## 小紺ココ
- - LOP STEP RABBITS\!
+ - LOP STEP RABBITS!
 ## 常闇トワ
  - Palette
 ## 庄司 英徳
- - 龍が如く5 夢\、叶えし者 オリジナルサウンドトラック \(Vol\.2\)
+ - 龍が如く5 夢、叶えし者 オリジナルサウンドトラック \(Vol.2\)
 ## 彩音
- - STEINS\;GATE SYMPHONIC REUNION
-## 影森みちる\(CV\:諸星すみれ\)\、Shin Sakiura feat\. AAAMYY\、日渡なずな\(CV\:長縄まりあ\)\、mabanua
- - アニメ\『BNA ビー\・エヌ\・エー\』Complete album
+ - STEINS;GATE SYMPHONIC REUNION
+## 影森みちる\(CV:諸星すみれ\)、Shin Sakiura feat. AAAMYY、日渡なずな\(CV:長縄まりあ\)、mabanua
+ - アニメ『BNA ビー・エヌ・エー』Complete album
 ## 星街すいせい
  - NEXT COLOR PLANET
 ## 桃鈴ねね
- - ねねねねねねねね\!大爆走
-## 武笠美姫 \(CV\: 宮下早紀\)\、高屋敷綾 \(CV\: 高野麻里佳\)\、大野翠 \(CV\: 富田美憂\)
- - TVアニメ\「放課後さいころ倶楽部\」エンディング\・テーマ \「On the Board\」
+ - ねねねねねねねね!大爆走
+## 武笠美姫 \(CV: 宮下早紀\)、高屋敷綾 \(CV: 高野麻里佳\)、大野翠 \(CV: 富田美憂\)
+ - TVアニメ「放課後さいころ倶楽部」エンディング・テーマ 「On the Board」
 ## 池田 エライザ
  - Bootleg
 ## 河野 マリナ
  - Otorimonogatari Gekihanongakushu \(Original Soundtrack\)
 ## 湊あくあ
- - \#あくあ色ぱれっと
-## 湊あくあ\・大空スバル\・兎田ぺこら
+ - #あくあ色ぱれっと
+## 湊あくあ・大空スバル・兎田ぺこら
  - Hacha\-Mecha ミラクル
 ## 潤羽るしあ
  - アイリス
 ## 猫又おかゆ
- - もぐもぐYUMMY\!
+ - もぐもぐYUMMY!
 ## 白上フブキ
- - Say\!ファンファーレ\!
+ - Say!ファンファーレ!
 ## 真山りか
  - Liar Mask
 ## 美波
@@ -1376,4 +1375,3 @@ This file contains the list of all the songs that are currently added in the MDR
  - 龍が如く極 オリジナルサウンドトラック
 ## 須田景凪
  - porte
-## Unknown Artist
