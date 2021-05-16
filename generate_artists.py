@@ -1,3 +1,7 @@
+"""
+Use environment variable: `ESCAPE_ALL` to escape all symbols
+                 Default: escape only those symbols which can affect markdown formatting
+"""
 import logging
 import os
 import pprint
@@ -49,7 +53,7 @@ def escape(string: str):
     """
     escaped_string = ""
     for letter in string:
-        if not letter.isalnum() and letter != " ":
+        if not letter.isalnum() and letter != " " and (os.getenv("ESCAPE_ALL", False) or letter in "`*_-<>[]()\\"):
             logger.debug("escaping: %s \t %s", letter, string)
             escaped_string += rf"\{letter}"
         else:
