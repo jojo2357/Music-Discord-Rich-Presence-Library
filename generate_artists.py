@@ -2,7 +2,7 @@ import logging
 import os
 import pprint
 from os.path import join, isfile
-from typing import Tuple, Dict
+from typing import Tuple, Dict, TypeVar
 
 
 def find_all_dat_files():
@@ -57,6 +57,33 @@ def escape(string: str):
     return escaped_string
 
 
+class CaseInsensitiveDictionary(dict):
+    pass
+
+    _KT = TypeVar("_KT")
+    _VT = TypeVar("_VT")
+
+    def __getitem__(self, item):
+        for key in self.keys():
+            if key.lower() == item.lower():
+                return super().__getitem__(key)
+
+    def __contains__(self, item):
+        all_keys_lower = map(lambda key: key.lower(), self.keys())
+        if item.lower() in all_keys_lower:
+            return True
+        else:
+            return False
+
+    def setdefault(self, __key: _KT, __default: _VT = ...) -> _VT:
+        for key in self.keys():
+            if key.lower() == __key.lower():
+                return self[key]
+        else:
+            self[__key] = __default
+            return __default
+
+
 if __name__ == '__main__':
     # Test prints
     # print(find_all_dat_files())
@@ -74,7 +101,7 @@ if __name__ == '__main__':
     # Get a list of all the dat files
     ALL_FILES = find_all_dat_files()
 
-    ALL_ALBUMS_WITH_ARTISTS: Dict[str, list] = {"Unknown Artist": []}
+    ALL_ALBUMS_WITH_ARTISTS: Dict[str, list] = CaseInsensitiveDictionary([("Unknown Artist", [])])
     stat_counter = {"total_songs": 0}
     # Go through each file.
     for dat_file in ALL_FILES:
