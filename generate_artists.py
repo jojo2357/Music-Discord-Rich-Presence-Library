@@ -56,7 +56,7 @@ def escape(string: str):
     """
     escaped_string = ""
     for letter in string:
-        if not letter.isalnum() and letter != " " and (os.getenv("ESCAPE_ALL", False) or letter in "`*_-<>[]()\\"):
+        if not letter.isalnum() and letter != " " and (os.getenv("ESCAPE_ALL", False) or letter in "~`*_-<>[]()\\"):
             logger.debug("escaping: %s \t %s", letter, string)
             escaped_string += rf"\{letter}"
         else:
