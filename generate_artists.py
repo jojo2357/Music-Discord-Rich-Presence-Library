@@ -5,8 +5,11 @@ Use environment variable: `ESCAPE_ALL` to escape all symbols
 import logging
 import os
 import pprint
+import time
 from os.path import join, isfile
 from typing import Tuple, Dict, TypeVar
+
+import requests
 
 
 def find_all_dat_files():
@@ -37,7 +40,7 @@ def get_album_and_artist(line: str) -> Tuple[str, str]:
     if len(splitted) == 2:
         artist = "Unknown Artist"
     else:
-        artist = splitted[-1].strip("\n")
+        artist = find_multiple_artists(splitted[-1].strip("\n"))
 
     # Setting the album name
     album = splitted[0]
@@ -59,6 +62,76 @@ def escape(string: str):
         else:
             escaped_string += letter
     return escaped_string
+
+
+def download_artist_exceptions_list() -> tuple:
+    # Download the list of artists with a forward slash
+    ARTISTS_WITH_SLASH = tuple()
+    tries = 0
+    while (tries := tries + 1) <= 3:
+        try:
+            ARTISTS_WITH_SLASH = requests.get(
+                    "https://gist.githubusercontent.com/RoguedBear/b0c7028c6ca194f01218d3281644bbc0"
+                    "/raw/bc4010c7fbfe3ec4fdf0e7af2adf81864a16ce14/artists.txt").text.split("\n")
+        except Exception as e:
+            logger.exception(e)
+            logger.warning("Unable to download artist list! giving %d more tries", 4 - tries)
+            time.sleep(30)
+        else:
+            logger.info("Artist list downloaded. Total artist on the list: %d", len(ARTISTS_WITH_SLASH))
+            break
+    else:
+        logger.warning("Continuing w/o the artist list.")
+
+    return tuple(ARTISTS_WITH_SLASH)
+
+
+def find_multiple_artists(artist_string: str, artist_with_slash=tuple()) -> tuple:
+    """
+    From a given string, return the multiple artists that are present splitted by a forward slash
+    by being mindful of the artists that have an forward slash in their names ofc.
+
+    # Pseudocode:
+        - go through every exception artist and check whether they exist in the string or not
+        - if they do, well we have one artist to add. just make sure they're as a single word.
+        - remove them from the string.
+    :param artist_with_slash: optional argument to provide the list for testing purpose
+    :param artist_string: the artist string
+    :return: a tuple containing all the artists present in the string
+    """
+    artist_string_og = artist_string[:]
+    ARTISTS_WITH_SLASH = globals().get("ARTISTS_WITH_SLASH", []) or artist_with_slash
+    found_artists = []
+    artist_string_search = list(map(lambda x: x.lower(), (artist_string := artist_string.split("/"))))
+    for slash_artist in ARTISTS_WITH_SLASH:
+        # split the artist by forward slash
+        # get its index.
+        # check whether the next letter is the same as in the exception
+        # do this for as many items in the forward slash artist list.
+        # if we get by the end, the artist is matched. otherwise no.
+        prev_index = float("NaN")
+        for part_of_name in (slash_artist_list := slash_artist.split("/")):
+            # Check if part of name exists in the list and it comes right after the previous one
+            if part_of_name.lower() not in artist_string_search and (
+                    prev_index == float("NaN") or prev_index + 1 != slash_artist.index(part_of_name)):
+                break
+            else:
+                prev_index = slash_artist.index(part_of_name)
+        else:
+            # Get the first occurring index of the artist
+            first_occurrence_index = artist_string_search.index(slash_artist_list[0].lower())
+            # then pop it to remove it from the artist_string list
+            found_artists.append("/".join(artist_string.pop(first_occurrence_index)
+                                          for _ in range(len(slash_artist_list))))
+            artist_string_search = list(map(lambda x: x.lower(), artist_string))
+            logger.info("Found / artist: %s", found_artists[-1])
+            print("Found / artist: ", found_artists[-1])
+
+    found_artists.extend(artist_string)
+    if len(found_artists) > 1:
+        logger.info("Artist \"%s\" extracted to -> \"%s\"", str(artist_string_og), str(found_artists))
+
+    return tuple(found_artists)
 
 
 class CaseInsensitiveDictionary(dict):
@@ -105,6 +178,9 @@ if __name__ == '__main__':
     # Get a list of all the dat files
     ALL_FILES = find_all_dat_files()
 
+    # Download the artists list
+    ARTISTS_WITH_SLASH = download_artist_exceptions_list()
+
     ALL_ALBUMS_WITH_ARTISTS: Dict[str, list] = CaseInsensitiveDictionary([("Unknown Artist", [])])
     stat_counter = {"total_songs": 0}
     # Go through each file.
@@ -116,11 +192,12 @@ if __name__ == '__main__':
 
             # Now go through each entry and store it in master dictionary
             for album_entry in f:
-                album, artist = get_album_and_artist(album_entry)
+                album, artist_tuple = get_album_and_artist(album_entry)
                 # Check if the album's entry for artist exists or not to avoid double entry
-                if album not in ALL_ALBUMS_WITH_ARTISTS.setdefault(artist, []):
-                    ALL_ALBUMS_WITH_ARTISTS[artist].append(album)
-                    stat_counter["total_songs"] += 1
+                for artist in artist_tuple:
+                    if album not in ALL_ALBUMS_WITH_ARTISTS.setdefault(artist, []):
+                        ALL_ALBUMS_WITH_ARTISTS[artist].append(album)
+                        stat_counter["total_songs"] += 1
     logger.debug(pprint.pformat(ALL_ALBUMS_WITH_ARTISTS))
 
     logger.info("Found and added %d songs", stat_counter["total_songs"])
