@@ -2,6 +2,8 @@
 This file contains the list of all the songs that are currently added in the MDRP discord applications.
 
 ---
+##  Cat Stevens
+ - Tea for the Tillerman
 ## \(K\)NoW\_NAME
  - TVアニメ「ドロヘドロ」EDテーマソングアルバム「混沌の中で踊れ」
  - TVアニメ「ドロヘドロ」オープニングテーマ「Welcome トゥ 混沌」
@@ -50,6 +52,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - Fade
  - Faded
  - Force
+ - Play
  - Spectre
  - The Spectre
 ## Alec Benjamin
@@ -94,6 +97,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - Chosen
 ## Anne\-Marie
  - FRIENDS
+ - ~how i'm feeling~
 ## Anthony Rocco
  - Defy Gravity
 ## Aoife Fhearraigh
@@ -331,7 +335,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - Summersong 2018
  - Vision
  - Vitality
-## Ellie Goulding/Lauv
+## Ellie Goulding
  - Slow Grenade
 ## Elton John
  - Curtain Call: The Hits
@@ -533,7 +537,6 @@ This file contains the list of all the songs that are currently added in the MDR
 ## K\-391
  - Earth
  - End of Time
-## K\-391/Alan Walker/Tungevaag/Mangoo
  - Play
 ## Kameron
  - Live Fast \(PUBGM\)
@@ -569,7 +572,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - Gold / YES
 ## Kumi Koda
  - DNA
-## Kygo/Selena Gomez
+## Kygo
  - It Ain't Me
 ## Kyoresu
  - Soviet Loli Anthem
@@ -596,9 +599,6 @@ This file contains the list of all the songs that are currently added in the MDR
  - I met you when I was 18. \(the playlist\)
  - Slow Grenade
  - There's No Way
-## Lauv/Anne\-Marie
- - ~how i'm feeling~
-## Lauv/Sofia Reyes
  - ~how i'm feeling~
 ## LAY
  - Sheep \(Alan Walker Relift\)
@@ -968,6 +968,8 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Royce Da 5'9"
  - The Slim Shady LP
  - The Slim Shady LP \(Expanded Edition\)
+## Rozes
+ - Roses
 ## Rude\-α
  - LIFE
 ## Ruelle
@@ -990,6 +992,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - A/Z | aLIEz
 ## Scorpions
  - Love At First Sting
+## Selena Gomez
+ - It Ain't Me
 ## SEUNGRI
  - Ignite
 ## Seventh Sage
@@ -1036,6 +1040,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - All I Need
 ## Smash Mouth
  - Astro Lounge
+## Sofia Reyes
+ - ~how i'm feeling~
 ## Sonita Alizadeh
  - SAMURAI SESSIONS vol.2
 ## Sophia Somajo
@@ -1102,12 +1108,11 @@ This file contains the list of all the songs that are currently added in the MDR
  - 1 \(Remastered\)
 ## The Chainsmokers
  - All We Know
+ - Roses
  - Setting Fires
  - This Feeling \(Single\)
 ## The Chainsmokers & Coldplay
  - Memories...Do Not Open
-## The Chainsmokers/Rozes
- - Roses
 ## The Clash
  - Combat Rock \(Remastered\)
 ## THE DU
@@ -1198,6 +1203,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Razor Sharp
 ## Tsuko G.
  - Deja Vu \(Initial D\)
+## Tungevaag
+ - Play
 ## Twenty One Pilots
  - Blurryface
  - Jumpsuit / Nico And The Niners
@@ -1290,7 +1297,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - MIND HACK
 ## Yun Head
  - Trap Anthem
-## Yusuf / Cat Stevens
+## Yusuf 
  - Tea for the Tillerman
 ## Zaza
  - Be Together
@@ -1305,6 +1312,8 @@ This file contains the list of all the songs that are currently added in the MDR
 ## さくらみこ
  - さくら色ハイテンション!
  - サクラカゼ
+## なかにし鈴子
+ - JAPAN ANIMESONG COLLECTION VOL.28 \[アニソン・ジャパン\]
 ## ももすももす
  - アネクドット
 ## アキ・ローゼンタール
@@ -1315,7 +1324,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - Uragirimonono Requiem \(English Ver.\)
 ## ボインゴ
  - Akuyaku Kyousoukyoku \- Oingo&Boingo \(TV edit\)
-## ユミコ/なかにし鈴子
+## ユミコ
  - JAPAN ANIMESONG COLLECTION VOL.28 \[アニソン・ジャパン\]
 ## 不知火フレア
  - Smile & Go!!

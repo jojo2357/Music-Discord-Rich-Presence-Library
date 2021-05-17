@@ -1,3 +1,7 @@
+⁕  Cat Stevens
+	 • Tea for the Tillerman
+
+
 ⁕ (K)NoW_NAME
 	 • TVアニメ「ドロヘドロ」EDテーマソングアルバム「混沌の中で踊れ」
 	 • TVアニメ「ドロヘドロ」オープニングテーマ「Welcome トゥ 混沌」
@@ -80,6 +84,7 @@
 	 • Fade
 	 • Faded
 	 • Force
+	 • Play
 	 • Spectre
 	 • The Spectre
 
@@ -158,6 +163,7 @@
 
 ⁕ Anne-Marie
 	 • FRIENDS
+	 • ~how i'm feeling~
 
 
 ⁕ Anthony Rocco
@@ -585,7 +591,7 @@
 	 • Vitality
 
 
-⁕ Ellie Goulding/Lauv
+⁕ Ellie Goulding
 	 • Slow Grenade
 
 
@@ -931,9 +937,6 @@
 ⁕ K-391
 	 • Earth
 	 • End of Time
-
-
-⁕ K-391/Alan Walker/Tungevaag/Mangoo
 	 • Play
 
 
@@ -1001,7 +1004,7 @@
 	 • DNA
 
 
-⁕ Kygo/Selena Gomez
+⁕ Kygo
 	 • It Ain't Me
 
 
@@ -1044,13 +1047,6 @@
 	 • I met you when I was 18. (the playlist)
 	 • Slow Grenade
 	 • There's No Way
-
-
-⁕ Lauv/Anne-Marie
-	 • ~how i'm feeling~
-
-
-⁕ Lauv/Sofia Reyes
 	 • ~how i'm feeling~
 
 
@@ -1684,6 +1680,10 @@
 	 • The Slim Shady LP (Expanded Edition)
 
 
+⁕ Rozes
+	 • Roses
+
+
 ⁕ Rude-α
 	 • LIFE
 
@@ -1726,6 +1726,10 @@
 
 ⁕ Scorpions
 	 • Love At First Sting
+
+
+⁕ Selena Gomez
+	 • It Ain't Me
 
 
 ⁕ SEUNGRI
@@ -1808,6 +1812,10 @@
 
 ⁕ Smash Mouth
 	 • Astro Lounge
+
+
+⁕ Sofia Reyes
+	 • ~how i'm feeling~
 
 
 ⁕ Sonita Alizadeh
@@ -1934,16 +1942,13 @@
 
 ⁕ The Chainsmokers
 	 • All We Know
+	 • Roses
 	 • Setting Fires
 	 • This Feeling (Single)
 
 
 ⁕ The Chainsmokers & Coldplay
 	 • Memories...Do Not Open
-
-
-⁕ The Chainsmokers/Rozes
-	 • Roses
 
 
 ⁕ The Clash
@@ -2090,6 +2095,10 @@
 
 ⁕ Tsuko G.
 	 • Deja Vu (Initial D)
+
+
+⁕ Tungevaag
+	 • Play
 
 
 ⁕ Twenty One Pilots
@@ -2254,7 +2263,7 @@
 	 • Trap Anthem
 
 
-⁕ Yusuf / Cat Stevens
+⁕ Yusuf 
 	 • Tea for the Tillerman
 
 
@@ -2283,6 +2292,10 @@
 	 • サクラカゼ
 
 
+⁕ なかにし鈴子
+	 • JAPAN ANIMESONG COLLECTION VOL.28 [アニソン・ジャパン]
+
+
 ⁕ ももすももす
 	 • アネクドット
 
@@ -2301,7 +2314,7 @@
 	 • Akuyaku Kyousoukyoku - Oingo&Boingo (TV edit)
 
 
-⁕ ユミコ/なかにし鈴子
+⁕ ユミコ
 	 • JAPAN ANIMESONG COLLECTION VOL.28 [アニソン・ジャパン]
 
 
