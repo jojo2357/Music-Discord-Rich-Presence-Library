@@ -97,7 +97,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - Chosen
 ## Anne\-Marie
  - FRIENDS
- - ~how i'm feeling~
+ - \~how i'm feeling\~
 ## Anthony Rocco
  - Defy Gravity
 ## Aoife Fhearraigh
@@ -525,7 +525,7 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Jonth
  - Game Time
 ## JO☆STARS 〜TOMMY,Coda,JIN〜
- - JoJo Sonochino Kioku~end of THE WORLD~
+ - JoJo Sonochino Kioku\~end of THE WORLD\~
 ## JPB
  - High
 ## Julia Michaels
@@ -599,7 +599,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - I met you when I was 18. \(the playlist\)
  - Slow Grenade
  - There's No Way
- - ~how i'm feeling~
+ - \~how i'm feeling\~
 ## LAY
  - Sheep \(Alan Walker Relift\)
 ## Le Castle Vania
@@ -1041,7 +1041,7 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Smash Mouth
  - Astro Lounge
 ## Sofia Reyes
- - ~how i'm feeling~
+ - \~how i'm feeling\~
 ## Sonita Alizadeh
  - SAMURAI SESSIONS vol.2
 ## Sophia Somajo
