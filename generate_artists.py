@@ -71,8 +71,7 @@ def download_artist_exceptions_list() -> tuple:
     while (tries := tries + 1) <= 3:
         try:
             ARTISTS_WITH_SLASH = requests.get(
-                "https://gist.githubusercontent.com/RoguedBear/b0c7028c6ca194f01218d3281644bbc0"
-                "/raw/bc4010c7fbfe3ec4fdf0e7af2adf81864a16ce14/artists.txt").text.split("\n")
+                "https://gist.githubusercontent.com/RoguedBear/b0c7028c6ca194f01218d3281644bbc0/raw/").text.split("\n")
         except Exception as e:
             logger.exception(e)
             logger.warning("Unable to download artist list! giving %d more tries", 4 - tries)
