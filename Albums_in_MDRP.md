@@ -2,8 +2,6 @@
 This file contains the list of all the songs that are currently added in the MDRP discord applications.
 
 ---
-##  Cat Stevens
- - Tea for the Tillerman
 ## \(K\)NoW\_NAME
  - TVアニメ「ドロヘドロ」EDテーマソングアルバム「混沌の中で踊れ」
  - TVアニメ「ドロヘドロ」オープニングテーマ「Welcome トゥ 混沌」
@@ -1297,7 +1295,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - MIND HACK
 ## Yun Head
  - Trap Anthem
-## Yusuf 
+## Yusuf / Cat Stevens
  - Tea for the Tillerman
 ## Zaza
  - Be Together
