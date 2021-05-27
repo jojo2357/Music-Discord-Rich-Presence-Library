@@ -12,6 +12,9 @@ from typing import Dict, Tuple, TypeVar
 import requests
 
 
+# uncomment for unit testing
+# logger = logging.getLogger()
+
 def find_all_dat_files():
     """
     finds all the dat files in "User_Generated_Files" folder
@@ -27,7 +30,7 @@ def find_all_dat_files():
     return all_files
 
 
-def get_album_and_artist(line: str) -> Tuple[str, str]:
+def get_album_and_artist(line: str) -> Tuple[str, Tuple]:
     """
     from a `dat` file return the album and artist name from the given line.
     Returns "Unknown Artist" if artist key is not present
@@ -38,7 +41,11 @@ def get_album_and_artist(line: str) -> Tuple[str, str]:
 
     # if artist key is not present
     if len(splitted) == 2:
-        artist = "Unknown Artist"
+        artist = ("Unknown Artist",)
+    # if `==` format is used
+    elif len(splitted) > 3:
+        artist: Tuple = tuple(splitted[2:-1] + [splitted[-1].rstrip("\n")])
+    # if `/` format (default by script) is used
     else:
         artist = find_multiple_artists(splitted[-1].strip("\n"))
 
