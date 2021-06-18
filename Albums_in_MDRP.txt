@@ -118,6 +118,10 @@
 	 • Nova
 
 
+⁕ Aika
+	 • Memento (Remix)
+
+
 ⁕ Aimer
 	 • SPARK-AGAIN
 
@@ -382,11 +386,25 @@
 
 ⁕ Avilon
 	 • Atacc
+	 • Au Revoir
+	 • Back To You
 	 • Butter
 	 • Desire
+	 • Dispatch
+	 • Duckstep
+	 • EDM
+	 • Fantasy
 	 • Foxstep
 	 • Ground Pound
 	 • Hicstep
+	 • Hurt Me
+	 • I'm Catto
+	 • Level H
+	 • Make Me Alive
+	 • Nanodesu
+	 • Nuts
+	 • Speed
+	 • Virtual Lives
 	 • Wotah
 	 • Zomrap
 	 • kazoo
@@ -514,6 +532,7 @@
 
 
 ⁕ BLUE ENCOUNT
+	 • Freedom
 	 • Polaris (Special Edition)
 	 • Q.E.D
 
@@ -524,8 +543,16 @@
 	 • Hooked On A Feeling - 40th Anniversary Collection
 
 
+⁕ Bo Burnham
+	 • Inside (The Songs)
+
+
 ⁕ Bobu Sama
 	 • Plastic Love
+
+
+⁕ Bohemia Interactive
+	 • Arma 3 (Original Game Soundtrack)
 
 
 ⁕ Bon Jovi
@@ -556,6 +583,10 @@
 
 ⁕ Brenton Mattheus
 	 • Forever
+
+
+⁕ Broken
+	 • Lost in Paradise (Remix)
 
 
 ⁕ Brooks
@@ -609,6 +640,7 @@
 	 • MIND HACK
 	 • PLANET//SHAPER
 	 • Spin Eternally
+	 • Tera I / O
 	 • Voltage Ignition 2
 	 • Xronial Xero
 	 • crystallized
@@ -759,6 +791,7 @@
 
 
 ⁕ ClariS
+	 • Fairy Party
 	 • Owarimonogatari Gekihanongakushu (Original Soundtrack)
 	 • Utamonogatari Special Edition (Original Soundtrack)
 	 • 歌物語2 -〈物語〉シリーズ主題歌集-
@@ -895,6 +928,10 @@
 	 • Encore (Deluxe Version)
 	 • The Eminem Show
 	 • The Marshall Mathers LP
+
+
+⁕ Da Vinci's Notebook
+	 • Brontosaurus
 
 
 ⁕ Daft Punk
@@ -1156,6 +1193,35 @@
 	 • Exit Trance Presents Cm Trance
 
 
+⁕ dj-Jo
+	 • At Doom's Gate (E1M1) [Remix]
+	 • Boku no Sensou (Full Version) [Remix]
+	 • Centimeter (Lofi Remix)
+	 • Centimeter (Remix)
+	 • Gurenge
+	 • Inferno (Extended Version)
+	 • Jingo Jungle (Remixes)
+	 • KING (Remix)
+	 • Kaikai Kitan (Lofi Remix)
+	 • Kaikai Kitan (Remix)
+	 • Kiss of Death (Remixes)
+	 • Kokuhaku Bungee Jump (Remix)
+	 • Lost in Paradise (Remix)
+	 • Memento (Jazz Hop Remix)
+	 • Memento (Remix)
+	 • My War (Remix)
+	 • Polaris (Remix)
+	 • Realize (Extended) [Remix]
+	 • Red Swan (Remixes)
+	 • Renai Circulation (Remix)
+	 • Resonance
+	 • Shinzou wo Sasageyo (Remixes)
+	 • Shock (Remix)
+	 • TOP (Remix)
+	 • Wild Side (Remix)
+	 • いじめっ子Bully (Lofi Remix)
+
+
 ⁕ DM DOKURO
 	 • UNDERTALE: The Underground
 
@@ -1270,6 +1336,10 @@
 
 ⁕ EH!DE
 	 • My Heart
+
+
+⁕ eill
+	 • Koko de Iki wo Shite
 
 
 ⁕ Eivør
@@ -1421,6 +1491,7 @@
 
 ⁕ Eve
 	 • Kaikai Kitan / Ao No Waltz
+	 • 廻廻奇譚
 	 • 闇夜
 
 
@@ -1680,12 +1751,18 @@
 	 • Pop on Rocks
 
 
+⁕ hololive 1st Generation
+	 • Plasmagic Seasons!
+
+
 ⁕ Hololive English -Myth-
 	 • Hololive English -Myth- Image Soundtrack(ft. Camellia)
 
 
 ⁕ hololive IDOL PROJECT
 	 • BLUE CLAPPER
+	 • Bouquet
+	 • Bouquet (Midnight ver.)
 	 • Candy-Go-Round
 	 • Dreaming Days
 	 • STARDUST SONG
@@ -1698,6 +1775,15 @@
 	 • 夢見る空へ
 	 • 百花繚乱花吹雪
 	 • 至上主義アドトラック
+
+
+⁕ hololive Indonesia
+	 • id:entity voices
+
+
+⁕ Holosus
+	 • Dispatch
+	 • Duckstep
 
 
 ⁕ Hommarju
@@ -1832,6 +1918,10 @@
 
 ⁕ Jamie N Commons
 	 • The Marshall Mathers LP2 (Deluxe)
+
+
+⁕ Jan Dušek
+	 • Arma 3 (Original Game Soundtrack)
 
 
 ⁕ Jan Ilavsky
@@ -2078,6 +2168,10 @@
 	 • Future Vibes
 
 
+⁕ KAIZ
+	 • 2 Phút Hơn (KAIZ Remix)
+
+
 ⁕ Kameron
 	 • Live Fast (PUBGM)
 
@@ -2090,6 +2184,10 @@
 	 • Diver
 	 • Time
 	 • Torch of Liberty
+
+
+⁕ Kanaria
+	 • KING
 
 
 ⁕ Kansas
@@ -2422,6 +2520,10 @@
 	 • Wind (From "Naruto Ending 1") [Instrumental]
 
 
+⁕ Leonz
+	 • Among Us (Trap Remix)
+
+
 ⁕ Lets Be Friends
 	 • Monstercat 016 - Expedition
 
@@ -2442,6 +2544,10 @@
 	 • Recovery
 	 • Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
 	 • Suicide Squad: The Album
+
+
+⁕ LilyPichu
+	 • Renai Circulation (Remix)
 
 
 ⁕ Ling tosite sigure
@@ -2486,6 +2592,10 @@
 
 ⁕ Lola Blanc
 	 • Oblivion
+
+
+⁕ Lollia
+	 • Kiss of Death (Remixes)
 
 
 ⁕ Loni Lovato
@@ -2538,6 +2648,8 @@
 
 ⁕ Machico
 	 • SOL
+	 • 『映画 この素晴らしい世界に祝福を!紅伝説』テーマソング 「1ミリ Symphony」
+	 • マチビトサガシ
 
 
 ⁕ Machine Gun Kelly
@@ -2799,6 +2911,7 @@
 
 
 ⁕ Mili
+	 • Cast Me a Spell
 	 • Intrauterine Education
 	 • Millennium Mother
 	 • Miracle Milk
@@ -2852,6 +2965,10 @@
 	 • 99.9
 
 
+⁕ Mochi
+	 • Centimeter (Remix)
+
+
 ⁕ Modernmadeit
 	 • Arabic Nokia Type Beat
 
@@ -2886,6 +3003,8 @@
 	 • Hololive English -Myth- Image Soundtrack(ft. Camellia)
 	 • Off With Their Heads
 	 • Your Mori.
+	 • spiral tones
+	 • わためのうた vol.1
 	 • 居場所
 
 
@@ -3157,6 +3276,10 @@
 	 • Each Other
 
 
+⁕ Nyanikore
+	 • Duckstep
+
+
 ⁕ Obie Trice
 	 • Encore (Deluxe Version)
 	 • The Eminem Show
@@ -3172,6 +3295,10 @@
 	 • Live from Vatnagarðar
 	 • My Head Is An Animal
 	 • The Hunger Games: Catching Fire 
+
+
+⁕ Official HIGE DANdism
+	 • Cry Baby
 
 
 ⁕ Offset
@@ -3208,6 +3335,10 @@
 	 • NCS is Love, NCS is Life, Vol. 1
 
 
+⁕ Ondřej Matějka
+	 • Arma 3 (Original Game Soundtrack)
+
+
 ⁕ OneRepublic
 	 • Native
 
@@ -3218,6 +3349,7 @@
 
 ⁕ OxT
 	 • Hello New World
+	 • Reunion
 
 
 ⁕ P!nk
@@ -3345,6 +3477,10 @@
 	 • Revival
 
 
+⁕ Pháo
+	 • 2 Phút Hơn (KAIZ Remix)
+
+
 ⁕ Pink Floyd
 	 • The Wall
 
@@ -3381,6 +3517,10 @@
 	 • The Bigger Artist
 
 
+⁕ Pochi Korone
+	 • Kokuhaku Bungee Jump (Remix)
+
+
 ⁕ Polyphonix
 	 • EDM Extreme
 
@@ -3410,6 +3550,10 @@
 
 ⁕ Project Veresen
 	 • Flames
+
+
+⁕ Promise of wizard
+	 • Cast Me a Spell
 
 
 ⁕ Protostar
@@ -3621,6 +3765,8 @@
 
 ⁕ Romix
 	 • Papermoon
+	 • Red Swan (Remixes)
+	 • Wild Side (Remix)
 	 • 海底のオーケストラ
 
 
@@ -3684,6 +3830,10 @@
 
 ⁕ Sakutasuke
 	 • TV Anime " ACTORS - Songs Connection - " Opening Theme " Titania "
+
+
+⁕ Sam Luff
+	 • Red Swan (Remixes)
 
 
 ⁕ Sapphire
@@ -3795,6 +3945,10 @@
 	 • Señorita
 
 
+⁕ Shayne Orok
+	 • TOP (Remix)
+
+
 ⁕ Sheck Wes
 	 • MUDBOY
 
@@ -3832,6 +3986,7 @@
 
 ⁕ ShiroNeko
 	 • Long Shot (From "Re:ZERO -Starting Life in Another World- Season 2") [Cover]
+	 • Paradisus-Paradoxum (Re:ZERO -Starting Life in Another World-) [Cover]
 
 
 ⁕ SHOKICHI
@@ -3946,6 +4101,10 @@
 
 ⁕ Sofia Carson
 	 • Different World
+
+
+⁕ Sojiro
+	 • Resonance
 
 
 ⁕ Sonita Alizadeh
@@ -4106,6 +4265,7 @@
 
 ⁕ Survive Said The Prophet
 	 • Mukanjyo
+	 • found & lost
 
 
 ⁕ Swae Lee
@@ -4258,6 +4418,10 @@
 	 • Skynut
 
 
+⁕ The Glitch Mob
+	 • Seven Nation Army (The Glitch Mob Remix)
+
+
 ⁕ The Goo Goo Dolls
 	 • Dizzy up the Girl
 
@@ -4313,6 +4477,7 @@
 
 ⁕ The White Stripes
 	 • Elephant
+	 • Seven Nation Army (The Glitch Mob Remix)
 
 
 ⁕ THEATRE BROOK
@@ -4529,8 +4694,14 @@
 
 ⁕ Twenty One Pilots
 	 • Blurryface
+	 • Choker
+	 • Christmas Saves The Year
 	 • Jumpsuit / Nico And The Niners
 	 • My Blood And A Few Others From Trench
+	 • Saturday
+	 • Scaled And Icy
+	 • Scaled and Icy
+	 • Shy Away
 	 • Suicide Squad: The Album
 	 • Trench
 
@@ -4571,6 +4742,12 @@
 	 • Cytus II-Neko (Original Soundtracks)
 
 
+⁕ Un3h
+	 • Gurenge
+	 • Jingo Jungle (Remixes)
+	 • Realize (Extended) [Remix]
+
+
 ⁕ Unison
 	 • Aperture
 
@@ -4587,11 +4764,23 @@
 	 • EDM Extreme
 
 
+⁕ Ushirokara Haiyori Tai B
+	 • 恋は渾沌の隷也
+
+
+⁕ Ushirokarahaiyoritai G
+	 • 恋は渾沌の隷也
+
+
 ⁕ UVERworld
 	 • All Time Best
 	 • Rob the Frontier
 	 • Touch off
 	 • UNSER
+
+
+⁕ vally.exe
+	 • Shock (Remix)
 
 
 ⁕ Vantage
@@ -4610,6 +4799,10 @@
 
 ⁕ Varien & 7 Minutes Dead
 	 • Mirai Sekai
+
+
+⁕ Vaundy
+	 • strobo
 
 
 ⁕ Veela
@@ -4747,6 +4940,11 @@
 	 • Music To Be Murdered By
 
 
+⁕ Will Stetson
+	 • Inferno (Extended Version)
+	 • Polaris (Remix)
+
+
 ⁕ William Ekh
 	 • NCS: Infinity
 
@@ -4829,6 +5027,7 @@
 
 
 ⁕ Yoko Hikasa
+	 • Couleur
 	 • Utsukushiki Zankokuna Sekai
 
 
@@ -4883,6 +5082,7 @@
 ⁕ YUI
 	 • Green Garden Pop
 	 • HOLIDAYS IN THE SUN
+	 • again
 
 
 ⁕ YUI for 雨音 薫
@@ -4930,6 +5130,10 @@
 	 • JAPAN ANIMESONG COLLECTION VOL.28 [アニソン・ジャパン]
 
 
+⁕ ZAK
+	 • TOP (Remix)
+
+
 ⁕ Zaza
 	 • Be Together
 
@@ -4944,6 +5148,14 @@
 
 ⁕ ZEL(CV:YUSUKE KOBAYASHI)
 	 • OPENING&ENDING THEME FROM TV SERIES ”INTERSPECIES REVIEWERS”
+
+
+⁕ Zenpaku
+	 • Boku no Sensou (Full Version) [Remix]
+	 • KING (Remix)
+	 • Kaikai Kitan (Remix)
+	 • My War (Remix)
+	 • Shinzou wo Sasageyo (Remixes)
 
 
 ⁕ Zhenlan Kang
@@ -4989,6 +5201,7 @@
 
 
 ⁕ アキ・ローゼンタール
+	 • Plasmagic Seasons!
 	 • シャルイース
 	 • ヒロインオーディション
 
@@ -5076,6 +5289,14 @@
 	 • 龍が如く極 オリジナルサウンドトラック
 
 
+⁕ 夏色まつり
+	 • Plasmagic Seasons!
+
+
+⁕ 夜空メル
+	 • Plasmagic Seasons!
+
+
 ⁕ 大原ゆい子
 	 • オンリー
 	 • 旅人の唄
@@ -5148,6 +5369,14 @@
 	 • アニメ『BNA ビー・エヌ・エー』Complete album
 
 
+⁕ 律可
+	 • spiral tones
+
+
+⁕ 戌神ころね
+	 • ころねの最凶天災わんだふぉーわーるど
+
+
 ⁕ 日比野則彦
 	 • METAL GEAR 20th ANNIVERSARY METAL GEAR MUSIC COLLECTION
 
@@ -5157,6 +5386,7 @@
 
 
 ⁕ 星街すいせい
+	 • GHOST
 	 • NEXT COLOR PLANET
 
 
@@ -5165,6 +5395,7 @@
 
 
 ⁕ 桃鈴ねね
+	 • Lunch with me
 	 • ねねねねねねねね!大爆走
 
 
@@ -5233,6 +5464,7 @@
 
 
 ⁕ 白上フブキ
+	 • Plasmagic Seasons!
 	 • Say!ファンファーレ!
 
 
@@ -5276,7 +5508,12 @@
 
 
 ⁕ 角巻わため
+	 • わためのうた vol.1
 	 • 愛昧ショコラーテ
+
+
+⁕ 赤井はあと
+	 • Plasmagic Seasons!
 
 
 ⁕ 道重さゆみ

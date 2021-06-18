@@ -70,6 +70,8 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Ahrix
  - Ignite \(Remixes\)
  - Nova
+## Aika
+ - Memento \(Remix\)
 ## Aimer
  - SPARK\-AGAIN
 ## AJR
@@ -224,11 +226,25 @@ This file contains the list of all the songs that are currently added in the MDR
  - The Days / Nights
 ## Avilon
  - Atacc
+ - Au Revoir
+ - Back To You
  - Butter
  - Desire
+ - Dispatch
+ - Duckstep
+ - EDM
+ - Fantasy
  - Foxstep
  - Ground Pound
  - Hicstep
+ - Hurt Me
+ - I'm Catto
+ - Level H
+ - Make Me Alive
+ - Nanodesu
+ - Nuts
+ - Speed
+ - Virtual Lives
  - Wotah
  - Zomrap
  - kazoo
@@ -296,14 +312,19 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Blasta
  - Josukes Theme Lofi \(Jojos Bizarre Adventure\)
 ## BLUE ENCOUNT
+ - Freedom
  - Polaris \(Special Edition\)
  - Q.E.D
 ## Blue Swede
  - Guardians of the Galaxy: Awesome Mix Vol. 1 \(Original Motion Picture Soundtrack\)
  - Hooked On A Feeling
  - Hooked On A Feeling \- 40th Anniversary Collection
+## Bo Burnham
+ - Inside \(The Songs\)
 ## Bobu Sama
  - Plastic Love
+## Bohemia Interactive
+ - Arma 3 \(Original Game Soundtrack\)
 ## Bon Jovi
  - Slippery When Wet
 ## Boom Kitty
@@ -322,6 +343,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - To The Stars
 ## Brenton Mattheus
  - Forever
+## Broken
+ - Lost in Paradise \(Remix\)
 ## Brooks
  - NCS: The Best of 2016
 ## Bruna Higs
@@ -355,6 +378,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - MIND HACK
  - PLANET//SHAPER
  - Spin Eternally
+ - Tera I / O
  - Voltage Ignition 2
  - Xronial Xero
  - crystallized
@@ -437,6 +461,7 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Clarence Burke Jr.
  - The First Family of Soul: The Best of The Five Stairsteps
 ## ClariS
+ - Fairy Party
  - Owarimonogatari Gekihanongakushu \(Original Soundtrack\)
  - Utamonogatari Special Edition \(Original Soundtrack\)
  - 歌物語2 \-〈物語〉シリーズ主題歌集\-
@@ -511,6 +536,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Encore \(Deluxe Version\)
  - The Eminem Show
  - The Marshall Mathers LP
+## Da Vinci's Notebook
+ - Brontosaurus
 ## Daft Punk
  - Discovery
  - Homework
@@ -658,6 +685,33 @@ This file contains the list of all the songs that are currently added in the MDR
  - EDM Extreme
 ## DJ Tokai
  - Exit Trance Presents Cm Trance
+## dj\-Jo
+ - At Doom's Gate \(E1M1\) \[Remix\]
+ - Boku no Sensou \(Full Version\) \[Remix\]
+ - Centimeter \(Lofi Remix\)
+ - Centimeter \(Remix\)
+ - Gurenge
+ - Inferno \(Extended Version\)
+ - Jingo Jungle \(Remixes\)
+ - KING \(Remix\)
+ - Kaikai Kitan \(Lofi Remix\)
+ - Kaikai Kitan \(Remix\)
+ - Kiss of Death \(Remixes\)
+ - Kokuhaku Bungee Jump \(Remix\)
+ - Lost in Paradise \(Remix\)
+ - Memento \(Jazz Hop Remix\)
+ - Memento \(Remix\)
+ - My War \(Remix\)
+ - Polaris \(Remix\)
+ - Realize \(Extended\) \[Remix\]
+ - Red Swan \(Remixes\)
+ - Renai Circulation \(Remix\)
+ - Resonance
+ - Shinzou wo Sasageyo \(Remixes\)
+ - Shock \(Remix\)
+ - TOP \(Remix\)
+ - Wild Side \(Remix\)
+ - いじめっ子Bully \(Lofi Remix\)
 ## DM DOKURO
  - UNDERTALE: The Underground
 ## DM Galaxy
@@ -724,6 +778,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - 葛西ハーコーズ
 ## EH!DE
  - My Heart
+## eill
+ - Koko de Iki wo Shite
 ## Eivør
  - God of War \(PlayStation Soundtrack\)
 ## Electric Joy Ride
@@ -823,6 +879,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - Guardians Of The Galaxy \- Hooked On A Feeling
 ## Eve
  - Kaikai Kitan / Ao No Waltz
+ - 廻廻奇譚
  - 闇夜
 ## evening cinema
  - summertime
@@ -962,10 +1019,14 @@ This file contains the list of all the songs that are currently added in the MDR
  - Ground Pound
  - Lofi Hip Hop for Eldritch Horrors to Draw to
  - Pop on Rocks
+## hololive 1st Generation
+ - Plasmagic Seasons!
 ## Hololive English \-Myth\-
  - Hololive English \-Myth\- Image Soundtrack\(ft. Camellia\)
 ## hololive IDOL PROJECT
  - BLUE CLAPPER
+ - Bouquet
+ - Bouquet \(Midnight ver.\)
  - Candy\-Go\-Round
  - Dreaming Days
  - STARDUST SONG
@@ -978,6 +1039,11 @@ This file contains the list of all the songs that are currently added in the MDR
  - 夢見る空へ
  - 百花繚乱花吹雪
  - 至上主義アドトラック
+## hololive Indonesia
+ - id:entity voices
+## Holosus
+ - Dispatch
+ - Duckstep
 ## Hommarju
  - EDM Extreme
 ## Hunter Hayes
@@ -1054,6 +1120,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Rocketman \(Music From The Motion Picture\)
 ## Jamie N Commons
  - The Marshall Mathers LP2 \(Deluxe\)
+## Jan Dušek
+ - Arma 3 \(Original Game Soundtrack\)
 ## Jan Ilavsky
  - Origins
 ## Janji
@@ -1196,6 +1264,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Play
 ## K.Safo
  - Future Vibes
+## KAIZ
+ - 2 Phút Hơn \(KAIZ Remix\)
 ## Kameron
  - Live Fast \(PUBGM\)
 ## kamome sano
@@ -1204,6 +1274,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Diver
  - Time
  - Torch of Liberty
+## Kanaria
+ - KING
 ## Kansas
  - Leftoverture \(Expanded Edition\)
 ## Karen Aoki
@@ -1394,6 +1466,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Way Back Home \(Instrumental\)
  - We'll Be Alright \(From "Weathering With You"\) \[Instrumental\]
  - Wind \(From "Naruto Ending 1"\) \[Instrumental\]
+## Leonz
+ - Among Us \(Trap Remix\)
 ## Lets Be Friends
  - Monstercat 016 \- Expedition
 ## Lil Durk
@@ -1406,6 +1480,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Recovery
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
  - Suicide Squad: The Album
+## LilyPichu
+ - Renai Circulation \(Remix\)
 ## Ling tosite sigure
  - Abnormalize
 ## Linked Horizon
@@ -1434,6 +1510,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Suicide Squad: The Album
 ## Lola Blanc
  - Oblivion
+## Lollia
+ - Kiss of Death \(Remixes\)
 ## Loni Lovato
  - Guardians Of The Galaxy \- Hooked On A Feeling
 ## Looking Glass
@@ -1460,6 +1538,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - アニメ『BNA ビー・エヌ・エー』Complete album
 ## Machico
  - SOL
+ - 『映画 この素晴らしい世界に祝福を!紅伝説』テーマソング 「1ミリ Symphony」
+ - マチビトサガシ
 ## Machine Gun Kelly
  - BINGE
  - DAYWALKER! \(feat. CORPSE\)
@@ -1601,6 +1681,7 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Miku Hatsune
  - Bootleg
 ## Mili
+ - Cast Me a Spell
  - Intrauterine Education
  - Millennium Mother
  - Miracle Milk
@@ -1632,6 +1713,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - EDM Extreme
 ## MOB CHOIR
  - 99.9
+## Mochi
+ - Centimeter \(Remix\)
 ## Modernmadeit
  - Arabic Nokia Type Beat
 ## MOL$
@@ -1654,6 +1737,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Hololive English \-Myth\- Image Soundtrack\(ft. Camellia\)
  - Off With Their Heads
  - Your Mori.
+ - spiral tones
+ - わためのうた vol.1
  - 居場所
 ## Morris
  - Ken Blast And Friends \- REMASTERED
@@ -1817,6 +1902,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - John Wick: Chapter 2 \(Original Motion Picture Soundtrack\)
 ## Notaker
  - Each Other
+## Nyanikore
+ - Duckstep
 ## Obie Trice
  - Encore \(Deluxe Version\)
  - The Eminem Show
@@ -1828,6 +1915,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Live from Vatnagarðar
  - My Head Is An Animal
  - The Hunger Games: Catching Fire 
+## Official HIGE DANdism
+ - Cry Baby
 ## Offset
  - Hoodie SZN
 ## Okazaki Taiiku
@@ -1848,12 +1937,15 @@ This file contains the list of all the songs that are currently added in the MDR
  - Yeah
 ## Omri
  - NCS is Love, NCS is Life, Vol. 1
+## Ondřej Matějka
+ - Arma 3 \(Original Game Soundtrack\)
 ## OneRepublic
  - Native
 ## Outwild
  - NCS: The Best of 2015
 ## OxT
  - Hello New World
+ - Reunion
 ## P!nk
  - Recovery
  - Revival
@@ -1931,6 +2023,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - ばーさす!
 ## PHresher
  - Revival
+## Pháo
+ - 2 Phút Hơn \(KAIZ Remix\)
 ## Pink Floyd
  - The Wall
 ## Pitbull
@@ -1951,6 +2045,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Hoodie SZN
  - No.6 Collaborations Project
  - The Bigger Artist
+## Pochi Korone
+ - Kokuhaku Bungee Jump \(Remix\)
 ## Polyphonix
  - EDM Extreme
 ## POP TEAM EPIC
@@ -1968,6 +2064,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Monstercat 012 \- Aftermath
 ## Project Veresen
  - Flames
+## Promise of wizard
+ - Cast Me a Spell
 ## Protostar
  - Galaxies
  - Monstercat Uncaged Vol. 8
@@ -2093,6 +2191,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Forever Flame
 ## Romix
  - Papermoon
+ - Red Swan \(Remixes\)
+ - Wild Side \(Remix\)
  - 海底のオーケストラ
 ## Roomie
  - Congratulations
@@ -2128,6 +2228,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - 99.9
 ## Sakutasuke
  - TV Anime " ACTORS \- Songs Connection \- " Opening Theme " Titania "
+## Sam Luff
+ - Red Swan \(Remixes\)
 ## Sapphire
  - The Velvet Lounge
 ## Satsy
@@ -2187,6 +2289,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - All Time Rock 'n' Roll
 ## Shawn Mendes
  - Señorita
+## Shayne Orok
+ - TOP \(Remix\)
 ## Sheck Wes
  - MUDBOY
 ## Shim
@@ -2208,6 +2312,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - Neon Genesis Evangelion \(Original Series Soundtrack\)
 ## ShiroNeko
  - Long Shot \(From "Re:ZERO \-Starting Life in Another World\- Season 2"\) \[Cover\]
+ - Paradisus\-Paradoxum \(Re:ZERO \-Starting Life in Another World\-\) \[Cover\]
 ## SHOKICHI
  - SAMURAI SESSIONS vol.2
 ## Shoko Nakagawa
@@ -2272,6 +2377,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - The Marshall Mathers LP
 ## Sofia Carson
  - Different World
+## Sojiro
+ - Resonance
 ## Sonita Alizadeh
  - SAMURAI SESSIONS vol.2
 ## Sophia Somajo
@@ -2358,6 +2465,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - Utamonogatari Special Edition \(Original Soundtrack\)
 ## Survive Said The Prophet
  - Mukanjyo
+ - found & lost
 ## Swae Lee
  - Close To Me \(feat. Swae Lee\)
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
@@ -2442,6 +2550,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - NCS: Uplifting
 ## The Gentle Men
  - Skynut
+## The Glitch Mob
+ - Seven Nation Army \(The Glitch Mob Remix\)
 ## The Goo Goo Dolls
  - Dizzy up the Girl
 ## The Jackson 5
@@ -2473,6 +2583,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - 2001
 ## The White Stripes
  - Elephant
+ - Seven Nation Army \(The Glitch Mob Remix\)
 ## THEATRE BROOK
  - 裏切りの夕焼け
 ## TheFatRat
@@ -2613,8 +2724,14 @@ This file contains the list of all the songs that are currently added in the MDR
  - Monstercat 012 \- Aftermath
 ## Twenty One Pilots
  - Blurryface
+ - Choker
+ - Christmas Saves The Year
  - Jumpsuit / Nico And The Niners
  - My Blood And A Few Others From Trench
+ - Saturday
+ - Scaled And Icy
+ - Scaled and Icy
+ - Shy Away
  - Suicide Squad: The Album
  - Trench
 ## Two Thirds
@@ -2637,6 +2754,10 @@ This file contains the list of all the songs that are currently added in the MDR
  - Exit Trance Presents Cm Trance
 ## UMA
  - Cytus II\-Neko \(Original Soundtracks\)
+## Un3h
+ - Gurenge
+ - Jingo Jungle \(Remixes\)
+ - Realize \(Extended\) \[Remix\]
 ## Unison
  - Aperture
 ## Unknown Brain
@@ -2645,11 +2766,17 @@ This file contains the list of all the songs that are currently added in the MDR
  - NCS is Love, NCS is Life, Vol. 1
 ## USAO
  - EDM Extreme
+## Ushirokara Haiyori Tai B
+ - 恋は渾沌の隷也
+## Ushirokarahaiyoritai G
+ - 恋は渾沌の隷也
 ## UVERworld
  - All Time Best
  - Rob the Frontier
  - Touch off
  - UNSER
+## vally.exe
+ - Shock \(Remix\)
 ## Vantage
  - J\-Funk City : Vantage's Edits Collection
 ## Vanze
@@ -2660,6 +2787,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Monstercat 016 \- Expedition
 ## Varien & 7 Minutes Dead
  - Mirai Sekai
+## Vaundy
+ - strobo
 ## Veela
  - Monstercat 007 \- Solace
 ## Vena Cava
@@ -2733,6 +2862,9 @@ This file contains the list of all the songs that are currently added in the MDR
  - Monstercat Uncaged Vol. 8
 ## White Gold
  - Music To Be Murdered By
+## Will Stetson
+ - Inferno \(Extended Version\)
+ - Polaris \(Remix\)
 ## William Ekh
  - NCS: Infinity
 ## Winona Oak
@@ -2777,6 +2909,7 @@ This file contains the list of all the songs that are currently added in the MDR
 ## YOASOBI
  - 夜に駆ける
 ## Yoko Hikasa
+ - Couleur
  - Utsukushiki Zankokuna Sekai
 ## Yoko Takahashi
  - Neon Genesis Evangelion \(Original Series Soundtrack\)
@@ -2809,6 +2942,7 @@ This file contains the list of all the songs that are currently added in the MDR
 ## YUI
  - Green Garden Pop
  - HOLIDAYS IN THE SUN
+ - again
 ## YUI for 雨音 薫
  - Green Garden Pop
 ## Yuka Kitamura
@@ -2832,6 +2966,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Tea for the Tillerman
 ## Yuuki Okamoto
  - JAPAN ANIMESONG COLLECTION VOL.28 \[アニソン・ジャパン\]
+## ZAK
+ - TOP \(Remix\)
 ## Zaza
  - Be Together
 ## Zedd
@@ -2840,6 +2976,12 @@ This file contains the list of all the songs that are currently added in the MDR
  - Cytus II\-Neko \(Original Soundtracks\)
 ## ZEL\(CV:YUSUKE KOBAYASHI\)
  - OPENING&ENDING THEME FROM TV SERIES ”INTERSPECIES REVIEWERS”
+## Zenpaku
+ - Boku no Sensou \(Full Version\) \[Remix\]
+ - KING \(Remix\)
+ - Kaikai Kitan \(Remix\)
+ - My War \(Remix\)
+ - Shinzou wo Sasageyo \(Remixes\)
 ## Zhenlan Kang
  - Resident Evil 2 Original Soundtrack
 ## Zoe Winkler
@@ -2863,6 +3005,7 @@ This file contains the list of all the songs that are currently added in the MDR
 ## アキバタノシーズ
  - 葛西ハーコーズ2 オールスターズ
 ## アキ・ローゼンタール
+ - Plasmagic Seasons!
  - シャルイース
  - ヒロインオーディション
 ## エミリア\(CV:高橋李依\)
@@ -2908,6 +3051,10 @@ This file contains the list of all the songs that are currently added in the MDR
  - HIGECORE!
 ## 吉田沙織
  - 龍が如く極 オリジナルサウンドトラック
+## 夏色まつり
+ - Plasmagic Seasons!
+## 夜空メル
+ - Plasmagic Seasons!
 ## 大原ゆい子
  - オンリー
  - 旅人の唄
@@ -2946,15 +3093,21 @@ This file contains the list of all the songs that are currently added in the MDR
  - アニメ『BNA ビー・エヌ・エー』Complete album
 ## 影森みちる\(CV:諸星すみれ\)、Shin Sakiura feat. AAAMYY、日渡なずな\(CV:長縄まりあ\)、mabanua
  - アニメ『BNA ビー・エヌ・エー』Complete album
+## 律可
+ - spiral tones
+## 戌神ころね
+ - ころねの最凶天災わんだふぉーわーるど
 ## 日比野則彦
  - METAL GEAR 20th ANNIVERSARY METAL GEAR MUSIC COLLECTION
 ## 日渡なずな\(CV:長縄まりあ\)
  - アニメ『BNA ビー・エヌ・エー』Complete album
 ## 星街すいせい
+ - GHOST
  - NEXT COLOR PLANET
 ## 松戸ガバーズ
  - 葛西ハーコーズ2 オールスターズ
 ## 桃鈴ねね
+ - Lunch with me
  - ねねねねねねねね!大爆走
 ## 歌組雪月花
  - HIGECORE!
@@ -2991,6 +3144,7 @@ This file contains the list of all the songs that are currently added in the MDR
 ## 玉木マリ\(CV:水瀬いのり\)
  - HIGECORE!
 ## 白上フブキ
+ - Plasmagic Seasons!
  - Say!ファンファーレ!
 ## 白石結月\(CV:早見沙織\)
  - HIGECORE!
@@ -3014,7 +3168,10 @@ This file contains the list of all the songs that are currently added in the MDR
 ## 衛藤可奈美\(CV:本渡楓\)
  - HIGECORE!
 ## 角巻わため
+ - わためのうた vol.1
  - 愛昧ショコラーテ
+## 赤井はあと
+ - Plasmagic Seasons!
 ## 道重さゆみ
  - 大森靖子
 ## 阿保 剛
