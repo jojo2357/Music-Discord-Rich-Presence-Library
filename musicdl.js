@@ -342,7 +342,7 @@ function appendSingleton(image, otherStuff = []) {
     });
 }
 
-function cleanUp(instring) {
+function cleanUp(instring="") {
     return instring.replace(/[\\/?:<>|"*]/g, '');
 }
 

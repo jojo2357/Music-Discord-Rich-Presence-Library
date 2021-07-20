@@ -8,3 +8,5 @@ __pycache__/*
 images
 all.dat
 doops.dat
+node_modules
+package-lock.json
