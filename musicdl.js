@@ -97,14 +97,14 @@ function Main() {
     fs.writeFileSync(path.join(process.cwd(), "doops.dat"), "");
     readline.question("Who is this (github username is good, just for naming your files for the library)\n", (nameIn) => {
         user = nameIn;
-        readline.question("MP3 or DAT: ", (choice) => {
+        readline.question("Local or DAT: ", (choice) => {
             readLast();
             if (!fs.existsSync("groove0")) {
                 createExportFolder("spotify");
                 createExportFolder("groove");
                 createExportFolder("musicbee");
             }
-            if (choice.toLowerCase() === "dat") {
+            if (choice.toLowerCase().trim() === "dat") {
                 fs.readdirSync(process.cwd()).forEach(filder => {
                     if (filder.includes('.dat') && !filder.includes("all.dat") && !filder.includes("doops.dat")) {
                         downloadAlbumsFromFile(filder).then(() => {
@@ -118,8 +118,8 @@ function Main() {
                         });
                     }
                 });
-            } else if (choice.toLowerCase() === "mp3") {
-                readline.question('Where are your pictures? (fully qualified dir pls)\n', loc => {
+            } else if (choice.toLowerCase().trim().charAt(0) === "l") {
+                readline.question('Where are your music files? (fully qualified dir pls)\n', loc => {
                     if (fs.lstatSync(loc).isDirectory())
                         locateMP3FromFolder(loc).then((resolver) => {
                             console.log(`All done from ${resolver} ${guysdone} (${guysFailed})`);
@@ -143,7 +143,7 @@ function downloadAlbumsFromFile(file) {
 
         function lol(windex) {
             const line = data[windex];
-            const allTheExtraStuff = line.replace('\r', '').split('==');
+            const allTheExtraStuff = line.replace('\r', '').split('==').filter(thing => thing !== "");
             const album = allTheExtraStuff.shift();
             const link = allTheExtraStuff.shift().replace('\r', '');
             if (!completed.includes(album + allTheExtraStuff.join('')))
@@ -195,7 +195,7 @@ function locateMP3FromFolder(folder) {
                     if (fetchedAlbums === expectedAlbums)
                         resolve();
                 }).catch(reject);
-            else if ((folder + '\\' + file).includes(".mp3")) {
+            else if ((folder + '\\' + file).match(/(.mp3$)|(.flac$)/)) {
                 expectedAlbums++;
                 fetchAlbumsFromMP3(folder, file).then(thing => {
                     if (completed.includes(thing.tags.album + thing.tags.artist)) {
@@ -205,7 +205,7 @@ function locateMP3FromFolder(folder) {
                     }
                     guysdone++;
                     if (!thing.tags.picture) {
-                        if (thing.tags.album.length > 0 && thing.tags.album.trim() !== "Unknown Album") {
+                        if (thing.tags !== {} && thing.tags.album.length > 0 && thing.tags.album.trim() !== "Unknown Album") {
                             new Promise((resolve1, reject1) => {
                                 if (albumsAskedFor.includes(thing.tags.album)) {
                                     resolve1();
@@ -231,8 +231,8 @@ function locateMP3FromFolder(folder) {
                                 if (++fetchedAlbums === expectedAlbums)
                                     resolve();
                             });
-                        } else
-                            expectedAlbums--;
+                        } else if (fetchedAlbums === --expectedAlbums)
+                            resolve();
                     } else {
                         const {data, format} = thing.tags.picture;
                         fs.writeFileSync(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + cleanUp(thing.tags.artist) + "_raw.jpg"), Buffer.from(data));
@@ -254,8 +254,9 @@ function locateMP3FromFolder(folder) {
                         });
                     }
                 }).catch(e => {
-                    expectedAlbums--;
                     console.error(`Something went wrong reading art from ${file} `, e);
+                    if (fetchedAlbums === --expectedAlbums)
+                        resolve();
                 });
             }
         }
@@ -342,7 +343,7 @@ function appendSingleton(image, otherStuff = []) {
     });
 }
 
-function cleanUp(instring) {
+function cleanUp(instring="") {
     return instring.replace(/[\\/?:<>|"*]/g, '');
 }
 
