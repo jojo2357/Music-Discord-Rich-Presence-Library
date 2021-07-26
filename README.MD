@@ -6,16 +6,23 @@ This is where the community can contribute their album arts or borrow ones that 
 1. Clone this repository and unzip
 2. Run the exectuable provided (note: if you have node you can run the source file instead)
 3. Provide your github username (or just any old name if you dont plan to contribute)
-4. enter `mp3` (dat is not currently supported but hopefully will soon. That is how spotify playlist downloading will work)
+### For local music Files
+4. enter `local` (works for `.mp3` and `.flac`. Unfortunately `.m4a` cannot be supported at this time)
 5. enter the root directory of your music (example: `C:\Users\Admin\Music`)
+*continue to step 6*
+### For [Website Generated dat files](https://mdrp.tech/fetchalbumart/)
+4. Use the spotify tool to get a printout of all the albums in your playlists and ensure that dat file is in the same folder as the exe
+5. Enter `dat`
+
 6. Let the magic happen. 
-7. [Go to discord](https://discord.com/developers/applications) and create an application for each folder and name it either spotify/groove/musicbee (this so it shows up as playing spotify, etc).
-8. Choose a folder, select all the images and upload them into the art assets
-9. Take the client id and paste it in the dat file in that folder.
-10. Move the dat file to your `clientdata` folder for MDRP and enjoy the rich presence!
+7. You can postverify if internet usage is a concern. This will do its best to remove duplicated album arts, but is slow. This step used to take place alongside image processing but that was excessivly costly. Just look at issue #20
+8. [Go to discord](https://discord.com/developers/applications) and create an application for each folder and name it either spotify or groove or musicbee (this so it shows up as playing spotify, etc).
+9. Choose a folder, select all the images (shift+arrow keys) and upload them into the art assets
+10. Take the client id and paste it in the dat file in that folder.
+11. Move the dat file to your `clientdata` folder for MDRP and enjoy the rich presence! (You will have to restart MDRP)
 
 ## Rerunning
-If you get more mp3's, then im sorry theres gonna be some issues involving overwriting. I will fix this when i get the chance.
+Place processed dat files inside the `archives` folder
 
 ## Contributing to the library
 Unfortunately, there are people that like to be mean and since I cant control/moderate applications created by third parties, the only way I can guarantee the validity of uploaded clientdata folders is to create the applicaitons myself. However, I will try to acommodate everyone.
