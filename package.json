@@ -1,0 +1,10 @@
+{
+  "name": "itunes-artwork-finder",
+  "version": "1.0.0",
+  "dependencies": {
+    "canvas": "^2.7.0",
+    "jsmediatags": "^3.9.5",
+    "resemblejs": "^3.2.5",
+    "sharp": "^0.27.2"
+  }
+}
