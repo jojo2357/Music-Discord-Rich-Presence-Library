@@ -11,8 +11,8 @@ const resemble = require("resemblejs/compareImages");
 
 const startTime = new Date().getTime();
 
-const imageProcessingThreads = 100;
-const postverificationThreadCount = 50;
+const imageProcessingThreads = process.argv.length > 3 ? Number.parseInt(process.argv[3]) : 20;
+const postverificationThreadCount = process.argv.length > 2 ? Number.parseInt(process.argv[2]) : 4;
 
 let version = -1;
 let amountExported = 0;
@@ -27,7 +27,12 @@ let completed = [];
 let albumsAskedFor = [];
 let user = "";
 
-Main();
+let pvstart;
+
+let duplicateMasking = [];
+
+
+//Main();
 
 function areTwoPicsTheSame(location1, location2) {
     const options = {
@@ -98,6 +103,8 @@ function findCoverFromApple(albumName = "Origins", artistName = "") {
 function Main() {
     if (!fs.existsSync(path.join(process.cwd(), "images")))
         fs.mkdirSync(path.join(process.cwd(), "images"));
+    if (!fs.existsSync(path.join(process.cwd(), "archimages")))
+        fs.mkdirSync(path.join(process.cwd(), "archimages"));
     fs.writeFileSync(path.join(process.cwd(), "all.dat"), "");
     fs.writeFileSync(path.join(process.cwd(), "doops.dat"), "");
     readline.question("Who is this (github username is good, just for naming your files for the library)\n", (nameIn) => {
@@ -131,6 +138,7 @@ function Main() {
                         grindTheGrind().then(() => {
                             readline.question(`\nAll done ${guysdone} (${guysFailed}). Would you like to postverify (postverify checks and deletes duplicates, can use a LOT of cpu and time, but saves bandwidth on upload and hard drive space. You have been warned)? Y/N\n`, loc => {
                                 if (loc.toLowerCase().charAt(0) === 'y') postVerify();
+                                else process.exit(0);
                             });
                             //process.exit(0);
                         });
@@ -184,7 +192,7 @@ function downloadImageFromWeb(albumName, artist, url) {
     return new Promise((resolve, reject) => {
         writeOverwritable(`I'm downloading ` + url);
         let p = spawn("curl", [url]);
-        let out = fs.createWriteStream(path.join(process.cwd(), "images/" + cleanUp(albumName) + cleanUp(artist) + ".jpg"));
+        let out = fs.createWriteStream(path.join(process.cwd(), "images/" + cleanUp(albumName + artist).substring(0,251) + ".jpg"));
         p.stdout.pipe(out);
         p.on("exit", (code) => {
             if (code === 0)
@@ -255,9 +263,12 @@ function grind(myIndex = -1, file = files[myIndex]) {
                     }).toFile(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + cleanUp(thing.tags.artist ? thing.tags.artist : "") + ".jpg")).then(() => {
                         appendSingleton(thing.tags.album, thing.tags.artist ? [thing.tags.artist] : []).then(() => {
                             setTimeout(() => {
-                                fs.unlinkSync(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + cleanUp(thing.tags.artist ? thing.tags.artist : "") + "_raw.jpg"));
-                                fs.unlinkSync(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + cleanUp(thing.tags.artist ? thing.tags.artist : "") + ".jpg"));
-
+                                try {
+                                    fs.copyFileSync(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + cleanUp(thing.tags.artist ? thing.tags.artist : "") + ".jpg"), path.join(process.cwd(), "archimages/" + cleanUp(thing.tags.album ? thing.tags.album : "") + ".jpg"))
+                                    fs.unlinkSync(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + cleanUp(thing.tags.artist ? thing.tags.artist : "") + "_raw.jpg"));
+                                    fs.unlinkSync(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + cleanUp(thing.tags.artist ? thing.tags.artist : "") + ".jpg"));
+                                } catch (ex) {
+                                }
                                 resolve(myIndex);
                             }, 500);
                         }).catch(console.error);
@@ -330,11 +341,108 @@ function spawnPendingVerificationThreads() {
 
 let runningThreads = 0, completedThreads = 0;
 
+function collapseEverything() {
+    let lowest = 0;
+    let highest = fs.readdirSync(process.cwd()).filter(filder => filder.match(/groove\d/)).length - 1;
+    if (highest === 0) {
+        fs.writeFileSync(findDat("groove", 0), fs.readFileSync(findDat("groove", 0)).toString().replace(/\r/g, "").split('\n').filter(line => line.length > 2).join('\n'));
+    } else
+        do {
+            var readin = fs.readFileSync(findDat("groove", lowest)).toString().replace(/\r/g, "").split('\n').filter(line => line.length > 2);
+            let emptySpots = [];
+            for (var i = 0; i < 297; i++)
+                emptySpots.push(i);
+            readin.forEach((line, index) => {
+                if (index > 2) {
+                    var windex = line.match(/==\d{1,3}==/)[0];
+                    windex = windex.substring(2, windex.length - 2);
+                    if (emptySpots.includes(windex))
+                        emptySpots.splice(emptySpots.indexOf(windex), 1);
+                }
+            });
+            var otherreadin = fs.readFileSync(findDat("groove", highest)).toString().split('\n').filter(line => line.length > 2);
+            while (otherreadin.length > 2 && emptySpots.length > 0) {
+                var oldindex = otherreadin[2].match(/==\d{1,3}==/)[0];
+                oldindex = oldindex.substring(2, oldindex.length - 2);
+                var changed = otherreadin[2].replace(/==\d{1,3}==/, `==${emptySpots[0]}==`);
+                readin.push(changed);
+                otherreadin.splice(2, 1);
+                emptySpots.splice(0, 1);
+            }
+            if (otherreadin.length <= 2) {
+                fs.unlinkSync("groove" + highest);
+                highest--;
+            } else if (emptySpots.length === 0) {
+                fs.writeFileSync(findDat("groove", lowest), readin.join('\n'));
+                lowest++;
+            }
+        } while (highest > lowest);
+}
+
 function notifyVerificationThreadTermination() {
     if (++completedThreads === runningThreads) {
+        console.log("Completed comparisons in " + (Date.now() - pvstart));
+        function doTheThing(player = "groove") {
+            duplicateMasking.forEach(arr => {
+                for (var i = 1; i < arr.length; i++) {
+                    let firstImageIndex, firstFolder, secondImageIndex, secondFolder;
+                    firstImageIndex = existingMap[arr[0]].image;
+                    secondImageIndex = existingMap[arr[i]].image;
+                    firstFolder = existingMap[arr[0]].folder;
+                    secondFolder = existingMap[arr[i]].folder;
+                    fs.appendFileSync("doops.dat", `${firstImageIndex} ${firstFolder} ${secondImageIndex} ${secondFolder} \n`);
+                    let secondDatFile = fs.readFileSync(findDat(player, secondFolder)).toString().replace(/\r/g, "").split('\n').filter(line => line.length > 2);
+                    let imageIndexInSecondDatFile = secondDatFile.indexOf(secondDatFile.find(line => line && line !== "" && line.match(new RegExp(`(==${secondImageIndex}$)|(==${secondImageIndex}==)`))));
+                    if (secondFolder !== firstFolder) {
+                        try {
+                            let firstDatFile = fs.readFileSync(findDat(player, firstFolder)).toString().split('\n').filter(line => line.length > 2);
+                            let imageIndexInFirstDatFile = firstDatFile.indexOf(firstDatFile.find(line => line && line !== "" && line.match(new RegExp(`(==${firstImageIndex}$)|(==${firstImageIndex}==)`))));
+                            if (secondDatFile[imageIndexInSecondDatFile].split('==')[0] === firstDatFile[imageIndexInFirstDatFile].split('==')[0]) {
+                                firstDatFile[imageIndexInFirstDatFile] = firstDatFile[imageIndexInFirstDatFile] + '==' + secondDatFile[imageIndexInSecondDatFile].split('==').splice(2).join(`==`);
+                                secondDatFile.splice(imageIndexInSecondDatFile, 1);
+                            } else {
+                                let repline = secondDatFile[secondImageIndex].split('==');
+                                repline[1] = firstImageIndex;
+                                secondDatFile[secondImageIndex] = repline.join('==');
+                                firstDatFile.push(secondDatFile[secondImageIndex]);
+                                secondDatFile.splice(imageIndexInSecondDatFile, 1);
+                            }
+                            secondDatFile = secondDatFile.filter(line => line !== "");
+                            firstDatFile = firstDatFile.filter(line => line !== "");
+                            fs.writeFileSync(findDat(player, secondFolder), secondDatFile.join('\n'));
+                            fs.writeFileSync(findDat(player, firstFolder), firstDatFile.join('\n'));
+                            if (fs.existsSync(path.join(process.cwd(), player + secondFolder, secondImageIndex + '.jpg')))
+                                fs.unlinkSync(path.join(process.cwd(), player + secondFolder, secondImageIndex + '.jpg'));
+                        } catch (thing) {
+                            console.log("This thread is sad. Send this to jojo2357: ", thing, secondImageIndex, secondFolder, firstImageIndex, firstFolder);
+                        }
+                    } else {
+                        try {
+                            let firstImageIndexInSecondDat = secondDatFile.indexOf(secondDatFile.find(line => line && line !== "" && line.match(new RegExp(`(==${firstImageIndex}$)|(==${firstImageIndex}==)`))));
+                            //secondDatFile[firstImageIndexInSecondDat] += '==' + secondDatFile[imageIndexInSecondDatFile].split('==').splice(2).join('==')
+                            //secondDatFile.splice(imageIndexInSecondDatFile, 1);
+                            let it = secondDatFile[imageIndexInSecondDatFile].split("==");
+                            it[1] = firstImageIndex;
+                            secondDatFile[imageIndexInSecondDatFile] = it.join('==');
+                            fs.writeFileSync(findDat(player, secondFolder), secondDatFile.join('\n'));
+                            if (fs.existsSync(path.join(process.cwd(), player + secondFolder, secondImageIndex + '.jpg')))
+                                fs.unlinkSync(path.join(process.cwd(), player + secondFolder, secondImageIndex + '.jpg'));
+                        } catch (thing) {
+                            console.log("This thread is sad. Send this to jojo2357: ", thing, secondImageIndex, secondFolder, firstImageIndex, firstFolder);
+                        }
+                    }
+                }
+            });
+        }
+
+        doTheThing("groove");
+        doTheThing("spotify");
+        doTheThing("musicbee");
+
         console.log("\nPostverified. All done. Saved " + totalSavings + " images");
+        //collapseEverything();
         process.exit(0);
-    } else{
+    } else {
         console.log("Thread #" + completedThreads + " terminated, " + runningThreads + " still running");
     }
 }
@@ -356,55 +464,76 @@ function estimatePostVerification() {
 let postVerificationCount = -1, postVerified = 0;
 
 function checkSimilar(index, index1) {
-    let img1, versa, img, vers;
-    img1 = existingMap[index].image;
-    img = existingMap[index1].image;
-    versa = existingMap[index].folder;
-    vers = existingMap[index1].folder;
-    if (fs.existsSync(path.join(process.cwd(), "groove" + versa)) && fs.existsSync(path.join(process.cwd(), "groove" + vers)) && fs.existsSync(path.join(process.cwd(), "groove" + versa, img1 + '.jpg')) && fs.existsSync(path.join(process.cwd(), "groove" + vers, img + '.jpg'))) {
-        process.stdout.write((100 * postVerified++ / postVerificationCount).toFixed(0) + "% (" + postVerified + ") " + ".".repeat(postVerified % 3) + "     \r");
-        areTwoPicsTheSame(path.join(process.cwd(), "groove" + vers, img + '.jpg'), path.join(process.cwd(), "groove" + versa, img1 + '.jpg')).then((returned) => {
+    let firstImageIndex, firstFolder, secondImageIndex, secondFolder;
+    firstImageIndex = existingMap[index].image;
+    secondImageIndex = existingMap[index1].image;
+    firstFolder = existingMap[index].folder;
+    secondFolder = existingMap[index1].folder;
+    if (fs.existsSync(path.join(process.cwd(), "groove" + firstFolder)) && fs.existsSync(path.join(process.cwd(), "groove" + secondFolder)) && fs.existsSync(path.join(process.cwd(), "groove" + firstFolder, firstImageIndex + '.jpg')) && fs.existsSync(path.join(process.cwd(), "groove" + secondFolder, secondImageIndex + '.jpg'))) {
+        if (++postVerified % 10 === 0) process.stdout.write((100 * postVerified / postVerificationCount).toFixed(0) + "% (" + postVerified + ") " + ".".repeat((postVerified % 3) + 1) + "     \r");
+        areTwoPicsTheSame(path.join(process.cwd(), "groove" + secondFolder, secondImageIndex + '.jpg'), path.join(process.cwd(), "groove" + firstFolder, firstImageIndex + '.jpg')).then((returned) => {
             if (returned) {
                 ++totalSavings;
 
-                function doTheThing(player = "groove") {
-                    let lel = fs.readFileSync(findDat(player, vers)).toString().split('\n');
-                    let windex = lel.indexOf(lel.find(line => line && line !== "" && line.match(new RegExp(`(==${img}$)|(==${img}==)`))));
-                    if (vers !== versa) {
-                        let lel1 = fs.readFileSync(findDat(player, versa)).toString().split('\n');
-                        let otherStuff = lel1.find(line => line && line !== "" && line.match(new RegExp(`(==${img1}$)|(==${img1}==)`))).split(`==`);
-                        if (lel[windex].split('==')[0] === otherStuff[0]) {
-                            lel[windex] = lel[windex].replace('\r', '') + '==' + otherStuff.splice(2).join(`==`);
+                /*function doTheThing(player = "groove") {
+                    let secondDatFile = fs.readFileSync(findDat(player, secondFolder)).toString().replace(/\r/g, "").split('\n').filter(line => line.length > 2);
+                    let imageIndexInSecondDatFile = secondDatFile.indexOf(secondDatFile.find(line => line && line !== "" && line.match(new RegExp(`(==${secondImageIndex}$)|(==${secondImageIndex}==)`))));
+                    if (secondFolder !== firstFolder) {
+                        let firstDatFile = fs.readFileSync(findDat(player, firstFolder)).toString().split('\n').filter(line => line.length > 2);
+                        let imageIndexInFirstDatFile = firstDatFile.find(line => line && line !== "" && line.match(new RegExp(`(==${firstImageIndex}$)|(==${firstImageIndex}==)`))).split(`==`);
+                        if (secondDatFile[imageIndexInSecondDatFile].split('==')[0] === imageIndexInFirstDatFile[0]) {
+                            secondDatFile[imageIndexInSecondDatFile] = secondDatFile[imageIndexInSecondDatFile] + '==' + imageIndexInFirstDatFile.splice(2).join(`==`);
                         } else {
-                            lel1.splice(lel1.indexOf(lel1.find(line => line.match(new RegExp(`(==${img1}$)|(==${img1}==)`)))), 1);
-                            otherStuff[1] = img;
-                            lel.push(otherStuff.join('=='));
+                            firstDatFile.splice(firstDatFile.indexOf(firstDatFile.find(line => line.match(new RegExp(`(==${firstImageIndex}$)|(==${firstImageIndex}==)`)))), 1);
+                            imageIndexInFirstDatFile[1] = secondImageIndex;
+                            secondDatFile.push(imageIndexInFirstDatFile.join('=='));
                         }
-                        fs.writeFileSync(findDat(player, vers), lel.join('\n'));
-                        fs.writeFileSync(findDat(player, versa), lel1.join('\n'));
-                        fs.unlinkSync(path.join(process.cwd(), player + vers, img + '.jpg'));
+                        secondDatFile = secondDatFile.filter(line => line !== "");
+                        firstDatFile = firstDatFile.filter(line => line !== "");
+                        fs.writeFileSync(findDat(player, secondFolder), secondDatFile.join('\n'));
+                        fs.writeFileSync(findDat(player, firstFolder), firstDatFile.join('\n'));
+                        if (fs.existsSync(path.join(process.cwd(), player + secondFolder, secondImageIndex + '.jpg')))
+                            fs.unlinkSync(path.join(process.cwd(), player + secondFolder, secondImageIndex + '.jpg'));
                     } else {
                         try {
-                            let otherStuff = lel.find(line => line && line !== "" && line.match(new RegExp(`(==${img1}$)|(==${img1}==)`))).split(`==`);
-                            if (lel[windex].split('==')[0] === otherStuff[0]) {
-                                lel[windex] = lel[windex].replace('\r', '') + '==' + otherStuff.splice(2).join(`==`);
-                                lel.splice(lel.indexOf(lel.find(line => line.match(new RegExp(`(==${img1}$)|(==${img1}==)`)))), 1);
+                            let imageIndexInSecondDatFile = secondDatFile.find(line => line && line !== "" && line.match(new RegExp(`(==${firstImageIndex}$)|(==${firstImageIndex}==)`))).split(`==`);
+                            if (secondDatFile[imageIndexInSecondDatFile].split('==')[0] === imageIndexInSecondDatFile[0]) {
+                                secondDatFile[imageIndexInSecondDatFile] = secondDatFile[imageIndexInSecondDatFile] + '==' + imageIndexInSecondDatFile.splice(2).join(`==`);
+                                secondDatFile.splice(secondDatFile.indexOf(secondDatFile.find(line => line.match(new RegExp(`(==${firstImageIndex}$)|(==${firstImageIndex}==)`)))), 1);
                             } else {
-                                lel.splice(lel.indexOf(lel.find(line => line.match(new RegExp(`(==${img1}$)|(==${img1}==)`)))), 1);
-                                otherStuff[1] = img;
-                                lel.push(otherStuff.join('=='));
+                                secondDatFile.splice(secondDatFile.indexOf(secondDatFile.find(line => line.match(new RegExp(`(==${firstImageIndex}$)|(==${firstImageIndex}==)`)))), 1);
+                                imageIndexInSecondDatFile[1] = secondImageIndex;
+                                secondDatFile.push(imageIndexInSecondDatFile.join('=='));
                             }
-                            fs.writeFileSync(findDat(player, vers), lel.join('\n'));
-                            fs.unlinkSync(path.join(process.cwd(), player + versa, img1 + '.jpg'));
-                        }catch (thing) {
-                            console.log("This thread is sad. Send this to jojo2357: ", lel, img, vers, img1, versa);
+                            fs.writeFileSync(findDat(player, secondFolder), secondDatFile.join('\n'));
+                            if (fs.existsSync(path.join(process.cwd(), player + firstFolder, firstImageIndex + '.jpg')))
+                                fs.unlinkSync(path.join(process.cwd(), player + firstFolder, firstImageIndex + '.jpg'));
+                        } catch (thing) {
+                            console.log("This thread is sad. Send this to jojo2357: ", secondDatFile, secondImageIndex, secondFolder, firstImageIndex, firstFolder);
                         }
                     }
                 }
-
                 doTheThing("groove");
                 doTheThing("spotify");
-                doTheThing("musicbee");
+                doTheThing("musicbee");*/
+                var foundArrey = false;
+                for (var i = 0; i < duplicateMasking.length; i++) {
+                    if (duplicateMasking[i].includes(index) && duplicateMasking[i].includes(index1)) {
+                        foundArrey = true;
+                        break;
+                    } else if (duplicateMasking[i].includes(index) ^ duplicateMasking[i].includes(index1)) {
+                        foundArrey = true;
+                        if (duplicateMasking[i].includes(index))
+                            duplicateMasking[i].push(index1);
+                        else if (duplicateMasking[i].includes(index1))
+                            duplicateMasking[i].push(index);
+                        break;
+                    }
+                }
+                if (!foundArrey) {
+                    duplicateMasking.push([index, index1]);
+                }
+                //duplicateMasking.push({firstIndex: index, secondIndex: index1});
                 //doTheThing("apple music")
             }
             pendingCompletions++;
@@ -419,6 +548,7 @@ function checkSimilar(index, index1) {
 let existingMap = [], existingCombinations = 0;
 
 function postVerify() {
+    pvstart = Date.now();
     postVerificationCount = estimatePostVerification();
     process.stdout.write((100 * postVerified / postVerificationCount).toFixed(0) + "% " + ".".repeat(postVerified % 3) + "     \r");
     pendingCompletions = postverificationThreadCount;
@@ -530,3 +660,7 @@ function findDat(player, vers) {
 process.on('unhandledRejection', (reason, p) => {
     console.trace('Unhandled Rejection at: Promise', p, 'reason:', reason);
 });
+
+//swap those two lines to resume normal operations
+Main();
+//postVerify();
