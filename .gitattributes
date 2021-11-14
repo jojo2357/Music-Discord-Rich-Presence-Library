@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 generate_artists.py linguist-vendored=true
+node_modules linguist-vendored
