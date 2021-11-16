@@ -4,14 +4,15 @@ const readline = require('readline').createInterface({
     output: process.stdout
 });
 const fs = require("fs");
-const jsmediatags = require("jsmediatags");
+//const jsmediatags = require("jsmediatags");
+const mm = require('music-metadata');
 const path = require("path");
 const resizer = require("sharp");
 const resemble = require("resemblejs/compareImages");
 
 const startTime = new Date().getTime();
 
-const imageProcessingThreads = process.argv.length > 3 ? Number.parseInt(process.argv[3]) : 20;
+const imageProcessingThreads = process.argv.length > 3 ? Number.parseInt(process.argv[3]) : 4;
 const postverificationThreadCount = process.argv.length > 2 ? Number.parseInt(process.argv[2]) : 4;
 
 let version = -1;
@@ -97,7 +98,6 @@ function findCoverFromApple(albumName = "Origins", artistName = "") {
                 resolve(album[0].artworkUrl100.replace("100x100", "512x512"));
         });
     });
-
 }
 
 function Main() {
@@ -192,7 +192,7 @@ function downloadImageFromWeb(albumName, artist, url) {
     return new Promise((resolve, reject) => {
         writeOverwritable(`I'm downloading ` + url);
         let p = spawn("curl", [url]);
-        let out = fs.createWriteStream(path.join(process.cwd(), "images/" + cleanUp(albumName + artist).substring(0,251) + ".jpg"));
+        let out = fs.createWriteStream(path.join(process.cwd(), "images/" + cleanUp(albumName + artist).substring(0, 251) + ".jpg"));
         p.stdout.pipe(out);
         p.on("exit", (code) => {
             if (code === 0)
@@ -209,7 +209,7 @@ function locateMP3FromFolder(folder) {
     for (const file of fs.readdirSync(folder)) {
         if (fs.lstatSync(folder + '\\' + file).isDirectory())
             locateMP3FromFolder(folder + '\\' + file);
-        else if ((folder + '\\' + file).match(/(.mp3$)|(.flac$)/)) {
+        else if ((folder + '\\' + file).match(/(.mp3$)|(.flac$)|(.m4a$)/)) {
             files.push(folder + '\\' + file);
         }
     }
@@ -219,31 +219,30 @@ function grind(myIndex = -1, file = files[myIndex]) {
     return new Promise((resolve2, reject2) => {
         new Promise((resolve, reject) => {
             fetchAlbumsFromMP3(file).then(thing => {
-                if (completed.includes(thing.tags.album + thing.tags.artist)) {
-
+                if (completed.includes(thing.album + thing.artist)) {
                     resolve();
                     return;
                 }
                 guysdone++;
-                if (!thing.tags.picture) {
-                    if (thing.tags !== {} && thing.tags.album.length > 0 && thing.tags.album.trim() !== "Unknown Album") {
+                if (!thing.picture) {
+                    if (thing && thing.album && thing.album.length > 0 && thing.album.trim() !== "Unknown Album") {
                         new Promise((resolve1, reject1) => {
-                            if (albumsAskedFor.includes(thing.tags.album)) {
+                            if (albumsAskedFor.includes(thing.album)) {
                                 resolve1();
                                 return;
                             }
-                            albumsAskedFor.push(thing.tags.album);
-                            findCoverFromApple(thing.tags.album, thing.tags.artist.substring(0, 8)).then((url = "") => {
-                                downloadImageFromWeb(thing.tags.album, thing.tags.artist, url).then((res) => {
-                                    completed.push(thing.tags.album + thing.tags.artist);
-                                    fs.appendFileSync(path.join(process.cwd(), "all.dat"), thing.tags.album + (thing.tags.artist ? "==" + thing.tags.artist : "") + "\r\n");
-                                    appendSingleton(thing.tags.album, thing.tags.artist ? [thing.tags.artist] : [])
+                            albumsAskedFor.push(thing.album);
+                            findCoverFromApple(thing.album, thing.artist.substring(0, 8)).then((url = "") => {
+                                downloadImageFromWeb(thing.album, thing.artist, url).then((res) => {
+                                    completed.push(thing.album + thing.artist);
+                                    fs.appendFileSync(path.join(process.cwd(), "all.dat"), thing.album + (thing.artist ? "==" + thing.artist : "") + "\r\n");
+                                    appendSingleton(thing.album, thing.artist ? [thing.artist] : [])
                                         .then(() => resolve1(res)).catch(reject1);
                                 }).catch(() => {
                                     resolve1();
                                 });
                             }).catch((reason) => {
-                                reject1("Could not download art for " + thing.tags.album, reason);
+                                reject1("Could not download art for " + thing.album, reason);
                             });
                         }).then(() => {
                             resolve(myIndex);
@@ -253,20 +252,20 @@ function grind(myIndex = -1, file = files[myIndex]) {
                     }
                     resolve(myIndex);
                 } else {
-                    const {data, format} = thing.tags.picture;
-                    fs.writeFileSync(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + cleanUp(thing.tags.artist ? thing.tags.artist : "") + "_raw.jpg"), Buffer.from(data));
-                    completed.push(thing.tags.album + thing.tags.artist);
-                    fs.appendFileSync(path.join(process.cwd(), "all.dat"), thing.tags.album + (thing.tags.artist ? "==" + thing.tags.artist : "") + "\r\n");
-                    resizer(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + cleanUp(thing.tags.artist ? thing.tags.artist : "") + "_raw.jpg")).resize({
+                    const {data, format} = thing.picture[0];
+                    fs.writeFileSync(path.join(process.cwd(), "images/" + cleanUp(thing.album) + cleanUp(thing.artist ? thing.artist : "") + "_raw.jpg"), Buffer.from(data));
+                    completed.push(thing.album + thing.artist);
+                    fs.appendFileSync(path.join(process.cwd(), "all.dat"), thing.album + (thing.artist ? "==" + thing.artist : "") + "\r\n");
+                    resizer(path.join(process.cwd(), "images/" + cleanUp(thing.album) + cleanUp(thing.artist ? thing.artist : "") + "_raw.jpg")).resize({
                         height: 512,
                         width: 512
-                    }).toFile(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + cleanUp(thing.tags.artist ? thing.tags.artist : "") + ".jpg")).then(() => {
-                        appendSingleton(thing.tags.album, thing.tags.artist ? [thing.tags.artist] : []).then(() => {
+                    }).toFile(path.join(process.cwd(), "images/" + cleanUp(thing.album) + cleanUp(thing.artist ? thing.artist : "") + ".jpg")).then(() => {
+                        appendSingleton(thing.album, thing.artist ? [thing.artist] : []).then(() => {
                             setTimeout(() => {
                                 try {
-                                    fs.copyFileSync(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + cleanUp(thing.tags.artist ? thing.tags.artist : "") + ".jpg"), path.join(process.cwd(), "archimages/" + cleanUp(thing.tags.album ? thing.tags.album : "") + ".jpg"))
-                                    fs.unlinkSync(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + cleanUp(thing.tags.artist ? thing.tags.artist : "") + "_raw.jpg"));
-                                    fs.unlinkSync(path.join(process.cwd(), "images/" + cleanUp(thing.tags.album) + cleanUp(thing.tags.artist ? thing.tags.artist : "") + ".jpg"));
+                                    fs.copyFileSync(path.join(process.cwd(), "images/" + cleanUp(thing.album) + cleanUp(thing.artist ? thing.artist : "") + ".jpg"), path.join(process.cwd(), "archimages/" + cleanUp(thing.album ? thing.album : "") + ".jpg"));
+                                    fs.unlinkSync(path.join(process.cwd(), "images/" + cleanUp(thing.album) + cleanUp(thing.artist ? thing.artist : "") + "_raw.jpg"));
+                                    fs.unlinkSync(path.join(process.cwd(), "images/" + cleanUp(thing.album) + cleanUp(thing.artist ? thing.artist : "") + ".jpg"));
                                 } catch (ex) {
                                 }
                                 resolve(myIndex);
@@ -308,7 +307,13 @@ function grindTheGrind() {
 
 function fetchAlbumsFromMP3(file) {
     return new Promise((resolve, reject) => {
-        new jsmediatags.Reader(file)
+        mm.parseFile(file, {duration: false, includeChapters: false}).then((data) => {
+            resolve(data.common);
+        }).catch((err) => {
+            guysFailed++;
+            reject(err);
+        });
+        /*new jsmediatags.Reader(file)
             .setTagsToRead(["artist", "album", "picture"])
             .read({
                 onSuccess: function (tag) {
@@ -318,7 +323,7 @@ function fetchAlbumsFromMP3(file) {
                     guysFailed++;
                     reject(error);
                 }
-            });
+            });*/
     });
 }
 
@@ -382,6 +387,7 @@ function collapseEverything() {
 function notifyVerificationThreadTermination() {
     if (++completedThreads === runningThreads) {
         console.log("Completed comparisons in " + (Date.now() - pvstart));
+
         function doTheThing(player = "groove") {
             duplicateMasking.forEach(arr => {
                 for (var i = 1; i < arr.length; i++) {
