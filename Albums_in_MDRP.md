@@ -108,8 +108,12 @@ This file contains the list of all the songs that are currently added in the MDR
  - The Spectre
 ## Alec Benjamin
  - Narrated For You
+## Alessia Cara
+ - Blue Neighbourhood \(Deluxe\)
 ## Alex Doan
  - Pure Tropical House
+## Alex Hope
+ - Blue Neighbourhood \(Deluxe\)
 ## Alex Skrindo
  - Future Vibes
  - Moments
@@ -123,6 +127,8 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Alexa Lusader
  - NCS: Infinity
  - Taking Over
+## Alexander 23
+ - How To Be Human
 ## ALI
  - LOST IN PARADISE
  - Wild Side
@@ -134,6 +140,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - 歌物語2 \-〈物語〉シリーズ主題歌集\-
 ## Alixandrea Corvyn
  - Guardians Of The Galaxy \- Hooked On A Feeling
+## Allday
+ - Blue Neighbourhood \(Deluxe\)
 ## Allison
  - Pure Tropical House
 ## Aloe Blacc
@@ -158,6 +166,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Therapy Session
 ## Andrew Allen
  - Monstercat 007 \- Solace
+## Andrew Taggart
+ - Memories...Do Not Open
 ## Andrey Avkhimovich
  - Doom Soundtrack Rebuild
 ## AnimationStation
@@ -193,6 +203,7 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Apollo Fresh
  - JoJo Pose
 ## Ariana Grande
+ - Positions \(Deluxe\)
  - Sweetener
 ## Aristotle
  - The Slim Shady LP
@@ -207,6 +218,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Best Hit AKG
  - Blood Circulator
  - Dororo / Liberated Zone
+## Astrid S
+ - Leave It Beautiful \(Complete\)
 ## Astronaut
  - Monstercat 016 \- Expedition
 ## Astrophysics
@@ -284,6 +297,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Despicable Me
 ## Berioska
  - Hikaru Nara \(Shigatsu Wa Kimi No Uso\) \[feat. Animelmack\]
+## Betty Who
+ - Blue Neighbourhood \(Deluxe\)
 ## Beyoncé
  - Revival
  - Walk On Water \(feat. Beyoncé\)
@@ -303,6 +318,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
 ## Black Thought
  - Music To Be Murdered By
+## blackbear
+ - Hard On Yourself
 ## Blackway
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
 ## BlackY
@@ -337,6 +354,8 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Boyinaband
  - Congratulations
  - Monstercat 007 \- Solace
+## Boyz II Men
+ - Voicenotes
 ## Braken
  - Flight
  - Monstercat 012 \- Aftermath
@@ -345,6 +364,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Forever
 ## Broken
  - Lost in Paradise \(Remix\)
+## Broods
+ - Blue Neighbourhood \(Deluxe\)
 ## Brooks
  - NCS: The Best of 2016
 ## Bruna Higs
@@ -436,10 +457,23 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Charis Henry
  - 2001
  - 2001 \(Explicit Version\)
+## Charli XCX
+ - 13 Reasons Why \(Season 3\)
+## Charli XCX & Troye Sivan
+ - 1999
+## Charlie Puth
+ - Cheating on You
+ - Girlfriend
+ - Is It Just Me? \(feat. Charlie Puth\) \(feat. Charlie Puth\)
+ - Nine Track Mind
+ - Voicenotes
 ## Charlotte Haining
  - NCS: The Best of 2015
 ## Che'Nelle
  - SAMURAI SESSIONS vol.2
+## Chelsea Cutler
+ - How To Be Human
+ - brent
 ## Chipmusic Heroes
  - Primetime Adventures
 ## Chippy Bits
@@ -491,6 +525,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Monstercat 012 \- Aftermath
 ## CoMa
  - Monstercat 010 \- Conquest
+## Conan Gray
+ - Kid Krow
 ## ConfidentialMX
  - Suicide Squad: The Album
 ## Conro
@@ -717,6 +753,8 @@ This file contains the list of all the songs that are currently added in the MDR
 ## DM Galaxy
  - Paralyzed
  - Paralyzed \(Disfigure Remix\)
+## Doja Cat
+ - Positions \(Deluxe\)
 ## Domastic
  - SICC
 ## Don Q
@@ -959,12 +997,19 @@ This file contains the list of all the songs that are currently added in the MDR
  - NCS: The Best of 2016
 ## Going Quantum
  - Monstercat 007 \- Solace
+## Gracie Abrams
+ - This Is What It Feels Like
+ - minor
 ## GRANRODEO
  - FLOW ANIME BEST 極
 ## grant
  - Color
 ## Grant Nelson
  - The Days / Nights
+## Griff
+ - Black Hole
+ - Forgive Myself
+ - Good Stuff
 ## Grimes
  - Suicide Squad: The Album
 ## Guitarrista de Atena
@@ -1116,6 +1161,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - 静寂のアポストル
 ## James Roche
  - Make Me Move \(James Roche Remix\)
+## James Taylor
+ - Voicenotes
 ## Jamie Bell
  - Rocketman \(Music From The Motion Picture\)
 ## Jamie N Commons
@@ -1160,6 +1207,10 @@ This file contains the list of all the songs that are currently added in the MDR
  - NCS: Uplifting
 ## Jeremy Soule
  - The Elder Scrolls V: Skyrim: Original Game Soundtrack
+## Jeremy Zucker
+ - brent
+## Jeremy Zucker; Chelsea Cutler
+ - brent
 ## Jessie Reyez
  - Kamikaze
 ## Jesús Muñoz
@@ -1299,8 +1350,10 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Ke'nekt
  - You And Me
 ## Kehlani
+ - Done for Me \(feat. Kehlani\)
  - Revival
  - Suicide Squad: The Album
+ - Voicenotes
 ## Kelsea Ballerini
  - Sick Boy
 ## KEN BLAST
@@ -1397,6 +1450,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Soviet Loli Anthem
 ## Kédo Rebelle
  - Forces
+## Lany
+ - Malibu Nights
 ## lapix
  - Voltage Ignition 2
 ## LarsM
@@ -1431,6 +1486,10 @@ This file contains the list of all the songs that are currently added in the MDR
  - \~how i'm feeling\~
 ## Lauv & Troye Sivan
  - \~how i'm feeling\~
+## Lauv, BTS
+ - Make It Right \(Feat. Lauv\)
+## Lauv, DJ Snake
+ - A Different Way \(with Lauv\)
 ## Lauv/BTS
  - \~how i'm feeling\~
 ## Lauv/Sofia Reyes
@@ -1647,6 +1706,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - SUPER EUROBEAT presents INITIAL D DAVE RODGERS SELECTION
 ## Megaphonix
  - Beat Saber \(Original Game Soundtrack\), Vol. II
+## Meghan Trainor
+ - Nine Track Mind
 ## Mel\-Man
  - 2001
  - 2001 \(Explicit Version\)
@@ -1902,6 +1963,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - John Wick: Chapter 2 \(Original Motion Picture Soundtrack\)
 ## Notaker
  - Each Other
+## NOTD
+ - Leave It Beautiful \(Complete\)
 ## Nyanikore
  - Duckstep
 ## Obie Trice
@@ -2221,7 +2284,13 @@ This file contains the list of all the songs that are currently added in the MDR
 ## RØRY
  - Try \(feat. RØRY\)
 ## Sabrina Carpenter
+ - EVOLution
+ - Let Me Move You \(From the Netflix film Work It\)
  - On My Way
+ - Singular Act I
+ - Singular Act II
+ - Skin
+ - Skinny Dipping
 ## Sad Puppy
  - Pure Tropical House
 ## sajou no hana
@@ -2271,6 +2340,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - 大森靖子
 ## Selena Gomez
  - It Ain't Me
+ - Nine Track Mind
+ - Rare
 ## Sethh
  - NCS is Love, NCS is Life, Vol. 1
 ## SEUNGRI
@@ -2320,6 +2391,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Magic Time
 ## Shoujy
  - Hacking to the Gate
+## Shy Carter
+ - Nine Track Mind
 ## Sia
  - The Marshall Mathers LP2 \(Deluxe\)
 ## SID
@@ -2515,6 +2588,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - The Wall \(Buunshin Remix\) / If U \(Synergy Remix\)
 ## Tatsuyuki Kobayashi
  - NEVER\-END TALE
+## Taylor Swift
+ - folklore \(deluxe version\)
 ## Televisor
  - Monstercat 007 \- Solace
  - Monstercat 010 \- Conquest
@@ -2529,10 +2604,12 @@ This file contains the list of all the songs that are currently added in the MDR
  - 1 \(Remastered\)
 ## The Chainsmokers
  - All We Know
+ - Memories...Do Not Open
  - Roses
  - Setting Fires
  - Sick Boy
  - This Feeling \(Single\)
+ - World War Joy
 ## The Chainsmokers & Coldplay
  - Memories...Do Not Open
 ## The Chalkeaters
@@ -2581,11 +2658,15 @@ This file contains the list of all the songs that are currently added in the MDR
  - Despicable Me
 ## The Time Bomb
  - 2001
+## The Weeknd
+ - Positions \(Deluxe\)
 ## The White Stripes
  - Elephant
  - Seven Nation Army \(The Glitch Mob Remix\)
 ## THEATRE BROOK
  - 裏切りの夕焼け
+## Thee Stallion
+ - Positions \(Deluxe\)
 ## TheFatRat
  - Chosen
  - Close To The Sun
@@ -2637,6 +2718,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Fantastic Magic
  - Katharsis
  - unravel \(acoustic version\) \[Acoustic Version\]
+## Tkay Maidza
+ - Blue Neighbourhood \(Deluxe\)
 ## Tobu
  - Candyland
  - Cloud 9
@@ -2701,6 +2784,11 @@ This file contains the list of all the songs that are currently added in the MDR
  - Monstercat 007 \- Solace
  - Monstercat 012 \- Aftermath
  - Razor Sharp
+## Troye Sivan
+ - Angel Baby
+ - Bloom
+ - Blue Neighbourhood \(Deluxe\)
+ - In A Dream
 ## TrySail
  - 歌物語2 \-〈物語〉シリーズ主題歌集\-
 ## Tsukasa
@@ -2741,6 +2829,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - Monstercat 010 \- Conquest
  - Monstercat 012 \- Aftermath
 ## Ty Dolla $ign
+ - Positions \(Deluxe\)
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
  - Suicide Squad: The Album
 ## Tyga
@@ -2775,6 +2864,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Rob the Frontier
  - Touch off
  - UNSER
+## Valley
+ - sucks to see you doing better \(extended\)
 ## vally.exe
  - Shock \(Remix\)
 ## Vantage
