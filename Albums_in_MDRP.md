@@ -2,6 +2,9 @@
 This file contains the list of all the songs that are currently added in the MDRP discord applications.
 
 ---
+## 
+ - 
+
 ## \(K\)NoW\_NAME
  - TVアニメ「ドロヘドロ」EDテーマソングアルバム「混沌の中で踊れ」
  - TVアニメ「ドロヘドロ」オープニングテーマ「Welcome トゥ 混沌」
@@ -32,6 +35,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - COLORFUL
 ## 9mm Parabellum Bullet
  - インフェルノ
+## \\ Ingrosso
+ - More Than You Know
 ## A Boogie Wit da Hoodie
  - Hoodie SZN
  - No.6 Collaborations Project
@@ -40,6 +45,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Live Fast \(PUBGM\)
 ## AAAMYYY
  - アニメ『BNA ビー・エヌ・エー』Complete album
+## Aaron Smith
+ - Ibiza 2019
 ## Aazar
  - Sick Boy
 ## ABIS
@@ -74,6 +81,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Memento \(Remix\)
 ## Aimer
  - SPARK\-AGAIN
+## Air
+ - Moon Safari
 ## AJR
  - Burn the House Down
  - Let the Games Begin
@@ -200,14 +209,22 @@ This file contains the list of all the songs that are currently added in the MDR
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
 ## Aoife Fhearraigh
  - METAL GEAR 20th ANNIVERSARY METAL GEAR MUSIC COLLECTION
+## Aperture Science Psychoacoustic Laboratories
+ - Portal 2: Songs to Test By \(Collectors Edition\)
 ## Apollo Fresh
  - JoJo Pose
+## Arca/Woody Jackson
+ - The Music of Red Dead Redemption 2 \(Original Score\)
+## Archive
+ - Controlling Crowds \(Parts I\-III\)
 ## Ariana Grande
  - Positions \(Deluxe\)
  - Sweetener
 ## Aristotle
  - The Slim Shady LP
  - The Slim Shady LP \(Expanded Edition\)
+## Arkells, K.FLAY
+ - You Can Get It
 ## Arthur Diniz
  - EPIC Battle Themes I
 ## Ash O'Connor
@@ -232,6 +249,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Different World
 ## Au5
  - Monstercat 016 \- Expedition
+## Au5, Chime
+ - Voidwalkers
 ## Audioscribe
  - Free Fall
 ## Avicii
@@ -262,9 +281,12 @@ This file contains the list of all the songs that are currently added in the MDR
  - Zomrap
  - kazoo
 ## AWOLNATION
+ - Here Come the Runts
  - Run
 ## Axero
  - Pure Tropical House
+## Axwell 
+ - More Than You Know
 ## Ayatsugu\_Neverend
  - Cytus II\-Neko \(Original Soundtracks\)
 ## Backchat
@@ -275,15 +297,28 @@ This file contains the list of all the songs that are currently added in the MDR
  - Chasing Clouds
  - Destroy Me
  - Silhouette \(Feed Me Remix\)
+## Bad Computer, Skyelle
+ - Silhouette \(Feed Me Remix\)
+## Bad History
+ - My Heart Is Cold
+ - Timefracture
 ## Bantu
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
 ## Bare Noize
  - Scary Monsters and Nice Sprites EP
+## Basement Jaxx
+ - Where's Your Head At
 ## BASI
  - 23
 ## Bastille
  - Happier
+## Battle Tapes
+ - Polygon
+## Beach House
+ - Depression Cherry
 ## Bear McCreary
+ - God of War \(PlayStation Soundtrack\)
+## Bear McCreary/Eivør Pálsdóttir
  - God of War \(PlayStation Soundtrack\)
 ## Beat Saber
  - Beat Saber \(Original Game Soundtrack\), Vol. II
@@ -295,6 +330,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Suicide Squad: The Album
 ## Bee Gees
  - Despicable Me
+## BENEE
+ - Somebody That I Used To Know
 ## Berioska
  - Hikaru Nara \(Shigatsu Wa Kimi No Uso\) \[feat. Animelmack\]
 ## Betty Who
@@ -311,6 +348,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - PAiNT it BLACK
 ## Bizarre
  - The Marshall Mathers LP
+## Björk
+ - Greatest Hits
 ## Björn Skifs
  - Hooked On A Feeling
  - Hooked On A Feeling \- 40th Anniversary Collection
@@ -351,6 +390,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - Power Trip
 ## Bossfight
  - Monstercat Uncaged Vol. 8
+ - Nock Em
 ## Boyinaband
  - Congratulations
  - Monstercat 007 \- Solace
@@ -521,6 +561,10 @@ This file contains the list of all the songs that are currently added in the MDR
  - Way Back Home
 ## Coleman Trapp
  - Why We Lose
+## Colin Stetson
+ - The Music of Red Dead Redemption 2 \(Original Score\)
+## Colin Stetson/Woody Jackson
+ - The Music of Red Dead Redemption 2 \(Original Score\)
 ## Collin McLoughlin
  - Monstercat 012 \- Aftermath
 ## CoMa
@@ -568,21 +612,40 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Cão
  - 熱烈!アニソン魂 ULTIMATEカバーシリーズ2017 JAPAN ANIMESONG COLLECTION mini vol.4
  - 熱烈!アニソン魂 ULTIMATEカバーシリーズ2017 JAPAN ANIMESONG COLLECTION vol.54
+## D'Angelo
+ - The Music of Red Dead Redemption 2 \(Original Soundtrack\)
+## D\-Shake
+ - Yaaah + Techno Trance \(Remixes\)
 ## D12
  - Encore \(Deluxe Version\)
  - The Eminem Show
  - The Marshall Mathers LP
+## Da Hool
+ - Meet Her At The Loveparade
 ## Da Vinci's Notebook
  - Brontosaurus
 ## Daft Punk
+ - Alive 2007
+ - Around the World
+ - Burnin'
  - Discovery
+ - Harder, Better, Faster, Stronger
  - Homework
+ - Human After All
+ - Human After All \(Remixes\)
+ - Starboy
+## Daft Punk \- Stardust
+ - Alive 2007
 ## Daichi Miura
  - SAMURAI SESSIONS vol.2
 ## Daisuke Hasegawa
  - Uragirimonono Requiem \(From Jo Jo's Bizarre Adventure \- Golden Wind\) \[English Version\]
 ## Dan Auerbach
  - Suicide Squad: The Album
+## Daniel Lanois
+ - The Music of Red Dead Redemption 2 \(Original Soundtrack\)
+## Daniel Lanois/Daryl Johnson/Joseph Maize/Darryl Hatcher/Rhiannon Giddens
+ - The Music of Red Dead Redemption 2 \(Original Soundtrack\)
 ## Daniel Levi
  - NCS: The Best of 2015
  - On & On
@@ -592,6 +655,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - Monstercat 012 \- Aftermath
 ## Darude
  - Before The Storm
+ - Before the Storm
 ## Daryl Hall & John Oates
  - Voices
 ## Dave
@@ -612,6 +676,10 @@ This file contains the list of all the songs that are currently added in the MDR
 ## David Bulla
  - High Life
  - Unexpected
+## David Ferguson
+ - The Music of Red Dead Redemption 2: The Housebuilding EP
+## David Ferguson/Matt Sweeney
+ - The Music of Red Dead Redemption 2: The Housebuilding EP
 ## David Hasselhoff
  - Sings America
 ## David Spekter
@@ -686,6 +754,9 @@ This file contains the list of all the songs that are currently added in the MDR
  - The Eminem Show
 ## Dion Timmer
  - Monstercat Uncaged Vol. 8
+ - Rocket League x Monstercat \- Legacy
+## Dion Timmer, Micah Martin
+ - Internet Boy
 ## Diplo
  - Close To Me \(feat. Swae Lee\)
 ## Direct
@@ -696,6 +767,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Die Very Rough \(Gay Parody\)
 ## Dirtyphonics
  - Monstercat Uncaged Vol. 8
+## Disclosure
+ - Flume \(Deluxe Edition\)
 ## Disfigure
  - Blank
  - NCS: Infinity
@@ -717,8 +790,12 @@ This file contains the list of all the songs that are currently added in the MDR
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
 ## Dj Mashiro
  - Cytus II\-Neko \(Original Soundtracks\)
+## DJ Mehdi
+ - Lucky Boy At Night
 ## DJ Noriken
  - EDM Extreme
+## DJ Rolando
+ - Paradise Garage: Inspirations
 ## DJ Tokai
  - Exit Trance Presents Cm Trance
 ## dj\-Jo
@@ -762,6 +839,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - The Bigger Artist
 ## Don Toliver
  - Music To Be Murdered By
+## Donna Summer
+ - Music For Seventies
 ## DoubleV
  - Tortuga
 ## Dr. Dre
@@ -783,6 +862,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Monstercat 012 \- Aftermath
 ## Drew Love
  - Sick Boy
+## DROELOE
+ - Rocket League x Monstercat Vol. 1
 ## Dropouts
  - NCS: Uplifting
 ## Droptek
@@ -797,6 +878,9 @@ This file contains the list of all the songs that are currently added in the MDR
 ## duumu
  - Talk!
  - Worst Part of Heaven
+## DVRST
+ - Close Eyes
+ - Close Eyes \(Slowed + Reverb\)
 ## Dynoro
  - In My Mind
 ## Dzeko & Torres
@@ -843,11 +927,17 @@ This file contains the list of all the songs that are currently added in the MDR
  - Summersong 2018
  - Vision
  - Vitality
+## Eliza Doolittle
+ - Flume \(Deluxe Edition\)
 ## Ella Mai
  - No.6 Collaborations Project
+## Ellen Allien
+ - Berlinette
 ## Ellie Goulding
  - Close To Me \(feat. Swae Lee\)
  - Slow Grenade
+## elricslvt
+ - Daft Punk \- Harder, Better, Faster, Stronger \(ORIGINAL\)
 ## Elton John
  - Curtain Call \(Deluxe\)
  - Curtain Call: The Hits
@@ -891,6 +981,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - The Marshall Mathers LP2 \(Deluxe\)
  - The Slim Shady LP
  - The Slim Shady LP \(Expanded Edition\)
+ - Venom \(Music From The Motion Picture\)
  - Walk On Water \(feat. Beyoncé\)
 ## Eminence
  - Monstercat 010 \- Conquest
@@ -915,14 +1006,27 @@ This file contains the list of all the songs that are currently added in the MDR
  - Sweet Dreams \(Are Made Of This\)
 ## Evan Freakshow
  - Guardians Of The Galaxy \- Hooked On A Feeling
+## Evan King
+ - Karlson Wave \(Milkman Karlson Theme\) \[Original Game Soundtrack\]
+ - Vibing in the 20s
 ## Eve
  - Kaikai Kitan / Ao No Waltz
  - 廻廻奇譚
  - 闇夜
 ## evening cinema
  - summertime
+## Everything but the Girl
+ - Missing \(Remixes\)
+## Faithless
+ - Essential \- The 90s
+## Fani Lou
+ - Psychomagic
 ## Farruko
  - On My Way
+## Fatboy Slim
+ - Why Try Harder \- The Greatest Hits
+## Favored Nations
+ - The Great Unknown
 ## Fear, and Loathing in Las Vegas
  - All That We Have Now
  - Feeling of Unity
@@ -930,6 +1034,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Monstercat 007 \- Solace
  - Monstercat 010 \- Conquest
  - Rocket League x Monstercat Vol. 1
+## Felix da Housecat
+ - Verve Remixed 2
 ## fhána
  - World Atlas
 ## Fleetwood Mac
@@ -962,6 +1068,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Ultimate Battle
  - Vegeta Royal Blue Theme
  - チャラ・ヘッチャラ
+## Fritz Kalkbrenner
+ - Berlin Calling \(The Soundtrack by Paul Kalkbrenner\)
 ## Frozen Silence
  - Anime & Chill Lofi Beats for Study
 ## Fujifabric
@@ -982,13 +1090,18 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Geek Music
  - Death Note \- L's Theme \- Main Theme
  - Naruto Shippuden \- Girei \- Pains Theme
+ - Red Dead Redemption 2 \- EP Compilation
  - The Anime Collection Volume One
 ## Gemma Jones
  - Rocketman \(Music From The Motion Picture\)
+## George Morel
+ - Morel's Grooves \(Pt. 4\)
 ## Gerard Way
  - \> album title goes here \<
 ## Gigi D'Agostino
  - In My Mind
+## Gil Scott\-Heron
+ - We're New Here
 ## GIN
  - POP TEAM EPIC: ALL TIME BEST
 ## Gloria Gaynor
@@ -997,6 +1110,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - NCS: The Best of 2016
 ## Going Quantum
  - Monstercat 007 \- Solace
+## Gotye
+ - Making Mirrors
 ## Gracie Abrams
  - This Is What It Feels Like
  - minor
@@ -1012,6 +1127,9 @@ This file contains the list of all the songs that are currently added in the MDR
  - Good Stuff
 ## Grimes
  - Suicide Squad: The Album
+ - Visions
+## Groove Armada
+ - The Best Of
 ## Guitarrista de Atena
  - EPIC Battle Themes I
 ## Guns N' Roses
@@ -1027,6 +1145,8 @@ This file contains the list of all the songs that are currently added in the MDR
 ## halca
  - FIRST DROP
  - 告白バンジージャンプ
+## Halogen
+ - U Got That
 ## Harry Gregson\-Williams
  - METAL GEAR 20th ANNIVERSARY METAL GEAR MUSIC COLLECTION
 ## Haruka Tomatsu
@@ -1060,6 +1180,12 @@ This file contains the list of all the songs that are currently added in the MDR
  - 2001 \(Explicit Version\)
 ## Hollaphonic
  - Ignite \(Remixes\)
+## Hollywood Principle
+ - Starting Over
+## Hollywood Principle, Dr. Awkward
+ - Solar Eclipses
+## Hollywood Principle, Ether
+ - Starting Over
 ## Holo Bass
  - Ground Pound
  - Lofi Hip Hop for Eldritch Horrors to Draw to
@@ -1091,6 +1217,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Duckstep
 ## Hommarju
  - EDM Extreme
+## Hot Chip
+ - One Life Stand
 ## Hunter Hayes
  - Goodbye Yellow Brick Road \(Remastered / Deluxe Edition\)
 ## HYDE
@@ -1121,12 +1249,18 @@ This file contains the list of all the songs that are currently added in the MDR
 ## In\-Phase
  - Monstercat 016 \- Expedition
 ## Infected Mushroom
+ - Head of NASA and the 2 Amish Boys
  - Return to the Sauce
+ - Walking on the Moon \(Bad Computer Remix\)
 ## Insan3lik3
  - Monstercat 007 \- Solace
+## Insideinfo, Jakes
+ - InsideInfo
 ## Inukshuk
  - NCS is Love, NCS is Life, Vol. 1
  - NCS: The Best of 2015
+## Inzo
+ - Overthinker
 ## Iris \~Pamela Calvo\~
  - Komm, süsser Tod / Ven, dulce muerte
 ## Isabel Higuero
@@ -1167,6 +1301,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Rocketman \(Music From The Motion Picture\)
 ## Jamie N Commons
  - The Marshall Mathers LP2 \(Deluxe\)
+## Jamie xx
+ - We're New Here
 ## Jan Dušek
  - Arma 3 \(Original Game Soundtrack\)
 ## Jan Ilavsky
@@ -1190,6 +1326,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Come A Little Bit Closer: The Best Of Jay & The Americans
 ## JAY\-Z
  - Scorpion
+## Jaydee
+ - In Order to Dance
 ## Jaykol
  - Primetime Adventures
 ## JayTurtleGod
@@ -1199,6 +1337,12 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Jeff Bass
  - The Slim Shady LP
  - The Slim Shady LP \(Expanded Edition\)
+## Jeff Mills
+ - Blue Potential \- Live with Montpelier Philharmonic Orchestra
+## Jeff Silverman/Colin Stetson/David Ralicke
+ - The Music of Red Dead Redemption 2 \(Original Score\)
+## Jeff Silverman/Woody Jackson/Luke O’Malley
+ - The Music of Red Dead Redemption 2 \(Original Score\)
 ## Jensation
  - Delicious
  - Donuts
@@ -1273,8 +1417,12 @@ This file contains the list of all the songs that are currently added in the MDR
  - NCS: Uplifting
 ## Jonth
  - Game Time
+## Josh Homme
+ - The Music of Red Dead Redemption 2 \(Original Soundtrack\)
 ## Joyner Lucas
  - Kamikaze
+## Joyryde
+ - THE BOX
 ## JO☆STARS 〜TOMMY,Coda,JIN〜
  - JoJo Sonochino Kioku\~end of THE WORLD\~
 ## JPB
@@ -1298,10 +1446,15 @@ This file contains the list of all the songs that are currently added in the MDR
  - Ignite \(Remixes\)
 ## Juorma
  - Pure Tropical House
+## Justice
+ - Justice
+ - We Are Your Friends
 ## Justin Bieber
  - No.6 Collaborations Project
 ## Justin OH
  - Monstercat Uncaged Vol. 8
+## Justin Timberlake
+ - FutureSex/LoveSounds
 ## Jüri Pootsmann
  - NCS: The Best of 2016
 ## K\-391
@@ -1313,6 +1466,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Ignite \(Remixes\)
  - NCS: The Best of 2016
  - Play
+## K.FLAY
+ - Every Where Is Some Where
 ## K.Safo
  - Future Vibes
 ## KAIZ
@@ -1341,6 +1496,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Reset
 ## Katie Boyle
  - NCS: Uplifting
+## Kavinsky
+ - OutRun
 ## Kazunobu Mineta
  - 大森靖子
 ## Kazuya Yoshii
@@ -1373,12 +1530,16 @@ This file contains the list of all the songs that are currently added in the MDR
  - Thunderbolt and Lightning
 ## Khalid
  - No.6 Collaborations Project
+## Kid\_skullomania
+ - Donna Burke \- Sins Of The Father \(Full Metal Gear Solid V\- The Phantom Pain Soundtrack Version\)
 ## Kiki Dee
  - Rocket Man \(Deluxe Edition\)
 ## Killercats
  - NCS is Love, NCS is Life, Vol. 1
  - NCS: The Best of 2015
  - Tell Me
+## Kimbra
+ - Making Mirrors
 ## Kimi
  - Cytus II\-Neko \(Original Soundtracks\)
 ## Kings & Folk
@@ -1428,6 +1589,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Xronial Xero
 ## Kronno Zomber
  - Youtubers Life Rap
+## Krono
+ - Ibiza 2019
 ## Krys Talk
  - NCS: The Best of 2015
  - Way Back Home
@@ -1464,6 +1627,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Here We Are
  - Imaginary Friends
  - One Step Away
+## LATASHÁ
+ - Psychomagic
 ## Laura Brehm
  - Chosen
  - MAYDAY
@@ -1477,6 +1642,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Plants Vs. Zombies \(Original Video Game Soundtrack\)
 ## Lauren Bennett
  - The Lady Killer
+## Laurent Garnier
+ - 30
 ## Lauv
  - I met you when I was 18. \(the playlist\)
  - Slow Grenade
@@ -1505,6 +1672,12 @@ This file contains the list of all the songs that are currently added in the MDR
  - Led Zeppelin
  - Led Zeppelin III \(Remaster\)
  - Led Zeppelin IV \(Deluxe Edition\)
+## Lemaitre, Jennie A.
+ - Chapter One
+## Lemaitre, Mark Johns
+ - Chapter One
+## Lemaitre, Maty Noyes
+ - Chapter One
 ## Lensko
  - Cetus
  - Circles
@@ -1591,8 +1764,14 @@ This file contains the list of all the songs that are currently added in the MDR
  - Utamonogatari Special Edition \(Original Soundtrack\)
 ## LunchMoney Lewis
  - Greenlight \(feat. Flo Rida & LunchMoney Lewis\)
+## Luvli
+ - Ibiza 2019
 ## M\-Project
  - Cytus II\-Neko \(Original Soundtracks\)
+## M.I.A.
+ - Kala
+## M83
+ - Midnight City \(Remix EP\)
 ## mabanua
  - アニメ『BNA ビー・エヌ・エー』Complete album
 ## Machico
@@ -1603,6 +1782,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - BINGE
  - DAYWALKER! \(feat. CORPSE\)
  - RAP DEVIL
+## Macky Gee
+ - Aftershock
 ## Mad Child
  - Voltage Ignition 2
 ## MADKID
@@ -1627,6 +1808,14 @@ This file contains the list of all the songs that are currently added in the MDR
  - Play
 ## Marc Martel
  - Thunderbolt and Lightning
+## Marcin Przybyłowicz
+ - Cyberpunk 2077 \- Original Score
+ - The Witcher 3: Wild Hunt \(Original Game Soundtrack\)
+ - The Witcher 3: Wild Hunt \- Hearts Of Stone \(Original Game Soundtrack\)
+## Mario Batkovic
+ - The Music of Red Dead Redemption 2 \(Original Score\)
+## Mario Batkovic/Woody Jackson
+ - The Music of Red Dead Redemption 2 \(Original Score\)
 ## Mario Judah
  - Die Very Rough
 ## Mariye Ise
@@ -1718,12 +1907,16 @@ This file contains the list of all the songs that are currently added in the MDR
  - NCS: Infinity
 ## Meron Ryan
  - Heavyweight
+## Metro Area
+ - Metro Area \(15th Anniversary Edition\)
 ## Mia Suszko
  - Pure Tropical House
 ## Mia Vaile
  - NCS: The Best of 2016
 ## Michael Giacchino
  - Ratatouille \(Original Motion Picture Soundtrack\)
+## Michael Leonhart/Woody Jackson
+ - The Music of Red Dead Redemption 2 \(Original Score\)
 ## Mick Gordon
  - Doom \(Original Game Soundtrack\)
 ## Miguel
@@ -1754,6 +1947,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - 雨と体液と匂い
 ## Minamotoya
  - Voltage Ignition 2
+## Miss Kittin
+ - Bassline EP
 ## Miss Lina
  - Connected \- EP
 ## Missy Elliott
@@ -1774,10 +1969,14 @@ This file contains the list of all the songs that are currently added in the MDR
  - EDM Extreme
 ## MOB CHOIR
  - 99.9
+## Moby
+ - Play
 ## Mochi
  - Centimeter \(Remix\)
 ## Modernmadeit
  - Arabic Nokia Type Beat
+## Modjo
+ - Modjo \(Remastered\)
 ## MOL$
  - DEATH NOTE?
  - Golden Wind!
@@ -1815,6 +2014,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Let's Fighting Love \(From "South Park"\)
 ## Mr. Nickelz
  - Free, Vol. 4
+## Mr. Oizo
+ - Flat Beat
 ## Mrs. GREEN APPLE
  - Attitude
 ## Ms. Roq
@@ -1829,6 +2030,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Babel
 ## Muray
  - JAPAN ANIMESONG COLLECTION VOL.28 \[アニソン・ジャパン\]
+## Muse
+ - Butterflies and Hurricanes
 ## Mutrix
  - Origins
 ## MUZZ
@@ -1877,6 +2080,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - TV SERIES ”DUMBBELL NAN\-KILO MOTERU?” OPENING THEME「ONEGAI MUSCLE」/ENDING THEME「MACHO ARE NAME?」
 ## Natalia Natchan
  - Doom Crossing: Eternal Horizons
+## Natalie Holt
+ - Loki: Vol. 1 \(Episodes 1\-3\) \(Original Soundtrack\)
 ## Natasha Farrow
  - METAL GEAR 20th ANNIVERSARY METAL GEAR MUSIC COLLECTION
 ## Nate Dogg
@@ -1901,6 +2106,8 @@ This file contains the list of all the songs that are currently added in the MDR
 ## NCT
  - NCS is Love, NCS is Life, Vol. 1
  - NCS: The Best of 2015
+## NEFFEX
+ - Manifest It
 ## nekodex
  - circles!
 ## NeLiME
@@ -1920,6 +2127,8 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Nightmare
  - the WORLD Ruler
  - the WORLD/アルミナ
+## Nina Simone
+ - Verve Remixed 2
 ## NINE
  - Exit Trance Presents Cm Trance
 ## Ninja Sex Party
@@ -1965,6 +2174,9 @@ This file contains the list of all the songs that are currently added in the MDR
  - Each Other
 ## NOTD
  - Leave It Beautiful \(Complete\)
+## Nvdes
+ - Psychomagic
+ - Rock & Roll
 ## Nyanikore
  - Duckstep
 ## Obie Trice
@@ -2006,6 +2218,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Native
 ## Outwild
  - NCS: The Best of 2015
+## Oxia
+ - Total 7
 ## OxT
  - Hello New World
  - Reunion
@@ -2014,6 +2228,11 @@ This file contains the list of all the songs that are currently added in the MDR
  - Revival
 ## P\*Light
  - すりーぷ!
+## P.T. Adamczyk
+ - Cyberpunk 2077 \- Original Score
+ - Cyberpunk 2077 \- Original Score EP
+## P.T. Adamczyk/Olga Jankowska
+ - Cyberpunk 2077 \- Original Score
 ## p19
  - いんふぃにてぃ・もふりてぃ!
  - ふわもふはぴねす24/7!!
@@ -2033,6 +2252,12 @@ This file contains the list of all the songs that are currently added in the MDR
  - The Slim Shady LP \(Expanded Edition\)
 ## Paul Flint
  - NCS: The Best of 2016
+## Paul Johnson
+ - Get Get Down
+## Paul Kalkbrenner
+ - Berlin Calling \(The Soundtrack by Paul Kalkbrenner\)
+## Paul Leonard\-Morgan
+ - Cyberpunk 2077 \- Original Score
 ## Paul Rosenberg
  - Kamikaze
 ## Paulo Londra
@@ -2061,6 +2286,10 @@ This file contains the list of all the songs that are currently added in the MDR
  - Ching Cheng Hanji \(Lofi Remix\)
 ## pennybirdrabbit
  - Scary Monsters and Nice Sprites EP
+## Pentatonix
+ - PTX
+## Petit Biscuit
+ - Presence
 ## pewdiepie
  - Congratulations
 ## Phaera
@@ -2210,6 +2439,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - SICC
 ## Rezonate
  - Monstercat 010 \- Conquest
+## Rhiannon Giddens
+ - The Music of Red Dead Redemption 2 \(Original Soundtrack\)
 ## RichaadEB
  - Bullet Hell II
 ## Richard Madden
@@ -2242,9 +2473,17 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Robert Chen
  - Realize \(From "Re: Zero \-Starting Life in Another World"\)
  - Tabibito no Uta \(From "Mushoku Tensei: Jobless Reincarnation"\)
+## Robert Miles
+ - 2gether 90 \(Années 90\)
+## Robin S
+ - Show Me Love
 ## Robin Thicke
  - Despicable Me
  - The Bigger Artist
+## robotomichenko
+ - \(harder, better, faster\) stronger
+## Rocco DeLuca
+ - The Music of Red Dead Redemption 2 \(Original Soundtrack\)
 ## Rogue
  - Let's Talk
  - Monstercat 007 \- Solace
@@ -2259,6 +2498,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - 海底のオーケストラ
 ## Roomie
  - Congratulations
+## Roudoudou
+ - listener's digest
 ## Royce Da 5'9"
  - Kamikaze
  - Music To Be Murdered By
@@ -2270,6 +2511,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - 23
  - LIFE
 ## Ruelle
+ - Madness
  - Perception
 ## Rundfunk
  - Monstercat 010 \- Conquest
@@ -2319,6 +2561,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Chaos Drifters / CRY
 ## SAYGRACE
  - Suicide Squad: The Album
+## Scatman John
+ - Scatman's World
 ## Scorpions
  - Love At First Sting
 ## Scott Brown
@@ -2342,6 +2586,10 @@ This file contains the list of all the songs that are currently added in the MDR
  - It Ain't Me
  - Nine Track Mind
  - Rare
+## Senyawa/Colin Stetson
+ - The Music of Red Dead Redemption 2 \(Original Score\)
+## Senyawa/Colin Stetson/Woody Jackson
+ - The Music of Red Dead Redemption 2 \(Original Score\)
 ## Sethh
  - NCS is Love, NCS is Life, Vol. 1
 ## SEUNGRI
@@ -2393,6 +2641,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Hacking to the Gate
 ## Shy Carter
  - Nine Track Mind
+## Shy FX
+ - Original Nuttah 25
 ## Sia
  - The Marshall Mathers LP2 \(Deluxe\)
 ## SID
@@ -2403,6 +2653,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - The Wall \(Buunshin Remix\) / If U \(Synergy Remix\)
 ## Silver
  - Silver
+## Simian
+ - We Are Your Friends
 ## Simpsonill
  - Awaken
 ## Six\-Two
@@ -2454,6 +2706,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Resonance
 ## Sonita Alizadeh
  - SAMURAI SESSIONS vol.2
+## Sono
+ - Solid State
 ## Sophia Somajo
  - Different World
 ## Sorana
@@ -2521,6 +2775,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - TOP \-Japanese ver.\-
 ## STRIX
  - NCS is Love, NCS is Life, Vol. 1
+## Stuart Rowe
+ - Aftershock
 ## STUNK\(CV:JUNJI MAJIMA\)
  - OPENING&ENDING THEME FROM TV SERIES ”INTERSPECIES REVIEWERS”
 ## Subtact
@@ -2598,6 +2854,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Inception
  - Kiko
  - Unstoppable EP
+## The Avalanches
+ - Since I Left You
 ## The Band Perry
  - Goodbye Yellow Brick Road \(Remastered / Deluxe Edition\)
 ## The Beatles
@@ -2614,6 +2872,13 @@ This file contains the list of all the songs that are currently added in the MDR
  - Memories...Do Not Open
 ## The Chalkeaters
  - Doom Crossing: Eternal Horizons
+## The Chalkeaters, Idrise
+ - Lock Me Up \(Quarantine Song\) \[feat. Idrise\]
+## The Chalkeaters, Natalia Natchan
+ - Breathtaking \(feat. Natalia Natchan\)
+ - Doom Crossing: Eternal Horizons \(feat. Natalia Natchan\)
+## The Chemical Brothers
+ - Surrender
 ## The Clash
  - Combat Rock \(Remastered\)
 ## The Consouls
@@ -2631,8 +2896,12 @@ This file contains the list of all the songs that are currently added in the MDR
  - Seven Nation Army \(The Glitch Mob Remix\)
 ## The Goo Goo Dolls
  - Dizzy up the Girl
+## The Irrepressibles
+ - In This Shirt
 ## The Jackson 5
  - Guardians of the Galaxy: Awesome Mix Vol. 1 \(Original Motion Picture Soundtrack\)
+## The Knife
+ - Deep Cuts
 ## The Lumineers
  - Cleopatra
  - III
@@ -2649,6 +2918,8 @@ This file contains the list of all the songs that are currently added in the MDR
 ## the peggies
  - Hell Like Heaven
  - センチメートル
+## The Prodigy
+ - The Fat of the Land \- Expanded Edition
 ## The Runaways
  - Guardians of the Galaxy: Awesome Mix Vol. 1 \(Original Motion Picture Soundtrack\)
  - The Runaways
@@ -2658,8 +2929,11 @@ This file contains the list of all the songs that are currently added in the MDR
  - Despicable Me
 ## The Time Bomb
  - 2001
+## The Toxic Avenger
+ - Furi \(Original Game Soundtrack\)
 ## The Weeknd
  - Positions \(Deluxe\)
+ - Starboy
 ## The White Stripes
  - Elephant
  - Seven Nation Army \(The Glitch Mob Remix\)
@@ -2710,6 +2984,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - EPIC Battle Themes I
 ## Tim Barton
  - Guardians Of The Galaxy \- Hooked On A Feeling
+## Timbaland
+ - FutureSex/LoveSounds
 ## Time Bomb
  - 2001 \(Explicit Version\)
 ## Tiny C
@@ -2747,6 +3023,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - MOSHI
  - Monstercat Uncaged Vol. 8
  - PLAY
+ - ROCK IT \(VIP\)
  - Rocket League x Monstercat Vol. 1
 ## Tomine Harket
  - Different World
@@ -2839,6 +3116,8 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Tyler Fiore
  - NCS: Uplifting
  - Paralyzed
+## Uk Apache
+ - Original Nuttah 25
 ## UKI
  - Exit Trance Presents Cm Trance
 ## UMA
@@ -2847,6 +3126,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Gurenge
  - Jingo Jungle \(Remixes\)
  - Realize \(Extended\) \[Remix\]
+## Underworld
+ - 1992 \- 2012
 ## Unison
  - Aperture
 ## Unknown Brain
@@ -2868,6 +3149,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - sucks to see you doing better \(extended\)
 ## vally.exe
  - Shock \(Remix\)
+## Valve
+ - Half\-Life 2
 ## Vantage
  - J\-Funk City : Vantage's Edits Collection
 ## Vanze
@@ -2878,6 +3161,14 @@ This file contains the list of all the songs that are currently added in the MDR
  - Monstercat 016 \- Expedition
 ## Varien & 7 Minutes Dead
  - Mirai Sekai
+## Various Artists
+ - Rocket League x Monstercat Vol. 1
+## Various Artists, Bad Computer, Skyelle
+ - Rocket League x Monstercat Vol. 3
+## Various Artists, Dion Timmer
+ - Rocket League x Monstercat Vol. 3
+## Various Artists, Favored Nations
+ - The Music of Grand Theft Auto V, Vol. 1: Original Music
 ## Vaundy
  - strobo
 ## Veela
@@ -2958,6 +3249,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Polaris \(Remix\)
 ## William Ekh
  - NCS: Infinity
+## Willie Nelson
+ - The Music of Red Dead Redemption 2 \(Original Soundtrack\)
 ## Winona Oak
  - Sick Boy
 ## Wiz Khalifa
@@ -2967,6 +3260,9 @@ This file contains the list of all the songs that are currently added in the MDR
  - \> album title goes here \<
 ## Wonder
  - DEATH NOTE?
+## Woody Jackson
+ - Red Dead Redemption II Original Soundtrack
+ - The Music of Red Dead Redemption 2 \(Original Score\)
 ## World's End Girlfriend
  - Millennium Mother
 ## X Ambassadors
