@@ -78,8 +78,8 @@ def download_artist_exceptions_list() -> tuple:
     while (tries := tries + 1) <= 3:
         try:
             result = []
-            ez = open("ArtistExceptions.dat", encoding='utf-8')
-            for line in ez.readlines():
+            artistexceptionfile = open("ArtistExceptions.dat", encoding='utf-8')
+            for line in artistexceptionfile.readlines():
                 result.append(line.strip())
             ARTISTS_WITH_SLASH = result
         except Exception as e:
