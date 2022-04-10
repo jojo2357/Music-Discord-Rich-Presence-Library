@@ -35,8 +35,6 @@ This file contains the list of all the songs that are currently added in the MDR
  - COLORFUL
 ## 9mm Parabellum Bullet
  - インフェルノ
-## \\ Ingrosso
- - More Than You Know
 ## A Boogie Wit da Hoodie
  - Hoodie SZN
  - No.6 Collaborations Project
@@ -285,7 +283,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - Run
 ## Axero
  - Pure Tropical House
-## Axwell 
+## Axwell /\\ Ingrosso
  - More Than You Know
 ## Ayatsugu\_Neverend
  - Cytus II\-Neko \(Original Soundtracks\)
