@@ -72,17 +72,18 @@ def escape(string: str):
 
 
 def download_artist_exceptions_list() -> tuple:
-    # Download the list of artists with a forward slash
+    # Get the list of artists with a forward slash
     ARTISTS_WITH_SLASH = tuple()
     tries = 0
     while (tries := tries + 1) <= 3:
         try:
-            ARTISTS_WITH_SLASH = requests.get(
-                "https://gist.githubusercontent.com/RoguedBear/b0c7028c6ca194f01218d3281644bbc0/raw/").text.split("\n")
+            result = []
+            ez = open("ArtistExceptions.dat", encoding='utf-8')
+            for line in ez.readlines():
+                result.append(line.strip())
+            ARTISTS_WITH_SLASH = result
         except Exception as e:
             logger.exception(e)
-            logger.warning("Unable to download artist list! giving %d more tries", 4 - tries)
-            time.sleep(30)
         else:
             logger.info("Artist list downloaded. Total artist on the list: %d", len(ARTISTS_WITH_SLASH))
             break
@@ -191,7 +192,7 @@ if __name__ == '__main__':
     stat_counter = {"total_songs": 0}
     # Go through each file.
     for dat_file in ALL_FILES:
-        with open(dat_file) as f:
+        with open(dat_file, encoding='utf-8') as f:
             # Skip the first 2 lines
             f.readline()
             f.readline()
@@ -226,7 +227,7 @@ if __name__ == '__main__':
             MARKDOWN_CONTENT += f" - {escape(album)}\n"
 
     # Now write the Markdown file
-    with open("Albums_in_MDRP.md", "w") as file:
+    with open("Albums_in_MDRP.md", "w", encoding='utf-8') as file:
         file.write("# List of Albums:\n")
         file.write("This file contains the list of all the songs that are currently added in the MDRP discord"
                    " applications.\n\n")
@@ -251,6 +252,6 @@ if __name__ == '__main__':
         TEXT_CONTENT += "\n\n"
 
     # Now write the text file
-    with open("Albums_in_MDRP.txt", "w") as file:
+    with open("Albums_in_MDRP.txt", "w", encoding='utf-8') as file:
         file.write(TEXT_CONTENT)
         logger.info("Created the text file")
