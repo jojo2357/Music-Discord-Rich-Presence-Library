@@ -4,6 +4,7 @@
   "dependencies": {
     "canvas": "^2.7.0",
     "jsmediatags": "^3.9.5",
+    "music-metadata": "^7.12.3",
     "resemblejs": "^3.2.5",
     "sharp": "^0.27.2"
   }

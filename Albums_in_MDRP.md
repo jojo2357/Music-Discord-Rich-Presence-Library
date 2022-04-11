@@ -5,96 +5,531 @@ This file contains the list of all the songs that are currently added in the MDR
 ## 
  - 
 
+## $atori Zoom
+ - BUSTER
+ - DONNA
+## $hoey
+ - Four Two Three
+## $NOT
+ - \- TRAGEDY +
+ - Ethereal
+## $uicideboy$
+ - YUNGDEATHLILLIFE
 ## \(K\)NoW\_NAME
  - TVアニメ「ドロヘドロ」EDテーマソングアルバム「混沌の中で踊れ」
  - TVアニメ「ドロヘドロ」オープニングテーマ「Welcome トゥ 混沌」
 ## \(花田 啓太朗\)
  - 龍が如く極 オリジナルサウンドトラック
+## \*Luna
+ - IA SUPER BEST \-THE CREATORS \-
+ - 流星のパルス
+## 03 Greedo
+ - Party Pack. Vol 2
+## 070 Shake
+ - NASIR
 ## 10cc
  - Guardians of the Galaxy: Awesome Mix Vol. 1 \(Original Motion Picture Soundtrack\)
+## 112
+ - Bad Boy's 10th Anniversary\- The Hits
+ - Infamy
+ - Life After Death \(2014 Remastered Edition\)
+## 164
+ - EXIT TUNES PRESENTS GUMing from Megpoid
+ - EXIT TUNES PRESENTS Supernova\(スーパーノヴァ\)2 ジャケットイラスト:redjuice
+ - EXIT TUNES PRESENTS THE BEST OF GUMI from Megpoid
+ - THIS IS VOCAROCK feat.GUMI
+## 1nonly
+ - DONNA
+ - Stay With Me
+## 1takejay
+ - Perfect Ten
+## 2 Chainz
+ - B.O.A.T.S. II #METIME \(Deluxe\)
+ - Based On A T.R.U. Story \(Deluxe\)
+ - Bigger Than You feat. Drake & Quavo
+ - Black Panther The Album Music From And Inspired By
+ - Bobby Tarantino II
+ - Champions
+ - Coloring Book
+ - Culture
+ - Do My Dance
+ - Dope Don't Sell Itself
+ - Double Or Nothing \(& Metro Boomin\)
+ - Dreams and Nightmares \(Deluxe Edition\)
+ - Droptopwop
+ - Good News
+ - Hotel California \(Deluxe\)
+ - I Am Not A Human Being II \(Deluxe\)
+ - Ice Daddy
+ - Jesus Piece \(Deluxe\)
+ - Kanye West Presents Good Music Cruel Summer
+ - LAW 3: Now Or Never
+ - LONG.LIVE.A$AP \(Deluxe Version\)
+ - Mercy
+ - More Life
+ - Nothing Was The Same \(Deluxe\)
+ - Oxymoron \(Deluxe\)
+ - Pretty Girls Like Trap Music
+ - Rodeo \(Expanded Edition\)
+ - STAY DANGEROUS
+ - Special Effects
+ - Stay Trippy
+ - Stoney \(Deluxe\)
+ - THE HUSTLE CONTINUES
+ - Tha Carter V \(Deluxe\)
+ - Trap Music 2k12
+ - Uncle Drew \(Original Motion Picture Soundtrack\)
+ - Underground Luxury
+ - When I Feel Like It
+## 2 Pistols
+ - Death Before Dishonor
+## 21 Lil Harold
+ - Keep IT 21
+ - LARRY
 ## 21 Savage
+ - Back On My Baby Jesus Sh!t AGAIN
+ - Born 2 Rap
+ - Certified Lover Boy
+ - Championships
+ - Cocky \(feat. London On Da Track\)
+ - Culture II
+ - DS4EVER
+ - Double Or Nothing \(& Metro Boomin\)
+ - Faith
+ - Immortal
+ - Invasion of Privacy
+ - KHALED KHALED
+ - LIVE LIFE FAST
+ - Love Songs 4 the Streets 2
+ - Nasty Dealer 2
+ - Outlawz \(feat. Jazmine Sullivan & 21 Savage\)
+ - PTSD
+ - Richer Than I Ever Been
+ - SAVAGE MODE II
+ - So Much Fun
+ - Spiral
+ - Surround Sound \(feat. 21 Savage & Baby Tate\)
  - The Bigger Artist
+ - The Off\-Season
+ - Uncle Drew \(Original Motion Picture Soundtrack\)
+ - Who Want Smoke?? \(feat. G Herbo, Lil Durk & 21 Savage\)
+ - Who is Nardo Wick?
+ - Without Warning
+ - beerbongs & bentleys
+ - i am \> i was
+## 22december
+ - TRAPPIN' IN JAPAN!
+ - chinatown!
+## 22Gz
+ - Growth & Development
+ - Retaliation
+ - The Blixky Tape
 ## 24hrs
  - BINGE
+## 24kGoldn
+ - DROPPED OUTTA COLLEGE
+ - I Won \[From F9 The Fast Saga Original Motion Picture Soundtrack\]
+ - Prada \(feat. Lil Tecca\)
+ - Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)
+## 25時、ナイトコードで。
+ - 25時、ナイトコードで。 SEKAI ALBUM vol.1
+ - 悔やむと書いてミライ/携帯恋話/ジャックポットサッドガール
+ - 限りなく灰色へ/アイディスマイル
+## 2forwOyNE
+ - Confetti
+## 2KBABY
+ - Belair Baby 2
+ - Die 4 Respect
+## 2Pac
+ - 2Pacalypse Now
+ - All Eyez On Me
+ - God's Son
+ - Greatest Hits
+ - Loyal To The Game
+ - Me Against The World
+ - Nu\-mixx Klazzics
+ - Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack
+ - R U Still Down? \[Remember Me\]
+ - Strictly 4 My N.I.G.G.A.Z...
+ - The Best of 2Pac
+ - The Big Picture
+ - Thug Life: Volume 1
+ - Until The End Of Time
+## 2PRETTY
+ - PTSD
+## 3 Glizzy
+ - LAW 3: Now Or Never
+## 30 Glizzy
+ - LAW 3: Now Or Never
+## 347aidan
+ - CHASING HARMONY
+ - Dancing in My Room
+ - Demons and Monsters
+ - HARMONY
+ - IDWK
+ - TROUBLED MEMORIES!
+## 38 Spesh
+ - The Plugs I Met
 ## 3R2
  - Cytus II\-Neko \(Original Soundtracks\)
 ## 3年E組うた担\(渚&茅野&業&磯貝&前原\)
  - バイバイ YESTERDAY
+## 40 Thevz
+ - Gangsta's Paradise
+## 40mP
+ - 41m
+ - EXIT TUNES PRESENTS GUMing from Megpoid
+ - EXIT TUNES PRESENTS Supernova\(スーパーノヴァ\)2 ジャケットイラスト:redjuice
+ - EXIT TUNES PRESENTS THE BEST OF GUMI from Megpoid
+ - HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]
+ - ウタカタリレイション
+ - 初音ミク「マジカルミライ 2014」 \[Live\]
+## 42 Dugg
+ - Belair Baby 2
+ - CALL ME IF YOU GET LOST
+ - Detroit 2
+ - Die 4 Respect
+ - Dope Don't Sell Itself
+ - FOR CERTAIN \(Deluxe\)
+ - Faith
+ - Love Me While I'm Here
+ - My Turn
+ - My Turn \(Deluxe\)
+ - They Got Amnesia
+ - What You Expect
+## 4ize
+ - MM..FOOD
 ## 5 Seconds of Summer
- - Killer Queen
  - Youngblood \(Deluxe\)
 ## 50 Cent
+ - 8 Mile \(Music From And Inspired By The Motion Picture\)
+ - Bad Boy's 10th Anniversary\- The Hits
+ - Born Sinner
+ - Born Sinner \(Deluxe Version\)
+ - Bullet Proof
+ - Buzzin Remix
+ - Cheers
+ - Cradle 2 The Grave
  - Encore \(Deluxe Version\)
+ - Fan of A Fan The Album \(Expanded Edition\)
+ - Fear of God II: Let Us Pray
+ - Finally Rich \(Deluxe\)
+ - FutureSex/LoveSounds Deluxe Edition
  - Get Rich Or Die Tryin'
+ - Get Rich Or Die Tryin'\- The Original Motion Picture Soundtrack
+ - Grand Champ
+ - H.F.M. 2 \(Hunger For More 2\)
+ - Loyal To The Game
+ - No Romeo No Juliet
  - No.6 Collaborations Project
+ - Outta Control \(Remix\)
+ - Relapse: Refill
+ - SHADYXV
+ - Shoot For The Stars Aim For The Moon
+ - Southpaw \(Music From And Inspired By The Motion Picture\)
+ - Still Think I'm Nothing \(feat. Jeremih\)
+ - The DeAndre Way
+ - The Documentary
+ - The Hunger For More
+ - The Massacre
+ - Thoughts Of A Predicate Felon
+ - Westside Story
+## 50 Cent, DJ Whoo Kid
+ - Bullet Proof
+ - God's Plan
+## 50landing
+ - punk2
+ - re:birth
+## 5am
+ - For What Its Worth
+## 6'9
+ - Illmatic XX
+## 666
+ - EXIT TUNES PRESENTS THE BEST OF GUMI from Megpoid
+## 6feet
+ - chauffeur
 ## 6ix9ine
  - Hoodie SZN
+## 6LACK
+ - Destined 2 Win
+ - DiCaprio 2
+ - East Atlanta Love Letter
+ - Everythings For Sale
+ - FRIENDS KEEP SECRETS
+ - On the Run
+ - The House Is Burning
+ - The Never Story
+ - The Off\-Season
+ - The Voice
+ - The Voice \(Deluxe\)
 ## 7 Minutes Dead
  - Monstercat 016 \- Expedition
+## 7oh2
+ - 6IXSPEED
+ - AGAINST ALL ODDS
+ - FULL THROTTLE
+ - TANDEM
+## 8\-Off Agallah
+ - Game Tight
+## 8\-Off Agallah Featuring Sean Price & Bazaar Royale
+ - Game Tight
+## 80purppp
+ - Hex
+## 87
+ - Out of Focus
+## 88\-Keys
+ - Lyricist Lounge Vol. 1
+## 8Ball
+ - Murda Muzik
+ - The Saga Continues...
+## 90Wyse
+ - From the Mud
 ## 99RadioService
  - COLORFUL
 ## 9mm Parabellum Bullet
  - インフェルノ
-## \\ Ingrosso
- - More Than You Know
+## ?uestlove
+ - Illadelph Halflife
+ - What You Gonna Do When The Grid Goes Down?
 ## A Boogie Wit da Hoodie
+ - BLAME IT ON BABY
+ - BLAME IT ON BABY \(DELUXE\)
+ - GEEZYWORLD
  - Hoodie SZN
+ - KHALED KHALED
+ - Kawhi Leonard Presents: Culture Jam \(Vol. 1\)
+ - King's Disease II
+ - Legendary
+ - Legendary \(Deluxe Edition\)
+ - Love Songs 4 the Streets 2
+ - Meet The Woo 2
  - No.6 Collaborations Project
+ - PTSD
+ - Perfect Ten
+ - Please Excuse Me for Being Antisocial
  - The Bigger Artist
+ - The World Is Yours 2
+## A Rocket To The Moon
+ - Party
+## A Tribe Called Quest
+ - Beats, Rhymes & Life
+ - Midnight Marauders
+ - People's Instinctive Travels and the Paths of Rhythm \(25th Anniversary Edition\)
+ - The Anthology
+ - The Love Movement
+ - The Low End Theory
+ - We got it from Here... Thank You 4 Your service
+## A$AP Ferg
+ - Brandon Banks
+ - DiCaprio 2
+ - Expensive Pain
+ - King's Disease
+ - LONG.LIVE.A$AP \(Deluxe Version\)
+ - Milky Way
+ - My Everything \(Deluxe\)
+ - My Own Lane \(Expanded Edition\)
+ - Perfect \(Remix\) \(feat. Lil Wayne & A$AP Ferg\)
+ - Perfect Ten
+ - Still Striving
+ - These Things Happen
+ - Trap Lord
+ - Uncle Drew \(Original Motion Picture Soundtrack\)
+## A$AP NAST
+ - LIVE.LOVE.A$AP
 ## A$AP Rocky
+ - AT.LONG.LAST.A$AP
+ - Arya
+ - Cocky \(feat. London On Da Track\)
+ - Dex Meets Dexter
+ - Ethereal
+ - Flower Boy
+ - Hands On The Wheel
+ - Indicud
+ - LAW 3: Now Or Never
+ - LIVE.LOVE.A$AP
+ - LONG.LIVE.A$AP \(Deluxe Version\)
  - Live Fast \(PUBGM\)
+ - Mr. Davis
+ - Multiply \(feat. Juicy J\)
+ - Negro Swan
+ - Perfect Ten
+ - Potato Salad
+ - Punk
+ - STAY DANGEROUS
+ - SYRE
+ - Stay Trippy
+ - Still Striving
+ - TESTING
+ - THE HUSTLE CONTINUES
+ - The Beautiful & Damned
+ - Trap Lord
+ - Uncle Drew \(Original Motion Picture Soundtrack\)
+## A$AP Twelvyy
+ - LIVE.LOVE.A$AP
+## A$Ton Matthews
+ - Summertime '06
+ - Trap Lord
+## A\-Butta
+ - Lyricist Lounge Vol. 1
+## a\-ha
+ - Party
+## A\-Wax
+ - Best of Both Worlds
+## A.E.
+ - The Gold Album: 18th Dynasty
+## A.G.
+ - The Big Picture
+## A.L.
+ - Lyricist Lounge Vol. 1
+## A3C
+ - A3c, Vol. 1
 ## AAAMYYY
  - アニメ『BNA ビー・エヌ・エー』Complete album
+## Aaliyah
+ - I Am...
+## Aaron Hall
+ - The Hurricane \(Music From And Inspired By The Motion Picture\)
 ## Aaron Smith
  - Ibiza 2019
 ## Aazar
  - Sick Boy
+## Ab Liva
+ - Fear of God II: Let Us Pray
+## Ab\-Soul
+ - Black Panther The Album Music From And Inspired By
+ - Crown
+ - Do What Thou Wilt.
+ - GO:OD AM
+ - New Beginnings
+ - Overly Dedicated
+ - PRhyme \(Deluxe Version\)
+ - Piñata
+ - Section.80
+ - Setbacks
+ - The Heist
+ - The Heist \(Deluxe Edition\)
+ - Watching Movies with the Sound Off \(Deluxe Edition\)
+ - Waves
+## ABIR
+ - GEMINI
 ## ABIS
  - The Wall \(Buunshin Remix\) / If U \(Synergy Remix\)
+## About Face
+ - Gettin' It \(Album Number Ten\)
+## Absolute AKA Xtra
+ - Lyricist Lounge Vol. 1
+## Abstract
+ - Go Green
 ## AC/DC
  - Back In Black
  - Dirty Deeds Done Dirt Cheap
  - High Voltage
  - Highway to Hell
  - The Razors Edge
+## Ace
+ - Eurobeat Kudos 20
+## Ace Hood
+ - RULA 2
+ - Starvation 2
+ - Trap Music 2k12
+## AcesToAces
+ - Memory Lane
+## Achu\*
+ - Charm
 ## Action Bronson
+ - A3c, Vol. 1
+ - LONG.LIVE.A$AP \(Deluxe Version\)
+ - Mr. Wonderful
+ - Southpaw \(Music From And Inspired By The Motion Picture\)
  - Suicide Squad: The Album
+ - Watching Movies with the Sound Off \(Deluxe Edition\)
+## Acyde
+ - AT.LONG.LAST.A$AP
+## Ad\-Rock
+ - What You Gonna Do When The Grid Goes Down?
+## Adam Levine
+ - Late Registration
+ - Thats What They All Say
+## Adassa
+ - Encanto \(Original Motion Picture Soundtrack\)
+## Ado
+ - うっせぇわ \(Giga Remix\)
+## Adrian Truth
+ - The Storm \(Deluxe Edition\)
 ## Adriana Figueroa
  - The Velvet Lounge
+## Adub
+ - Escapism
 ## Aero Chord
  - Monstercat Uncaged Vol. 8
- - Surface
- - Time Leap
  - Titans
 ## Aerosmith
  - Aerosmith
  - Aerosmith's Greatest Hits
+ - Raising Hell
+## Afflon Crockett
+ - Yancey Boys
+## AfterDeath
+ - Trauma
+## Ag
+ - The Awakening
 ## Against The Current
  - Legends Never Die
  - Legends Never Die \(Remix\)
+## Agent Sasco \(Assassin\)
+ - Book of Ryan \(Bonus Track Edition\)
 ## Agnes
  - Despicable Me
+## Agoaniki
+ - HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]
+ - Kagaminext feat. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―
+## Aha Gazelle
+ - Today We Rebel
 ## Ahrix
  - Ignite \(Remixes\)
  - Nova
+## Ai Yamamoto
+ - Eurobeat Kudos 20
 ## Aika
  - Memento \(Remix\)
 ## Aimer
  - SPARK\-AGAIN
 ## Air
  - Moon Safari
+## Airani Iofifteen
+ - Q&A=E
+## Aitch
+ - Heavy Is The Head
 ## AJR
  - Burn the House Down
  - Let the Games Begin
+ - Neotheater
  - The Click
+## AK
+ - Like I Got It
+ - SCREAMs
 ## Akano
  - Kamado Tanjirou no Uta \(From "Demon Slayer: Kimetsu no Yaiba"\) \[Full Version\]
 ## Akari Kito
  - Swinging Heart
 ## Akihabara TANO\*C's
  - KASAI HARCORES2 ALL STAR
+## Akinyele
+ - The Awakening
+## Akir
+ - Revolutionary Vol. 2
 ## AKLO
  - LOST IN PARADISE
+## Akon
+ - H.F.M. 2 \(Hunger For More 2\)
+ - Kush
+ - Port Of Miami
+ - Summer In The Winter
+ - Tha Blue Carpet Treatment
+## akuyurin
+ - Evils Theater
+## Al Jarreau
+ - The Lost Tapes 2
 ## Alan Umstead
  - The Last of Us
 ## Alan Walker
@@ -108,67 +543,137 @@ This file contains the list of all the songs that are currently added in the MDR
  - Legends Never Die \(Remix\)
  - Live Fast \(PUBGM\)
  - NCS: Infinity
- - NCS: The Best of 2015
- - NCS: Uplifting
  - On My Way
  - Play
  - Sheep \(Alan Walker Relift\)
  - Spectre
  - The Spectre
 ## Alec Benjamin
+ - Eyes Blue Like The Atlantic, Pt. 2 \(feat. Powfu, Alec Benjamin & Rxseboy\)
+ - Let Me Down Slowly \(feat. Alessia Cara\)
  - Narrated For You
+## Alemeda
+ - New Beginnings
 ## Alessia Cara
  - Blue Neighbourhood \(Deluxe\)
-## Alex Doan
- - Pure Tropical House
+ - Everybody
+ - Let Me Down Slowly \(feat. Alessia Cara\)
+## Alesso
+ - Native
 ## Alex Hope
  - Blue Neighbourhood \(Deluxe\)
+## Alex Isley
+ - LIVE LIFE FAST
 ## Alex Skrindo
- - Future Vibes
- - Moments
  - NCS is Love, NCS is Life, Vol. 1
  - NCS: Infinity
- - NCS: The Best of 2015
- - Passion
- - Tell Me
 ## AleXa
  - Rule the World
 ## Alexa Lusader
  - NCS: Infinity
- - Taking Over
 ## Alexander 23
  - How To Be Human
+## Alexander Lewis
+ - OMNI.
 ## ALI
  - LOST IN PARADISE
  - Wild Side
- - Wild Side \-Anime Ver.\- \(Anime Version\)
+ - Wild Side \-Anime Ver.\-
 ## Alicia Keys
+ - City of Gods
+ - Confessions \(Expanded Edition\)
+ - God's Son
  - Revival
+ - Thank Me Later
+## Alicia Myers
+ - Authentic \(Deluxe Edition\)
 ## Alisa Takigawa
  - Owarimonogatari Gekihanongakushu \(Original Soundtrack\)
  - 歌物語2 \-〈物語〉シリーズ主題歌集\-
 ## Alixandrea Corvyn
  - Guardians Of The Galaxy \- Hooked On A Feeling
+## Alkaline
+ - Jungle Rules
+## All Saints
+ - Party
+## Allan Cubas
+ - Sorry 4 The Wait
 ## Allday
  - Blue Neighbourhood \(Deluxe\)
-## Allison
- - Pure Tropical House
+## Allen Stone
+ - The Heist
+ - The Heist \(Deluxe Edition\)
+## Alley Boy
+ - Trap Music 2k12
+## Almost Normal
+ - Along The Way
 ## Aloe Blacc
  - SOS
 ## Alohe Burke
  - The First Family of Soul: The Best of The Five Stairsteps
-## Aloma Steele
- - NCS: The Best of 2015
- - NCS: Uplifting
+## Alori Joh
+ - Setbacks
+## alt\-J
+ - U&ME
+## Althea
+ - Cradle 2 The Grave
 ## Amamiya Sora
  - Various BLUE
+## Amanda Diva
+ - The Renaissance
+## Amara La Negra
+ - NAGA
+## Amaris Yuri
+ - Moon & Back
 ## amazarashi
  - Chihou Toshi No Memento Mori
  - Play Goodbye
+## Amber Coffman
+ - Born Sinner
+ - Born Sinner \(Deluxe Version\)
+## Amber Navran
+ - Laila’s Wisdom
+## Ambjaay
+ - Find The Beat
+## Amerie
+ - Stillmatic
+ - Year Of The Dog...Again \(Explicit\)
+## Amil
+ - Vol.2... Hard Knock Life
+## Amindi
+ - The House Is Burning
 ## Aminé
+ - Limbo
+ - Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
+## Amontá Jones
+ - IDK
+## Anamanaguchi
+ - Miku
 ## Anderson .Paak
+ - Bandana
+ - Black Panther The Album Music From And Inspired By
+ - Born 2 Rap
+ - Coloring Book
+ - Crown
+ - Detroit 2
+ - Featuring Ty Dolla $ign
+ - King's Disease
+ - Laila’s Wisdom
+ - Lockdown \(Remix Bundle\)
+ - Malibu
  - Music To Be Murdered By
+ - Oxnard
+ - Skate
+ - The Divine Feminine
+ - The Lost Boy
+## Andora
+ - Dawn
+ - Delusion
+ - Euphoria
+ - Flashback
+ - Flicker
+ - Starlight
 ## Andrea True Connection
  - Guardians Of The Galaxy \- Hooked On A Feeling
 ## Andreas Moss
@@ -179,6 +684,28 @@ This file contains the list of all the songs that are currently added in the MDR
  - Memories...Do Not Open
 ## Andrey Avkhimovich
  - Doom Soundtrack Rebuild
+## Andrez Babii
+ - ?
+## André 3000
+ - Soul Food
+ - Take Care \(Deluxe\)
+ - Trap Music 2k12
+## Andy Mineo
+ - Today We Rebel
+## Angel Haze
+ - Back to the Woods
+ - Dirty Gold \(Deluxe\)
+ - Reservation
+## Angela Winbush
+ - Life After Death \(2014 Remastered Edition\)
+## Angelika
+ - MM..FOOD
+## Angie Martinez
+ - I Got Next
+## Angie Stone
+ - Streetsoul
+## ANH
+ - eat ya veggies
 ## AnimationStation
  - Near Theme
 ## Anime Kei
@@ -192,45 +719,158 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Anjulie
  - Close To The Sun
  - Fly Away
+ - Let Love Win
+ - Love It When You Hurt Me
  - Stronger
 ## Anly
  - Anly One
+## Anna of the North
+ - Flower Boy
+ - The Beautiful & Damned
+## Anna Wise
+ - To Pimp A Butterfly
+ - good kid, m.A.A.d city
+ - good kid, m.A.A.d city \(Deluxe\)
 ## Anna Yvette
  - Chosen
  - NCS is Love, NCS is Life, Vol. 1
 ## Anne\-Marie
  - FRIENDS
  - \~how i'm feeling\~
+## Annie
+ - Party
 ## Annie Lennox
  - Sweet Dreams \(Are Made Of This\)
+## Anoyd
+ - Next Wednesday
+## Ansel Elgort
+ - Everybody
+## Ant Banks
+ - Get In Where You Fit In
+ - Shorty The Pimp
+ - Until The End Of Time
+## Ant Clemons
+ - From a Birds Eye View
+ - JESUS IS KING
+## Anthony Hamilton
+ - Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack
+ - The Best of 2Pac
+## Anthony Ramos
+ - Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)
 ## Anthony Rocco
  - Defy Gravity
+## Anthony Stewart
+ - These Things Happen
+## Anthony XI
+ - Tank God
+## Anthrax
+ - Apocalypse 91… The Enemy Strikes Black
 ## Anuel AA
+ - Championships
+ - Family Ties
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
-## Aoife Fhearraigh
- - METAL GEAR 20th ANNIVERSARY METAL GEAR MUSIC COLLECTION
+## Any Given Sunday \(OST\)
+ - Any Given Sunday \(OST\)
+## Apache
+ - Strictly 4 My N.I.G.G.A.Z...
+## Apani B
+ - Vaudeville Villain
+## Apani Emcee
+ - Mos Def & Talib Kweli Are Black Star
+## Apathy
+ - Next Wednesday
 ## Aperture Science Psychoacoustic Laboratories
  - Portal 2: Songs to Test By \(Collectors Edition\)
 ## Apollo Fresh
  - JoJo Pose
+## Aqu3ra
+ - アイスドロップ
+## AR\-AB
+ - The DeAndre Way
 ## Arca/Woody Jackson
  - The Music of Red Dead Redemption 2 \(Original Score\)
+## Arcando
+ - LONELY VIBES \(Deluxe\)
+## Arcane
+ - Arcane League of Legends \(Soundtrack from the Animated Series\)
+ - Dirty Little Animals \(From the series Arcane League of Legends\)
+ - Dynasties & Dystopia \(from the series Arcane League of Legends\)
+ - Enemy \(from the series Arcane League of Legends\)
+ - Enemy \(with JID\) \[from the series Arcane League of Legends\]
+ - Playground \(from the series Arcane League of Legends\)
 ## Archive
  - Controlling Crowds \(Parts I\-III\)
+## Arctic Monkeys
+ - AM
+ - Favourite Worst Nightmare \(Standard Version\)
+## Arden Jones
+ - Parallel Parking
+ - SMILE
+ - age tape 1
+ - roll the dice
+ - rollercoaster
+## Aretha Franklin
+ - Party
+## Ari Lennox
+ - Milky Way
+ - Revenge Of The Dreamers III
+ - Shea Butter Baby
+ - Still Over It
 ## Ariana Grande
+ - Dark Sky Paradise \(Deluxe\)
+ - My Everything \(Deluxe\)
+ - Planet Her
+ - Positions
  - Positions \(Deluxe\)
+ - Sing \(Original Motion Picture Soundtrack / Deluxe\)
  - Sweetener
+ - The Divine Feminine
+ - The Pinkprint \(Deluxe Edition\)
+ - The Pinkprint \(Deluxe\)
+## Arigato Yuina
+ - Matcha Love
+## Arin Ray
+ - The Lost Boy
 ## Aristotle
  - The Slim Shady LP
  - The Slim Shady LP \(Expanded Edition\)
 ## Arkells, K.FLAY
  - You Can Get It
+## Armageddon
+ - Capital Punishment \(Explicit Version\)
+ - Jealous Ones Still Envy \(J.O.S.E\)
+ - True Story
+## Armani White
+ - OMNI.
+## Art Rig
+ - AGAINST ALL ODDS
 ## Arthur Diniz
  - EPIC Battle Themes I
+## Arvnd
+ - some boring love stories pt 5
 ## Ash O'Connor
  - NCS: Infinity
+## Ash Riser
+ - Overly Dedicated
+## Ashanti
+ - BLAME IT ON BABY
+ - Evolution
+ - Fall Slowly
+ - Jealous Ones Still Envy \(J.O.S.E\)
+ - Tha Carter V
 ## AshestoAshesjc
  - The Velvet Lounge
+## Ashley Robles
+ - Escapism
+## Ashley Sorrell
+ - Book of Ryan \(Bonus Track Edition\)
+ - The Allegory
+## Ashley Tisdale
+ - Party
+## Ashlinn Gray
+ - Terminal
+## Ashtro Bot
+ - Section.80
 ## ASIAN KUNG\-FU GENERATION
  - Best Hit AKG
  - Blood Circulator
@@ -243,6 +883,11 @@ This file contains the list of all the songs that are currently added in the MDR
  - Astro's Bizarre Discotheque
  - Fly Me to the Moon
  - Komm, süsser Tod
+## Atari Teenage Riot
+ - The Fast And The Furious: Tokyo Drift
+ - The Fast And The Furious: Tokyo Drift \(Original Motion Picture Soundtrack\)
+## Atlus
+ - When the Sky Turns Red
 ## Atmozfears
  - Monstercat 016 \- Expedition
 ## Au/Ra
@@ -251,8 +896,17 @@ This file contains the list of all the songs that are currently added in the MDR
  - Monstercat 016 \- Expedition
 ## Au5, Chime
  - Voidwalkers
-## Audioscribe
- - Free Fall
+## Audio Push
+ - Special Effects
+## August Alsina
+ - My Own Lane \(Expanded Edition\)
+ - Ohio
+## Austin Sexton
+ - My Hustle Unmatched
+## Avery Storm
+ - Greatest Hits
+## AVGOTDRIP
+ - DONNA
 ## Avicii
  - SOS
  - The Days / Nights
@@ -265,34 +919,116 @@ This file contains the list of all the songs that are currently added in the MDR
  - Dispatch
  - Duckstep
  - EDM
- - Fantasy
  - Foxstep
  - Ground Pound
  - Hicstep
+ - HoloBounce
  - Hurt Me
  - I'm Catto
  - Level H
  - Make Me Alive
+ - Moon & Back
  - Nanodesu
  - Nuts
+ - Pardun
  - Speed
+ - Sussy
  - Virtual Lives
+ - Without a Smile
  - Wotah
  - Zomrap
  - kazoo
 ## AWOLNATION
  - Here Come the Runts
  - Run
-## Axero
- - Pure Tropical House
-## Axwell 
+## Awon
+ - Escapism
+## Axwell /\\ Ingrosso
  - More Than You Know
+## Ayase
+ - 幽霊東京 \(digital edition\)
 ## Ayatsugu\_Neverend
  - Cytus II\-Neko \(Original Soundtracks\)
+## Ayiko
+ - Candied Apple
+ - Teichopsia
+## Ayleen Valentine
+ - the way that you see me \(feat. Ayleen Valentine\)
+## Ayunda Risu
+ - ALiCE&u
+## AZ
+ - Dame Dash Presents Paid In Full / Dream Team
+ - Illmatic
+ - Illmatic XX
+ - It Was Written
+ - King's Disease
+ - Stillmatic
+## Azealia Banks
+ - Because the Internet
+## AZKi
+ - The Last Frontier
+## Azuma
+ - EXIT TUNES PRESENTS Supernova\(スーパーノヴァ\)2 ジャケットイラスト:redjuice
+## B!G
+ - 400 Degreez
+ - Body Head Bangerz, Vol. 1
+## B\-Real
+ - D\-12 World
+ - Sound Of Change
+ - Stankonia
+ - Stankonia \(Deluxe Version\)
+ - Tha Blue Carpet Treatment
+ - Trap Lord
+## B\-Tip
+ - Regulate… G Funk Era
+## B.G.
+ - If Tomorrow Comes...
+## B.o.B
+ - B.o.B Presents: The Adventures of Bobby Ray
+ - NAGA
+ - Next to Nothing \(Deluxe Edition\)
+ - Special Effects
+ - Underground Luxury
+ - Yuck Fou
+## BABACORN
+ - Happiness World
+## Babes Wodumo
+ - Black Panther The Album Music From And Inspired By
+## Baby
+ - Cradle 2 The Grave
+## Baby Bash
+ - Cyclone \(feat. T\-Pain\) \[Main\]
+## Baby Bomb
+ - Flockaveli
+## Baby Keem
+ - Life of a DON
+ - The Melodic Blue
+ - family ties \(with Kendrick Lamar\)
+## Baby Rose
+ - Revenge Of The Dreamers III
+## Baby Tate
+ - Revenge Of The Dreamers III
+ - Surround Sound \(feat. 21 Savage & Baby Tate\)
+## Babyface
+ - Authentic \(Deluxe Edition\)
+ - Free TC \(Deluxe Edition\)
+ - Tha Carter III \(MTV Bonus Version\)
+## Babyface Ray
+ - Ghetto Rich Niggaz
+ - It Ain't My Fault
+ - Trip At Knight \(Complete Edition\)
+ - What You Expect
+## Backbone
+ - Stankonia
+ - Stankonia \(Deluxe Version\)
 ## Backchat
  - Beat Saber \(Original Game Soundtrack\)
 ## Backstreet Boys
  - Millennium
+## Bad Boy's
+ - Bad Boy's 10th Anniversary\- The Hits
+## Bad Bunny
+ - Invasion of Privacy
 ## Bad Computer
  - Chasing Clouds
  - Destroy Me
@@ -302,128 +1038,836 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Bad History
  - My Heart Is Cold
  - Timefracture
+## Bad Meets Evil
+ - Game Tight
+ - Hell: The Sequel
+ - Hell: The Sequel \(Deluxe\)
+ - SHADYXV
+ - Southpaw \(Music From And Inspired By The Motion Picture\)
+## BADBADNOTGOOD
+ - Sour Soul
+## Bahamadia
+ - Lyricist Lounge Vol. 1
+## Ballgreezy
+ - Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies
+## balloon
+ - Corridor
+ - ノマド
+## BAMBOONISDEAD
+ - AGAINST ALL ODDS
+## Band Gang Paid Will
+ - Party Pack. Vol 2
+## Bandhunta Izzy
+ - Days Inn
 ## Bantu
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
 ## Bare Noize
  - Scary Monsters and Nice Sprites EP
+## Barron Ricks
+ - IV
+## Bas
+ - Between Somewhere
+ - Born Sinner
+ - Born Sinner \(Deluxe Version\)
+ - Cozz & Effect
+ - Do What Thou Wilt.
+ - Last Winter
+ - Milky Way
+ - Revenge Of The Dreamers III
+ - The Jackie \(with J. Cole & Lil Tjay\)
+ - The Off\-Season
 ## Basement Jaxx
  - Where's Your Head At
 ## BASI
  - 23
+## Baskem
+ - Unleashed
 ## Bastille
  - Happier
 ## Battle Tapes
  - Polygon
+## Bay Swag
+ - Tank God
+## Bazaar Royale
+ - Cradle 2 The Grave
+## Bazanji
+ - 2019
+ - Fed Up, Pt. 2
+ - Mixed Feelings
+ - Outlier
+ - Real Now
+## Bazzi
+ - Legendary
+ - Legendary \(Deluxe Edition\)
+## bbno$
+ - eat ya veggies
+ - help herself
+## BbyMutha
+ - Four Two Three
+## Bea Miller
+ - Arcane League of Legends \(Soundtrack from the Animated Series\)
+ - Playground \(from the series Arcane League of Legends\)
+## beabadoobee
+ - death bed \(coffee for your head\)
 ## Beach House
  - Depression Cherry
+## BEAM
+ - Faith
+## Beanie Sigel
+ - Dame Dash Presents Paid In Full / Dream Team
+ - Lyricist Lounge Volume 2
+ - Only Built 4 Cuban Linx 2
+ - Season of the Assassin
+ - Things Fall Apart
+ - Vol.2... Hard Knock Life
+## Beanz
+ - My Hustle Unmatched
 ## Bear McCreary
  - God of War \(PlayStation Soundtrack\)
 ## Bear McCreary/Eivør Pálsdóttir
  - God of War \(PlayStation Soundtrack\)
 ## Beat Saber
  - Beat Saber \(Original Game Soundtrack\), Vol. II
+## BeatKing
+ - Dope Don't Sell Itself
 ## Beatman
  - Lies
 ## Beau Young Prince
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
+## Bebe Rexha
+ - When It's Dark Out
+## Beck Bennett
+ - Sing \(Original Motion Picture Soundtrack / Deluxe\)
 ## Becky Hanson
  - Suicide Squad: The Album
 ## Bee Gees
  - Despicable Me
+## Belly
+ - Victory Lap
+## Ben Bridwell
+ - The Heist
+ - The Heist \(Deluxe Edition\)
+## Ben Carroll
+ - From the Mud
 ## BENEE
  - Somebody That I Used To Know
+## Benji Glo
+ - Best of Both Worlds
+## Benn Grimm
+ - Vaudeville Villain
+## BENNETT
+ - Next Wednesday
+## benny blanco
+ - FRIENDS KEEP SECRETS
+ - Real Shit \(with benny blanco\)
+## Benny The Butcher
+ - Alfredo
+ - Flights in da Mornin'
+ - Johnny P's Caddy
+ - Pray for Paris
+ - Richer Than I Ever Been
+ - The Allegory
+ - The Course of the Inevitable
+ - The Plugs I Met
 ## Berioska
  - Hikaru Nara \(Shigatsu Wa Kimi No Uso\) \[feat. Animelmack\]
+## BermudaCal
+ - Kehlani
+ - Novacaine
+## Bernz
+ - FEAR EXODUS
+## besch1er
+ - N1ght Walk
+## BesideU.
+ - IS THAT A SUPRA?!
+## Beth Gibbons
+ - Key to the Kuffs
 ## Betty Who
  - Blue Neighbourhood \(Deluxe\)
 ## Beyoncé
+ - 4:44
+ - FutureSex/LoveSounds Deluxe Edition
+ - Good News
  - Revival
+ - The Lion King: The Gift
+ - The Pinkprint \(Deluxe Edition\)
+ - The Pinkprint \(Deluxe\)
  - Walk On Water \(feat. Beyoncé\)
+ - Watch The Throne \(Deluxe\)
+## Beyoncé Knowles Carter
+ - The Lion King: The Gift
+## BIA
+ - FOR CERTAIN \(Deluxe\)
+ - Summer In The Winter
+ - WHOLE LOTTA MONEY \(feat. Nicki Minaj\) \[Remix\]
+## Bianca Badd
+ - Spirit Of A Boss
+## Big Azz Ko
+ - The Saga Continues...
+## Big Bank DTE
+ - Family Ties
+## Big Body Bes
+ - Mr. Wonderful
+## Big Body Bess
+ - Mr. Wonderful
+## Big Boi
+ - Soul Food
+## Big Daddy Kane
+ - Fear Of A Black Planet
+ - Long Live The Kane
+ - Power In Numbers
+ - Return of the B\-Girl
+ - The Big Picture
+## Big Freedia
+ - Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)
+## Big Gipp
+ - Aquemini
+ - Speakerboxxx/The Love Below
+ - Stankonia
+ - Stankonia \(Deluxe Version\)
+## Big Havi
+ - NAGA
+## Big Hill
+ - La Bella Mafia
+## Big Jaz
+ - Reasonable Doubt
+ - Vol.2... Hard Knock Life
+## Big K.R.I.T.
+ - 4eva Is A Mighty Long Time
+ - A3c, Vol. 1
+ - CINCORIGINALS
+ - LONG.LIVE.A$AP \(Deluxe Version\)
+## Big L
+ - Lifestylez Ov Da Poor & Dangerous
+ - Lyricist Lounge Volume 2
+ - The Big Picture
+ - True Story
+## Big Lenbo
+ - Everybody
+ - Protect Your Neck \(Remix\) \[feat. Demrick, Jay Lonzo, Blaque Keyz & Just Juice\]
+ - Stupid
+ - The Incredible True Story
+ - YSIV
 ## Big Mod
  - Guardians Of The Galaxy \- Hooked On A Feeling
+## Big Moochie Grape
+ - PAPER ROUTE iLLUMINATi
+## Big Noyd
+ - Hell On Earth
+ - Infamy
+ - Lyricist Lounge Volume 2
+ - Murda Muzik
+ - The Infamous
+## Big Pun
+ - Capital Punishment \(Explicit Version\)
+ - True Story
+## Big Scoob
+ - Special Effects
+ - The Storm \(Deluxe Edition\)
+## Big Sean
+ - 4 Thangs \(feat. Big Sean & Hit\-Boy\)
+ - Ambition
+ - Blessings \(Extended Version\)
+ - Bobby Tarantino II
+ - Cabin Fever
+ - Careless World: Rise Of The Last King
+ - Champions
+ - Culture II
+ - Dark Sky Paradise
+ - Dark Sky Paradise \(Deluxe\)
+ - Detroit 2
+ - Don't Play \(feat. The 1975 & Big Sean\)
+ - Double Or Nothing \(& Metro Boomin\)
+ - Dreams and Nightmares \(Deluxe Edition\)
+ - Featuring Ty Dolla $ign
+ - Finally Famous \(10th Anniversary Deluxe Edition Remixed and Remastered\)
+ - From Dark to Light
+ - Good News
+ - I Am Not A Human Being II \(Deluxe\)
+ - I Decided.
+ - It Ain't My Fault
+ - Jesus Piece \(Deluxe\)
+ - KHALED KHALED
+ - Kanye West Presents Good Music Cruel Summer
+ - King's Disease
+ - Late Nights: The Album
+ - Living Single
+ - Mercy
+ - Mr. Davis
+ - My Everything \(Deluxe\)
+ - Nothing Was The Same \(Deluxe\)
+ - Overtime
+ - SALUTE \(feat. Big Sean and Fivio Foreign\)
+ - SHADYXV
+ - STAY DANGEROUS
+ - SremmLife
+ - Stay Trippy
+ - Thats What They All Say
+ - The Smartest
+ - The World Is Yours 2
+ - Under Pressure \(Deluxe\)
+ - What A Life
+ - What You Expect
+ - When It's Dark Out
+## Big Shug
+ - BACK AROUND THE WAY
+ - Full Clip: A Decade Of Gang Starr
+ - Moment Of Truth
+ - Streetsoul
+ - The Ownerz
+## Big Skye
+ - Loyal To The Game
+## Big Stan
+ - Cradle 2 The Grave
+ - Grand Champ
+ - It's Dark And Hell Is Hot
+ - The Great Depression
+ - Year Of The Dog...Again \(Explicit\)
+## Big Syke
+ - Until The End Of Time
+## Big TC
+ - Free TC \(Deluxe Edition\)
+ - My Krazy Life
+## Big Time Watts
+ - Piñata
+## Big Tone
+ - Out of Focus
+## Big Tymers
+ - 400 Degreez
+## BIG30
+ - A Gangsta’s Pain
+ - Ice Daddy
+ - Only The Family \- Lil Durk Presents: Loyal Bros
+ - Who is Nardo Wick?
+## Bigg Unccc
+ - PAPER ROUTE iLLUMINATi
+## BigWalkDog
+ - Ice Daddy
+## BigZoo
+ - Revolutionary, Vol. 1
+## Bilal
+ - LAX
+ - Like Water For Chocolate
+ - Quality
+ - Revolutions Per Minute
+ - Streetsoul
+ - The Divine Feminine
+ - To Pimp A Butterfly
+## Billie Essco
+ - Pray for Paris
+## Billy Craven
+ - Man On The Moon: The End Of Day
+ - Man On The Moon: The End Of Day \(Deluxe\)
+## Billy Eichner
+ - The Lion King: The Gift
 ## Billy Joel
  - Piano Man \(Legacy Edition\)
  - Storm Front
+## Billy Nix
+ - Rock City
+## Bino Rideaux
+ - Slauson Boy 2
+## Birdman
+ - 4275 \(Bonus Version\)
+ - Rise Of An Empire \(Deluxe Edition\)
+ - Take Care \(Deluxe\)
+ - Tha Carter II
+## Birdy Nam Nam
+ - LONG.LIVE.A$AP \(Deluxe Version\)
 ## BiSH
  - PAiNT it BLACK
+## Bishop G
+ - Lupe Fiasco's The Cool
+## Biz Markie
+ - Long Live The Kane
 ## Bizarre
  - The Marshall Mathers LP
+## Bizzle
+ - His Glory Alone
+ - Man vs. Machine
+## Bizzy
+ - The Storm \(Deluxe Edition\)
+## Bizzy Banks
+ - Faith
+## BJ The Chicago Kid
+ - Coloring Book
+ - DiCaprio 2
+ - Laila’s Wisdom
+ - Malibu
+ - Overly Dedicated
+ - Oxnard
+ - Oxymoron \(Deluxe\)
+ - PTSD
+ - Piñata
+ - Section.80
+ - Setbacks
+ - THE GOAT
 ## Björk
  - Greatest Hits
 ## Björn Skifs
  - Hooked On A Feeling
  - Hooked On A Feeling \- 40th Anniversary Collection
+## Blac Youngsta
+ - Church on Sunday
+ - RICH YOUNGIN
+## Black Atlass
+ - Mr. Wonderful
 ## Black Caviar
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
+## Black Child
+ - Blood In My Eye
+## Black Coffee
+ - More Life
+## Black Hippy
+ - 90059
+ - Setbacks
+## Black Moon
+ - Enta Da Stage
+## Black Rob
+ - Bad Boy's 10th Anniversary\- The Hits
+ - The Saga Continues...
+## Black Sheep
+ - A Wolf In Sheep's Clothing
+## Black Star
+ - Mos Def & Talib Kweli Are Black Star
+ - The Hurricane \(Music From And Inspired By The Motion Picture\)
 ## Black Thought
+ - Bandana
+ - CINCORIGINALS
+ - Everybody
+ - Expansion Team
+ - Laila’s Wisdom
+ - Lyricist Lounge Vol. 1
  - Music To Be Murdered By
+ - PRhyme \(Deluxe Version\)
+ - Quality
+ - Streams of Thought Vol. 1
+ - The Hurricane \(Music From And Inspired By The Motion Picture\)
+ - The Plugs I Met
+ - The Shining
+ - What You Gonna Do When The Grid Goes Down?
+## Black Thought of The Roots
+ - Capital Punishment \(Explicit Version\)
+## Black Violin
+ - His Glory Alone
 ## blackbear
  - Hard On Yourself
+ - IDGAF
+ - These Things Happen
+ - dead
+## Blacksmith Music Presents Talib Kweli
+ - Right About Now \- The Official Sucka Free Cd
+## Blackstreet
+ - Another Level
 ## Blackway
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
 ## BlackY
  - Voltage Ignition 2
+## Blahzay Blahzay
+ - Game Tight
+## Blanca
+ - His Glory Alone
 ## Blaque Keyz
+ - Protect Your Neck \(Remix\) \[feat. Demrick, Jay Lonzo, Blaque Keyz & Just Juice\]
  - The Human Condition
+ - The Separation
 ## Blasta
  - Josukes Theme Lofi \(Jojos Bizarre Adventure\)
+## Blinks
+ - Chill
+ - Get Yours
+ - Seoul
+ - Serene
+ - Therapeutic
+## Bliss n Eso
+ - Off The Grid
+## Blitz The Ambassador
+ - Stillmatic
+## Block McCloud
+ - Season of the Assassin
+## Blood Orange
+ - Negro Swan
+## Blood Raw
+ - Death Before Dishonor
+## Bloodline Records Kennel
+ - Cradle 2 The Grave
+## Blu Warta
+ - Game Tight
 ## BLUE ENCOUNT
  - Freedom
  - Polaris \(Special Edition\)
  - Q.E.D
+## Blue Ivy
+ - The Lion King: The Gift
+## Blue Raspberry
+ - Only Built 4 Cuban Linx...
 ## Blue Swede
  - Guardians of the Galaxy: Awesome Mix Vol. 1 \(Original Motion Picture Soundtrack\)
  - Hooked On A Feeling
  - Hooked On A Feeling \- 40th Anniversary Collection
+## BlueBucksClan
+ - GEEZYWORLD
+ - Kawhi Leonard Presents: Culture Jam \(Vol. 1\)
+## Blueface
+ - Cottonwood
+ - Die 4 Respect
+ - Dirt Bag
+ - Find The Beat
+ - Legendary
+ - Legendary \(Deluxe Edition\)
+## BLXCKBUSTA
+ - Cruisin' Down Da Block
+ - Cruisin’ Down Da Block
+ - High As Fuck
+## Blxst
+ - King's Disease II
+ - Richer Than I Ever Been
+## BMU
+ - Death Before Dishonor
 ## Bo Burnham
  - Inside \(The Songs\)
+## Bo Deal
+ - Flockaveli
+## Bo Roc
+ - Regulate… G Funk Era
+## Bob Dylan
+ - The Hurricane \(Music From And Inspired By The Motion Picture\)
+## Bob Seger
+ - Stranger In Town
+## Bobbito
+ - Lyricist Lounge Vol. 1
+## Bobby Creekwater
+ - SHADYXV
+## Bobby J From Rockaway
+ - Summer Classics
+## Bobby JaGGerJacK
+ - I Hear Them Calling \(feat. Kid Cudi\)
+## Bobby Sessions
+ - Cog In The Machine
+## Bobby Shmurda
+ - Computers \(feat. Bobby Shmurda\)
+ - LAW 3: Now Or Never
+ - Shmoney \(feat. Quavo & Rowdy Rebel\)
+ - Time Ticking
+## Bobby V.
+ - Beam Me Up Scotty
+ - Tha Carter III \(MTV Bonus Version\)
+ - The Red Light District
+ - The State vs. Radric Davis \(Deluxe\)
 ## Bobu Sama
  - Plastic Love
+## Body Head Bangerz
+ - Body Head Bangerz, Vol. 1
 ## Bohemia Interactive
  - Arma 3 \(Original Game Soundtrack\)
+## Boldy James
+ - Detroit 2
+ - Pray for Paris
+## Bon Iver
+ - My Beautiful Dark Twisted Fantasy
 ## Bon Jovi
  - Slippery When Wet
+## Bone Thugs\-N\-Harmony
+ - Greatest Hits
+ - Trap Lord
+## BONES
+ - AT.LONG.LAST.A$AP
+ - Uptown Saturday Night
+## BONES UK
+ - Dirty Little Animals \(From the series Arcane League of Legends\)
+## Boo
+ - I Am Not A Human Being II \(Deluxe\)
+## BOOGEY VOXX
+ - Graveyard Shift ft. BOOGEY VOXX
+ - UnAlive
+## Boogie Down Productions
+ - Dame Dash Presents Paid In Full / Dream Team
+## Boogieman
+ - Most Known Unknown \(Explicit\)
+## Boogiemane
+ - Most Known Unknown \(Explicit\)
+## Booka 600
+ - Grandson, Vol. 1
+## Booka600
+ - Levon James
+ - Only The Family \- Lil Durk Presents: Loyal Bros
+ - The Voice
+ - Word To LA
 ## Boom Kitty
  - Beat Saber \(Original Game Soundtrack\), Vol. II
  - Beat Saber \(Original Game Soundtrack\), Vol. IV
  - Burning Sands
  - Power Trip
+## Boomkat
+ - 8 Mile \(Music From And Inspired By The Motion Picture\)
+## Boosie Badazz
+ - Body Head Bangerz, Vol. 1
+ - Bullets Ain't Got No Name Vol. 2
+ - Fan of A Fan The Album \(Expanded Edition\)
+ - The Gold Album: 18th Dynasty
+## Bootsy Collins
+ - Authentic \(Deluxe Edition\)
+## Boss Top
+ - Only The Family \- Lil Durk Presents: Loyal Bros
 ## Bossfight
  - Monstercat Uncaged Vol. 8
  - Nock Em
+## Boston
+ - Boston
+## Boston Fielder
+ - Key to the Kuffs
+## Bounty Killer
+ - Halfway Tree
+ - KHALED KHALED
+## Bousmara Division N°1
+ - Duppy \(Freestyle\)
 ## Boyinaband
  - Congratulations
  - Monstercat 007 \- Solace
+## BoyWithUke
+ - Faded
+ - Fever Dreams
+ - IDGAF
+ - Long Drives
+ - Melatonin Dreams
+ - Small Fry
+ - Toxic
+ - Trouvaille
 ## Boyz II Men
+ - Mr. Smith \(Deluxe Edition\)
+ - The Storm \(Deluxe Edition\)
  - Voicenotes
-## Braken
- - Flight
- - Monstercat 012 \- Aftermath
- - To The Stars
-## Brenton Mattheus
- - Forever
+## BR3
+ - Do What Thou Wilt.
+## Brad Paisley
+ - Authentic \(Deluxe Edition\)
+## Brad stank
+ - Daddy Blue / O.T.D.
+## Brady Watt
+ - BACK AROUND THE WAY
+## Brain
+ - I'm Brain
+ - Professional Rapper
+## brakence
+ - punk2
+ - re:birth
+## Brand Nubian
+ - Mr. Hood
+## Brandon Jones
+ - Therapeutic
+## Brandon Phillips\-Taylor
+ - Good
+## Brandy
+ - Free TC \(Deluxe Edition\)
+ - Late Registration
+## Brasstracks
+ - OMNI.
+## Bravehearts
+ - God's Son
+## Bren Joy
+ - Dynasties & Dystopia \(from the series Arcane League of Legends\)
+## Brendon Urie
+ - FRIENDS KEEP SECRETS
+ - Professional Rapper
+## Brent Faiyaz
+ - CALL ME IF YOU GET LOST
+ - Death Race For Love
+ - Expensive Pain
+ - Lost
+## Brian Tyler
+ - The Fast And The Furious: Tokyo Drift
+ - The Fast And The Furious: Tokyo Drift \(Original Motion Picture Soundtrack\)
+## Bricc Baby
+ - ALIVE
+ - Nasty Dealer 2
+ - RSS2
+## Bricc Baby Shitro
+ - Full Speed
+ - RULA 2
+## Bring Me The Horizon
+ - Parasite Eve
+## Brisco
+ - Port Of Miami
+ - Tha Carter III \(MTV Bonus Version\)
+## Bristal
+ - The Saga Continues...
+## Britt Nicole
+ - Mansion
+## BROCKHAMPTON
+ - Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)
 ## Broken
  - Lost in Paradise \(Remix\)
 ## Broods
  - Blue Neighbourhood \(Deluxe\)
-## Brooks
- - NCS: The Best of 2016
-## Bruna Higs
- - Realize \(Re:zero\) \[feat. Bruna Higs\]
+## Brooke Winter
+ - FEAR EXODUS
+## Brother Dege
+ - Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack
+## Brucie B.
+ - King's Disease
 ## Bruno Mars
+ - B.o.B Presents: The Adventures of Bobby Ray
+ - Hell: The Sequel
+ - Hell: The Sequel \(Deluxe\)
+ - Mac and Devin Go to High School \(Music from and Inspired by the Movie\)
  - No.6 Collaborations Project
+ - Skate
+ - Tha Carter IV \(Complete Edition\)
+ - Tha Carter IV \(Deluxe\)
+ - Wake Up in the Sky
+## Brvndon LaMont
+ - Bride of Chucky
+## Bryce Bishop
+ - Como
 ## Bryce Dallas Howard
  - Rocketman \(Music From The Motion Picture\)
+## Bryce Vine
+ - Carnival
+## Bryson Tiller
+ - Born 2 Rap
+ - Confetti
+ - Family Ties
+ - KHALED KHALED
+ - Thats What They All Say
+ - What You Expect
+## Bslime
+ - Punk
+## BTS
+ - Fighting Demons
+ - Fighting Demons \(Deluxe\)
+## BTY Youngin
+ - Boobie Trapp 3
+## Bucchigiri\-p
+ - EXIT TUNES PRESENTS Supernova\(スーパーノヴァ\)2 ジャケットイラスト:redjuice
+## Buckshot
+ - Monkey Barz
+## Buddha Monk
+ - Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]
+ - Legend Of The Wu\-Tang: Wu\-Tang Clan's Greatest Hits
+## Buddy
+ - Revenge Of The Dreamers III
+ - Slauson Boy 2
+ - Victory Lap
+## Buffalo Madonna
+ - The Heist
+ - The Heist \(Deluxe Edition\)
+## Bugsy
+ - The Art Of Storytelling
+## Buju Banton
+ - Jealous Ones Still Envy \(J.O.S.E\)
+ - KHALED KHALED
+## BUMP OF CHICKEN
+ - ray
+## Bumps Inf
+ - Man vs. Machine
+## Bun B
+ - 4eva Is A Mighty Long Time
+ - A3c, Vol. 1
+ - Body Head Bangerz, Vol. 1
+ - CINCORIGINALS
+ - LONG.LIVE.A$AP \(Deluxe Version\)
+ - Music Is My Savior
+ - Only Way Is Up \(Deluxe\)
+ - Revolutions Per Minute
+ - Tha Carter IV
+ - Tha Carter IV \(Complete Edition\)
+ - Tha Carter IV \(Deluxe\)
+ - The State vs. Radric Davis \(Deluxe\)
+## Bunny Wailer
+ - Halfway Tree
+## Buppy.
+ - Open My Letter
+## Burna Boy
+ - Heavy Is The Head
+ - The Lion King: The Gift
 ## BURNOUT SYNDROMES
  - Burnout Syndromez
  - Good Morning World!
+## Bushwick Bill
+ - The Chronic
+## Busta Rhymes
+ - 90059
+ - Anarchy
+ - Bad Boy's 10th Anniversary\- The Hits
+ - Black On Both Sides
+ - Careless World: Rise Of The Last King
+ - Cheers
+ - Extinction Level Event: The Final World Front
+ - Fan\-Tas\-Tic, Vol. 2
+ - Fantastic, Vol. 2.10
+ - Genesis
+ - Greatest Hits
+ - Jealous Ones Still Envy \(J.O.S.E\)
+ - Laila’s Wisdom
+ - Phenomenon
+ - Ryde Or Die Vol. II
+ - Southpaw \(Music From And Inspired By The Motion Picture\)
+ - Still Striving
+ - Tha Carter III \(MTV Bonus Version\)
+ - Tha Carter IV
+ - Tha Carter IV \(Complete Edition\)
+ - Tha Carter IV \(Deluxe\)
+ - The Best of Busta Rhymes
+ - The Coming
+ - The Documentary
+ - The Essential Wu\-Tang Clan
+ - The Love Movement
+ - The Shining
+ - When Disaster Strikes...
+ - Year Of The Dog...Again \(Explicit\)
+## Busta Rhymes for Flipmode Entertainment
+ - The Best of Busta Rhymes
+## Busy Signal
+ - Along Came Joyner
+## Butch Cassidy
+ - Ghetto Heisman
+ - Restless
+ - Terrorist Threats
+## Butta Verses
+ - The Grind Date
 ## Buunshin
  - The Wall \(Buunshin Remix\) / If U \(Synergy Remix\)
+## buzzG
+ - EXIT TUNES PRESENTS THE BEST OF GUMI from Megpoid
+## BXRBER
+ - OMNI.
+## Byron Juane
+ - Whole Team Winning
+## Bzr Royale
+ - Year Of The Dog...Again \(Explicit\)
+## C\-Bone
+ - Stankonia
+ - Stankonia \(Deluxe Version\)
+## C\-Mob
+ - N9NA
+## C\-Murder
+ - No Limit Top Dogg
+## C\-PO
+ - Greatest Hits
+## C\-Rayz Walz
+ - Revolutionary Vol. 2
+## C\-Town
+ - Lyricist Lounge Volume 2
+## C.N.N.
+ - Cradle 2 The Grave
+## C3
+ - Only The Family \- Lil Durk Presents: Loyal Bros
 ## C418
  - Minecraft \- Volume Beta
+## Ca$his
+ - SHADYXV
+## Caddillac Tah
+ - Blood In My Eye
+## Cage
+ - Man On The Moon II: The Legend Of Mr. Rager
+## Caleb
+ - Como
+## Cali
+ - Who Am I
 ## Calli Malpas
  - Guardians Of The Galaxy \- Hooked On A Feeling
 ## Calvin Harris
+ - FRIENDS KEEP SECRETS
  - One Kiss \(with Dua Lipa\)
 ## Camellia
  - 4orce!
@@ -431,55 +1875,174 @@ This file contains the list of all the songs that are currently added in the MDR
  - Blackmagik Blazing
  - Cyphisonia E.P.
  - EDM Extreme
+ - Final\-Boss\-Chan
  - GALAXY BURST
  - GOIN'!
  - LOP STEP RABBITS!
  - Lop Step Rabbits
  - MEGANTO METEOR
  - MIND HACK
- - PLANET//SHAPER
+ - PLANET / /SHAPER
  - Spin Eternally
  - Tera I / O
+ - ThanksFollowers40K
  - Voltage Ignition 2
  - Xronial Xero
  - crystallized
  - いんふぃにてぃ・もふりてぃ!
- - ごーいん!
+ - ごーいん!
  - すりーぷ!
  - ばーさす!
  - ふぉーす!
  - ふわもふはぴねす24/7!!
  - りぷれい!
+## Cameron Dettman
+ - Along The Way
 ## Camila Cabello
  - No.6 Collaborations Project
  - Señorita
 ## Camille
  - Ratatouille \(Original Motion Picture Soundtrack\)
+## Camp Lo
+ - Uptown Saturday Night
 ## Camry
  - Exit Trance Presents Cm Trance
+## Cam’ron
+ - Dame Dash Presents Paid In Full / Dream Team
+ - Grand Champ
+ - Late Registration
+ - Macadelic \(Remastered Edition\)
+ - Still Striving
+ - The State vs. Radric Davis \(Deluxe\)
+## Canibus
+ - The Art Of Storytelling
+## Cannibus
+ - Phenomenon
 ## Cannons
  - Shadows
+## Canon
+ - Whole Team Winning
+## Cap
+ - Flockaveli
+## Cap 1
+ - B.O.A.T.S. II #METIME \(Deluxe\)
+ - Based On A T.R.U. Story \(Deluxe\)
+ - Street Runnaz 83
+## Capadonna
+ - Fishscale \(Expanded Edition\)
+## Capchii
+ - iceQuarium \-Strawberry\-
 ## Capcom Sound Team
  - Resident Evil 2 Original Soundtrack
+## Capella Grey
+ - Kawhi Leonard Presents: Culture Jam \(Vol. 1\)
+## Capital Steez
+ - 1999
+## Capleton
+ - Halfway Tree
+ - KHALED KHALED
+## Capo
+ - FWA
+## Capone\-N\-Noreaga
+ - Any Given Sunday \(OST\)
+## Cappadonna
+ - Ghostface Killah...Shaolin's Finest
+ - Ironman
+ - Legend Of The Wu\-Tang: Wu\-Tang Clan's Greatest Hits
+ - Only Built 4 Cuban Linx 2
+ - Only Built 4 Cuban Linx...
+ - The Essential Wu\-Tang Clan
+ - Wu\-Tang Forever
+ - YSIV
+## CaptainMirai
+ - EXIT TUNES PRESENTS Supernova\(スーパーノヴァ\)2 ジャケットイラスト:redjuice
+## Cardan
+ - Welcome Back
 ## Cardi B
+ - Championships
+ - Culture II
+ - Culture III
+ - Family Ties
+ - Invasion of Privacy
+ - KHALED KHALED
  - No.6 Collaborations Project
-## Carla White
- - METAL GEAR 20th ANNIVERSARY METAL GEAR MUSIC COLLECTION
+ - Still Over It
+ - The Beautiful & Damned
+ - UNDER8ED
+## Carl Thomas
+ - Bad Boy's 10th Anniversary\- The Hits
+ - Ghostface Killah...Shaolin's Finest
+ - The Grind Date
 ## Carlos Eiene
  - The Velvet Lounge
+## Carlos Vives
+ - Encanto \(Original Motion Picture Soundtrack\)
+## Carlton Fisk
+ - 4:21...The Day After
+ - Tical
+## Carol City Cartel
+ - Port Of Miami
+## Carolina Gaitán \- La Gaita
+ - Encanto \(Original Motion Picture Soundtrack\)
+## Cartier Kitten
+ - Flockaveli
+## Cartier William
+ - Pray for Paris
 ## Cartoon
- - NCS: The Best of 2015
- - NCS: The Best of 2016
  - On & On
  - Why We Lose
 ## Casanova
  - Ken Blast And Friends \- REMASTERED
+## Case
+ - Ghetto Heisman
 ## Case & Point
  - Monstercat 016 \- Expedition
 ## Casey Edwards
  - Bury the Light
+## Casey J.
+ - Today We Rebel
+## Casey Veggies
+ - Doris
+ - Macadelic \(Remastered Edition\)
+ - Piñata
+ - RSS2
+ - Wolf
+## Cash Kidd
+ - Detroit 2
+## Cashmere Cat
+ - My Everything \(Deluxe\)
+ - hopeless fountain kingdom \(Deluxe\)
+## Cassandra Wilson
+ - Do You Want More?!!!??!
+ - Illadelph Halflife
+## Castro
+ - The Rise
+ - The Separation
+ - YS Collection Vol. 1
+## Casual
+ - 93 'til Infinity
+ - Hiero Oldies: Volume One
+## Catashtraphe
+ - At The Speed Of Life
+## Cecilia Gault
+ - Our Song
+ - Violet Sky
+## Cedric Gervais
+ - Hotel California \(Deluxe\)
+## Cedric The Entertainer
+ - The Allegory
 ## CeeLo Green
+ - 4eva Is A Mighty Long Time
+ - Aquemini
+ - Like Water For Chocolate
+ - Man On The Moon II: The Legend Of Mr. Rager
+ - People's Instinctive Travels and the Paths of Rhythm \(25th Anniversary Edition\)
+ - Speakerboxxx/The Love Below
+ - THE MOUSE & THE MASK
+ - Teflon Don
+ - The Divine Feminine
  - The Lady Killer
+ - Victory Lap
 ## Celestial Alignment
  - Anime & Chill Lofi Beats for Study
 ## Celinde Schoenmaker
@@ -488,50 +2051,264 @@ This file contains the list of all the songs that are currently added in the MDR
  - Guardians Of The Galaxy \- Hooked On A Feeling
 ## Centra
  - Monstercat 007 \- Solace
+## Central Cee
+ - GEEZYWORLD
+## Cha Cha
+ - Rock City
+## Chace Infinite
+ - IV
+ - LIVE.LOVE.A$AP
+## Chad Jay
+ - Paid In Full
 ## Chad Mossholder
  - Doom \(Original Game Soundtrack\)
+## Chairman Omali Yeshitela
+ - Let's Get Free
+## Chaka Khan
+ - Party
+## Cham
+ - Music Is My Savior
 ## Chance the Rapper
+ - Because the Internet
+ - Coloring Book
+ - I TAPE
+ - Invasion of Privacy
+ - KIRK
+ - Living Single
+ - Mr. Wonderful
  - No.6 Collaborations Project
+ - PTSD
+ - Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)
+ - The Lost Boy
+## Chanda Latrice
+ - Good
+## changing cleo
+ - sleepwalking
 ## CHANMINA
  - SAMURAI SESSIONS vol.2
 ## Charis Henry
  - 2001
  - 2001 \(Explicit Version\)
+## Charles Bukowski
+ - BORN LIKE THIS
 ## Charli XCX
  - 13 Reasons Why \(Season 3\)
+ - The New Classic
 ## Charli XCX & Troye Sivan
  - 1999
+## Charlie Brown
+ - The Coming
+## Charlie Clips
+ - Let The Goons Loose \(BWS 7.0\)
 ## Charlie Puth
  - Cheating on You
  - Girlfriend
  - Is It Just Me? \(feat. Charlie Puth\) \(feat. Charlie Puth\)
  - Nine Track Mind
+ - The Beautiful & Damned
  - Voicenotes
-## Charlotte Haining
- - NCS: The Best of 2015
+## Charlie Smarts
+ - Thank H​.​E​.​R. Now
+## Charlie Wilson
+ - Authentic \(Deluxe Edition\)
+ - King's Disease
+ - King's Disease II
+ - Limbo
+ - More Than A Game
+## Chase N. Cashe
+ - A3c, Vol. 1
 ## Che'Nelle
  - SAMURAI SESSIONS vol.2
+## Chelle
+ - SmokeOut Conversations
 ## Chelsea Cutler
  - How To Be Human
  - brent
+## Cheri Dennis
+ - The Saga Continues...
+## Chester French
+ - Revolutions Per Minute
+## Chevy Woods
+ - Cabin Fever
+ - Days Inn
+ - K.I.D.S.
+ - My Hustle Unmatched
+ - Rolling Papers
+ - Street Runnaz 83
+## Chicago Children's Choir
+ - Coloring Book
+## Chiddy Bang
+ - Finally Famous \(10th Anniversary Deluxe Edition Remixed and Remastered\)
+## Chief Kamanchi
+ - Servants In Heaven, Kings In Hell
+## Chief Keef
+ - Finally Rich \(Deluxe\)
+ - GO:OD AM
+ - Kanye West Presents Good Music Cruel Summer
+ - Rodeo \(Expanded Edition\)
+ - The Autobiography
+ - Top Shotta
+ - We Love You Tecca 2
+## chief wuk
+ - Only The Family \- Lil Durk Presents: Loyal Bros
+## Childish Gambino
+ - Because the Internet
+ - Camp
+ - My Everything \(Deluxe\)
+ - The Lion King: The Gift
+ - Under Pressure \(Deluxe\)
+## Childish Major
+ - Rags
+ - Revenge Of The Dreamers III
+## Chili Chil
+ - More Than A Game
+## Chinky
+ - Grand Champ
+## Chinozo
+ - Flyer!
+ - グッバイ宣言
+## Chinx
+ - Jungle Rules
+## Chip Tha Ripper
+ - Man On The Moon II: The Legend Of Mr. Rager
+ - Man On The Moon: The End Of Day
+ - Man On The Moon: The End Of Day \(Deluxe\)
 ## Chipmusic Heroes
  - Primetime Adventures
 ## Chippy Bits
  - Pokemon Black and White Chiptunes
+## Chiwetel Ejiofor
+ - The Lion King: The Gift
+## chloe moriondo
+ - Bus Ride \(feat. chloe moriondo\)
+## Chlöe
+ - DS4EVER
+## Choice
+ - O.M.M.I.O 2
+## Choo Choo
+ - Starvation 2
+## Choppa
+ - Body Head Bangerz, Vol. 1
+## Chris Bosh
+ - Mr. Davis
 ## Chris Brown
+ - 4275 \(Bonus Version\)
+ - ADHD
+ - Based On A T.R.U. Story \(Deluxe\)
+ - Born 2 Rap
+ - Careless World: Rise Of The Last King
+ - Church on Sunday
+ - DS4EVER
+ - Dark Lane Demo Tapes
+ - Dark Sky Paradise
+ - Dark Sky Paradise \(Deluxe\)
+ - Dreams Worth More Than Money
+ - Faith
+ - Fan of A Fan The Album \(Expanded Edition\)
+ - Finally Famous \(10th Anniversary Deluxe Edition Remixed and Remastered\)
+ - Full Speed
+ - HNDRXX
+ - Heartbreak on a Full Moon
+ - Hotel California \(Deluxe\)
+ - I Don't Die
+ - Indigo
+ - Indigo \(Extended\)
+ - Jesus Piece \(Deluxe\)
+ - Legendary
+ - Legendary \(Deluxe Edition\)
+ - More Than A Game
+ - Mr. Davis
+ - My Own Lane \(Expanded Edition\)
+ - Nasty Dealer 2
+ - No Romeo No Juliet
+ - Paranoia: A True Story
+ - Stay Trippy
+ - Stranger Things
+ - Thats What They All Say
  - The Bigger Artist
+ - The Pinkprint \(Deluxe Edition\)
+ - The Pinkprint \(Deluxe\)
+ - Underground Luxury
+ - When It's Dark Out
+## Chris Crack
+ - From the Mud
 ## Chris James
  - \> album title goes here \<
+ - Reconstructed : The Best Of DJ Shadow
+## Chris Martin
+ - Graduation
+## Chris Michaud
+ - I Could Not Plan This
+## Chris P House
+ - Four Two Three
+## Chris Richardson
+ - Careless World: Rise Of The Last King
+## Chris Stanton
+ - SUPER EUROBEAT presents INITIAL D WORLD HITS SELECTION 5
 ## Chris Stapleton
  - No.6 Collaborations Project
+## Chris Webby
+ - Next Wednesday
+## Chrisette Michele
+ - B.O.A.T.S. II #METIME \(Deluxe\)
+ - LAX
+ - Teflon Don
+## Christian Davis
+ - Takumi Drift
+## Christian Scott aTunde Adjuah
+ - Everythings For Sale
+## Christina Milian
+ - Rise Of An Empire \(Deluxe Edition\)
+## Christina Sinatra
+ - Ultimate Christmas
+## Christine
+ - Eurobeat Kudos 20
+## Christine & Irene
+ - Eurobeat Kudos 20
+## Christoph Andersson
+ - These Things Happen
+## Christoph Waltz
+ - Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack
+## Christopher Young
+ - The Hurricane \(Music From And Inspired By The Motion Picture\)
+## Chrome
+ - Most Known Unknown \(Explicit\)
+## Chronixx
+ - ALL\-AMERIKKKAN BADA$$
+## Chuck D
+ - Authentic \(Deluxe Edition\)
+ - Everybody
+ - Illadelph Halflife
+## Chuck Strangers
+ - 1999
 ## CHVRCHES
  - Here With Me
+## CHVSE
+ - Terminal
+ - When the Sky Turns Red
+## Ciara
+ - Still Over It
 ## cinema staff
  - Great Escape
 ## cinnamons
  - summertime
+## Cipher Complete
+ - Lyricist Lounge Vol. 1
+## CIRCRUSH\(CircusP+Crusher\-P\)
+ - EXIT TUNES PRESENTS THE BEST OF GUMI from Megpoid
+## City Girls
+ - Church on Sunday
+ - Good News
+ - Still Over It
+ - UNDER8ED
 ## CIX
  - WIN \("The God of HighSchool" ED\)
+## CJ Fly
+ - 1999
+## Claire Rosinkranz
+ - say goodbye
+## Clams Casino
+ - BALLADS 1
 ## Clarence Burke Jr.
  - The First Family of Soul: The Best of The Five Stairsteps
 ## ClariS
@@ -539,53 +2316,170 @@ This file contains the list of all the songs that are currently added in the MDR
  - Owarimonogatari Gekihanongakushu \(Original Soundtrack\)
  - Utamonogatari Special Edition \(Original Soundtrack\)
  - 歌物語2 \-〈物語〉シリーズ主題歌集\-
+## Clark Anderson
+ - The Hurricane \(Music From And Inspired By The Motion Picture\)
+## Clark Kent
+ - The Master
+## Claudette Ortiz
+ - God's Son
+## Clever
+ - Death Race For Love
+## Clinton Kane
+ - say goodbye
 ## Clips X Ahoy
  - Reload \(feat. Hype Turner\)
+## Clipse
+ - Cradle 2 The Grave
+ - JESUS IS KING
+ - Season of the Assassin
+## Clyde Guevara
+ - Uncle Drew \(Original Motion Picture Soundtrack\)
+## Co of Tre +6
+ - Any Given Sunday \(OST\)
+## Cobby Supreme
+ - Nip Hussle the Great: Vol. 2
+## Cobra Red
+ - Lyricist Lounge Volume 2
+## Cocaine 80s
+ - Kanye West Presents Good Music Cruel Summer
+## Coco O.
+ - Wolf
+## Cocoa Brovaz
+ - Lyricist Lounge Volume 2
+ - Quality
+## Cocoa Sarai
+ - Oxnard
 ## Coda
  - BLOODY STREAM
- - Bloody Stream
  - Fighting Gold \(English Ver.\)
  - JOJO'S BIZARRE ADVENTURE \-The anthology songs 2
-## Codeko
- - Crest
- - NCS: Uplifting
 ## Cody
  - Ken Blast And Friends \- REMASTERED
 ## Cody Matthew Johnson
  - Resident Evil 2 Original Soundtrack
 ## Coi Leray
+ - Die 4 Respect
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
+ - They Got Amnesia
 ## Coldplay
  - Hymn For The Weekend
-## Cole Sipe
- - Way Back Home
 ## Coleman Trapp
  - Why We Lose
+## Colin Munroe
+ - Section.80
 ## Colin Stetson
  - The Music of Red Dead Redemption 2 \(Original Score\)
 ## Colin Stetson/Woody Jackson
  - The Music of Red Dead Redemption 2 \(Original Score\)
-## Collin McLoughlin
- - Monstercat 012 \- Aftermath
-## CoMa
- - Monstercat 010 \- Conquest
+## Common
+ - Any Given Sunday \(OST\)
+ - Fan\-Tas\-Tic, Vol. 2
+ - Illadelph Halflife
+ - Jesus Piece \(Deluxe\)
+ - Kanye West Presents Good Music Cruel Summer
+ - LAX
+ - Late Registration
+ - Like Water For Chocolate
+ - Lyricist Lounge Vol. 1
+ - Man On The Moon: The End Of Day
+ - Man On The Moon: The End Of Day \(Deluxe\)
+ - Mos Def & Talib Kweli Are Black Star
+ - One Day It'll All Make Sense
+ - PRhyme \(Deluxe Version\)
+ - Resurrection
+ - The College Dropout
+ - The Grind Date
+ - The Hurricane \(Music From And Inspired By The Motion Picture\)
+ - The Shining
+ - Things Fall Apart
+## Comp
+ - Cradle 2 The Grave
 ## Conan Gray
  - Kid Krow
 ## ConfidentialMX
  - Suicide Squad: The Album
+## Connie McKendrick
+ - The Master
 ## Conro
  - Level Days
-## Contacreast
- - NCS: The Best of 2015
- - Tropic Love
+## Consequence
+ - Late Registration
+ - The College Dropout
+## Conway
+ - THE HUSTLE CONTINUES
+## Conway the Machine
+ - Alfredo
+ - Pray for Paris
+ - The Allegory
+ - The Plugs I Met
+## Cooked I
+ - Until The End Of Time
+## Cool & Dre
+ - Poke It Out \(feat. J. Cole\)
+## Cool Breeze
+ - Soul Food
+## Coolio
+ - Gangsta's Paradise
+## Corbin
+ - F\*CK LOVE
+ - F\*CK LOVE 3: OVER YOU
 ## Cordae
+ - Confessions of a Dangerous Mind
+ - From a Birds Eye View
+ - Just Until....
+ - Killer \(feat. Jack Harlow & Cordae\) \[Remix\]
+ - Kung Fu
+ - Sinister \(feat. Lil Wayne\)
+ - Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
+ - Super
+ - The Lost Boy
+## Corey Gunz
+ - I Am Not A Human Being II \(Deluxe\)
+ - Rise Of An Empire \(Deluxe Edition\)
+## Corey Taylor
+ - Special Effects
+## Corey Woods
+ - The Art Of Storytelling
+## Cormega
+ - It Was Written
+ - King's Disease
+ - Murda Muzik
+ - The Silent Partner
 ## CORPSE
  - DAYWALKER! \(feat. CORPSE\)
+## Correy C
+ - Milky Way
 ## CORSAK
  - Different World
-## Cory Friesenhan
- - Dream of Something Sweet \(feat. Cory Friesenhan\)
+## Cory Gunz
+ - A3c, Vol. 1
+ - FWA
+ - Tha Carter IV
+ - Tha Carter IV \(Complete Edition\)
+ - Tha Carter IV \(Deluxe\)
+## cosMo@Bousou\-P
+ - Kagaminext feat. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―
+ - MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”
+ - ウタカタリレイション
+ - マシンガンポエムドール
+ - 消失 \-Real And Repeat\-
+## Count Bass D
+ - MM..FOOD
+## Cousin Stizz
+ - Uncle Drew \(Original Motion Picture Soundtrack\)
+## Cozz
+ - Cozz & Effect
+ - Effected
+ - Fortunate
+ - Revenge Of The Dreamers III
+## Craig David
+ - Streetsoul
+## Craig Mack
+ - Bad Boy's 10th Anniversary\- The Hits
+ - Flava In Ya Ear Remix
+## Craig Owens
+ - Terminal
 ## Crankdat
  - Monstercat Uncaged Vol. 8
 ## Creedence Clearwater Revival
@@ -597,33 +2491,173 @@ This file contains the list of all the songs that are currently added in the MDR
  - Beat Saber \(Original Game Soundtrack\)
 ## Cristina Vee
  - Bullet Hell II
+## Croosh
+ - RIP
+## Crunchy Black
+ - Most Known Unknown \(Explicit\)
+## Crypt
+ - Out of My Mind
+ - Prophecy
+ - Terminal
+ - When the Sky Turns Red
+ - YouTube Cypher, Vol. 2
+## Cryptic Wisdom
+ - Prophecy
+## Crystal Johnson
+ - The Infamous
+## Crystal P
+ - 初音ミク「マジカルミライ 2014」 \[Live\]
+## Cuban Link
+ - Capital Punishment \(Explicit Version\)
 ## Cubby\-S
  - Exit Trance Presents Cm Trance
+## cubesato
+ - ウタカタリレイション
 ## Cubie Burke
  - The First Family of Soul: The Best of The Five Stairsteps
-## Culture Code
- - Make Me Move \(James Roche Remix\)
+## Cults
+ - Born Sinner
+ - Born Sinner \(Deluxe Version\)
+## Culture Jam
+ - Kawhi Leonard Presents: Culture Jam \(Vol. 1\)
 ## Curbi
  - NCS: Infinity
-## Cynthia Harrell
- - METAL GEAR 20th ANNIVERSARY METAL GEAR MUSIC COLLECTION
+## Curio Watts
+ - Small Fry
+## Curren$y
+ - A3c, Vol. 1
+ - Effected
+ - MMG Presents: Self Made, Vol. 1
+ - Mac and Devin Go to High School \(Music from and Inspired by the Movie\)
+ - Party Pack. Vol 2
+ - Rolling Papers
+## Currency
+ - Tha Carter II
+## Curtis Harding
+ - Arcane League of Legends \(Soundtrack from the Animated Series\)
+## Curtis Mayfield
+ - Watch The Throne \(Deluxe\)
+## Cut Throat
+ - Rock City
+## Cuzzy Capone
+ - Slauson Boy 2
+## Cyhi
+ - CINCORIGINALS
+ - Only Way Is Up \(Deluxe\)
+## CyHi The Prynce
+ - Kanye West Presents Good Music Cruel Summer
+ - My Beautiful Dark Twisted Fantasy
+ - The Allegory
+## Cynthia Erivo
+ - Bobby Tarantino III
+## CyoucyoP
+ - EXIT TUNES PRESENTS GUMing from Megpoid
 ## Cypress Hill
  - \> album title goes here \<
+ - Black Sunday
+ - Cypress Hill
+ - IV
+ - What You Gonna Do When The Grid Goes Down?
+## CZARFACE
+ - Every Hero Needs a Villain
 ## Cão
- - 熱烈!アニソン魂 ULTIMATEカバーシリーズ2017 JAPAN ANIMESONG COLLECTION mini vol.4
+ - 熱烈!アニソン魂 ULTIMATEカバーシリーズ2017 JAPAN ANIMESONG COLLECTION mini vol.4
  - 熱烈!アニソン魂 ULTIMATEカバーシリーズ2017 JAPAN ANIMESONG COLLECTION vol.54
+## cøzybøy
+ - 4708
+ - you never meant it
+## D Life
+ - The Love Movement
+## D Pryde
+ - The Rise
+## D Smoke
+ - CINCORIGINALS
 ## D'Angelo
+ - Eve
+ - Fan\-Tas\-Tic, Vol. 2
+ - Illadelph Halflife
+ - Tha Blue Carpet Treatment
+ - The Miseducation of Lauryn Hill
  - The Music of Red Dead Redemption 2 \(Original Soundtrack\)
+ - The Renaissance
+ - The Shining
+## D'banj
+ - Kanye West Presents Good Music Cruel Summer
+## D'Maq
+ - Bootlegs And B\-Sides
+## D\-Angelo
+ - Fantastic, Vol. 2.10
+## D\-Block Europe
+ - Gardner Express
+## D\-Loc
+ - Free TC \(Deluxe Edition\)
+ - Made for Kings
 ## D\-Shake
  - Yaaah + Techno Trance \(Remixes\)
+## D. Smith
+ - Tha Carter III \(MTV Bonus Version\)
+## D.Chamberz
+ - Flights in da Mornin'
+## D.J. Stretch Armstrong
+ - Lyricist Lounge Vol. 1
+## D.O. Cannons
+ - Blood In My Eye
+## D.O.C.
+ - N.W.A. And The Posse
+## D.O.I
+ - POCKET PARK
 ## D12
+ - 8 Mile \(Music From And Inspired By The Motion Picture\)
+ - Cheers
+ - D\-12 World
+ - Devils Night
  - Encore \(Deluxe Version\)
+ - SHADYXV
  - The Eminem Show
  - The Marshall Mathers LP
+## D33J
+ - BALLADS 1
+## Da
+ - MMG Presents: Self Made, Vol. 1
+## Da Hood
+ - Terrorist Threats
 ## Da Hool
  - Meet Her At The Loveparade
+## Da Ranjahz
+ - Vol.2... Hard Knock Life
 ## Da Vinci's Notebook
  - Brontosaurus
+## Da$H
+ - Do What Thou Wilt.
+## DaBaby
+ - BLAME IT ON BABY
+ - BLAME IT ON BABY \(DELUXE\)
+ - Baby On Baby
+ - Back On My Baby Jesus Sh!t AGAIN
+ - Ball If I Want To
+ - Church on Sunday
+ - Find The Beat
+ - GEEZYWORLD
+ - Good News
+ - Hall of Fame
+ - Hollywood's Bleeding
+ - KHALED KHALED
+ - KIRK
+ - Lonely \(with Lil Wayne\)
+ - Masterpiece
+ - RICH YOUNGIN
+ - Red Light Green Light
+ - Revenge Of The Dreamers III
+ - Secret Service
+ - Shoot For The Stars Aim For The Moon
+ - Thats What They All Say
+ - Woptober II
+## Daddigan
+ - Halfway Tree
+## Daddy\-O
+ - What You Gonna Do When The Grid Goes Down?
+## Dae Dae
+ - Waiting to Exhale
 ## Daft Punk
  - Alive 2007
  - Around the World
@@ -638,133 +2672,388 @@ This file contains the list of all the songs that are currently added in the MDR
  - Alive 2007
 ## Daichi Miura
  - SAMURAI SESSIONS vol.2
-## Daisuke Hasegawa
- - Uragirimonono Requiem \(From Jo Jo's Bizarre Adventure \- Golden Wind\) \[English Version\]
+## DAISY WORLD
+ - CALL ME IF YOU GET LOST
+## Daley
+ - Summertime '06
+## Dame D.O.L.L.A
+ - Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)
+## Damian Lemar Hudson
+ - Everybody
+## Damian Marley
+ - 4:44
+ - Halfway Tree
+ - Tha Blue Carpet Treatment
+## Damon Albarn
+ - Key to the Kuffs
+## Damon Dash
+ - Dame Dash Presents Paid In Full / Dream Team
 ## Dan Auerbach
  - Suicide Squad: The Album
+## Dan Caplen
+ - GEMINI
+## Dan Haynes
+ - Nevers Road
+## Danger Mouse
+ - THE MOUSE & THE MASK
+## DANGERDOOM
+ - THE MOUSE & THE MASK
+## dani3l
+ - No Air
 ## Daniel Lanois
  - The Music of Red Dead Redemption 2 \(Original Soundtrack\)
 ## Daniel Lanois/Daryl Johnson/Joseph Maize/Darryl Hatcher/Rhiannon Giddens
  - The Music of Red Dead Redemption 2 \(Original Soundtrack\)
 ## Daniel Levi
- - NCS: The Best of 2015
  - On & On
 ## Daniel Tidwell
  - At Doom's Gate \(DOOM E1M1\)
-## Danyka Nadeau
- - Monstercat 012 \- Aftermath
+## DaniLeigh
+ - Indigo \(Extended\)
+## Daniyel
+ - 82
+## Danny Boy
+ - Greatest Hits
+## Danny Brown
+ - Grown Up
+ - LONG.LIVE.A$AP \(Deluxe Version\)
+ - Piñata
+ - SHADYXV
+ - Sour Soul
+## Danny Seth
+ - These Things Happen
+## Dansonn
+ - Terminal
+## Dareen Vegas
+ - Until The End Of Time
+## Darko
+ - Fearless
+ - Grim Peaks
+ - Save Our Souls
+## Darrein Safron
+ - The Storm \(Deluxe Edition\)
 ## Darude
  - Before The Storm
  - Before the Storm
 ## Daryl Hall & John Oates
  - Voices
+## Das EFX
+ - Bootlegs And B\-Sides
+ - Dead Serious
+ - Hold It Down
 ## Dave
+ - Black
+ - Game Over
  - No.6 Collaborations Project
+## Dave Abrego
+ - Street Runnaz 83
+## Dave B.
+ - GEMINI
+## Dave Chappelle
+ - Quality
+## Dave East
+ - Paranoia: A True Story
+ - Slauson Boy 2
+ - Still Striving
+ - Time Ticking
 ## Dave Mekon
  - Guardians Of The Galaxy \- Hooked On A Feeling
 ## dave rodgers
  - SUPER EUROBEAT presents DAVE RODGERS Special COLLECTION \(Vol.2\)
  - SUPER EUROBEAT presents INITIAL D DAVE RODGERS SELECTION
+ - SUPER EUROBEAT presents INITIAL D WORLD HITS SELECTION 5
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜
+ - SUPER EUROBEAT presents INITIAL D〜D SELECTION 3〜
+ - Space Boy
+## Dave Scratch
+ - Illmatic XX
+## Dave Simon
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜
+## Dave Sitek
+ - BORN LIKE THIS
 ## Dave Stewart
  - Sweet Dreams \(Are Made Of This\)
 ## David Bowie
  - Bohemian Rhapsody \(The Original Soundtrack\)
- - Classic Queen
- - Greatest Hits II
  - Guardians of the Galaxy: Awesome Mix Vol. 1 \(Original Motion Picture Soundtrack\)
- - Hot Space \(Deluxe Remastered Version\)
-## David Bulla
- - High Life
- - Unexpected
 ## David Ferguson
  - The Music of Red Dead Redemption 2: The Housebuilding EP
 ## David Ferguson/Matt Sweeney
  - The Music of Red Dead Redemption 2: The Housebuilding EP
-## David Hasselhoff
- - Sings America
+## David Ranier
+ - The Lost Tapes 2
 ## David Spekter
  - Monstercat Uncaged Vol. 8
-## Day One
- - Monstercat 012 \- Aftermath
+## DaVido
+ - Indigo \(Extended\)
+## DaVionne
+ - Revenge Of The Dreamers III
+## Dax
+ - Be Your Fucking Self
+ - Did It First
+ - I'll Say It For You
+ - It's Different Now
+ - KILLSHOT 2
+ - KILLSHOT 3
+ - My Last Words
+ - SELF PROCLAIMED 2
+ - Self Proclaimed
+ - Wack Ass Rappers
+ - You Should've Known
+## Daya
+ - Don't Let Me Down
+## Days to Waste
+ - monarch
+## Daz
+ - Tha Blue Carpet Treatment
+ - The Chronic
+## Daz Dillinger
+ - Doggystyle
+## DAZBEE
+ - Happy Halloween
+## DB Omerta
+ - TheOneTheyDoubted
+## DCMBR
+ - Redemption
+## DDG
+ - Die 4 Respect
 ## DE DE MOUSE
  - Millennium Mother
+## De La Soul
+ - Lyricist Lounge Vol. 1
+ - Ohio
+ - The Grind Date
+ - Train Of Thought
+## Deacon Blues
+ - The Sun's Tirade
+## Dead Prez
+ - Capital Punishment \(Explicit Version\)
+ - Let's Get Free
+ - Lyricist Lounge Volume 2
+## DeadballP
+ - EXIT TUNES PRESENTS Supernova\(スーパーノヴァ\)2 ジャケットイラスト:redjuice
+## DeadJxhn
+ - YALSIKYAN
+## Deadly Threat
+ - Strictly 4 My N.I.G.G.A.Z...
 ## deadman 死人
  - Omae Wa Mou
 ## deadmau5
  - \> album title goes here \<
- - Ghosts N Stuff \(Original Instrumental Mix\)
 ## Deaf Kev
  - Defy Gravity
  - Invincible
- - NCS: The Best of 2015
+## Deante' Hitchcock
+ - Good
+ - Revenge Of The Dreamers III
 ## Death Cab For Cutie
  - Plans
 ## DEATH NOTE デスノート
  - the WORLD/アルミナ
-## Debris
- - Game Time
+## Debi Nova
+ - Yancey Boys
+## DECO\*27
+ - EXIT TUNES PRESENTS THE BEST OF GUMI from Megpoid
+ - GHOST
+ - The Vampire
+ - needLe
+ - アニマル
+ - アンドロイドガール
+ - ウタカタリレイション
+ - サラマンダー
+ - セカイ
+ - 初音ミク「マジカルミライ 2014」 \[Live\]
+## Dee Watkins
+ - Belair Baby 2
+## Deep Foundation
+ - Escapism
 ## Deep Purple
  - Deep Purple in Rock
-## Defari
+## Def Jef & Meech Wells for Tha Arsenal
+ - Illmatic XX
+## DEFARI
  - 2001
  - 2001 \(Explicit Version\)
+ - Restless
 ## Defqwop
  - NCS is Love, NCS is Life, Vol. 1
+## Deh Kewlz
+ - Days Inn
+## Deion Reverie
+ - I Could Not Plan This
+ - Nevers Road
+## DeJ Loaf
+ - 4275 \(Bonus Version\)
+ - Full Speed
+ - Heartbreak on a Full Moon
+ - Love Me While I'm Here
+ - SHADYXV
+## Del The Funky Homosapien
+ - 93 'til Infinity
+ - Hiero Oldies: Volume One
+## Delta Queens
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜
 ## Delta Ultimate Collection Presents
  - Ken Blast And Friends \- REMASTERED
+## Delvecchio
+ - Who Am I
+## DEMONDICE
+ - Alkatraz
+ - Kakigori Galaxy Astronaut
+ - SHUT UP, GET HAPPY
+## Demoz
+ - Season of the Assassin
+## Demrick
+ - Protect Your Neck \(Remix\) \[feat. Demrick, Jay Lonzo, Blaque Keyz & Just Juice\]
+## demxntia
+ - somehow
 ## Denaun
+ - Cheers
  - Music To Be Murdered By
+ - Southpaw \(Music From And Inspired By The Motion Picture\)
+## Dennis Coles
+ - Blackout!
 ## Denzel Curry
+ - Deadstar 2
+ - Dynasties & Dystopia \(from the series Arcane League of Legends\)
+ - Imperial
+ - Love Me While I'm Here
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
-## Deorro
- - Five Hours
+ - TA13OO
+ - UNLOCKED
+ - Ultimate
+ - Walkin
+ - ZUU
+## Derek Minor
+ - Fresh Prince
+ - Whole Team Winning
 ## Desembra
  - NCS is Love, NCS is Life, Vol. 1
+## Desi Mo
+ - Summertime '06
+## Desiigner
+ - Champions
+ - New English
+ - Panda
 ## Desmeon
- - Back From The Dead
  - Hellcat
  - NCS is Love, NCS is Life, Vol. 1
- - NCS: The Best of 2015
+## Dessy Hinds
+ - 1999
 ## Destinee & Paris
  - Despicable Me
+## Detail
+ - I Am Not A Human Being II \(Deluxe\)
+ - Nothing Was The Same
+ - Nothing Was The Same \(Deluxe\)
+## Devill\`e
+ - Ghetto Heisman
 ## Devin The Dude
  - 2001
  - 2001 \(Explicit Version\)
+ - The State vs. Radric Davis \(Deluxe\)
+## Devon Baldwin
+ - These Things Happen
+## Devvon Terrell
+ - Blessings
+ - Coast 2 Coast
+ - Dreaming With Our Eyes Open
+ - The Rise
+ - YouTube Cypher, Vol. 2
+## Dia Frampton
+ - I Could Not Plan This
+ - Nevers Road
+## Diabolic
+ - Revolutionary Vol. 2
+ - Revolutionary, Vol. 1
 ## diafragment
  - Primetime Adventures
+## Diamond D
+ - The Awakening
+ - The Score \(Expanded Edition\)
+## Diamond Pistols
+ - help herself
 ## Diana Garnet
  - FLOW ANIME BEST 極
+## Diane Guerrero
+ - Encanto \(Original Motion Picture Soundtrack\)
+## Diaz Brothers
+ - Lyricist Lounge Vol. 1
+## Dice Raw
+ - Do You Want More?!!!??!
+ - Game Theory Deluxe Edition \(Explicit Version\)
+ - Illadelph Halflife
+ - The Hurricane \(Music From And Inspired By The Motion Picture\)
+ - Things Fall Apart
+## Diddy
+ - Bad Boy's 10th Anniversary\- The Hits
+ - Detroit 2
+ - Dreams Worth More Than Money
+ - Fear of God II: Let Us Pray
+ - Free TC \(Deluxe Edition\)
+ - Genesis
+ - Greatest Hits
+ - I Am...
+ - I Got Next
+ - KHALED KHALED
+ - Life After Death \(2014 Remastered Edition\)
+ - NASIR
+ - Negro Swan
+ - Teflon Don
+ - The Saga Continues...
+ - Victory Lap
+ - Welcome Back
 ## Dido
  - Curtain Call \(Deluxe\)
  - Curtain Call: The Hits
  - Curtain Call: The Hits \(Deluxe Edition\)
  - The Marshall Mathers LP
 ## Different Heaven
- - Far Away \(Phantom Sage Remix\)
  - Ignite \(Remixes\)
- - My Heart
  - NCS: Infinity
- - NCS: The Best of 2016
- - OMG
+## Digable Planets
+ - Reachin' \(A New Refutation Of Time And Space\)
 ## Digital Farm Animals
  - Different World
+## Digital Underground
+ - Strictly 4 My N.I.G.G.A.Z...
+## Dilated Peoples
+ - Expansion Team
+ - Lyricist Lounge Volume 2
 ## Dillon Francis
  - Monstercat Uncaged Vol. 8
 ## Dina Rae
  - The Eminem Show
+## DINCO
+ - The Coming
+## Dino BTW
+ - Something for Thee Hotties
+## Dion Dugas
+ - somehow
 ## Dion Timmer
  - Monstercat Uncaged Vol. 8
  - Rocket League x Monstercat \- Legacy
 ## Dion Timmer, Micah Martin
  - Internet Boy
+## Dios/signalP
+ - EXIT TUNES PRESENTS THE BEST OF GUMI from Megpoid
+ - Kagaminext feat. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―
+ - SIGNALOID BOX
 ## Diplo
  - Close To Me \(feat. Swae Lee\)
+ - Dex Meets Dexter
+## Dipset
+ - Uncle Drew \(Original Motion Picture Soundtrack\)
 ## Direct
- - Monstercat 010 \- Conquest
- - Monstercat 012 \- Aftermath
  - Monstercat 016 \- Expedition
 ## Direlm
  - Die Very Rough \(Gay Parody\)
+## Dirty Heads
+ - SWIM TEAM
+ - Sound Of Change
+## Dirtyharry
+ - The Score \(Expanded Edition\)
 ## Dirtyphonics
  - Monstercat Uncaged Vol. 8
 ## Disclosure
@@ -772,32 +3061,95 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Disfigure
  - Blank
  - NCS: Infinity
- - NCS: The Best of 2015
- - Summer Tune
 ## Distrion
- - Drakkar
  - NCS: Infinity
- - Rubik
- - You And Me
-## Diviners
- - NCS: The Best of 2015
- - Pure Tropical House
- - Savannah
- - Tropic Love
+## Dixie
+ - Psycho \(feat. Rubi Rose\)
+## Dixie Flatline
+ - Just Be Friends
+ - Kagaminext feat. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―
+ - MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”
+## DIXSON
+ - I TAPE
+## Dizzi Mystica
+ - EXIT TUNES PRESENTS Supernova\(スーパーノヴァ\)2 ジャケットイラスト:redjuice
+## Dizzy Wright
+ - Don't Tell Me It Can't Be Done
+ - Lavish Life
+ - My Hustle Unmatched
+ - Off The Grid
+ - Pound Syndrome
+ - Prophecy
+ - Slow Motion
+ - SmokeOut Conversations
+ - The Golden Age
+## DJ Black Panther
+ - Revolutionary, Vol. 1
+## DJ Bonics
+ - K.I.D.S.
+## DJ Cucumber Slice
+ - Operation: Doomsday \(Complete\)
+## DJ Dahi
+ - Summertime '06
+## DJ DPone
+ - Revolutionary, Vol. 1
+## DJ Drama
+ - CALL ME IF YOU GET LOST
 ## DJ Genki
  - EDM Extreme
+## DJ Haze
+ - Let The Goons Loose \(BWS 7.0\)
+## DJ Jacob
+ - Intercooler
+## DJ Jazzy Jeff
+ - Things Fall Apart
+## DJ Khaled
+ - Culture
+ - KHALED KHALED
+ - Kanye West Presents Good Music Cruel Summer
+ - POPSTAR \(feat. Drake\)
+ - Victory
 ## DJ Khalil
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
+## DJ Luke Nasty
+ - For What Its Worth
 ## Dj Mashiro
  - Cytus II\-Neko \(Original Soundtracks\)
 ## DJ Mehdi
  - Lucky Boy At Night
 ## DJ Noriken
  - EDM Extreme
+## DJ Paul
+ - Most Known Unknown \(Explicit\)
+ - Scary Garry
+## DJ Premier
+ - Graduation
+ - Music To Be Murdered By \- Side B \(Deluxe Edition\)
+ - The Allegory
+ - What You Gonna Do When The Grid Goes Down?
+## DJ Quik
+ - Quality
+ - The Red Light District
+## DJ RayG
+ - No Label II
+## DJ Rev Run
+ - The Art Of Storytelling
+## DJ Rhettmatic
+ - Expansion Team
 ## DJ Rolando
  - Paradise Garage: Inspirations
+## DJ Shadow
+ - Reconstructed : The Best Of DJ Shadow
+ - The Fast And The Furious: Tokyo Drift
+ - The Fast And The Furious: Tokyo Drift \(Original Motion Picture Soundtrack\)
 ## DJ Tokai
  - Exit Trance Presents Cm Trance
+## DJ Wayne Williams
+ - FutureSex/LoveSounds Deluxe Edition
+## DJ Whoo Kid
+ - Bullet Proof
+## DJ Yella
+ - Gangsta Memorial
 ## dj\-Jo
  - At Doom's Gate \(E1M1\) \[Remix\]
  - Boku no Sensou \(Full Version\) \[Remix\]
@@ -824,115 +3176,446 @@ This file contains the list of all the songs that are currently added in the MDR
  - Shock \(Remix\)
  - TOP \(Remix\)
  - Wild Side \(Remix\)
- - いじめっ子Bully \(Lofi Remix\)
+## Dkrapartist
+ - YouTube Cypher, Vol. 2
 ## DM DOKURO
  - UNDERTALE: The Underground
-## DM Galaxy
- - Paralyzed
- - Paralyzed \(Disfigure Remix\)
+## DMX
+ - ...And Then There Was X
+ - Anarchy
+ - Any Given Sunday \(OST\)
+ - Cradle 2 The Grave
+ - DMX: The Legacy
+ - Flesh Of My Flesh, Blood Of My Blood
+ - Grand Champ
+ - Greatest Hits with a Twist \- Deluxe Edition
+ - I Am...
+ - It's Dark And Hell Is Hot
+ - Phenomenon
+ - Ryde Or Die Vol. II
+ - The Best Of DMX
+ - The Definition of X: Pick Of The Litter
+ - The Great Depression
+ - The Red Light District
+ - Vol.2... Hard Knock Life
+ - Year Of The Dog...Again \(Explicit\)
+## Do Do
+ - Next to You
+## Doe Boy
+ - Days Inn
+ - FOR CERTAIN \(Deluxe\)
+ - So Much Fun
+## Doechii
+ - The House Is Burning
 ## Doja Cat
+ - Best Friend \(feat. Doja Cat\)
+ - Hot Pink
+ - MONTERO
+ - Planet Her
+ - Positions
  - Positions \(Deluxe\)
-## Domastic
- - SICC
+ - Punk
+ - They Got Amnesia
+## Dolemite
+ - Genesis
+## Dolla Boy
+ - B.O.A.T.S. II #METIME \(Deluxe\)
+ - Based On A T.R.U. Story \(Deluxe\)
+ - The Red Light District
+## Dolly
+ - Slime Language
+## Dom Kennedy
+ - Born 2 Rap
+ - Nip Hussle the Great: Vol. 2
+ - O.M.M.I.O 2
+ - Overly Dedicated
+ - Victory Lap
+## Dominic
+ - Let The Goons Loose \(BWS 7.0\)
+## Domo Genesis
+ - CALL ME IF YOU GET LOST
+ - Doris
+ - Goblin
+ - Piñata
+ - The OF Tape Vol. 2
+ - Wolf
+## Don Johnson
+ - Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack
+## Don Kenobi
+ - Revelations
+## Don Omar
+ - The Fast And The Furious: Tokyo Drift
+ - The Fast And The Furious: Tokyo Drift \(Original Motion Picture Soundtrack\)
 ## Don Q
  - Hoodie SZN
  - The Bigger Artist
+## Don Rich
+ - Don't Tell Me It Can't Be Done
+## Don Straud
+ - Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack
 ## Don Toliver
+ - JACKBOYS
+ - King's Disease
+ - Life of a DON
  - Music To Be Murdered By
+ - The Melodic Blue
+## Donell Jones
+ - Streetsoul
+## Donna Missal
+ - GEMINI
 ## Donna Summer
  - Music For Seventies
-## DoubleV
- - Tortuga
+## Doo Wop
+ - The Awakening
+## Doodie Lo
+ - Only The Family \- Lil Durk Presents: Loyal Bros
+## Doom
+ - PRhyme \(Deluxe Version\)
+## Doper Than
+ - Chill
+## doriko
+ - HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]
+ - MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”
+ - 初音ミク「マジカルミライ 2014」 \[Live\]
+## Doug E. Fresh
+ - Dame Dash Presents Paid In Full / Dream Team
+ - The Red Light District
+## Dove Shack
+ - Regulate… G Funk Era
+## Dr Who Dat?
+ - BORN LIKE THIS
+## Dr. Cornell West
+ - Illadelph Halflife
 ## Dr. Dre
  - 2001
  - 2001 \(Explicit Version\)
+ - Another Level
+ - Cheers
  - Curtain Call \(Deluxe\)
  - Curtain Call: The Hits
  - Curtain Call: The Hits \(Deluxe Edition\)
+ - Gangsta Memorial
+ - Greatest Hits
  - I Need A Doctor
+ - It Was Written
+ - Kush
+ - Music To Be Murdered By \- Side B \(Deluxe Edition\)
+ - No Limit Top Dogg
+ - Oxnard
+ - Relapse: Refill
+ - Restless
+ - Tha Blue Carpet Treatment
+ - The Best of 2Pac
+ - The Chronic
  - The Eminem Show
  - The Marshall Mathers LP
  - The Slim Shady LP
  - The Slim Shady LP \(Expanded Edition\)
+ - good kid, m.A.A.d city
+ - good kid, m.A.A.d city \(Deluxe\)
+## Dr. Jarvis J. Williams
+ - Today We Rebel
+## Dr. Love
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜
+## Dr. Ozi
+ - Neon Grave Remixed
+## Dr. Stank
+ - Ghetto Heisman
+## Drag\-On
+ - ...And Then There Was X
+ - Any Given Sunday \(OST\)
+ - Cradle 2 The Grave
+ - Flesh Of My Flesh, Blood Of My Blood
+ - Grand Champ
+ - Halfway Tree
+ - It's Dark And Hell Is Hot
+ - Ryde Or Die Vol. II
+ - The Best Of DMX
+ - The Definition of X: Pick Of The Litter
+ - The Great Depression
+## Dragon Ash
+ - The Fast And The Furious: Tokyo Drift
+ - The Fast And The Furious: Tokyo Drift \(Original Motion Picture Soundtrack\)
 ## Dragonforce
  - Inhuman Rampage
 ## Drake
+ - 0 To 100 / The Catch Up
+ - B.O.A.T.S. II #METIME \(Deluxe\)
+ - Back To Back
+ - Based On A T.R.U. Story \(Deluxe\)
+ - Beam Me Up Scotty
+ - Behind Barz \(Bonus\)
+ - Bigger Than You feat. Drake & Quavo
+ - Blessings \(Extended Version\)
+ - Buy or Bye 2
+ - Certified Lover Boy
+ - Championships
+ - Cole World: The Sideline Story
+ - Culture II
+ - Culture III
+ - DS4EVER
+ - Dark Lane Demo Tapes
+ - Dark Sky Paradise
+ - Dark Sky Paradise \(Deluxe\)
+ - Dreams Worth More Than Money
+ - Dreams and Nightmares \(Deluxe Edition\)
+ - Drip Harder
+ - Harder Than Ever
+ - I Am Not A Human Being
+ - I Am Not A Human Being II \(Deluxe\)
+ - If You're Reading This It's Too Late
+ - Indigo
+ - KHALED KHALED
+ - LONG.LIVE.A$AP \(Deluxe Version\)
+ - Laugh Now Cry Later \(feat. Lil Durk\)
+ - Life Is Good \(feat. Drake\)
+ - More Life
+ - More Than A Game
+ - My Krazy Life
+ - No Stylist
+ - Nothing Was The Same
+ - Nothing Was The Same \(Deluxe\)
+ - Over The Top \(feat. Drake\)
+ - POPSTAR \(feat. Drake\)
+ - Pretty Girls Like Trap Music
+ - Punk
+ - Rise Of An Empire \(Deluxe Edition\)
+ - SAVAGE MODE II
+ - Scary Hours 2
  - Scorpion
-## Draper
- - Monstercat 012 \- Aftermath
+ - Take Care \(Deluxe\)
+ - Teflon Don
+ - Tha Carter IV
+ - Tha Carter IV \(Complete Edition\)
+ - Tha Carter IV \(Deluxe\)
+ - Thank Me Later
+ - The Best In The World Pack
+ - The Pinkprint \(Deluxe Edition\)
+ - The Pinkprint \(Deluxe\)
+ - Trip At Knight \(Complete Edition\)
+ - Two Birds, One Stone
+ - What A Time To Be Alive
+ - good kid, m.A.A.d city
+ - good kid, m.A.A.d city \(Deluxe\)
+## Drakeo the Ruler
+ - Party Pack. Vol 2
+## Drama
+ - Uncle Drew \(Original Motion Picture Soundtrack\)
+## Dramacydal
+ - Greatest Hits
+ - Me Against The World
+## Drax Project
+ - Dex Meets Dexter
+## Dre
+ - Family Ties
+ - I Am Not A Human Being II \(Deluxe\)
+ - Port Of Miami
+ - True Story
+## DreamDoll
+ - Richer Than I Ever Been
+## Dreamville
+ - Revenge Of The Dreamers III
+## Dred Skeezy
+ - Street Runnaz 83
+## Dreddy Kruger
+ - Liquid Swords
+## Dreezy
+ - Love Me While I'm Here
+ - Revenge Of The Dreamers III
+ - Schizo \(Remastered\)
+ - Welcome to O'Block
+## Drego
+ - Detroit 2
 ## Drew Love
  - Sick Boy
+ - The Beautiful & Damned
+## Dria
+ - The Incredible True Story
 ## DROELOE
  - Rocket League x Monstercat Vol. 1
-## Dropouts
- - NCS: Uplifting
 ## Droptek
- - Monstercat 012 \- Aftermath
  - Monstercat 016 \- Expedition
+## Dru Down
+ - Operation Stackola
+## Drumma Battalion
+ - Go Green
 ## Dua Lipa
+ - Faith
  - One Kiss \(with Dua Lipa\)
 ## Duckwrth
+ - CINCORIGINALS
+ - Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
-## Dustin Miles
- - Pure Tropical House
+## Ducky
+ - A3c, Vol. 1
+## Duece Poppito of 24 Karatz
+ - Any Given Sunday \(OST\)
+## Duke
+ - Slime Language
+ - Slime Season 3
+## Duke Bootee
+ - Rapper's Delight
+ - The Message
+## Duke Deuce
+ - The House Is Burning
+## Duran Duran
+ - Party
+## Dusty
+ - SUPER EUROBEAT presents INITIAL D〜D SELECTION 3〜
 ## duumu
  - Talk!
  - Worst Part of Heaven
+## Duvy
+ - Buy or Bye 2
 ## DVRST
  - Close Eyes
  - Close Eyes \(Slowed + Reverb\)
+## Dwayne Wiggins
+ - Shorty The Pimp
+## Dwele
+ - Detroit 2
+ - Finally Famous \(10th Anniversary Deluxe Edition Remixed and Remastered\)
+ - Out of Focus
+ - PRhyme \(Deluxe Version\)
+ - The Shining
+## Dwn2earth
+ - OCD \(with Dwn2earth\)
+## Dyemond Lewis
+ - 1999
+## Dyme
+ - ...And Then There Was X
+## Dyna Edyne
+ - Lost
 ## Dynoro
  - In My Mind
 ## Dzeko & Torres
  - Monstercat 016 \- Expedition
 ## Déesse louve
  - アニメ『BNA ビー・エヌ・エー』Complete album
+## E\-40
+ - Dark Sky Paradise
+ - Dark Sky Paradise \(Deluxe\)
+ - Free TC \(Deluxe Edition\)
+ - Gangsta's Paradise
+ - I Stand On That
+ - Ice Daddy
+ - Special Effects
+ - Tha Blue Carpet Treatment
+ - The Beautiful & Damned
+ - The State vs. Radric Davis \(Deluxe\)
+ - These Things Happen
+ - When It's Dark Out
+## E. Mason
+ - Operation: Doomsday \(Complete\)
+## E.D.I.
+ - Loyal To The Game
+ - Until The End Of Time
+## Earl Sweatshirt
+ - Doris
+ - Piñata
+ - Watching Movies with the Sound Off \(Deluxe Edition\)
+ - Wolf
+## Earlly Mac
+ - Detroit 2
+## Earth, Wind & Fire
+ - Authentic \(Deluxe Edition\)
+## EARTHGANG
+ - ALL EYES ON ME
+ - CINCORIGINALS
+ - Rags
+ - Revenge Of The Dreamers III
+ - The Never Story
+## Eastside Boyz
+ - Speakerboxxx/The Love Below
+## EasyPop
+ - ベリーイージー
+## Eazy\-E
+ - Gangsta Memorial
+ - N.W.A. And The Posse
+ - The Best Of N.W.A: The Strength Of Street Knowledge
+## echo
+ - ウタカタリレイション
+## Eclipse
+ - Operation Stackola
+## Eco
+ - Stankonia
+ - Stankonia \(Deluxe Version\)
+## Ed Lover
+ - The Art Of Storytelling
 ## Ed Sheeran
+ - Born 2 Rap
+ - Goodbye Yellow Brick Road \(40th Anniversary Celebration/ Super Deluxe Edition\)
+ - Heavy Is The Head
  - Music To Be Murdered By
  - No.6 Collaborations Project
  - Revival
+## Edda Dell'Orso
+ - Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack
 ## Eddie Griffin
  - 2001
  - 2001 \(Explicit Version\)
-## Eden Project
- - NCS: Uplifting
+## Eddie Van Halen
+ - Authentic \(Deluxe Edition\)
+## EDO BOYS
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜
+## Edo. G
+ - BACK AROUND THE WAY
 ## EDOist
  - 葛西ハーコーズ
-## EH!DE
- - My Heart
+## eeeeeeee
+ - Summertime '06
+## EGOR MUF
+ - The Scary Meaning of Devil Facezzz
+## Eighty4 Fly
+ - The Heist
+ - The Heist \(Deluxe Edition\)
 ## eill
  - Koko de Iki wo Shite
 ## Eivør
  - God of War \(PlayStation Soundtrack\)
-## Electric Joy Ride
- - NCS: Uplifting
- - Origin
+## Ekoh
+ - Along The Way
+## El Noble
+ - Loyal To The Game
+## El Prez
+ - A3c, Vol. 1
+## Elayna Boynton
+ - Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack
 ## Electric Light Orchestra
+ - Do You Want More?!!!??!
  - Out of the Blue
 ## Electro\-Light
- - Drakkar
  - NCS: Infinity
- - NCS: The Best of 2015
- - NCS: Uplifting
- - Rubik
- - Skyline
  - Symbolism
- - Symbolism pt. II
- - You And Me
 ## Elektronomia
- - Energy
- - Fire
- - Limitless
  - Sky High
- - Summersong 2018
- - Vision
- - Vitality
+## Elijah Blake
+ - Jesus Piece \(Deluxe\)
+## Elijah James
+ - Evolution
+## Elijah Midjord
+ - Realistic \(feat. Elijah Midjord\)
+## ELISA
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜
+## Elisa Toffoli
+ - Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack
 ## Eliza Doolittle
  - Flume \(Deluxe Edition\)
 ## Ella Mai
+ - Championships
+ - Cold Summer
+ - DiCaprio 2
  - No.6 Collaborations Project
+ - Perfect Ten
+## Elle Limebear
+ - Hands Are Made for Working
+## Elle Varner
+ - Eve
+ - My Own Lane \(Expanded Edition\)
 ## Ellen Allien
  - Berlinette
+## Elley Duhé
+ - Uncle Drew \(Original Motion Picture Soundtrack\)
 ## Ellie Goulding
  - Close To Me \(feat. Swae Lee\)
  - Slow Grenade
@@ -942,66 +3625,179 @@ This file contains the list of all the songs that are currently added in the MDR
  - Curtain Call \(Deluxe\)
  - Curtain Call: The Hits
  - Curtain Call: The Hits \(Deluxe Edition\)
+ - Diamonds \(Deluxe\)
+ - Don't Shoot Me I'm Only The Piano Player
+ - Goodbye Yellow Brick Road \(40th Anniversary Celebration/ Super Deluxe Edition\)
  - Goodbye Yellow Brick Road \(Remastered / Deluxe Edition\)
  - Honky Chateau
  - Honky Chateau \(Remastered\)
+ - MONTERO
  - Madman Across The Water
+ - On the Run
  - Rocket Man \(Deluxe Edition\)
  - Rocketman \(Music From The Motion Picture\)
  - Too Low For Zero
 ## Elvin Bishop
  - Guardians of the Galaxy: Awesome Mix Vol. 1 \(Original Motion Picture Soundtrack\)
+## Elvis El Latino
+ - Eurobeat Kudos 20
+## Elzhi
+ - Out of Focus
+ - Sour Soul
+## Emanny
+ - The Allegory
 ## EMEL
  - Monstercat Uncaged Vol. 8
 ## Emelie Hollow
  - Different World
-## Emily Stiles
- - Connected \- EP
+## Emilia Simmons
+ - Chill
+## Emilio Rojas
+ - Life Got in the Way
 ## Emily Warren
  - Sick Boy
 ## Eminem
  - 2001
  - 2001 \(Explicit Version\)
+ - 8 Mile \(Music From And Inspired By The Motion Picture\)
+ - All Or Nothing
+ - B.o.B Presents: The Adventures of Bobby Ray
+ - Book of Ryan \(Bonus Track Edition\)
+ - Cheers
+ - Confessions of a Dangerous Mind
+ - Cradle 2 The Grave
  - Curtain Call \(Deluxe\)
  - Curtain Call: The Hits
  - Curtain Call: The Hits \(Deluxe Edition\)
+ - Detroit 2
  - Encore \(Deluxe Version\)
+ - Everythings For Sale
+ - Family Ties
+ - From a Birds Eye View
  - Get Rich Or Die Tryin'
+ - Greatest Hits
+ - I Decided.
  - I Need A Doctor
+ - Infinite
  - Kamikaze
+ - Killer \(feat. Jack Harlow & Cordae\) \[Remix\]
  - Killshot
+ - King's Disease II
+ - Loyal To The Game
+ - More Than A Game
  - Music To Be Murdered By
+ - Music To Be Murdered By \- Side B \(Deluxe Edition\)
  - No.6 Collaborations Project
  - Recovery
+ - Recovery \(Deluxe Edition\)
+ - Relapse: Refill
+ - Restless
  - Revival
+ - Rock City
+ - SHADYXV
+ - Southpaw \(Music From And Inspired By The Motion Picture\)
+ - Special Effects
  - Suicide Squad: The Album
+ - The Adventures of Moon Man & Slim Shady \(with Eminem\)
+ - The Blueprint \(Explicit Version\)
+ - The Documentary
  - The Eminem Show
  - The Marshall Mathers LP
  - The Marshall Mathers LP2
  - The Marshall Mathers LP2 \(Deluxe\)
+ - The Massacre
  - The Slim Shady LP
  - The Slim Shady LP \(Expanded Edition\)
+ - Thoughts Of A Predicate Felon
  - Venom \(Music From The Motion Picture\)
  - Walk On Water \(feat. Beyoncé\)
-## Eminence
- - Monstercat 010 \- Conquest
- - Monstercat 012 \- Aftermath
 ## Emmylou Harris
  - Definitive All\-Time Greatest Hits
+## Emon
+ - どりーみんチュチュ
+## emon\(Tes.\)
+ - メタモリボン
+## Empress Starhh
+ - BORN LIKE THIS
+## En Vogue
+ - Party
+## Encanto \- Cast
+ - Encanto \(Original Motion Picture Soundtrack\)
+## Enchanting
+ - My Hustle Unmatched
 ## Endigo
  - Big Chungus
 ## Enigma
+ - Return of the B\-Girl
  - The Screen Behind The Mirror
+## Enimal
+ - Cozz & Effect
+## Ennio Morricone
+ - Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack
+## Enormus Tha Ox
+ - Let The Goons Loose \(BWS 7.0\)
 ## Ephixa
  - Monstercat 007 \- Solace
+## EPMD
+ - King's Disease II
 ## Eptic
  - Monstercat Uncaged Vol. 8
+ - Neon Grave Remixed
+## Eric B. & Rakim
+ - Dame Dash Presents Paid In Full / Dream Team
+ - Don't Sweat The Technique
+ - Paid In Full
+ - The 18th Letter / The Book Of Life
 ## Eric Burdon
  - Guardians Of The Galaxy \- Hooked On A Feeling
-## Escala
- - Escala
+## Eric Godlow
+ - somehow
+## Eric Nally
+ - GEMINI
+## Eric Reprid
+ - Cold World
+## Eric Tucker
+ - No Shame
+## Eric Turner
+ - Lasers
+ - Lasers \(Deluxe Edition\)
+## Erica Banks
+ - Buss It \(feat. Travis Scott\)
+## Erick Sermon
+ - Gettin' It \(Album Number Ten\)
+ - Lyricist Lounge Volume 2
+ - Restless
+## Erykah Badu
+ - Mama's Gun
+ - Stankonia
+ - Stankonia \(Deluxe Version\)
+ - Streetsoul
+ - Teflon Don
+ - The Best of Busta Rhymes
+ - Things Fall Apart
+ - Wolf
+## Eryn Allen Kane
+ - Coloring Book
+ - I TAPE
 ## Essenger
  - Monstercat Uncaged Vol. 8
+## EST Gee
+ - Confetti
+ - Only The Family \- Lil Durk Presents: Loyal Bros
+ - Thats What They All Say
+## Estelle
+ - Flower Boy
+ - Revolutions Per Minute
+ - Thank H​.​E​.​R. Now
+## Ester Dean
+ - More Than A Game
+ - The DeAndre Way
+ - Underground Luxury
+## Etta James
+ - The Hurricane \(Music From And Inspired By The Motion Picture\)
+## Euro
+ - FWA
+ - Rise Of An Empire \(Deluxe Edition\)
 ## Eurythmics
  - Sweet Dreams \(Are Made Of This\)
 ## Evan Freakshow
@@ -1009,60 +3805,309 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Evan King
  - Karlson Wave \(Milkman Karlson Theme\) \[Original Game Soundtrack\]
  - Vibing in the 20s
+## Evan Roman
+ - The Heist
+ - The Heist \(Deluxe Edition\)
+## Evans Desir
+ - Yuck Fou
 ## Eve
+ - Any Given Sunday \(OST\)
+ - Eve Vocaloid 01
+ - Grand Champ
+ - Halfway Tree
  - Kaikai Kitan / Ao No Waltz
+ - Ryde Or Die Vol. II
+ - Things Fall Apart
+ - 少年少女のコトバ
  - 廻廻奇譚
  - 闇夜
 ## evening cinema
  - summertime
+## Everen Maxwell
+ - Warbringer
 ## Everything but the Girl
  - Missing \(Remixes\)
+## Evil Empire
+ - Face of L.A.
+## Evil Nine
+ - The Fast And The Furious: Tokyo Drift
+ - The Fast And The Furious: Tokyo Drift \(Original Motion Picture Soundtrack\)
+## ewe
+ - カトラリー
+ - ミライ
+## EXIT TUNES/PONY CANYON
+ - Kagaminext feat. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―
+## Ezzy Angelo
+ - The Reconstruction
+## F1JO
+ - Beam Me Up Scotty
+## F3bruary
+ - Who Am I
+## Fabolous
+ - ADHD
+ - Book of Ryan \(Bonus Track Edition\)
+ - Championships
+ - Greatest Hits
+ - H.F.M. 2 \(Hunger For More 2\)
+ - Jesus Piece \(Deluxe\)
+ - Party
+ - Tha Carter III \(MTV Bonus Version\)
+ - They Got Amnesia
+ - When I Feel Like It
+## Faith Evans
+ - Bad Boy's 10th Anniversary\- The Hits
+ - Beats, Rhymes & Life
+ - More Than A Game
+ - The Anthology
+ - The Documentary
+ - The Great Depression
+ - The Saga Continues...
 ## Faithless
  - Essential \- The 90s
+## Famous Dex
+ - Dex Meets Dexter
+ - Still Striving
+## Fana Hues
+ - CALL ME IF YOU GET LOST
 ## Fani Lou
  - Psychomagic
+## Far East Movement
+ - The Fast And The Furious: Tokyo Drift
+ - The Fast And The Furious: Tokyo Drift \(Original Motion Picture Soundtrack\)
 ## Farruko
  - On My Way
+## Fastway
+ - Eurobeat Kudos 20
+ - SUPER EUROBEAT presents INITIAL D〜D SELECTION 3〜
+## Fat
+ - CINCORIGINALS
+## Fat Joe
+ - 4:21...The Day After
+ - All Or Nothing
+ - Capital Punishment \(Explicit Version\)
+ - Cradle 2 The Grave
+ - Family Ties
+ - Jealous Ones Still Envy \(J.O.S.E\)
+ - Me, Myself & I
+ - Mr. Smith \(Deluxe Edition\)
+ - The Big Picture
+ - True Story
+## Fat Tony
+ - LIVE.LOVE.A$AP
+## Fat Trel
+ - Fan of A Fan The Album \(Expanded Edition\)
 ## Fatboy Slim
  - Why Try Harder \- The Greatest Hits
+## Father John Misty
+ - Indicud
+## Fatman Scoop
+ - Authentic \(Deluxe Edition\)
 ## Favored Nations
  - The Great Unknown
+## FayeP
+ - EXIT TUNES PRESENTS GUMing from Megpoid
+ - EXIT TUNES PRESENTS THE BEST OF GUMI from Megpoid
+## FBG Duck
+ - Big Clout
+## FBG Dutchie
+ - Big Clout
+## Fbg Wooski
+ - Wooski
+## FBG Young
+ - Big Clout
 ## Fear, and Loathing in Las Vegas
  - All That We Have Now
  - Feeling of Unity
+## Feather
+ - Late Nights: The Album
 ## Feint
  - Monstercat 007 \- Solace
- - Monstercat 010 \- Conquest
  - Rocket League x Monstercat Vol. 1
 ## Felix da Housecat
  - Verve Remixed 2
+## Femi Kuti
+ - Like Water For Chocolate
+## Fenix Flexin
+ - Party Pack. Vol 2
+## Fergie
+ - B.O.A.T.S. II #METIME \(Deluxe\)
+## Fetty Wap
+ - DROPPED OUTTA COLLEGE
+ - Free TC \(Deluxe Edition\)
+ - Nasty Dealer 2
+ - Only Way Is Up \(Deluxe\)
+ - Professional Rapper
+ - Summer In The Winter
 ## fhána
  - World Atlas
+## Fiend
+ - Body Head Bangerz, Vol. 1
+ - No Limit Top Dogg
+## Fifty Grand
+ - Concept Vague
+## Fila Fresh Crew
+ - N.W.A. And The Posse
+## Fitz and The Tantrums
+ - Authentic \(Deluxe Edition\)
+## Fivio Foreign
+ - City of Gods
+ - Dark Lane Demo Tapes
+ - Destined 2 Win
+ - Hall of Fame
+ - King's Disease
+ - LIVE LIFE FAST
+ - Meet The Woo 2
+ - Not In The Mood \(feat. Fivio Foreign & Kay Flock\)
+ - SALUTE \(feat. Big Sean and Fivio Foreign\)
+ - Story Time
+ - They Got Amnesia
+ - Welcome to O'Block
+## FKA twigs
+ - TESTING
+## Flava Flav
+ - The Grind Date
 ## Fleetwood Mac
  - Rumours \(Super Deluxe\)
+## Fleurie
+ - Mansion
+## Flipmode Squad
+ - Anarchy
+ - Extinction Level Event: The Final World Front
+ - Genesis
+## Flipp Dinero
+ - Gardner Express
+## Flo Brown
+ - The Hurricane \(Music From And Inspired By The Motion Picture\)
 ## Flo Rida
  - Greenlight \(feat. Flo Rida & LunchMoney Lewis\)
-## Floatinurboat
- - NCS: The Best of 2016
-## FLOW
+## Florence Welch
+ - LONG.LIVE.A$AP \(Deluxe Version\)
+## Flow
  - FLOW ANIME BEST 極
  - FLOW the Best: Single Collection
  - Go!!!
  - Microcosm
+ - Rise Of An Empire \(Deluxe Edition\)
+ - Sorry 4 The Wait
+## Flowars
+ - 4708
+## FM Blue
+ - Get In Where You Fit In
+## Fo
+ - Chill
+ - Serene
+ - Therapeutic
+## Foogiano
+ - MOLLY
+ - Only The Family \- Lil Durk Presents: Loyal Bros
 ## Foreign Beggars
  - Scary Monsters and Nice Sprites EP
 ## Foreigner
  - Records
-## Formal One
- - Tortuga
+## FORGOTTENAGE
+ - Japanese Drift
+## Foster
+ - as long as i have you
+ - fools \(can't help falling in love\) \(slowed down & reverb\)
 ## Foster The People
  - Torches
+## Foti
+ - Fearless
 ## fourfolium
  - HIGECORE!
+## Foxy Brown
+ - Cradle 2 The Grave
+ - It Was Written
+ - King's Disease
+ - Mr. Smith \(Deluxe Edition\)
+ - Reasonable Doubt
+ - Vol.2... Hard Knock Life
 ## Fractal
  - Monstercat 016 \- Expedition
+## Fran Vasilić
+ - Television / So Far So Good \(voice memo\)
+## Francis and the Lights
+ - Coloring Book
+## Frank 'n' Dank
+ - Welcome 2 Detroit
 ## Frank Bentley
  - Beat Saber \(Original Game Soundtrack\), Vol. II
+## Frank N Dank
+ - Champion Sound
+## Frank Ocean
+ - 4:44
+ - Doris
+ - Flower Boy
+ - Goblin
+ - TESTING
+ - The OF Tape Vol. 2
+ - Watch The Throne \(Deluxe\)
+ - Wolf
+## Frank Sinatra
+ - Ultimate Christmas
+ - YS Collection Vol. 1
+## Frank Sinatra Jr.
+ - Ultimate Christmas
+## Frankie Beverly
+ - Dame Dash Presents Paid In Full / Dream Team
+## Frankie Valli & The Four Seasons
+ - Party
+## Franz Joseph Haydn
+ - Dame Dash Presents Paid In Full / Dream Team
+## Frayser Boy
+ - Most Known Unknown \(Explicit\)
+## Fred Hammond
+ - JESUS IS KING
+## Fred Waring & The Pennsylvanians
+ - Ultimate Christmas
+## Freddie Dredd
+ - All Alone
+## Freddie Foxxx
+ - 19 Naughty III
+ - BORN LIKE THIS
+ - Full Clip: A Decade Of Gang Starr
+ - Moment Of Truth
+ - The Ownerz
+## Freddie Gibbs
+ - 1985
+ - 4 Thangs \(feat. Big Sean & Hit\-Boy\)
+ - A3c, Vol. 1
+ - Alfredo
+ - Bandana
+ - From a Birds Eye View
+ - Piñata
+ - Pray for Paris
+ - The Course of the Inevitable
+## Fredo Bang
+ - Love Me While I'm Here
+## Free Ackrite
+ - Cozz & Effect
+## Freeway
+ - 8 Mile \(Music From And Inspired By The Motion Picture\)
+ - Dame Dash Presents Paid In Full / Dream Team
+ - For Everything
+ - Season of the Assassin
+ - The College Dropout
+## Freezzy
+ - Koyoi mofumofu
+## French Montana
+ - Fear of God II: Let Us Pray
+ - Finally Rich \(Deluxe\)
+ - Flockaveli
+ - Jungle Rules
+ - MMG Presents: Self Made, Vol. 1
+ - My Own Lane \(Expanded Edition\)
+ - No Stylist
+ - Only Way Is Up \(Deluxe\)
+ - Paranoia: A True Story
+ - Starvation 2
+ - Still Striving
+ - TESTING
+ - They Got Amnesia
+ - Trap Lord
+ - Uncle Drew \(Original Motion Picture Soundtrack\)
+## Frenchie
+ - Trap Music 2k12
 ## Friedrich Habetler
  - Steel Ball Run Johnny Joestar Theme
  - Ultimate Battle
@@ -1072,55 +4117,374 @@ This file contains the list of all the songs that are currently added in the MDR
  - Berlin Calling \(The Soundtrack by Paul Kalkbrenner\)
 ## Frozen Silence
  - Anime & Chill Lofi Beats for Study
+## FTR Drama
+ - Days Inn
+## Fugees
+ - Blunted On Reality
+ - The Score \(Expanded Edition\)
 ## Fujifabric
  - 楽園
+## Funk Flex
+ - Capital Punishment \(Explicit Version\)
+## Funke
+ - I Wish
 ## Futura
  - SUPER EUROBEAT presents INITIAL D DAVE RODGERS SELECTION
+## Future
+ - 7220
+ - A Gangsta’s Pain
+ - AT.LONG.LAST.A$AP
+ - BLAME IT ON BABY
+ - BLAME IT ON BABY \(DELUXE\)
+ - Beautiful Thugger Girls
+ - Black Panther The Album Music From And Inspired By
+ - Certified Lover Boy
+ - Championships
+ - Coloring Book
+ - Culture III
+ - DS4EVER
+ - Dark Lane Demo Tapes
+ - Dreams Worth More Than Money
+ - EVOL
+ - East Atlanta Love Letter
+ - Faith
+ - Featuring Ty Dolla $ign
+ - Free TC \(Deluxe Edition\)
+ - HNDRXX
+ - Hollywood's Bleeding
+ - Hotel California \(Deluxe\)
+ - I Am Not A Human Being II \(Deluxe\)
+ - Jesus Piece \(Deluxe\)
+ - Jungle Rules
+ - Just A Matter of Slime
+ - LIVE LIFE FAST
+ - Late Nights: The Album
+ - Life Is Good \(feat. Drake\)
+ - M&M \(with Future feat. Lil Baby\)
+ - My Turn
+ - My Turn \(Deluxe\)
+ - Perfect Ten
+ - Pluto x Baby Pluto
+ - Punk
+ - Redemption
+ - Richer Than I Ever Been
+ - Rodeo \(Expanded Edition\)
+ - SR3MM
+ - Shoot For The Stars Aim For The Moon
+ - So Much Fun
+ - Underground Luxury
+ - What A Time To Be Alive
+ - Who is Nardo Wick?
+ - Whole Lotta Red
+ - too easy
+ - too easy \(Remix\) \[feat. Future & Roddy Ricch\]
+## Futuristic
+ - Blessings
+ - Coast 2 Coast
+ - Epiphany \(feat. NF\)
+ - It's Different Now
+ - N9NA
+ - Prophecy
+ - Terminal
+ - The Rise
 ## Futuristik
  - NCS is Love, NCS is Life, Vol. 1
- - NCS: The Best of 2016
+## Fuzz Rico
+ - Missed Calls
+## G Child
+ - Regulate… G Funk Era
+## G Herbo
+ - Beam Me Up Scotty
+ - DS4EVER
+ - F\*CK LOVE 3: OVER YOU
+ - FOR CERTAIN \(Deluxe\)
+ - Hall of Fame
+ - Just Cause Y'all Waited 2
+ - Just Cause Y'all Waited 2 \(Deluxe\)
+ - LARRY
+ - Levon James
+ - PTSD
+ - Sleeping On The Floor \(feat. G Herbo\)
+ - Welcome to Fazoland
+ - Who Want Smoke?? \(feat. G Herbo, Lil Durk & 21 Savage\)
+ - Who is Nardo Wick?
+## G Perico
+ - Slauson Boy 2
+ - The Allegory
 ## G\-Eazy
+ - A3c, Vol. 1
+ - Church on Sunday
+ - Confessions of a Dangerous Mind
+ - Indigo
+ - Indigo \(Extended\)
+ - Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)
  - Suicide Squad: The Album
-## Gabowtf
- - Long Shot \(From "Re:ZERO \-Starting Life in Another World\- Season 2"\) \[Cover\]
+ - The Beautiful & Damned
+ - These Things Happen
+ - Uncle Drew \(Original Motion Picture Soundtrack\)
+ - When It's Dark Out
+ - beerbongs & bentleys
+## G\-Unit
+ - Beg For Mercy
+ - Cradle 2 The Grave
+ - Real Quick
+ - T.O.S. \(Terminate On Sight\)
+ - Thoughts Of A Predicate Felon
+## G\-Wiz
+ - Piñata
+## G. Dep
+ - Moment Of Truth
+ - The Saga Continues...
+## Gambino
+ - Hell On Earth
 ## Gammer
  - Monstercat Uncaged Vol. 8
+## Gang Starr
+ - 8 Mile \(Music From And Inspired By The Motion Picture\)
+ - Full Clip: A Decade Of Gang Starr
+ - Moment Of Truth
+ - The Ownerz
+## Gang51e June
+ - Hood Interrogation
+## Gangsta
+ - Ghetto Heisman
+## Gangsta Boo
+ - Stankonia
+ - Stankonia \(Deluxe Version\)
+## Gangster Lou
+ - Dame Dash Presents Paid In Full / Dream Team
+## Garren
+ - Effected
+## Garrett.
+ - Why Don't You Come on Over
+## Gary Clark Jr.
+ - The Storm \(Deluxe Edition\)
+## Gavin James
+ - Off The Grid
+## GAWNE
+ - Diablo
+ - Terminal
+ - When the Sky Turns Red
+ - YouTube Cypher, Vol. 2
 ## Gawr Gura
  - Hololive English \-Myth\- Image Soundtrack\(ft. Camellia\)
+ - Journey Like a Thousand Years 〜千年の旅〜
+ - Q
+ - REFLECT
+ - UnAlive
+ - 浸食!! 地球全域全おーしゃん
+## GAYLE
+ - abcdefu
+## Gazele
+ - Off The Grid
+## Geda K
+ - Dame Dash Presents Paid In Full / Dream Team
 ## Geek Music
  - Death Note \- L's Theme \- Main Theme
  - Naruto Shippuden \- Girei \- Pains Theme
  - Red Dead Redemption 2 \- EP Compilation
  - The Anime Collection Volume One
+## Gemini
+ - Lupe Fiasco's Food & Liquor
 ## Gemma Jones
  - Rocketman \(Music From The Motion Picture\)
+## Gemstones
+ - Lupe Fiasco's The Cool
+ - Man vs. Machine
+## Gene Noble
+ - Life Got in the Way
+## General G
+ - Hell On Earth
+## Generation Rap
+ - Generation Rap Vol. 2
+## George Clinton
+ - Aquemini
+ - Lethal Injection
+ - Tha Blue Carpet Treatment
+ - To Pimp A Butterfly
+ - What You Gonna Do When The Grid Goes Down?
 ## George Morel
  - Morel's Grooves \(Pt. 4\)
+## Georgee Vee
+ - Run the Streets
+## Georgia Anne Muldrow
+ - Negro Swan
 ## Gerard Way
  - \> album title goes here \<
+## Germaine Franco
+ - Encanto \(Original Motion Picture Soundtrack\)
+## Geto Boys
+ - The Foundation
+ - We Can't Be Stopped
+## Ghastly
+ - Neon Grave Remixed
+## Ghost
+ - Old Habits Never Die
+## Ghostface
+ - Blackout!
+ - The Grind Date
+## Ghostface Killah
+ - Anarchy
+ - BORN LIKE THIS
+ - Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]
+ - Fishscale \(Expanded Edition\)
+ - Ghostface Killah...Shaolin's Finest
+ - Ironman
+ - Kanye West Presents Good Music Cruel Summer
+ - Legend Of The Wu\-Tang: Wu\-Tang Clan's Greatest Hits
+ - Liquid Swords
+ - Lyricist Lounge Volume 2
+ - Only Built 4 Cuban Linx 2
+ - Only Built 4 Cuban Linx...
+ - Sour Soul
+ - THE MOUSE & THE MASK
+ - The Essential Wu\-Tang Clan
+ - The Infamous
+ - Wu\-Tang Forever
+ - YSIV
+## Ghostface Playa
+ - Cruisin' Down Da Block
+ - Cruisin’ Down Da Block
+ - High As Fuck
+## Giga
+ - GETCHA! \(feat. Hatsune Miku & GUMI\)
+ - GRAPHIX
+ - Ready Steady \(feat. 初音ミク, 鏡音リン, 鏡音レン\)
+ - うっせぇわ \(Giga Remix\)
+ - ワーワーワールド \(feat. 初音ミク & 鏡音リン\)
+ - 劣等上等 feat. 鏡音リン・レン
+## Giggs
+ - Expensive Pain
+ - More Life
 ## Gigi D'Agostino
  - In My Mind
 ## Gil Scott\-Heron
+ - The Hurricane \(Music From And Inspired By The Motion Picture\)
  - We're New Here
+## Gillie Da Kid
+ - Boobie Trapp 3
 ## GIN
  - POP TEAM EPIC: ALL TIME BEST
+## Ginuwine
+ - 4:21...The Day After
+ - Bad Boy's 10th Anniversary\- The Hits
+## Giveon
+ - Certified Lover Boy
+ - Dark Lane Demo Tapes
+## Giz
+ - Body Head Bangerz, Vol. 1
+## Gizzle
+ - Dynasties & Dystopia \(from the series Arcane League of Legends\)
+ - When It's Dark Out
+## GJan
+ - I Could Not Plan This
+## glaive
+ - SUMMER03
+ - old dog, new tricks
+ - prick
+## GLC
+ - A3c, Vol. 1
+ - Late Registration
+ - Man On The Moon II: The Legend Of Mr. Rager
+ - Section.80
+ - The College Dropout
+## Glenn Aure
+ - Bootlegs And B\-Sides
+## glexks
+ - RAISE DEMONS
+## Gloria Carter
+ - 4:44
 ## Gloria Gaynor
  - Guardians Of The Galaxy \- Hooked On A Feeling
-## Glude
- - NCS: The Best of 2016
+## GMEBE Allo
+ - Best of Both Worlds
+## GMEBE Bandz
+ - Best of Both Worlds
+## Gmebe Pistol
+ - Best of Both Worlds
+## Go2
+ - Eurobeat Go2, Vol. 1
+ - Eurobeat Kudos 20
+## Godemis
+ - FEAR EXODUS
+## Godfather Don
+ - Illmatic XX
+## Godsmack
+ - Any Given Sunday \(OST\)
+## GoGoGirls
+ - SUPER EUROBEAT presents INITIAL D〜D SELECTION 3〜
 ## Going Quantum
  - Monstercat 007 \- Solace
+## Golde
+ - For What Its Worth
+## Golde London
+ - Buy or Bye 2
+## Goldie
+ - Nip Hussle the Great: Vol. 2
+## Goldie Loc
+ - No Limit Top Dogg
+ - Restless
+ - Tha Blue Carpet Treatment
+## GoldLink
+ - TA13OO
+ - Uncle Drew \(Original Motion Picture Soundtrack\)
+## Goo Glizzy
+ - LAW 3: Now Or Never
+## Goodie Mob
+ - Any Given Sunday \(OST\)
+ - Big Boi & Dre Present...OutKast
+ - Soul Food
 ## Gotye
  - Making Mirrors
+## GQ
+ - For Everything
+ - Laila’s Wisdom
+## Grabbitz
+ - Die For You
 ## Gracie Abrams
  - This Is What It Feels Like
  - minor
+## Grafh
+ - The Allegory
+## Graham Burris
+ - Lupe Fiasco's The Cool
+## Grand Puba
+ - 2000
+ - Mecca And The Soul Brother
+ - The Awakening
+## Grand Wizard
+ - Illmatic XX
+## Grandaddy Souf
+ - Most Known Unknown \(Explicit\)
+## Grandmaster
+ - Rapper's Delight
+## Grandmaster Flash
+ - Rapper's Delight
+## Grandmaster Flash & The Furious Five
+ - Rapper's Delight
+ - The Message
+## Grandmaster Melle Mel
+ - Rapper's Delight
+ - The Message
+## grandson
+ - Until I Come Home
 ## GRANRODEO
  - FLOW ANIME BEST 極
 ## grant
  - Color
 ## Grant Nelson
  - The Days / Nights
+## Grap & Dida
+ - Mecca And The Soul Brother
+## GRAVECHILL
+ - SECRETS OF THE DARK
+## GREEN ORXNGE
+ - Ezekiel
+## Greg James
+ - Whole Team Winning
+## grentperez
+ - Cherry Wine
+ - Demo\(s\) About Love
 ## Griff
  - Black Hole
  - Forgive Myself
@@ -1130,56 +4494,310 @@ This file contains the list of all the songs that are currently added in the MDR
  - Visions
 ## Groove Armada
  - The Best Of
+## GSFEB
+ - Mr Death of 150
+## Guapdad 4000
+ - Revenge Of The Dreamers III
+## guardin
+ - Solitary
+ - Storm Clouds
+ - i think you're really cool
+ - things could be worse
+## Gucci Mane
+ - Beam Me Up Scotty
+ - Champions
+ - Cocky \(feat. London On Da Track\)
+ - Confessions of a Dangerous Mind
+ - Culture
+ - Culture II
+ - Droptopwop
+ - Heartbreak on a Full Moon
+ - Hot Pink
+ - Ice Daddy
+ - KIRK
+ - Mr. Davis
+ - Muwop \(feat. Gucci Mane\)
+ - Nasty Dealer 2
+ - PAPER ROUTE iLLUMINATi
+ - Pretty Girls Like Trap Music
+ - Rumors \(feat. Lil Durk\)
+ - Street Runnaz 83
+ - Teflon Don
+ - Tha Carter V \(Deluxe\)
+ - The State vs. Radric Davis \(Deluxe\)
+ - Trap Music 2k12
+ - Uncle Drew \(Original Motion Picture Soundtrack\)
+ - Wake Up in the Sky
+ - Woptober II
+ - iSouljaBoyTellem
+## guccihighwaters
+ - LONELY VIBES \(Deluxe\)
+ - monarch
+## Gudda Gudda
+ - Flockaveli
+ - I Am Not A Human Being
+ - I Am Not A Human Being II \(Deluxe\)
+ - Rise Of An Empire \(Deluxe Edition\)
+ - Sorry 4 The Wait
+## Guiano
+ - IA SUPER BEST \-THE CREATORS \-
+## Guilty Simpson
+ - Champion Sound
+ - The Shining
+ - Yancey Boys
 ## Guitarrista de Atena
  - EPIC Battle Themes I
+## GUMI
+ - EXIT TUNES PRESENTS GUMing from Megpoid
+ - GETCHA! \(feat. Hatsune Miku & GUMI\)
+ - THIS IS VOCAROCK feat.GUMI
+## Gun
+ - Gun
+## Gunna
+ - 7220
+ - BLAME IT ON BABY \(DELUXE\)
+ - Beautiful Thugger Girls
+ - DS4EVER
+ - Drip Harder
+ - Featuring Ty Dolla $ign
+ - Find The Beat
+ - From a Birds Eye View
+ - Harder Than Ever
+ - Hot \(Remix\) \[feat. Gunna and Travis Scott\]
+ - Indigo
+ - Indigo \(Extended\)
+ - Just Cause Y'all Waited 2
+ - Just Cause Y'all Waited 2 \(Deluxe\)
+ - Kawhi Leonard Presents: Culture Jam \(Vol. 1\)
+ - LIVE LIFE FAST
+ - Legendary
+ - Legendary \(Deluxe Edition\)
+ - My Turn
+ - My Turn \(Deluxe\)
+ - Perfect Ten
+ - Please Excuse Me for Being Antisocial
+ - Punk
+ - REPEAT IT
+ - Slime Language
+ - So Much Fun
+ - Suga
+ - The World Is Yours 2
+ - We Love You Tecca 2
+ - too easy
+ - too easy \(Remix\) \[feat. Future & Roddy Ricch\]
+## Gunplay
+ - I Am Not A Human Being II \(Deluxe\)
+ - LONG.LIVE.A$AP \(Deluxe Version\)
+ - MMG Presents: Self Made, Vol. 1
 ## Guns N' Roses
  - Appetite For Destruction
+## Guru
+ - Any Given Sunday \(OST\)
+ - The Big Picture
+## Guru's Jazzmatazz
+ - Streetsoul
 ## Gustavo Santaolalla
  - The Last of Us
+## Guvna B
+ - Hands Are Made for Working
+## Guy
+ - Dame Dash Presents Paid In Full / Dream Team
+## Guy Sebastian
+ - Food & Liquor II: The Great American Rap Album, Pt. 1
+## Gwen Bunn
+ - Laila’s Wisdom
+## Gwen Stefani
+ - Southpaw \(Music From And Inspired By The Motion Picture\)
+## GZA
+ - Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]
+ - Eve
+ - Every Hero Needs a Villain
+ - Legend Of The Wu\-Tang: Wu\-Tang Clan's Greatest Hits
+ - Liquid Swords
+ - Only Built 4 Cuban Linx 2
+ - The Essential Wu\-Tang Clan
+ - Wu\-Tang Forever
+ - YSIV
+## GZA \(Genius\)
+ - Only Built 4 Cuban Linx...
+## H\-Mob
+ - Me, Myself & I
+## H. Stax
+ - The Ownerz
 ## H.E.R.
+ - From a Birds Eye View
+ - Heavy Is The Head
+ - Indigo
+ - Indigo \(Extended\)
+ - KHALED KHALED
  - No.6 Collaborations Project
+ - Uncle Drew \(Original Motion Picture Soundtrack\)
 ## Habstrakt
  - Monstercat Uncaged Vol. 8
+## hachi
+ - HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]
+ - OFFICIAL ORANGE
+ - ドーナツホール
+ - 砂の惑星 feat.初音ミク
+## Hachioji P
+ - GRAPHIX
+## Had
+ - Long Days Longer Nights
+## Hahz the Rippa
+ - Body Head Bangerz, Vol. 1
+## Hailee Steinfeld
+ - YSIV
 ## Hailie Jade
  - The Eminem Show
+## HAIM
+ - Indicud
+## Hakim
+ - Long Days Longer Nights
+## Hakos Baelz
+ - Play Dice!
 ## halca
  - FIRST DROP
  - 告白バンジージャンプ
+## Halo
+ - Return of the B\-Girl
+ - Thank H​.​E​.​R. Now
 ## Halogen
  - U Got That
-## Harry Gregson\-Williams
- - METAL GEAR 20th ANNIVERSARY METAL GEAR MUSIC COLLECTION
+## Halsey
+ - 11 Minutes \(with Halsey feat. Travis Barker\)
+ - FRIENDS KEEP SECRETS
+ - Hollywood's Bleeding
+ - Legends Never Die
+ - The Beautiful & Damned
+ - hopeless fountain kingdom \(Deluxe\)
+## halyosy
+ - HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]
+ - ウタカタリレイション
+## Haneef Talib
+ - Summertime '06
+## Hank and the Bumper Stickers
+ - Willy's Wonderland \(Original Motion Picture Soundtrack\)
+## Hannibal
+ - Moment Of Truth
+## Hannibal Buress
+ - Professional Rapper
+## Hardhead
+ - RSS2
+## Hardo
+ - Days Inn
+## Harry Allen
+ - Illadelph Halflife
+## HarryP
+ - STAGE OF SEKAI
+ - 初音ミク「マジカルミライ 2014」 \[Live\]
 ## Haruka Tomatsu
  - Haruka Tomatsu Best Selection Sunshine
+## Harumakigohan
+ - ネオドリームトラベラー
+## Hash
+ - A3c, Vol. 1
+## Hasina
+ - For What Its Worth
+## Hassan Chop
+ - Take Me To Your Leader
+## Havoc
+ - It Was Written
+ - La Bella Mafia
+ - The Silent Partner
+## Hayes
+ - More Than A Game
+## Hayley Williams
+ - B.o.B Presents: The Adventures of Bobby Ray
 ## hayve
  - Monstercat Uncaged Vol. 8
 ## Haywyre
  - Monstercat 016 \- Expedition
+## Hazadous
+ - Lyricist Lounge Vol. 1
+## HBK
+ - Ghetto Rich Niggaz
+## HDBeenDope
+ - For The Record
+## Headie One
+ - Heavy Is The Head
 ## Heather Sommer
  - Perfect 10
+## Heather Victoria
+ - Return of the B\-Girl
+## heavn
+ - SUMMER03
+## Heavy D
+ - 19 Naughty III
+ - Mecca And The Soul Brother
 ## Hellberg
  - Ignite \(Remixes\)
- - Monstercat 010 \- Conquest
- - Monstercat 012 \- Aftermath
+## Hemi
+ - Slow Motion
+## Henry Verus
+ - Pretty Little Liar
+## Hensonn
+ - Sahara
+## Herbie Hancock
+ - Streetsoul
+## Hi\-Rez
+ - Lavish Life
+ - Life Got in the Way
+## Hi\-Tek
+ - Revolutions Per Minute
+## Hi\-Tone
+ - Life Got in the Way
 ## HIBIKI SAKURA\(CV:AI FAIROUZ\)
  - TV SERIES ”DUMBBELL NAN\-KILO MOTERU?” OPENING THEME「ONEGAI MUSCLE」/ENDING THEME「MACHO ARE NAME?」
+## hide
+ - The Fast And The Furious: Tokyo Drift
+ - The Fast And The Furious: Tokyo Drift \(Original Motion Picture Soundtrack\)
+## HiDoraah
+ - Slime Language
+## Hieroglyphics
+ - 3rd Eye Vision
+ - Full Circle
 ## Hige Driver
  - HIGECORE!
-## High Maintenance
- - NCS: The Best of 2015
+## Hiiragi yuka
+ - Happy Halloween
+## Hil Holla
+ - WCF
 ## Hilcrhyme
  - ヨリドコロ
+## Hippie Sabotage
+ - Queen Of The Clouds
 ## Hiroaki Tommy Tominaga
  - Jojo Sono Chino Sadame
  - ジョジョ〜その血の運命
 ## Hiroyuki Sawano
  - TV Anime "Attack on Titan Season 2" \(Original Soundtrack\)
  - TV Anime "Attack on Titan" Original Soundtrack
+## Hit\-Boy
+ - 4 Thangs \(feat. Big Sean & Hit\-Boy\)
+ - Detroit 2
+ - It Ain't My Fault
+ - King's Disease
+ - King's Disease II
+ - SALUTE \(feat. Big Sean and Fivio Foreign\)
+ - What A Life
+ - What You Expect
+ - Who is Nardo Wick?
+## Hitoshizuku and Yama
+ - Kagaminext feat. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―
 ## Hittman
  - 2001
  - 2001 \(Explicit Version\)
+## Hodgy
+ - Goblin
+ - The OF Tape Vol. 2
+ - Wolf
+## Hole
+ - Any Given Sunday \(OST\)
 ## Hollaphonic
  - Ignite \(Remixes\)
+## Hollis
+ - The Heist
+ - The Heist \(Deluxe Edition\)
 ## Hollywood Principle
  - Starting Over
 ## Hollywood Principle, Dr. Awkward
@@ -1192,19 +4810,23 @@ This file contains the list of all the songs that are currently added in the MDR
  - Pop on Rocks
 ## hololive 1st Generation
  - Plasmagic Seasons!
-## Hololive English \-Myth\-
+## hololive English \-Myth\-
  - Hololive English \-Myth\- Image Soundtrack\(ft. Camellia\)
+ - Journey Like a Thousand Years 〜千年の旅〜
 ## hololive IDOL PROJECT
  - BLUE CLAPPER
  - Bouquet
  - Bouquet \(Midnight ver.\)
  - Candy\-Go\-Round
  - Dreaming Days
+ - Prism Melody
  - STARDUST SONG
  - Shiny Smily Story
  - Suspect
+ - hololive meets DJ'TEKINA//SOMETHING remix
+ - hololive music studio \- Twilight
  - あすいろClearSky
- - でいり〜だいあり〜!
+ - でいり〜だいあり〜!
  - キラメキライダー☆
  - 今宵はHalloween Night!
  - 夢見る空へ
@@ -1212,31 +4834,167 @@ This file contains the list of all the songs that are currently added in the MDR
  - 至上主義アドトラック
 ## hololive Indonesia
  - id:entity voices
+## hololive music studio
+ - hololive meets DJ'TEKINA//SOMETHING remix
+ - hololive music studio \- Twilight
 ## Holosus
  - Dispatch
  - Duckstep
+ - Sussy
 ## Hommarju
  - EDM Extreme
+## HoneyWorks
+ - IA SUPER BEST \-THE CREATORS \-
+ - Kagaminext feat. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―
+ - 初音ミク「マジカルミライ 2014」 \[Live\]
+## Hoodfellaz
+ - The Saga Continues...
+## HoodRich Pablo Juan
+ - Harder Than Ever
+## Hoodybaby
+ - FWA
+## Hopsin
+ - Alone With Me
+ - Be11a Ciao
+ - Bus That
+ - CLOUDS \(THE MIXTAPE\)
+ - Ill Mind of Hopsin 8
+ - Kumbaya
+ - LOST
+ - Low\-Key
+ - No Shame
+ - Picasso
+ - Pound Syndrome
+ - Slow Motion
+ - Special Effects
+ - You Should've Known
+ - Your House
+ - Yuck Fou
+## HOSPICEMANE
+ - DAWN
+ - RAISE DEMONS
+## Hot Boy Bumpa
+ - Best of Both Worlds
+## Hot Boys
+ - 400 Degreez
 ## Hot Chip
  - One Life Stand
+## Hot Girl Meg
+ - Good News
+## Hotboii
+ - Just A Matter of Slime
+ - Love Me While I'm Here
+## Hugh Augustine
+ - The Sun's Tirade
 ## Hunter Hayes
+ - Goodbye Yellow Brick Road \(40th Anniversary Celebration/ Super Deluxe Edition\)
  - Goodbye Yellow Brick Road \(Remastered / Deluxe Edition\)
+## Hussein Fatal
+ - Blood In My Eye
+## HVN
+ - Life of a DON
 ## HYDE
  - Red Swan
  - SAMURAI SESSIONS vol.2
+## Hydro
+ - Vaudeville Villain
+## Hydroponikz
+ - Escapism
 ## Hype Turner
  - Reload \(feat. Hype Turner\)
 ## Hyper
  - Lies
+## I\-15
+ - souljaboytellem.com
+## I\-C
+ - PRhyme \(Deluxe Version\)
+## I.G. Off
+ - Lyricist Lounge Vol. 1
+## IA
+ - IA SUPER BEST \-THE CREATORS \-
+## iamjakehill
+ - By the Sword
+ - Disgrace
+ - Fearless
+ - Save Our Souls
+ - dying lately
+## IAMNOBODI
+ - When It's Dark Out
+## Iamsu!
+ - B.O.A.T.S. II #METIME \(Deluxe\)
+ - O.M.M.I.O 2
+ - Street Runnaz 83
+## iAmTheGENIUS
+ - Only Way Is Up \(Deluxe\)
+## Ian Isiah
+ - Negro Swan
+## iann dior
+ - V12 \(feat. Lil Uzi Vert\)
+ - We Love You Tecca 2
+ - on to better things
+## Ice Billion Berg
+ - ZUU
+## Ice Burgundy
+ - Flockaveli
+## Ice Cube
+ - At Tha Movies
+ - Bootlegs And B\-Sides
+ - Death Certificate
+ - Death Certificate \(25th Anniversary Edition\)
+ - Fear Of A Black Planet
+ - Gangsta Memorial
+ - Ghetto Heisman
+ - LAX
+ - Laugh Now, Cry Later
+ - Lethal Injection
+ - Raw Footage
+ - Short Dog's In The House
+ - Strictly 4 My N.I.G.G.A.Z...
+ - Terrorist Threats
+ - Tha Blue Carpet Treatment
+ - The Predator
+## ICE\-T
+ - Strictly 4 My N.I.G.G.A.Z...
+ - What You Gonna Do When The Grid Goes Down?
+## Icewear Vezzo
+ - Boobie Trapp 3
+ - Ghetto Rich Niggaz
+ - Trip At Knight \(Complete Edition\)
+## IDK
+ - Between Somewhere
+## Idrise
+ - Lock Me Up \(Quarantine Song\) \[feat. Idrise\]
+## IG Culture Basement Jerks
+ - J\-88
+## Iggy Azalea
+ - My Everything \(Deluxe\)
+ - No Mediocre \(feat. Iggy Azalea\)
+ - The New Classic
 ## Ikanaide
  - Let's Fighting Love \(From "South Park"\)
 ## Ikimonogakari
  - Chou Ikimonobakari Tennen Kinen Members Best Selection
  - Hajimarinouta
+## Ilham
+ - Boobie Trapp 3
+## ILL Bill
+ - Season of the Assassin
+ - Servants In Heaven, Kings In Hell
+## Ill.Bell
+ - Kakigori Galaxy Astronaut
+## Illa J
+ - Yancey Boys
+## ILOVEMAKONNEN
+ - Come Over When You're Sober, Pt. 2
 ## Imagine Dragons
- - Believer
+ - Bones
  - Continued Silence EP
+ - Enemy \(from the series Arcane League of Legends\)
+ - Enemy \(with JID\) \[from the series Arcane League of Legends\]
  - Evolve
+ - Follow You \(Summer ’21 Version\)
+ - Follow You / Cutthroat
+ - Gold \(Jorgen Odegard Remix\)
  - Natural
  - Night Visions
  - Night Visions \(Deluxe\)
@@ -1244,183 +5002,915 @@ This file contains the list of all the songs that are currently added in the MDR
  - Origins \(Deluxe\)
  - Smoke + Mirrors \(Deluxe\)
  - Suicide Squad: The Album
+## Iman Omari
+ - Macadelic \(Remastered Edition\)
+## ImDontai
+ - YouTube Cypher, Vol. 2
+## Imjusforeign
+ - Best of Both Worlds
+## Immortal Technique
+ - Revolutionary Vol. 2
+ - Revolutionary, Vol. 1
 ## Imogen Heap
  - \> album title goes here \<
+## Impac Thee Illest
+ - Old Habits Never Die
 ## In\-Phase
  - Monstercat 016 \- Expedition
+## INDIA
+ - The Plugs I Met
+## Indii G.
+ - 4708
+ - Blow My Phone Up
+## Infa\-Red & Cross
+ - Grand Champ
+## Infamous Mobb
+ - Infamy
 ## Infected Mushroom
  - Head of NASA and the 2 Amish Boys
  - Return to the Sauce
  - Walking on the Moon \(Bad Computer Remix\)
+## InI
+ - Center of Attention
+## Injury Reserve
+ - Limbo
+## Ink
+ - From Dark to Light
+ - Indigo
 ## Insan3lik3
  - Monstercat 007 \- Solace
 ## Insideinfo, Jakes
  - InsideInfo
+## Inspectah Deck
+ - 4:21...The Day After
+ - Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]
+ - Full Clip: A Decade Of Gang Starr
+ - Legend Of The Wu\-Tang: Wu\-Tang Clan's Greatest Hits
+ - Liquid Swords
+ - Moment Of Truth
+ - Only Built 4 Cuban Linx 2
+ - Only Built 4 Cuban Linx...
+ - The Essential Wu\-Tang Clan
+ - Tical
+ - Wu\-Tang Forever
+ - YSIV
+## Inspektah Deck
+ - Ironman
+## Internet Money
+ - F\*CK LOVE 3: OVER YOU
+ - Flossin’ \(feat. YoungBoy Never Broke Again\)
 ## Inukshuk
  - NCS is Love, NCS is Life, Vol. 1
- - NCS: The Best of 2015
 ## Inzo
  - Overthinker
+## Irene
+ - Eurobeat Kudos 20
 ## Iris \~Pamela Calvo\~
  - Komm, süsser Tod / Ven, dulce muerte
+## Iroha
+ - EXIT TUNES PRESENTS Supernova\(スーパーノヴァ\)2 ジャケットイラスト:redjuice
+## iroha\(sasaki\)
+ - Kagaminext feat. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―
+ - MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”
+ - 炉心融解
+## irucaice
+ - iceQuarium \-Strawberry\-
+## Irvin Washington
+ - Last Winter
+## IRyS
+ - See the world
+ - Sparks of Joy
+ - hololive music studio \- Twilight
+ - ||:Caesura of Despair
+ - あかつきと花
+## Isaac Hayes
+ - Streetsoul
+ - The Essential Wu\-Tang Clan
+## Isaacwhy
+ - DONNA
 ## Isabel Higuero
  - Monstercat 016 \- Expedition
+## Isaiah Rashad
+ - 90059
+ - New Beginnings
+ - The House Is Burning
+ - The Sun's Tirade
+## Ishifuro
+ - IA SUPER BEST \-THE CREATORS \-
+## ISM
+ - ALIVE
 ## ISÁK
  - Are You Lonely \(feat. ISÁK\)
  - Different World
 ## Itro
  - Cloud 9
- - NCS: Uplifting
- - Panda
  - Sunburst
-## Ivan Jamile
- - Forces
-## IZECOLD
- - NCS: The Best of 2016
+## itssvd
+ - Love Is the Same as Sadness
+ - Missing
+## Ivri
+ - Alone
+ - Scars
+ - doom
+## Iyaz
+ - Replay
+## Iyla
+ - Evolution
+## J Balvin
+ - Invasion of Privacy
+ - Legendary
+ - Legendary \(Deluxe Edition\)
+## J Dilla
+ - BORN LIKE THIS
+ - Champion Sound
+ - Donuts
+ - The Shining
+ - Welcome 2 Detroit
 ## J Hus
  - No.6 Collaborations Project
+## J Money
+ - Street Runnaz 83
+## J NICS
+ - A3c, Vol. 1
+## J Rocc
+ - Expansion Team
+ - The Shining
+## J Rock
+ - Port Of Miami
+## J\-Ro
+ - At The Speed Of Life
+## J\-Sweet
+ - Stankonia
+ - Stankonia \(Deluxe Version\)
+## J\-Treds
+ - Lyricist Lounge Vol. 1
+## J. Black
+ - Victory Lap
+## J. Cole
+ - 2014 Forest Hills Drive
+ - 4 Your Eyez Only
+ - ALL\-AMERIKKKAN BADA$$
+ - Album of the Year \(Freestyle\)
+ - Book of Ryan \(Bonus Track Edition\)
+ - Born Sinner
+ - Born Sinner \(Deluxe Version\)
+ - Careless World: Rise Of The Last King
+ - Cole World: The Sideline Story
+ - Cozz & Effect
+ - DiCaprio 2
+ - East Atlanta Love Letter
+ - Effected
+ - Eve
+ - False Prophets
+ - High For Hours
+ - Jesus Piece \(Deluxe\)
+ - Johnny P's Caddy
+ - KOD
+ - Last Winter
+ - Late Nights: The Album
+ - Lewis Street
+ - MIDDLE CHILD
+ - Milky Way
+ - Oxnard
+ - Poke It Out \(feat. J. Cole\)
+ - Punk
+ - Redemption
+ - Revenge Of The Dreamers III
+ - Shea Butter Baby
+ - Snow On Tha Bluff
+ - So Much Fun
+ - Sojourner \(feat. J. Cole\)
+ - The Jackie \(with J. Cole & Lil Tjay\)
+ - The London \(feat. J. Cole & Travis Scott\)
+ - The Off\-Season
+ - Your Heart
+ - everybody dies
+## J. Holiday
+ - Music Is My Savior
+## J. Ivy
+ - The College Dropout
+## J. Myers
+ - The Lost Tapes 2
+## J. Phoenix
+ - God's Son
+## J. Ro
+ - Restless
+## J.T. Money
+ - Lyricist Lounge Volume 2
+## Ja 5'9"
+ - Rock City
+## Ja Rule
+ - Blackout!
+ - Blood In My Eye
+ - DMX: The Legacy
+ - Greatest Hits
+ - Jealous Ones Still Envy \(J.O.S.E\)
+ - The Best Of DMX
+ - Vol.2... Hard Knock Life
+## JA!
+ - Death Before Dishonor
+## Jace
+ - Four Two Three
+ - Professional Rapper
+ - Revenge Of The Dreamers III
+## Jace of Two\-9
+ - SremmLife
+## Jack
+ - The Saga Continues...
 ## Jack Bugg
  - Guardians Of The Galaxy \- Hooked On A Feeling
+## Jack Davey
+ - Game Theory Deluxe Edition \(Explicit Version\)
+## Jack Harlow
+ - Confetti
+ - I Won \[From F9 The Fast Saga Original Motion Picture Soundtrack\]
+ - INDUSTRY BABY \(feat. Jack Harlow\)
+ - Killer \(feat. Jack Harlow & Cordae\) \[Remix\]
+ - MONTERO
+ - Nail Tech
+ - SUVs \(Black on Black\)
+ - Sweet Action
+ - Thats What They All Say
+## Jackboy
+ - Blockchain
+ - Epidemic \(Deluxe\)
+ - Gardner Express
+ - Love Me While I'm Here
+## JACKBOYS
+ - JACKBOYS
+## Jackpot Scotty Wotty
+ - YSIV
 ## Jacquees
+ - 4275 \(Bonus Version\)
+ - B.E.D. \(Remix\)
+ - Beautiful Thugger Girls
+ - Church on Sunday
+ - Dope Don't Sell Itself
+ - Freaky with You \(feat. Jacquees\)
+ - PTSD
+ - Slime Language
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
+## Jadakiss
+ - Book of Ryan \(Bonus Track Edition\)
+ - Confessions \(Expanded Edition\)
+ - Flesh Of My Flesh, Blood Of My Blood
+ - Grand Champ
+ - Hotel California \(Deluxe\)
+ - Kanye West Presents Good Music Cruel Summer
+ - Loyal To The Game
+ - MMG Presents: Self Made, Vol. 1
+ - Only Built 4 Cuban Linx 2
+ - Ryde Or Die Vol. II
+ - Teflon Don
+ - Tha Carter IV
+ - Tha Carter IV \(Complete Edition\)
+ - Tha Carter IV \(Deluxe\)
+ - The Ownerz
+ - The Plugs I Met
+ - UNDER8ED
+ - Year Of The Dog...Again \(Explicit\)
 ## Jaden
+ - Flower Boy
+ - On the Run
+ - SYRE
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
+ - YSIV
+ - tell me your feelings and i won't tell you mine
+## Jae Millz
+ - I Am Not A Human Being
+ - Rise Of An Empire \(Deluxe Edition\)
+## JAG
+ - Next Wednesday
+## Jagged Edge
+ - 4275 \(Bonus Version\)
+ - Free TC \(Deluxe Edition\)
+ - Greatest Hits
+ - Thoughts Of A Predicate Felon
+## Jah\-Skilz
+ - Regulate… G Funk Era
+## Jaheim
+ - Genesis
+## Jahi
+ - What You Gonna Do When The Grid Goes Down?
+## Jaiye
+ - Good
 ## Jake Steed
  - 2001
  - 2001 \(Explicit Version\)
+## Jake Troth
+ - FWA
+## Jakk Frost
+ - Season of the Assassin
+## Jakob
+ - Velvet Light
 ## Jakub Tirco
  - Beat Saber \(Original Game Soundtrack\), Vol. IV
+## Jal Silk
+ - Illadelph Halflife
 ## JAM Project
  - AREA Z
  - 静寂のアポストル
-## James Roche
- - Make Me Move \(James Roche Remix\)
+## Jamal
+ - Blackout!
+ - The Coming
+## Jamel Joseph
+ - Dame Dash Presents Paid In Full / Dream Team
+## James Arthur
+ - You Can Cry
+## James Blake
+ - Black Panther The Album Music From And Inspired By
+## James Bomb
+ - What You Gonna Do When The Grid Goes Down?
+## James Brown
+ - Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack
+## James Earl Jones
+ - The Lion King: The Gift
+## James Fauntleroy
+ - AT.LONG.LAST.A$AP
+ - Born Sinner
+ - Born Sinner \(Deluxe Version\)
+ - Cold Summer
+ - Free TC \(Deluxe Edition\)
+ - KHALED KHALED
+ - To Pimp A Butterfly
+## James Fletcher West\-Oram
+ - Until The End Of Time
+## James Gotti
+ - Blood In My Eye
+## James Horner
+ - Southpaw \(Music From And Inspired By The Motion Picture\)
+## James Russo
+ - Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack
 ## James Taylor
  - Voicenotes
 ## Jamie Bell
  - Rocketman \(Music From The Motion Picture\)
+## Jamie Foxx
+ - Any Given Sunday \(OST\)
+ - Islah \(Deluxe\)
+ - Jesus Piece \(Deluxe\)
+ - LIVE LIFE FAST
+ - Late Registration
+ - Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack
+ - Tha Blue Carpet Treatment
+ - The College Dropout
+ - The Massacre
 ## Jamie N Commons
  - The Marshall Mathers LP2 \(Deluxe\)
 ## Jamie xx
  - We're New Here
+## Jamila Woods
+ - Coloring Book
 ## Jan Dušek
  - Arma 3 \(Original Game Soundtrack\)
 ## Jan Ilavsky
  - Origins
+## Jane $$$
+ - Food & Liquor II: The Great American Rap Album, Pt. 1
+## Jane Doe
+ - Mos Def & Talib Kweli Are Black Star
+ - The Love Movement
+## Janelle Monáe
+ - B.o.B Presents: The Adventures of Bobby Ray
+## Janet Jackson
+ - Extinction Level Event: The Final World Front
+ - The Best of Busta Rhymes
+ - The Velvet Rope
+## Janet Mock
+ - Negro Swan
 ## Janji
  - Heroes Tonight
- - NCS: The Best of 2015
- - Pure Tropical House
- - Together \(Feat. Vivien\)
+## Janyce
+ - Year Of The Dog...Again \(Explicit\)
+## Jared Evan
+ - More Than A Game
 ## Jaroslav Beck
  - Beat Saber \(Original Game Soundtrack\)
  - Beat Saber \(Original Game Soundtrack\), Vol. II
  - Beat Saber \(Original Game Soundtrack\), Vol. IV
  - FitBeat
  - Origins
-## Jason Paige
- - Pokémon Theme \(TheFatRat Remix\) \[feat. Jason Paige\]
+## Jarren Benton
+ - Life Got in the Way
+ - Next Wednesday
+ - Pound Syndrome
+ - Slow Motion
+ - Yuck Fou
+## Jason Caesar
+ - The State vs. Radric Davis \(Deluxe\)
+## Jason Derulo
+ - 1992
+## Jason Evigan
+ - Food & Liquor II: The Great American Rap Album, Pt. 1
+## Jason Madison
+ - A3c, Vol. 1
+## Jason Pennock
+ - Until The End Of Time
+## Jasper Dolphin
+ - Goblin
+ - The OF Tape Vol. 2
+ - Wolf
+## Javo 7\-9
+ - Best of Both Worlds
+## JaVonté
+ - Do What Thou Wilt.
+ - Overly Dedicated
 ## Jay & The Americans
  - Come A Little Bit Closer: The Best Of Jay & The Americans
+## Jay 305
+ - Fan of A Fan The Album \(Expanded Edition\)
+ - O.M.M.I.O 2
+ - STAY DANGEROUS
+## Jay Anthony
+ - The Beautiful & Damned
+ - These Things Happen
 ## Jay Black
  - Come A Little Bit Closer: The Best Of Jay & The Americans
+## Jay Cloud
+ - On Our Way
+## Jay Critch
+ - I'm A Star
+ - The World Is Yours 2
+ - True 2 Myself
+## Jay Dee
+ - Fan\-Tas\-Tic, Vol. 1
+ - Welcome 2 Detroit
+## Jay Electronica
+ - Coloring Book
+ - Exhibit C
+ - PRhyme \(Deluxe Version\)
+## Jay Fizzle
+ - PAPER ROUTE iLLUMINATi
+## Jay Jones
+ - Boobie Trapp 3
+## Jay Lehr
+ - Eurobeat Kudos 20
+## Jay Lonzo
+ - Protect Your Neck \(Remix\) \[feat. Demrick, Jay Lonzo, Blaque Keyz & Just Juice\]
+## Jay Park
+ - Yuck Fou
+## Jay Rock
+ - 90059
+ - Black Panther The Album Music From And Inspired By
+ - Lockdown \(Remix Bundle\)
+ - My Krazy Life
+ - Oxymoron \(Deluxe\)
+ - Redemption
+ - Setbacks
+ - THE HUSTLE CONTINUES
+ - The House Is Burning
+ - The Sun's Tirade
+ - good kid, m.A.A.d city
+ - good kid, m.A.A.d city \(Deluxe\)
+## Jay Sean
+ - I Am Not A Human Being
+## Jay Worthy
+ - The House Is Burning
 ## JAY\-Z
+ - 400 Degreez
+ - 4:44
+ - 8 Mile \(Music From And Inspired By The Motion Picture\)
+ - Anarchy
+ - Certified Lover Boy
+ - Championships
+ - Cole World: The Sideline Story
+ - Dame Dash Presents Paid In Full / Dream Team
+ - Flesh Of My Flesh, Blood Of My Blood
+ - KHALED KHALED
+ - Kanye West Presents Good Music Cruel Summer
+ - Late Registration
+ - Life After Death \(2014 Remastered Edition\)
+ - Lupe Fiasco's Food & Liquor
+ - More Than A Game
+ - My Beautiful Dark Twisted Fantasy
+ - Nothing Was The Same
+ - Nothing Was The Same \(Deluxe\)
+ - Numb / Encore: MTV Ultimate Mash\-Ups Presents Collision Course
+ - Port Of Miami
+ - Reasonable Doubt
  - Scorpion
+ - Speakerboxxx/The Love Below
+ - Teflon Don
+ - Tha Carter III \(MTV Bonus Version\)
+ - Thank Me Later
+ - The Black Album
+ - The Blueprint \(Explicit Version\)
+ - The College Dropout
+ - The Definition of X: Pick Of The Litter
+ - The Lion King: The Gift
+ - Vol.2... Hard Knock Life
+ - Watch The Throne \(Deluxe\)
+ - What It Feels Like
+ - good kid, m.A.A.d city
+ - good kid, m.A.A.d city \(Deluxe\)
 ## Jaydee
  - In Order to Dance
 ## Jaykol
  - Primetime Adventures
+## Jaylib
+ - Champion Sound
 ## JayTurtleGod
  - DEATH NOTE?
+## Jazmine Sullivan
+ - Arcane League of Legends \(Soundtrack from the Animated Series\)
+ - Outlawz \(feat. Jazmine Sullivan & 21 Savage\)
+ - Richer Than I Ever Been
+## Jazz Lazr
+ - Don't Tell Me It Can't Be Done
+## Jazze Pha
+ - Speakerboxxx/The Love Below
+## Jazzy Jeff
+ - Fan\-Tas\-Tic, Vol. 2
+ - Fantastic, Vol. 2.10
+## Jazzyfatnastees
+ - The Hurricane \(Music From And Inspired By The Motion Picture\)
+ - Things Fall Apart
+## Jcarter
+ - Man vs. Machine
+## JD McCrary
+ - The Lion King: The Gift
+## Jean Grae
+ - Revolutionary Vol. 2
+ - Revolutionary, Vol. 1
+ - Thank H​.​E​.​R. Now
 ## Jean Love
  - Ken Blast And Friends \- REMASTERED
+## Jedi Mind Tricks
+ - Servants In Heaven, Kings In Hell
+## Jeezy
+ - 808s & Heartbreak
+ - Cold Summer
+ - FWA
+ - Fear of God II: Let Us Pray
+ - Finally Rich \(Deluxe\)
+ - Jesus Piece \(Deluxe\)
+ - My Krazy Life
+ - Paranoia: A True Story
+ - Port Of Miami
+ - Stay Trippy
+ - Thank Me Later
+ - Trap Music 2k12
 ## Jeff Bass
  - The Slim Shady LP
  - The Slim Shady LP \(Expanded Edition\)
+## Jeff Bhasker
+ - Punk
 ## Jeff Mills
  - Blue Potential \- Live with Montpelier Philharmonic Orchestra
 ## Jeff Silverman/Colin Stetson/David Ralicke
  - The Music of Red Dead Redemption 2 \(Original Score\)
 ## Jeff Silverman/Woody Jackson/Luke O’Malley
  - The Music of Red Dead Redemption 2 \(Original Score\)
-## Jensation
- - Delicious
- - Donuts
- - Joystick
-## Jeremy Fowler
- - NCS: Uplifting
+## Jehry Robinson
+ - FEAR EXODUS
+## Jelly Roll
+ - N9NA
+## Jennifer Hudson
+ - Sing \(Original Motion Picture Soundtrack / Deluxe\)
+## Jennifer Lopez
+ - All Or Nothing
+## Jeremiah Carlson
+ - Mansion
+## Jeremih
+ - 1992
+ - Ambition
+ - Championships
+ - Cold Summer
+ - Coloring Book
+ - Family Ties
+ - Find The Beat
+ - H.F.M. 2 \(Hunger For More 2\)
+ - I Decided.
+ - I TAPE
+ - Jesus Piece \(Deluxe\)
+ - KHALED KHALED
+ - Late Nights: The Album
+ - Living Single
+ - MMG Presents: Self Made, Vol. 1
+ - Only Way Is Up \(Deluxe\)
+ - Redemption
+ - Still Think I'm Nothing \(feat. Jeremih\)
+ - The Pinkprint \(Deluxe Edition\)
+ - The Pinkprint \(Deluxe\)
+ - UNDER8ED
 ## Jeremy Soule
  - The Elder Scrolls V: Skyrim: Original Game Soundtrack
 ## Jeremy Zucker
  - brent
 ## Jeremy Zucker; Chelsea Cutler
  - brent
+## Jermaine Dupri
+ - No Label II
+ - Vol.2... Hard Knock Life
+## Jerry 'Te Bass' Duplessis
+ - The Score \(Expanded Edition\)
+## Jerry Goldsmith
+ - Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack
+## Jeru The Damaja
+ - Full Clip: A Decade Of Gang Starr
+## Jesse
+ - FRIENDS KEEP SECRETS
+## Jesse Boykins III
+ - The Incredible True Story
+## Jessica Darrow
+ - Encanto \(Original Motion Picture Soundtrack\)
+## Jessie J
+ - My Everything \(Deluxe\)
 ## Jessie Reyez
  - Kamikaze
-## Jesús Muñoz
- - Pure Tropical House
-## Jikes
- - Lets Fly Away
+## Jessie Ware
+ - The Pinkprint \(Deluxe Edition\)
+ - The Pinkprint \(Deluxe\)
+## jesus \(wonderful Opportunity!!\)
+ - Kagaminext feat. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―
+## jetsonmade
+ - BLAME IT ON BABY
+ - BLAME IT ON BABY \(DELUXE\)
+ - Sweet Action
+## Jewell
+ - No Limit Top Dogg
+ - The Chronic
+## Jex Nwalor
+ - Don't Say
+ - Time Goes "Bye"
+## Jhené Aiko
+ - A Gangsta’s Pain
+ - Because the Internet
+ - Dark Sky Paradise
+ - Dark Sky Paradise \(Deluxe\)
+ - Detroit 2
+ - Featuring Ty Dolla $ign
+ - Heartbreak on a Full Moon
+ - Late Nights: The Album
+ - Nothing Was The Same
+ - Nothing Was The Same \(Deluxe\)
+ - Overly Dedicated
+ - Pretty Girls Like Trap Music
+ - Setbacks
+ - Summertime '06
+## JID
+ - Days Inn
+ - DiCaprio 2
+ - Enemy \(with JID\) \[from the series Arcane League of Legends\]
+ - Eve
+ - Everythings For Sale
+ - Limbo
+ - Lockdown \(Remix Bundle\)
+ - New Beginnings
+ - Planet Her
+ - Rags
+ - Revenge Of The Dreamers III
+ - Shea Butter Baby
+ - Skegee
+ - Surround Sound \(feat. 21 Savage & Baby Tate\)
+ - TA13OO
+ - The Never Story
+## Jigg
+ - Street Runnaz 83
+## Jill Scott
+ - 4eva Is A Mighty Long Time
+ - Like Water For Chocolate
+ - Lupe Fiasco's Food & Liquor
 ## Jillian Aversa
  - Metal Gear Solid 3 \(Snake Eater\)
+## Jilly
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜
 ## Jim Croce
  - Photographs & Memories: His Greatest Hits
+ - Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack
  - You Don't Mess Around With Jim
+## Jim Gellums
+ - Until The End Of Time
+## Jim Jones
+ - We Set The Trends
 ## Jim Yosef
  - Arrow
- - Canary
  - Firefly
- - Forces
  - Lights
  - NCS is Love, NCS is Life, Vol. 1
- - NCS: The Best of 2015
- - Passion
- - Speed
+## Jimi Cravity
+ - Hands Are Made for Working
+## Jimmy Cozier
+ - Halfway Tree
+## Jimmy Wopo
+ - Woponese
+## jimmythumbP
+ - EXIT TUNES PRESENTS Supernova\(スーパーノヴァ\)2 ジャケットイラスト:redjuice
+## Jin
+ - IA SUPER BEST \-THE CREATORS \-
+ - メカクシティデイズ
+ - メカクシティレコーズ
+ - 初音ミク「マジカルミライ 2014」 \[Live\]
 ## Jin Hashimoto
  - STAND PROUD
- - Stand Proud
+## Jinx
+ - Year Of The Dog...Again \(Explicit\)
+## Jinx Da Juvy
+ - Cradle 2 The Grave
+ - The Great Depression
+## JJ DOOM
+ - Key to the Kuffs
 ## JJD
- - Halcyon
  - Prelude \(VIP Edit\)
 ## JKLOL
  - Primetime Adventures
-## Jo Cohen
- - NCS: The Best of 2016
+## JL
+ - FEAR EXODUS
+ - N9NA
+ - Symptoms
+ - The Storm \(Deluxe Edition\)
+## JLS
+ - JLS
+## JMSN
+ - Jesus Piece \(Deluxe\)
+## Jneiro Jarel
+ - BORN LIKE THIS
+## Jo Jo Hailey
+ - Full Clip: A Decade Of Gang Starr
+ - It Was Written
+ - Moment Of Truth
+## Joby Talbot
+ - Sing \(Original Motion Picture Soundtrack / Deluxe\)
+## Joddy Badass
+ - PAPER ROUTE iLLUMINATi
+## Joe
+ - Authentic \(Deluxe Edition\)
+ - Beg For Mercy
+ - Capital Punishment \(Explicit Version\)
+ - Thoughts Of A Predicate Felon
+## Joe "The Butcher" Nicolo
+ - Illmatic XX
+## Joe Budden
+ - Cradle 2 The Grave
 ## Joe Erickson
  - NCS: Infinity
+## Joe Fox
+ - AT.LONG.LAST.A$AP
+## Joe Moses
+ - Flockaveli
+ - Free TC \(Deluxe Edition\)
+ - O.M.M.I.O 2
+## Joe Young
+ - Illadelph Halflife
+## Joel Hailey
+ - Until The End Of Time
 ## Joel J. Richard
  - John Wick: Chapter 2 \(Original Motion Picture Soundtrack\)
 ## Joell Ortiz
  - Music To Be Murdered By
+## Joey Bada$$
+ - 1999
+ - ?
+ - ALL\-AMERIKKKAN BADA$$
+ - DiCaprio 2
+ - Ethereal
+ - Imperial
+ - LONG.LIVE.A$AP \(Deluxe Version\)
+ - Macadelic \(Remastered Edition\)
+ - PRhyme \(Deluxe Version\)
+ - Pray for Paris
+ - Southpaw \(Music From And Inspired By The Motion Picture\)
+ - THE REV3NGE
+ - The Light Pack
+ - Waves
+## Joey Cool
+ - FEAR EXODUS
+## Joey Fatts
+ - Summertime '06
+## Joey Nato
+ - When the Sky Turns Red
+## Joey Purp
+ - The Autobiography
+## Joey Vantes
+ - Long Days Longer Nights
+## Joeytee
+ - No Shame
 ## John Denver
  - Definitive All\-Time Greatest Hits
  - Poems, Prayers and Promises
  - The John Denver Collection, Vol. 1: Take Me Home Country Roads
+## John Forte
+ - The Score \(Expanded Edition\)
+## John Kani
+ - The Lion King: The Gift
+## John Legend
+ - Based On A T.R.U. Story \(Deluxe\)
+ - Cold Summer
+ - Dark Sky Paradise
+ - Dark Sky Paradise \(Deluxe\)
+ - Dreams and Nightmares \(Deluxe Edition\)
+ - Finally Famous \(10th Anniversary Deluxe Edition Remixed and Remastered\)
+ - Kanye West Presents Good Music Cruel Summer
+ - Lasers
+ - Lasers \(Deluxe Edition\)
+ - My Beautiful Dark Twisted Fantasy
+ - Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack
+ - Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)
+ - Tha Carter IV
+ - Tha Carter IV \(Complete Edition\)
+ - Tha Carter IV \(Deluxe\)
+ - They Got Amnesia
+## John Leguizamo
+ - Encanto \(Original Motion Picture Soundtrack\)
+## John Lindahl
+ - 1998
+ - YSIV
+## John Michael Rouchell
+ - These Things Happen
+## John\-John
+ - Game Theory Deluxe Edition \(Explicit Version\)
 ## Johnning
  - Heroes Tonight
- - NCS: The Best of 2015
- - NCS: Uplifting
- - This Life
-## Johnny Third
- - NCS: Uplifting
+## Johnny Spanish
+ - A3c, Vol. 1
+## Joi
+ - 4eva Is A Mighty Long Time
+## Joji
+ - BALLADS 1
+## JoJo
+ - More Than A Game
+## Jomie
+ - Brighter Days
+ - Everytime W/ Powfu
+ - Evidence I Exist
+ - Meant to Be
+ - Stuck
+ - The Ones Who Never Flew
+ - Touch Me
+ - drinking under the streetlights
+ - some boring love stories pt 5
+ - tell me your feelings and i won't tell you mine
+ - tinted green \(feat. Mila Moon & Jomie\)
 ## Jon Bellion
  - The Human Condition
+ - The Separation
+## Jon Connor
+ - A3c, Vol. 1
+ - Next Wednesday
+ - Slow Motion
+## Jon Keith
+ - His Glory Alone
 ## Jonah Hitchens
  - Inception
+## Jonah Matranga
+ - Lupe Fiasco's Food & Liquor
 ## Jonas Blue
  - Perfect Strangers
-## Jonatan King
- - Long Shot \(From "Re:ZERO \-Starting Life in Another World\- Season 2"\) \[Cover\]
+## Jonas Brothers
+ - Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)
+## Jonathan Davis
+ - The Storm \(Deluxe Edition\)
+## Joni Mitchell
+ - The Velvet Rope
 ## Jonny Atma
  - Bullet Hell II
-## Jonny Rose
- - NCS: Uplifting
-## Jonth
- - Game Time
+## Jordan Miller
+ - SWIM TEAM
+## Jordin Sparks
+ - More Than A Game
+## Jorgen Odegard
+ - Gold \(Jorgen Odegard Remix\)
+## Jorja Smith
+ - Black Panther The Album Music From And Inspired By
+ - More Life
+## Josh A
+ - Disgrace
+ - Fearless
+ - LONELY VIBES \(Deluxe\)
+ - Save Our Souls
 ## Josh Homme
  - The Music of Red Dead Redemption 2 \(Original Soundtrack\)
+## Josh Rabenold
+ - Along The Way
+## Journey
+ - Escape
+## Joyce Wrice
+ - Pray for Paris
 ## Joyner Lucas
+ - 10 Bands
+ - 508\-507\-2209
+ - ADHD
+ - Along Came Joyner
+ - Dreams Unfold
+ - Duck Duck Goose
+ - Evolution
+ - Fall Slowly
+ - I Don't Die
+ - I Love
+ - I Stand On That
+ - Indigo
+ - Indigo \(Extended\)
  - Kamikaze
+ - Late to the Party
+ - Lotto
+ - Rambo
+ - Ramen & OJ
+ - Revenge
+ - Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)
+ - Stranger Things
+ - The Storm \(Deluxe Edition\)
+ - Ye Not Crazy
+ - Your Heart
 ## Joyryde
  - THE BOX
 ## JO☆STARS 〜TOMMY,Coda,JIN〜
@@ -1428,11 +5918,76 @@ This file contains the list of all the songs that are currently added in the MDR
 ## JPB
  - High
  - NCS: Infinity
- - NCS: The Best of 2016
+## JPEGMAFIA
+ - TA13OO
+## JT
+ - Still Over It
+## Judah
+ - ?
+## Judge D
+ - Made for Kings
+## Juelz Santana
+ - H.F.M. 2 \(Hunger For More 2\)
+ - Love Me While I'm Here
+ - Tha Carter III \(MTV Bonus Version\)
+ - Time Ticking
+## Juice
+ - Let The Goons Loose \(BWS 7.0\)
 ## Juice WRLD
+ - Already Dead
+ - Bandit \(with YoungBoy Never Broke Again\)
+ - Cigarettes
+ - Culture III
+ - Death Race For Love
+ - Dying to Live
+ - F\*CK LOVE
+ - FRIENDS KEEP SECRETS
+ - Fighting Demons
+ - Fighting Demons \(Deluxe\)
+ - Goodbye & Good Riddance
+ - Goodbye & Good Riddance \(Anniversary Edition\)
  - Hoodie SZN
+ - Legends
+ - Legends Never Die
+ - Let Me Know \(I Wonder Why Freestyle\)
  - Music To Be Murdered By
+ - PTSD
+ - Punk
+ - Real Shit \(with benny blanco\)
+ - Rich And Blind
+ - So Much Fun
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
+ - THE GOAT
+ - Trip At Knight \(Complete Edition\)
+ - We Love You Tecca
+## Juicy J
+ - AT.LONG.LAST.A$AP
+ - Belair Baby 2
+ - Cabin Fever
+ - Ethereal
+ - Everybody
+ - Fear of God II: Let Us Pray
+ - I Am Not A Human Being II \(Deluxe\)
+ - Indigo
+ - Indigo \(Extended\)
+ - Late Nights: The Album
+ - Macadelic \(Remastered Edition\)
+ - Most Known Unknown \(Explicit\)
+ - Multiply \(feat. Juicy J\)
+ - Rodeo \(Expanded Edition\)
+ - SR3MM
+ - Something for Thee Hotties
+ - Stay Trippy
+ - Stranger Than Fiction
+ - TESTING
+ - THE HUSTLE CONTINUES
+ - Trap Music 2k12
+ - Underground Luxury
+ - You Can Cry
+## Juju
+ - Power In Numbers
+## Juju of the Beatnuts
+ - Every Hero Needs a Villain
 ## Julia Michaels
  - There's No Way
 ## Julian Calor
@@ -1440,40 +5995,151 @@ This file contains the list of all the songs that are currently added in the MDR
  - No Fear Anymore
 ## Juliander
  - Different World
+## Juliann Alexander
+ - Missed Calls
+ - RSS2
 ## Julie Bergan
  - Different World
  - Ignite
  - Ignite \(Remixes\)
-## Juorma
- - Pure Tropical House
+## Jully Black
+ - God's Son
+## June Summers
+ - Bullets Ain't Got No Name Vol. 2
+## Juney Boondata
+ - iSouljaBoyTellem
+## Jungle
+ - Illmatic XX
+## Jungle Brothers
+ - Done By The Forces Of Nature \(Deluxe Edition\)
+## Jungle Brown
+ - Uptown Saturday Night
+## Junior M.A.F.I.A.
+ - Greatest Hits
+## Junior Reid
+ - FWA
+ - Music Is My Savior
+ - Streetsoul
+## Junky
+ - HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]
+ - Happy Halloween
+## Jurassic 5
+ - J5 \(Deluxe Edition\)
+ - Power In Numbers
+ - Quality Control
+## Jusblow600
+ - Only The Family \- Lil Durk Presents: Loyal Bros
+ - Word To LA
+## Just Juice
+ - Lavish Life
+ - Protect Your Neck \(Remix\) \[feat. Demrick, Jay Lonzo, Blaque Keyz & Just Juice\]
+## Just Liv
+ - Born 2 Rap
 ## Justice
  - Justice
  - We Are Your Friends
 ## Justin Bieber
+ - Coloring Book
+ - Culture III
+ - F\*CK LOVE 3: OVER YOU
+ - Fighting Demons
+ - Fighting Demons \(Deluxe\)
+ - Indigo
+ - Intentions
+ - KHALED KHALED
  - No.6 Collaborations Project
+ - Rodeo \(Expanded Edition\)
+ - Stoney \(Deluxe\)
 ## Justin OH
  - Monstercat Uncaged Vol. 8
 ## Justin Timberlake
  - FutureSex/LoveSounds
-## Jüri Pootsmann
- - NCS: The Best of 2016
+ - FutureSex/LoveSounds Deluxe Edition
+ - KHALED KHALED
+ - Stay Trippy
+## Juto
+ - Supermarket \(Soundtrack\)
+## juu
+ - Delusion
+## JUVENILE
+ - 400 Degreez
+ - Body Head Bangerz, Vol. 1
+ - Indigo
+ - Indigo \(Extended\)
+## JYLPO
+ - Next to You
+## K CAMP
+ - Cold Summer
+ - Only Way Is Up \(Deluxe\)
+ - The Saga of Wiz Khalifa
 ## K\-391
  - Different World
- - Dream of Something Sweet \(feat. Cory Friesenhan\)
  - Earth
  - End of Time
  - Ignite
  - Ignite \(Remixes\)
- - NCS: The Best of 2016
  - Play
+## K\-Ci
+ - Until The End Of Time
+## K\-Ci & JoJo
+ - Greatest Hits
+ - The Best of 2Pac
+ - The Hurricane \(Music From And Inspired By The Motion Picture\)
+## K\-Ci Hailey
+ - Full Clip: A Decade Of Gang Starr
+ - Moment Of Truth
+## K\-Dee
+ - Lethal Injection
+## K\-Mac
+ - Terrorist Threats
+## K\-MiZ
+ - Let The Goons Loose \(BWS 7.0\)
+## K\-Z
+ - MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”
+## K. Roosevelt
+ - Eve
+ - Jesus Piece \(Deluxe\)
+## K.A.A.N.
+ - 1 / 12 / 199?
+ - Abstract Art
+ - Circles
+## K.D.
+ - Operation: Doomsday \(Complete\)
 ## K.FLAY
  - Every Where Is Some Where
-## K.Safo
- - Future Vibes
+## Kaash Paige
+ - A Gangsta’s Pain
+## Kacy Hill
+ - Rodeo \(Expanded Edition\)
+## Kadhja Bonet
+ - Oxnard
+## Kain
+ - The Saga Continues...
+## Kairiki Bear
+ - ダーリンシンドローム
+ - ベノム\(feat. flower\)
+## Kaito Shoma
+ - GAZ
+ - Scary Garry
 ## KAIZ
  - 2 Phút Hơn \(KAIZ Remix\)
+## Kajo
+ - 1998
+ - 28 Club
+ - YSIV
+## Kal Banx
+ - The House Is Burning
+## Kali Uchis
+ - Flower Boy
+ - Life of a DON
+## Kam
+ - Gangsta's Paradise
+## Kam Michael
+ - Us and the Moon
 ## Kameron
  - Live Fast \(PUBGM\)
+## Kamira
+ - Keep Pushing \(feat. Kamira\)
 ## kamome sano
  - Voltage Ignition 2
 ## KANA\-BOON
@@ -1482,159 +6148,710 @@ This file contains the list of all the songs that are currently added in the MDR
  - Torch of Liberty
 ## Kanaria
  - KING
+ - アイデンティティ
+ - エンヴィーベイビー
+## Kanary Diamondz
+ - Let The Goons Loose \(BWS 7.0\)
 ## Kansas
  - Leftoverture \(Expanded Edition\)
+## Kanye West
+ - 808s & Heartbreak
+ - AT.LONG.LAST.A$AP
+ - Based On A T.R.U. Story \(Deluxe\)
+ - Blessings \(Extended Version\)
+ - Champions
+ - City of Gods
+ - Coloring Book
+ - Dame Dash Presents Paid In Full / Dream Team
+ - Dark Sky Paradise
+ - Dark Sky Paradise \(Deluxe\)
+ - Donda
+ - Eazy
+ - Faith
+ - Fear of God II: Let Us Pray
+ - Featuring Ty Dolla $ign
+ - Finally Famous \(10th Anniversary Deluxe Edition Remixed and Remastered\)
+ - Free TC \(Deluxe Edition\)
+ - Graduation
+ - H.F.M. 2 \(Hunger For More 2\)
+ - JESUS IS KING
+ - Jesus Piece \(Deluxe\)
+ - Kanye West Presents Good Music Cruel Summer
+ - Late Registration
+ - Man On The Moon II: The Legend Of Mr. Rager
+ - Man On The Moon: The End Of Day
+ - Man On The Moon: The End Of Day \(Deluxe\)
+ - Mercy
+ - More Life
+ - More Than A Game
+ - My Beautiful Dark Twisted Fantasy
+ - NASIR
+ - Rodeo \(Expanded Edition\)
+ - Seeing Sounds
+ - Teflon Don
+ - The College Dropout
+ - The Life Of Pablo
+ - Wash Us In The Blood
+ - Watch The Throne \(Deluxe\)
+ - Whole Lotta Red
+ - Yeezus
+## Karachi R.A.W.
+ - Uptown Saturday Night
+## Karasuya Sabou
+ - Kagaminext feat. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―
+ - ショウタイム・ルーラー
+## Kardinal Beats
+ - JLS
 ## Karen Aoki
  - Great Days
-## Karra
- - Make Me Move \(James Roche Remix\)
+## Kari Faux
+ - The Sun's Tirade
+## Karlae
+ - Slime Language
+## KAROL G
+ - Shoot For The Stars Aim For The Moon
+## Karriem Riggins
+ - The Shining
 ## KASAI HARCORES
  - KASAI HARCORES2 ALL STAR
-## Kasger
- - NCS: The Best of 2015
+## Kash Doll
+ - Detroit 2
+ - Double Or Nothing \(& Metro Boomin\)
+ - Role Model
+ - Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)
+## Kashmir
+ - Cradle 2 The Grave
+ - The Great Depression
+ - Year Of The Dog...Again \(Explicit\)
+## Kasino
+ - It's Dark And Hell Is Hot
 ## Kaskade
  - Reset
-## Katie Boyle
- - NCS: Uplifting
+## Kasseem Dean
+ - Flesh Of My Flesh, Blood Of My Blood
+ - Ryde Or Die Vol. II
+ - The Best Of DMX
+ - The Definition of X: Pick Of The Litter
+## Kastrom
+ - Loyal To The Game
+## Kate Rose
+ - Special Effects
+ - The Storm \(Deluxe Edition\)
+## Katrina Washington
+ - Body Head Bangerz, Vol. 1
 ## Kavinsky
  - OutRun
+## Kay Flock
+ - Not In The Mood \(feat. Fivio Foreign & Kay Flock\)
 ## Kazunobu Mineta
  - 大森靖子
 ## Kazuya Yoshii
  - 超絶☆ダイナミック!
-## KDrew
- - Free, Vol. 4
-## Ke'nekt
- - You And Me
+## KB
+ - His Glory Alone
+ - Hold Me Back
+ - Today We Rebel
+## KC & The Sunshine Band
+ - Party
+## KCG Josh
+ - Brandon Banks
+## Kd Young Cocky
+ - Welcome to Fazoland
+## KE PLAYA
+ - LVL DEATH
+## Keanu Bicol
+ - i won't run
+## Kebo Gotti
+ - Flockaveli
+ - Trap Music 2k12
+## Keegan Hayes
+ - Heartbreak & Bad Habits
+## Keeno
+ - 初音ミク「マジカルミライ 2014」 \[Live\]
 ## Kehlani
  - Done for Me \(feat. Kehlani\)
+ - Expensive Pain
+ - Featuring Ty Dolla $ign
+ - Invasion of Privacy
  - Revival
+ - Stoney \(Deluxe\)
+ - Suga
  - Suicide Squad: The Album
+ - The Beautiful & Damned
  - Voicenotes
+ - When It's Dark Out
+## Kei
+ - EXIT TUNES PRESENTS GUMing from Megpoid
+ - 初音ミク「マジカルミライ 2014」 \[Live\]
+## Keisha
+ - RBM: 103 the Real Is Back
+## Keisha Plum
+ - Pray for Paris
+## Keith Murray
+ - Mr. Smith \(Deluxe Edition\)
+ - The Coming
+## Keith Sweat
+ - Party
+ - Phenomenon
+## Kelis
+ - Genesis
+ - God's Son
+ - Streetsoul
+## Kelly Price
+ - The Hurricane \(Music From And Inspired By The Motion Picture\)
 ## Kelsea Ballerini
  - Sick Boy
+## Kember
+ - Until The End Of Time
+## kemu
+ - EXIT TUNES PRESENTS GUMing from Megpoid
+ - IA SUPER BEST \-THE CREATORS \-
 ## KEN BLAST
  - Ken Blast And Friends \- REMASTERED
 ## Ken Ken
  - SAMURAI SESSIONS vol.2
+## Kendra Ross
+ - Quality
 ## Kendrick Lamar
+ - 90059
+ - Alright
+ - Black Panther The Album Music From And Inspired By
+ - Born Sinner
+ - Born Sinner \(Deluxe Version\)
+ - DAMN.
+ - DAMN. COLLECTORS EDITION.
+ - Effected
+ - For Everything
+ - Free TC \(Deluxe Edition\)
+ - Indicud
+ - Jesus Piece \(Deluxe\)
+ - LONG.LIVE.A$AP \(Deluxe Version\)
+ - Laila’s Wisdom
+ - Macadelic \(Remastered Edition\)
+ - My Krazy Life
+ - Overly Dedicated
+ - Oxnard
+ - Oxymoron \(Deluxe\)
+ - Redemption
+ - Section.80
+ - Setbacks
+ - Swimming Pools \(Drank\)
+ - Take Care \(Deluxe\)
+ - Tha Carter V
+ - Tha Carter V \(Deluxe\)
+ - The Divine Feminine
+ - The Lion King: The Gift
  - The Marshall Mathers LP2
  - The Marshall Mathers LP2 \(Deluxe\)
+ - The Melodic Blue
+ - The Sun's Tirade
+ - To Pimp A Butterfly
+ - Victory Lap
+ - family ties \(with Kendrick Lamar\)
+ - good kid, m.A.A.d city
+ - good kid, m.A.A.d city \(Deluxe\)
+ - untitled unmastered.
 ## Kenichiro Suehiro
  - OVA「Re:ゼロから始める異世界生活 Memory Snow」Memory Album
+## Kenny
+ - 4708
+## Kenny Beats
+ - IDWK
+ - UNLOCKED
+## Kenny G
+ - JESUS IS KING
+## Kenny Muney
+ - PAPER ROUTE iLLUMINATi
 ## Kenshi Yonezu
- - Bootleg
+ - BOOTLEG
+ - OFFICIAL ORANGE
+ - ドーナツホール
+## Keon Bryce
+ - Stillmatic
+## Kesha
+ - GEMINI
+## Kevin Abstract
+ - Ethereal
+## Kevin Cossom
+ - Fear of God II: Let Us Pray
+ - Starvation 2
 ## Kevin Gates
+ - Boobie Trapp 3
+ - I'm Him
+ - Islah \(Deluxe\)
+ - Just A Matter of Slime
+ - KIRK
+ - Only the Generals Gon Understand
+ - RULA 2
+ - Stranger Than Fiction
+ - Street Runnaz 83
  - Suicide Squad: The Album
-## Kevin Max
- - Thunderbolt and Lightning
+ - Woptober II
+## Kevin Lewis
+ - The Chronic
+## Kevin Rudolf
+ - Tha Carter IV \(Complete Edition\)
+## Key Glock
+ - Love Songs 4 the Streets 2
+ - PAPER ROUTE iLLUMINATi
+ - Role Model
+ - THE HUSTLE CONTINUES
+ - Yellow Tape 2
+## Key Wane
+ - Detroit 2
+## KEY!
+ - Revenge Of The Dreamers III
+## Keyon Harrold
+ - 4eva Is A Mighty Long Time
+ - The Lost Tapes 2
+## Keyshia Cole
+ - LAX
+ - The State vs. Radric Davis \(Deluxe\)
+ - When It's Dark Out
+## khai dreams
+ - Good Advice
 ## Khalid
+ - Black Panther The Album Music From And Inspired By
+ - East Atlanta Love Letter
+ - Everybody
+ - FRIENDS KEEP SECRETS
  - No.6 Collaborations Project
+ - Uncle Drew \(Original Motion Picture Soundtrack\)
+## Khujo
+ - Aquemini
+## Khujo Goodie
+ - Key to the Kuffs
+ - Speakerboxxx/The Love Below
+ - Stankonia
+ - Stankonia \(Deluxe Version\)
+## Ki'shon Furlow
+ - Long Days Longer Nights
+## Kiana Ledé
+ - Easy Breezy
+## Kid Capri
+ - The Awakening
+ - Vol.2... Hard Knock Life
+## Kid Cudi
+ - 808s & Heartbreak
+ - Ambition
+ - Certified Lover Boy
+ - Faith
+ - Featuring Ty Dolla $ign
+ - Indicud
+ - Kanye West Presents Good Music Cruel Summer
+ - Man On The Moon II: The Legend Of Mr. Rager
+ - Man On The Moon III: The Chosen
+ - Man On The Moon: The End Of Day
+ - Man On The Moon: The End Of Day \(Deluxe\)
+ - My Beautiful Dark Twisted Fantasy
+ - TESTING
+ - THE SCOTTS
+ - The Adventures of Moon Man & Slim Shady \(with Eminem\)
+ - Whole Lotta Red
+## Kid Ink
+ - ALIVE
+ - Don't Tell Me It Can't Be Done
+ - Full Speed
+ - Missed Calls
+ - My Own Lane \(Expanded Edition\)
+ - Nasty Dealer 2
+ - RSS2
+ - RULA 2
+ - Summer In The Winter
+ - Uncle Drew \(Original Motion Picture Soundtrack\)
+## Kid Rock
+ - Any Given Sunday \(OST\)
+ - General Admission \(Deluxe\)
+ - SHADYXV
+## Kid Vishis
+ - The Allegory
 ## Kid\_skullomania
  - Donna Burke \- Sins Of The Father \(Full Metal Gear Solid V\- The Phantom Pain Soundtrack Version\)
+## Kidd Kidd
+ - Tha Carter III \(MTV Bonus Version\)
+## Kiddo AI
+ - The Storm \(Deluxe Edition\)
+## Kiddo Marv
+ - ZUU
+## KIHOW
+ - In Hell We Live, Lament
+## Kiki & Fancy
+ - Eurobeat Kudos 20
 ## Kiki Dee
+ - Diamonds \(Deluxe\)
  - Rocket Man \(Deluxe Edition\)
+## Kikuo
+ - きくおミク3
+## Kilfiger
+ - All It Takes
+## kiLL edward
+ - KOD
+## Kill The Noise
+ - Neon Grave Remixed
+## Killa Kyleon
+ - A3c, Vol. 1
+ - CINCORIGINALS
+ - LONG.LIVE.A$AP \(Deluxe Version\)
+## Killa Sin
+ - Ghostface Killah...Shaolin's Finest
+## Killah Priest
+ - Liquid Swords
+ - Summer Classics
+## Killer Mike
+ - Bandana
+ - Big Boi & Dre Present...OutKast
+ - Everybody
+ - PRhyme \(Deluxe Version\)
+ - Speakerboxxx/The Love Below
+ - Stankonia
+ - Stankonia \(Deluxe Version\)
 ## Killercats
  - NCS is Love, NCS is Life, Vol. 1
- - NCS: The Best of 2015
- - Tell Me
+## Kilo Kish
+ - Summertime '06
 ## Kimbra
  - Making Mirrors
 ## Kimi
  - Cytus II\-Neko \(Original Soundtracks\)
+## Kimmi J.
+ - The Red Light District
+## KING & QUEEN
+ - SUPER EUROBEAT presents INITIAL D WORLD HITS SELECTION 5
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜
+## King Chip
+ - Indicud
+ - Jesus Piece \(Deluxe\)
+## King Combs
+ - Shoot For The Stars Aim For The Moon
+ - Tank God
+## King Draino
+ - GEMINI
+## King Geedorah
+ - Take Me To Your Leader
+## King Ghidra
+ - Operation: Doomsday \(Complete\)
+## King Green
+ - Book of Ryan \(Bonus Track Edition\)
+## King Iso
+ - FEAR EXODUS
+ - N9NA
+## King Los
+ - My Own Lane \(Expanded Edition\)
+ - RSS2
+## King Louie
+ - Welcome to Fazoland
+## King OSF
+ - ADHD
+## King T
+ - Restless
+## King Tee
+ - At The Speed Of Life
+## King Von
+ - Avatar \(feat. King Von\)
+ - Grandson, Vol. 1
+ - Levon James
+ - Love Songs 4 the Streets 2
+ - Only The Family \- Lil Durk Presents: Loyal Bros
+ - The Voice
+ - The Voice \(Deluxe\)
+ - Welcome to O'Block
+ - Word To LA
+## Kingpin Skinny Pimp
+ - OLD GENESIS
+ - Scary Garry
+ - Trunk
+ - UNIVERSE OF THE PAST
 ## Kings & Folk
  - Beat Saber \(Original Game Soundtrack\)
+## Kingsavage
+ - New English
 ## Kinnie Lane
  - Beat Saber \(Original Game Soundtrack\), Vol. II
+## kinoshita
+ - ポジティブ☆ダンスタイム
+## KIRA
+ - GETCHA! \(feat. Hatsune Miku & GUMI\)
+## KIRBY
+ - Streams of Thought Vol. 1
+## Kirk Franklin
+ - Coloring Book
+ - Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)
+## Kirk Knight
+ - 1999
+ - ALL\-AMERIKKKAN BADA$$
+## Kirko Bangz
+ - Dreams and Nightmares \(Deluxe Edition\)
+ - Slauson Boy 2
 ## Kiryu
  - Cytus II\-Neko \(Original Soundtracks\)
 ## KISIDA KYODAN & THE AKEBOSI ROCKETS
  - HIGHSCHOOL OF THE DEAD
-## Kisma
- - Fingertips
 ## Kit Connor
  - Rocketman \(Music From The Motion Picture\)
 ## Klaus Badelt
  - Pirates Of The Caribbean Original Soundtrack
+## KMD
+ - Mr. Hood
 ## Knoc\-Turn'al
  - 2001
  - 2001 \(Explicit Version\)
+ - Terrorist Threats
+## KNOWN.
+ - soda stream sky \(feat. KNOWN.\)
+ - tell me your feelings and i won't tell you mine
+## Knox Fortune
+ - Coloring Book
+## Knucklehead
+ - Operation Stackola
+## KO The Knockout
+ - Escapism
+## Kobe
+ - Recovery \(Deluxe Edition\)
+ - SHADYXV
 ## Kobe Honeycutt
  - Recovery
+## Kochetkovv
+ - 4:44 Am
 ## Kodak Black
+ - Back On My Baby Jesus Sh!t AGAIN
+ - Championships
+ - DS4EVER
+ - Dying to Live
+ - Faith
+ - Just A Matter of Slime
+ - LIVE LIFE FAST
+ - Love Me While I'm Here
+ - Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies
+ - TESTING
  - The Bigger Artist
+ - The Blixky Tape
+ - They Got Amnesia
+ - Wake Up in the Sky
+ - Woptober II
+## kofeyniy
+ - Ezekiel
+## Kojiro
+ - EXIT TUNES PRESENTS THE BEST OF GUMI from Megpoid
 ## Koka Kambon
  - 2001
  - 2001 \(Explicit Version\)
+## Kokane
+ - Do What Thou Wilt.
+ - Genesis
+ - Ghetto Heisman
+ - Laugh Now, Cry Later
+ - Restless
+ - The Saga Continues...
 ## Koko
  - Love Chu
  - Love Chu! 2
+## Kong
+ - Operation: Doomsday \(Complete\)
+## Konkrete
+ - Speakerboxxx/The Love Below
 ## Konomi Suzuki
  - HIGECORE!
  - NEVER\-END TALE
  - OPENING THEME FROM TV SERIES ”RE:ZERO \-STARTING LIFE IN ANOTHER WORLD\-” 2ND SEASON
  - Shake Up!
+## Konshens
+ - Victory Lap
 ## Kontinuum
  - NCS is Love, NCS is Life, Vol. 1
+## KOOL A.D.
+ - Reservation
+## Kool Ace
+ - Gettin' It \(Album Number Ten\)
+## Kool G Rap
+ - Lyricist Lounge Volume 2
+ - Murda Muzik
+ - The Big Picture
+ - Train Of Thought
+## Kool Keith
+ - Lyricist Lounge Vol. 1
+ - Power In Numbers
+## Kool Weirdos
+ - Pastor in a Porsche
+## Korn
+ - Amplified
 ## kors k
  - EDM Extreme
-## Kovan
- - Skyline
+## Koryn Hawthorne
+ - His Glory Alone
+## Kots Beirne
+ - EXIT TUNES PRESENTS GUMing from Megpoid
 ## Koven
  - Gold / YES
  - Monstercat Uncaged Vol. 8
+## KQuick
+ - Last Winter
 ## Kradness
  - GALAXY BURST
  - MIND HACK
  - Xronial Xero
-## Kronno Zomber
- - Youtubers Life Rap
+## Krizz Kaliko
+ - FEAR EXODUS
+ - N9NA
+ - Sickology 101
+ - Special Effects
+ - The Storm \(Deluxe Edition\)
+## Kronicle
+ - somehow
 ## Krono
  - Ibiza 2019
-## Krys Talk
- - NCS: The Best of 2015
- - Way Back Home
+## KRS\-One
+ - Hold It Down
+ - I Got Next
+ - Restless
+ - Return of the Boom Bap
+ - The Awakening
+## Krumbsnatcha
+ - Moment Of Truth
+ - The Ownerz
 ## Krystal
  - Cytus II\-Neko \(Original Soundtracks\)
+## KSLV Noh
+ - Disaster
+ - Dynamic
+## Kts
+ - Kill to Survive
 ## Kumi Koda
  - DNA
+## Kuniva
+ - SHADYXV
+## Kurious
+ - BORN LIKE THIS
+ - Operation: Doomsday \(Complete\)
+## KuroUsa
+ - HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]
+ - 千本桜
 ## Kurupt
  - 2001
  - 2001 \(Explicit Version\)
-## KUURO
- - Rapture \(feat. MC Mota\)
+ - Doggystyle
+ - Fan\-Tas\-Tic, Vol. 2
+ - Fantastic, Vol. 2.10
+ - Made for Kings
+ - Oxymoron \(Deluxe\)
+ - Tha Blue Carpet Treatment
+ - Tha Carter II
+## Kutt Calhoun
+ - Sickology 101
+## kuwagataP
+ - EXIT TUNES PRESENTS Supernova\(スーパーノヴァ\)2 ジャケットイラスト:redjuice
+ - MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”
+## Kuzu Mellow
+ - 4708
+ - Heartbreak & Bad Habits
+## Kwame
+ - Summer Classics
+## Kwest Tha Madd Lad
+ - Lyricist Lounge Vol. 1
+## Kxllswxtch
+ - DISORDER
 ## KXNG Crooked
  - Music To Be Murdered By
+ - Southpaw \(Music From And Inspired By The Motion Picture\)
+ - Terminal
+ - The Allegory
+## KY
+ - Bloom
 ## Kygo
  - It Ain't Me
+## Kyle Exum
+ - The Exum Household
+## Kylie Minogue
+ - Party
 ## kyo\-1
  - JAPAN ANIMESONG COLLECTION VOL.28 \[アニソン・ジャパン\]
 ## Kyoresu
  - Soviet Loli Anthem
-## Kédo Rebelle
- - Forces
+## Kyrie Irving
+ - Uncle Drew \(Original Motion Picture Soundtrack\)
+## kz\(livetune\) x 8#prince
+ - 初音ミク「マジカルミライ 2014」 \[Live\]
+## L
+ - PRhyme \(Deluxe Version\)
+## L\-Boy
+ - The OF Tape Vol. 2
+ - Wolf
+## L.V.
+ - Gangsta's Paradise
+## La Gatta
+ - Eurobeat Kudos 20
+## La The Darkman
+ - 4:21...The Day After
+## Lady B
+ - Things Fall Apart
+## Lady Levi
+ - Regulate… G Funk Era
+## Lady T
+ - Ghetto Heisman
+## Laeland
+ - 4708
+ - somehow
+ - this is bs.
+## Laetitia Sadier
+ - Wolf
+## Lake
+ - God's Son
+## Lakeyah
+ - Who is Nardo Wick?
+## LamazeP
+ - EXIT TUNES PRESENTS Supernova\(スーパーノヴァ\)2 ジャケットイラスト:redjuice
+ - HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]
+ - MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”
+## Lance Skiiiwalker
+ - 90059
+ - Laila’s Wisdom
+## Landlord
+ - My Hustle Unmatched
+## Landon Cube
+ - Life of a Dark Rose
+## LANELL GRANT
+ - CINCORIGINALS
 ## Lany
  - Malibu Nights
 ## lapix
  - Voltage Ignition 2
+## Lapreem
+ - The Score \(Expanded Edition\)
+## Large Professor
+ - Center of Attention
+ - Every Hero Needs a Villain
+ - The Awakening
+ - The LP
+## Larrrycroft
+ - DONNA
+## Larry "Rock" Campbell
+ - FutureSex/LoveSounds Deluxe Edition
+## Larsiny
+ - Ryde Or Die Vol. II
 ## LarsM
- - Lovers
  - NCS: Infinity
- - NCS: Uplifting
-## Laszlo
- - Don't Look Down
- - Fall To Light
- - Here We Are
- - Imaginary Friends
- - One Step Away
+## Last Note.
+ - EXIT TUNES PRESENTS GUMing from Megpoid
+ - EXIT TUNES PRESENTS THE BEST OF GUMI from Megpoid
+ - 初音ミク「マジカルミライ 2014」 \[Live\]
 ## LATASHÁ
  - Psychomagic
+## LaTocha Scott
+ - 4275 \(Bonus Version\)
+## LaToiya Williams
+ - Tha Blue Carpet Treatment
+## LaToya Williams
+ - LAX
+## Latto
+ - Big Energy
+ - LARRY
+ - Muwop \(feat. Gucci Mane\)
+ - They Got Amnesia
+ - Top Shotta
 ## Laura Brehm
  - Chosen
  - MAYDAY
  - Monody \(feat. Laura Brehm\)
  - Monstercat 007 \- Solace
- - Monstercat 010 \- Conquest
  - Monstercat 016 \- Expedition
  - The Calling
  - We'll Meet Again
@@ -1642,6 +6859,8 @@ This file contains the list of all the songs that are currently added in the MDR
  - Plants Vs. Zombies \(Original Video Game Soundtrack\)
 ## Lauren Bennett
  - The Lady Killer
+## Lauren Jauregui
+ - hopeless fountain kingdom \(Deluxe\)
 ## Laurent Garnier
  - 30
 ## Lauv
@@ -1661,29 +6880,70 @@ This file contains the list of all the songs that are currently added in the MDR
  - \~how i'm feeling\~
 ## Lauv/Sofia Reyes
  - \~how i'm feeling\~
+## Lavoisier
+ - Man vs. Machine
+## Lawrence Arnell
+ - Season of the Assassin
+## Laws
+ - Return of the B\-Girl
+ - Thank H​.​E​.​R. Now
 ## LAY
  - Sheep \(Alan Walker Relift\)
+## Laylaw
+ - Bootlegs And B\-Sides
+## LBS Kee'vin
+ - Belair Baby 2
 ## Le Castle Vania
  - John Wick: Chapter 2 \(Original Motion Picture Soundtrack\)
+## Leaders of the New School
+ - The Best of Busta Rhymes
+ - The Coming
 ## League of Legends
+ - Arcane League of Legends \(Soundtrack from the Animated Series\)
+ - Dirty Little Animals \(From the series Arcane League of Legends\)
+ - Dynasties & Dystopia \(from the series Arcane League of Legends\)
+ - Enemy \(from the series Arcane League of Legends\)
+ - Enemy \(with JID\) \[from the series Arcane League of Legends\]
  - Legends Never Die
  - Legends Never Die \(Remix\)
+ - Playground \(from the series Arcane League of Legends\)
+## Lecrae
+ - Today We Rebel
 ## Led Zeppelin
  - Led Zeppelin
  - Led Zeppelin III \(Remaster\)
  - Led Zeppelin IV \(Deluxe Edition\)
+## Lee Fields
+ - Off The Grid
+## Lee Spielman
+ - Wolf
+## Leeky Bandz
+ - My Story
+## Left Brain
+ - Wolf
+## Leikeli47
+ - Eve
+ - Uncle Drew \(Original Motion Picture Soundtrack\)
+ - Zoom
 ## Lemaitre, Jennie A.
  - Chapter One
 ## Lemaitre, Mark Johns
  - Chapter One
 ## Lemaitre, Maty Noyes
  - Chapter One
-## Lensko
- - Cetus
- - Circles
- - Let's Go!
- - NCS: Uplifting
- - Rebirth
+## Len Kagamine
+ - Ready Steady \(feat. 初音ミク, 鏡音リン, 鏡音レン\)
+## LEN X's TEN
+ - The LP
+## Lenny Kravitz
+ - Anarchy
+## lentra
+ - eat ya veggies
+## LEO RIVER
+ - SUPER EUROBEAT presents INITIAL D WORLD HITS SELECTION 5
+## Leo/need
+ - needLe/ステラ
+ - 霽れを待つ/「1」
 ## Leon Alex
  - Believe in you \(From "Re:Zero Season 2\) \[Instrumental\]
  - Chiisana Koi No Uta \(From "Karakai Jouzu No Takagi\-San"\) \[Instrumental\]
@@ -1698,22 +6958,396 @@ This file contains the list of all the songs that are currently added in the MDR
  - Way Back Home \(Instrumental\)
  - We'll Be Alright \(From "Weathering With You"\) \[Instrumental\]
  - Wind \(From "Naruto Ending 1"\) \[Instrumental\]
+## Leon Bridges
+ - Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)
+## Leon Lush
+ - Fearless
+## Leonardo Dicaprio
+ - Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack
+## LeonDeLeoni
+ - DONNA
 ## Leonz
  - Among Us \(Trap Remix\)
+## Leroy Sanchez
+ - General Admission \(Deluxe\)
+## Les Nubians
+ - Streetsoul
+ - Train Of Thought
+## Leshaun
+ - Phenomenon
+## Leslie Parrish
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜
+## LeToya
+ - Music Is My Savior
 ## Lets Be Friends
  - Monstercat 016 \- Expedition
+## Levy Losa
+ - Old Habits Never Die
+## Lex Bratcher
+ - YouTube Cypher, Vol. 2
+## Lex Diamonds
+ - Hell On Earth
+## Lex Luger
+ - THE HUSTLE CONTINUES
+## LEX PAIN
+ - DONNA
+## LG Experience
+ - Illmatic XX
+## Liife
+ - Lifestyle
+## Like
+ - A3c, Vol. 1
+ - YS Collection Vol. 1
+## Lil B
+ - GO:OD AM
+ - Sorry 4 The Wait
+ - The DeAndre Way
+## Lil Baby
+ - Bussin
+ - Certified Lover Boy
+ - DS4EVER
+ - Do We Have A Problem?
+ - Dope Don't Sell Itself
+ - Drip Harder
+ - Epidemic \(Deluxe\)
+ - Errbody
+ - Expensive Pain
+ - Find The Beat
+ - Hall of Fame 2.0
+ - Harder Than Ever
+ - Hollywood's Bleeding
+ - Ice Daddy
+ - JACKBOYS
+ - Just A Matter of Slime
+ - Just Cause Y'all Waited 2
+ - Just Cause Y'all Waited 2 \(Deluxe\)
+ - KHALED KHALED
+ - KIRK
+ - LIVE LIFE FAST
+ - M&M \(with Future feat. Lil Baby\)
+ - My Turn
+ - My Turn \(Deluxe\)
+ - On Me
+ - On Me \(Remix\) \(with Megan Thee Stallion\)
+ - RICH YOUNGIN
+ - Ramen & OJ
+ - Scary Hours 2
+ - Shoot For The Stars Aim For The Moon
+ - Slime Language
+ - So Much Fun
+ - Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)
+ - THE GOAT
+ - THE HUSTLE CONTINUES
+ - Thats What They All Say
+ - The Off\-Season
+ - The Smartest
+ - The Voice \(Deluxe\)
+ - The Voice of the Heroes
+ - Top Shotta
+ - True 2 Myself
+ - Voice of the Heroes
+ - Waiting to Exhale
+ - Who is Nardo Wick?
+ - Woptober II
+## Lil Bibby
+ - Ridah
+ - Sleeping On The Floor \(feat. G Herbo\)
+ - Welcome to Fazoland
+## Lil Cali
+ - Bullets Ain't Got No Name Vol. 2
+## Lil Capp
+ - Trap Music 2k12
+## Lil Chief Dinero
+ - Best of Both Worlds
+## Lil Chuckee
+ - I Am Not A Human Being
+## Lil CO
+ - Word To LA
+## Lil Darkie
+ - DISORDER
+## Lil Dicky
+ - I'm Brain
+ - Professional Rapper
+## Lil Double 0
+ - Punk
+## Lil Duke
+ - So Much Fun
 ## Lil Durk
+ - 7220
+ - A Gangsta’s Pain
+ - Beautiful Thugger Girls
+ - Certified Lover Boy
+ - Distance
+ - Dope Don't Sell Itself
+ - Drip Harder
+ - Expensive Pain
+ - F\*CK LOVE 3: OVER YOU
+ - FOR CERTAIN \(Deluxe\)
+ - Featuring Ty Dolla $ign
+ - From a Birds Eye View
+ - Good News
+ - Grandson, Vol. 1
+ - Hall of Fame
+ - Hall of Fame 2.0
  - Hoodie SZN
+ - Just A Matter of Slime
+ - Just Cause Y'all Waited 2
+ - Just Cause Y'all Waited 2 \(Deluxe\)
+ - KHALED KHALED
+ - King's Disease
+ - Laugh Now Cry Later \(feat. Lil Durk\)
+ - Levon James
+ - Lion Eyes
+ - Love Songs 4 the Streets 2
+ - Nasty Dealer 2
+ - Only The Family \- Lil Durk Presents: Loyal Bros
+ - PTSD
+ - Pissed Me Off
+ - Please Excuse Me for Being Antisocial
+ - Rambo
+ - Rumors \(feat. Lil Durk\)
+ - Signed to the Streets
+ - Still Over It
+ - The Voice
+ - The Voice \(Deluxe\)
+ - The Voice of the Heroes
+ - They Got Amnesia
+ - Trip At Knight \(Complete Edition\)
+ - True 2 Myself
+ - Voice of the Heroes
+ - Welcome to Fazoland
+ - Welcome to O'Block
+ - What You Expect
+ - Who Want Smoke?? \(feat. G Herbo, Lil Durk & 21 Savage\)
+ - Who is Nardo Wick?
+ - Word To LA
+## Lil Eazy\-E
+ - Gangsta Memorial
+## Lil Eazzyy
+ - Underrated
+## Lil Fame
+ - Summer Classics
+## Lil Flash
+ - Best of Both Worlds
 ## Lil Force
  - DEATH NOTE?
+## Lil Grifo
+ - Run the Streets
+## Lil Jon
+ - All Or Nothing
+ - Confessions \(Expanded Edition\)
+ - FOR CERTAIN \(Deluxe\)
+ - Indigo
+ - Indigo \(Extended\)
+ - Laugh Now, Cry Later
+ - Speakerboxxx/The Love Below
+## Lil Keed
+ - Slime Language
+ - So Much Fun
+ - The Smartest
+## Lil Keisha
+ - Bride of Chucky
+ - RBM: 103 the Real Is Back
+## Lil Loaded
+ - 6locc 6a6y
+ - Avatar \(feat. King Von\)
+## Lil Mexico
+ - Only The Family \- Lil Durk Presents: Loyal Bros
+## Lil Mosey
+ - F\*CK LOVE
+ - F\*CK LOVE 3: OVER YOU
+ - Love Me While I'm Here
+ - Not The Same God As Mine
+## Lil Nas X
+ - HOLIDAY
+ - INDUSTRY BABY \(feat. Jack Harlow\)
+ - MONTERO
+ - MONTERO \(Call Me By Your Name\)
+ - Rodeo \(feat. Nas\)
+## Lil Peep
+ - Come Over When You're Sober, Pt. 2
+ - Keep My Coo
+## Lil Perry
+ - Ghetto Rich Niggaz
+## Lil Pump
+ - Deadstar 2
+ - Dirt Bag
+ - Dying to Live
+ - The World Is Yours 2
 ## Lil Quee
  - Hoodie SZN
+## Lil Reese
+ - Distance
+ - Finally Rich \(Deluxe\)
+ - Signed to the Streets
+ - Welcome to Fazoland
+## Lil Revive
+ - Disgrace
+ - Grim Peaks
+## Lil Skies
+ - Deadstar 2
+ - Hotel Diablo
+ - Life of a Dark Rose
+## Lil Tecca
+ - NEVER LEFT
+ - Prada \(feat. Lil Tecca\)
+ - REPEAT IT
+ - Sorry 4 The Wait
+ - Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)
+ - We Love You Tecca
+ - We Love You Tecca 2
+## Lil Tjay
+ - Destined 2 Win
+ - Dreams Unfold
+ - Faith
+ - Hall of Fame 2.0
+ - Just A Matter of Slime
+ - Meet The Woo 2
+ - Not In The Mood \(feat. Fivio Foreign & Kay Flock\)
+ - Shoot For The Stars Aim For The Moon
+ - The Jackie \(with J. Cole & Lil Tjay\)
+ - They Got Amnesia
+ - True 2 Myself
+## Lil Twist
+ - I Am Not A Human Being
+ - Rise Of An Empire \(Deluxe Edition\)
+## Lil Uzi Vert
+ - Blue Notes 2 \(feat. Lil Uzi Vert\)
+ - CALL ME IF YOU GET LOST
+ - Culture
+ - Expensive Pain
+ - Goodbye & Good Riddance
+ - Goodbye & Good Riddance \(Anniversary Edition\)
+ - Harder Than Ever
+ - Heavy
+ - Ice Daddy
+ - Just A Matter of Slime
+ - Kawhi Leonard Presents: Culture Jam \(Vol. 1\)
+ - Luv Is Rage 2
+ - My Turn
+ - My Turn \(Deluxe\)
+ - Only The Family \- Lil Durk Presents: Loyal Bros
+ - PTSD
+ - Pluto x Baby Pluto
+ - Slime Language
+ - So Much Fun
+ - Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)
+ - That Way
+ - The House Is Burning
+ - Trip At Knight \(Complete Edition\)
+ - V12 \(feat. Lil Uzi Vert\)
+ - on to better things
 ## Lil Wayne
+ - 400 Degreez
+ - 808s & Heartbreak
+ - AT.LONG.LAST.A$AP
+ - B.O.A.T.S. II #METIME \(Deluxe\)
+ - Based On A T.R.U. Story \(Deluxe\)
+ - Beam Me Up Scotty
+ - CALL ME IF YOU GET LOST
+ - Careless World: Rise Of The Last King
+ - Certified Lover Boy
+ - Coloring Book
+ - Dark Sky Paradise
+ - Dark Sky Paradise \(Deluxe\)
+ - Detroit 2
+ - FWA
+ - Family Ties
+ - Flower Boy
+ - From a Birds Eye View
+ - GANG GANG \(with Lil Wayne\)
+ - Graduation
+ - Hall of Fame
+ - Hall of Fame 2.0
+ - Hotel California \(Deluxe\)
+ - I Am Not A Human Being
+ - I Am Not A Human Being II \(Deluxe\)
+ - If You're Reading This It's Too Late
+ - Indigo
+ - Indigo \(Extended\)
+ - Jesus Piece \(Deluxe\)
+ - KHALED KHALED
+ - LAX
+ - Legendary
+ - Legendary \(Deluxe Edition\)
+ - Lonely \(with Lil Wayne\)
+ - Macadelic \(Remastered Edition\)
+ - Me, Myself & I
+ - Missed Calls
+ - More Than A Game
+ - My Turn
+ - My Turn \(Deluxe\)
+ - Perfect \(Remix\) \(feat. Lil Wayne & A$AP Ferg\)
+ - Port Of Miami
  - Recovery
+ - Recovery \(Deluxe Edition\)
+ - Rise Of An Empire \(Deluxe Edition\)
+ - Sinister \(feat. Lil Wayne\)
+ - Sorry 4 The Wait
+ - Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)
+ - Special Effects
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
+ - Stay Trippy
  - Suicide Squad: The Album
+ - Take Care \(Deluxe\)
+ - Tha Carter II
+ - Tha Carter III \(MTV Bonus Version\)
+ - Tha Carter IV
+ - Tha Carter IV \(Complete Edition\)
+ - Tha Carter IV \(Deluxe\)
+ - Tha Carter V
+ - Tha Carter V \(Deluxe\)
+ - Thank Me Later
+ - Thats What They All Say
+ - The Gold Album: 18th Dynasty
+ - The Pinkprint \(Deluxe Edition\)
+ - The Pinkprint \(Deluxe\)
+ - The State vs. Radric Davis \(Deluxe\)
+ - True 2 Myself
+ - Trust Fund Babies
+## Lil Wyte
+ - Most Known Unknown \(Explicit\)
+## Lil Xtra
+ - monarch
+## Lil Yachty
+ - 1v1 \(feat. Lil Yachty\)
+ - Coloring Book
+ - Die 4 Respect
+ - GEMINI
+ - Heartbreak on a Full Moon
+ - Nudy Land
+ - Still Striving
+ - We Love You Tecca 2
+## Lil' Cease
+ - Dame Dash Presents Paid In Full / Dream Team
+ - Murda Muzik
+## Lil' Dap
+ - Full Clip: A Decade Of Gang Starr
+## Lil' Flip
+ - Body Head Bangerz, Vol. 1
+ - Most Known Unknown \(Explicit\)
+## Lil' Kim
+ - Bad Boy's 10th Anniversary\- The Hits
+ - Greatest Hits
+ - La Bella Mafia
+ - Life After Death \(2014 Remastered Edition\)
+ - Murda Muzik
+## Lil' Mo
+ - Infamy
+ - Until The End Of Time
+## Lil' Shanice
+ - La Bella Mafia
+## Lil\-malik
+ - Doggystyle
 ## LilyPichu
  - Renai Circulation \(Remix\)
+## Lil’ Keke
+ - CINCORIGINALS
+## Lin\-Manuel Miranda
+ - Encanto \(Original Motion Picture Soundtrack\)
+## Lindsey Stirling
+ - Warbringer
 ## Ling tosite sigure
  - Abnormalize
 ## Linked Horizon
@@ -1725,8 +7359,10 @@ This file contains the list of all the songs that are currently added in the MDR
  - Shinjitsu eno Shingeki
  - Shinzo wo Sasageyo! \(TV Size\)
  - Shoukei to Shikabane no Michi \[TV Size\]
-## Linne
- - Pure Tropical House
+## Linkin Park
+ - Numb / Encore: MTV Ultimate Mash\-Ups Presents Collision Course
+## LION BABE
+ - Milky Way
 ## LiSA
  - Akai Wana \(Who Loves It?\) / ADAMAS
  - Gurenge
@@ -1734,46 +7370,286 @@ This file contains the list of all the songs that are currently added in the MDR
  - LEO\-NiNE
  - LiSA Best \(Day\)
  - 炎
+## Lisa Sharon Harper
+ - Today We Rebel
+## Little Dragon
+ - GO:OD AM
+ - Reconstructed : The Best Of DJ Shadow
 ## Little Glee Monster
  - Juice
+## Littles
+ - Infamy
+## Live Squad
+ - Strictly 4 My N.I.G.G.A.Z...
+## livetune
+ - Hand in Hand
+ - Tell Your World EP
+## livetune+
+ - 初音ミク「マジカルミライ 2014」 \[Live\]
+## LL Cool J
+ - Any Given Sunday \(OST\)
+ - Authentic \(Deluxe Edition\)
+ - Blackout!
+ - Mama Said Knock You Out
+ - Mr. Smith \(Deluxe Edition\)
+ - Phenomenon
+ - Radio
+## Lloyd
+ - 4eva Is A Mighty Long Time
+ - Ambition
+ - B.O.A.T.S. II #METIME \(Deluxe\)
+ - Port Of Miami
 ## Lloyd Banks
+ - Bad Boy's 10th Anniversary\- The Hits
+ - Cheers
  - Get Rich Or Die Tryin'
+ - Get Rich Or Die Tryin'\- The Original Motion Picture Soundtrack
+ - H.F.M. 2 \(Hunger For More 2\)
+ - Loyal To The Game
+ - SHADYXV
+ - The Course of the Inevitable
+ - The Hunger For More
+ - Thoughts Of A Predicate Felon
+## Lloyd Polite
+ - H.F.M. 2 \(Hunger For More 2\)
+## Lo
+ - The Saga Continues...
 ## Logic
+ - 1998
+ - ADHD
+ - Bobby Tarantino
+ - Bobby Tarantino II
+ - Bobby Tarantino III
+ - Call Me
+ - Confessions of a Dangerous Mind
+ - Don't Tell Me It Can't Be Done
+ - Everybody
+ - Get Up
+ - Intro
+ - Lavish Life
+ - My Way
+ - No Pressure
+ - OCD \(with Dwn2earth\)
+ - Perfect \(Remix\) \(feat. Lil Wayne & A$AP Ferg\)
+ - Southpaw \(Music From And Inspired By The Motion Picture\)
  - Suicide Squad: The Album
+ - Supermarket \(Soundtrack\)
+ - THE HUSTLE CONTINUES
+ - The Incredible True Story
+ - The Saga of Wiz Khalifa
+ - The Separation
+ - The Storm \(Deluxe Edition\)
+ - Uncle Drew \(Original Motion Picture Soundtrack\)
+ - Under Pressure
+ - Under Pressure \(Deluxe\)
+ - Vaccine
+ - YS Collection Vol. 1
+ - YSIV
+## login
+ - punk2
+## Lokel
+ - World Burns
 ## Lola Blanc
  - Oblivion
 ## Lollia
  - Kiss of Death \(Remixes\)
+## Lon
+ - ウタカタリレイション
+## London Jae
+ - NAGA
+## London On Da Track
+ - BLAME IT ON BABY
+ - BLAME IT ON BABY \(DELUXE\)
+ - Cocky \(feat. London On Da Track\)
+ - Uncle Drew \(Original Motion Picture Soundtrack\)
+ - Woptober II
+## Lone Alpha
+ - By The Seaside
 ## Loni Lovato
  - Guardians Of The Galaxy \- Hooked On A Feeling
+## Lonnie "Pops" Lynn
+ - Like Water For Chocolate
 ## Looking Glass
  - Looking Glass
+## Loon
+ - Bad Boy's 10th Anniversary\- The Hits
+ - The Saga Continues...
+## Loose
+ - Cradle 2 The Grave
+ - It's Dark And Hell Is Hot
+ - The Great Depression
+## Lord Afrixana
+ - The Lion King: The Gift
 ## Lord Choc Ice
  - Too Low For Zero
+## Lord Digga
+ - Game Tight
+## Lord Finesse
+ - The Awakening
+## Lord Flacko
+ - LONG.LIVE.A$AP \(Deluxe Version\)
+## Lord Have Mercy
+ - The Coming
+## Lord Sear
+ - Vaudeville Villain
+## Lords Of The Underground
+ - Here Come The Lords
+## Lost Boyz
+ - Phenomenon
+## Lou Grant
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜
+## Loucipher
+ - Revolutionary Vol. 2
+## Loud Luxury
+ - Carnival
 ## LouGotCash
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
+## Louie V
+ - Dreams and Nightmares \(Deluxe Edition\)
+## Louis Logic
+ - Vaudeville Villain
+## Louis Mattrs
+ - The Beautiful & Damned
+## Loutribe Jigg
+ - I Am
+## love\-sadKID
+ - Why Don't You Come on Over
+## LovelyP
+ - EXIT TUNES PRESENTS Supernova\(スーパーノヴァ\)2 ジャケットイラスト:redjuice
+ - MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”
 ## lovelytheband
  - finding it hard to smile
+## Lownely
+ - weirdos
 ## Loxen
  - Primetime Adventures
 ## LSKR
  - Off Brand \(Unofficial JoJo's Bizarre Adventure Stone Ocean Original Soundtrack \(Jolyne Kujo's Theme\)
+## Lucas Nord
+ - Queen Of The Clouds
+## Lucas.
+ - Wolf
+## Lucero
+ - Best Life
+## Lucy Grimble
+ - Augustine's Legacy
+## Lucy Rose
+ - Everybody
+ - The Incredible True Story
+ - YSIV
+## Ludacris
+ - Confessions \(Expanded Edition\)
+ - Jealous Ones Still Envy \(J.O.S.E\)
+ - LAX
+ - Speakerboxxx/The Love Below
+ - The College Dropout
+ - The Red Light District
+ - Trap Music 2k12
 ## Ludmilla
  - Lies
+## Luh Kel
+ - Belair Baby 2
+## Lui Joseph
+ - Computer Crash
+## Luis Bacalov
+ - Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack
+## Luka Megurine
+ - GRAPHIX
+ - The Greatest Idol
+ - アイドル新鋭隊 \(feat. 初音ミク, 鏡音リン, 巡音ルカ, MEIKO\)
+## Luke Gawne
+ - Diablo
+ - Terminal
 ## Luna Haruna
  - Utamonogatari Special Edition \(Original Soundtrack\)
 ## LunchMoney Lewis
  - Greenlight \(feat. Flo Rida & LunchMoney Lewis\)
+ - The Pinkprint \(Deluxe Edition\)
+ - The Pinkprint \(Deluxe\)
+ - Uncle Drew \(Original Motion Picture Soundtrack\)
+## Luniz
+ - Operation Stackola
+## Lupe Fiasco
+ - B.o.B Presents: The Adventures of Bobby Ray
+ - Finally Famous \(10th Anniversary Deluxe Edition Remixed and Remastered\)
+ - Food & Liquor II: The Great American Rap Album, Pt. 1
+ - Lasers
+ - Lasers \(Deluxe Edition\)
+ - Late Registration
+ - Lupe Fiasco's Food & Liquor
+ - Lupe Fiasco's The Cool
+ - Seeing Sounds
+## Lute
+ - GED \(Gettin Every Dolla\)
+ - Revenge Of The Dreamers III
 ## Luvli
  - Ibiza 2019
+## LXST CXNTURY
+ - UNIVERSE OF THE PAST
+## Lyfe Jennings
+ - Only Built 4 Cuban Linx 2
+ - Port Of Miami
+## Lzzy Hale
+ - General Admission \(Deluxe\)
+## líue
+ - Suffer With Me
 ## M\-Project
  - Cytus II\-Neko \(Original Soundtracks\)
+## M. Sayyid
+ - Vaudeville Villain
+## M.E
+ - Blood Moon
 ## M.I.A.
+ - AT.LONG.LAST.A$AP
  - Kala
+## M.O.P.
+ - Anarchy
+ - Cradle 2 The Grave
+ - Get Rich Or Die Tryin'\- The Original Motion Picture Soundtrack
+ - Jealous Ones Still Envy \(J.O.S.E\)
+ - Lyricist Lounge Volume 2
+ - Moment Of Truth
+ - The Ownerz
+## m.o.v.e
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜
+ - SUPER EUROBEAT presents INITIAL D〜D SELECTION 3〜
+## M.S.S Project
+ - ウタカタリレイション
 ## M83
  - Midnight City \(Remix EP\)
+## Ma$e
+ - B.O.A.T.S. II #METIME \(Deluxe\)
+ - Get Rich Or Die Tryin'\- The Original Motion Picture Soundtrack
+ - Kanye West Presents Good Music Cruel Summer
+## ma.rlowe
+ - weirdos
+## Maad\*Moiselle
+ - Trap Lord
 ## mabanua
  - アニメ『BNA ビー・エヌ・エー』Complete album
+## Mac Lethal
+ - Terminal
+ - YouTube Cypher, Vol. 2
+## Mac Miller
+ - Best Day Ever \(5th Anniversary Remastered Edition\)
+ - Blue Slide Park
+ - Do What Thou Wilt.
+ - Doris
+ - GO:OD AM
+ - K.I.D.S.
+ - Knock Knock \- Single
+ - Macadelic \(Remastered Edition\)
+ - Nikes on My Feet
+ - PRhyme \(Deluxe Version\)
+ - Piñata
+ - Punk
+ - Return of the B\-Girl
+ - Swimming
+ - Thank H​.​E​.​R. Now
+ - The Divine Feminine
+ - Watching Movies with the Sound Off \(Deluxe Edition\)
+## Mac P Dawg
+ - Party Pack. Vol 2
 ## Machico
  - SOL
  - 『映画 この素晴らしい世界に祝福を!紅伝説』テーマソング 「1ミリ Symphony」
@@ -1781,68 +7657,245 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Machine Gun Kelly
  - BINGE
  - DAYWALKER! \(feat. CORPSE\)
+ - F\*CK LOVE 3: OVER YOU
+ - General Admission \(Deluxe\)
+ - Hotel Diablo
  - RAP DEVIL
+ - So Much Fun
+ - on to better things
+## Mack 10
+ - At Tha Movies
+ - Bootlegs And B\-Sides
+ - Ghetto Heisman
+ - Terrorist Threats
+## Mack Maine
+ - Rise Of An Empire \(Deluxe Edition\)
+ - Tha Carter V
+## Mack Wilds
+ - Last Winter
+## Macklemore
+ - GEMINI
+ - The Heist
+## Macklemore & Ryan Lewis
+ - The Heist
+ - The Heist \(Deluxe Edition\)
 ## Macky Gee
  - Aftershock
+## Macy Gray
+ - 8 Mile \(Music From And Inspired By The Motion Picture\)
+ - 90059
+ - Like Water For Chocolate
+ - Lyricist Lounge Volume 2
+ - Streetsoul
 ## Mad Child
  - Voltage Ignition 2
+## MadeinTYO
+ - OMNI.
+ - Still Striving
+## Madison Love
+ - Hotel Diablo
+ - The Beautiful & Damned
 ## MADKID
  - CIRCUS
+## Madlib
+ - BORN LIKE THIS
+ - Bandana
+ - Champion Sound
+ - J\-88
+ - Madvillainy
+ - Piñata
+ - THE MOUSE & THE MASK
+ - The Shining
+ - Yessir Whatever
+## Madvillain
+ - Madvillainy
+ - Madvillainy 2: The Madlib Remix
+## Maejor
+ - My Own Lane \(Expanded Edition\)
+## Maez301
+ - FEAR EXODUS
+ - N9NA
+## Mafumafu
+ - IA SUPER BEST \-THE CREATORS \-
+## Maggie Lindemann
+ - \- TRAGEDY +
+## Magic
+ - Grand Champ
+ - No Limit Top Dogg
+## Magnolia Park
+ - Storm Clouds
 ## Mai Yamane
  - COWBOY BEBOP Tank! the! Best!
-## Maidden
- - Pure Tropical House
-## Main Reaktor
- - Recession
+## Main Attrakionz
+ - A3c, Vol. 1
+ - LIVE.LOVE.A$AP
+## Maino
+ - If Tomorrow Comes...
+## Maintain of Illegal Tendencies
+ - Let's Get Free
 ## Maisy Kay
  - The Storm
+## MAJ
+ - Music To Be Murdered By \- Side B \(Deluxe Edition\)
+## Majent
+ - punk2
+## Majid Jordan
+ - Nothing Was The Same
+ - Nothing Was The Same \(Deluxe\)
+## Major Lazer
+ - The Lion King: The Gift
+## Major Myjah
+ - Dope Don't Sell Itself
+## Majornine
+ - Richer Than I Ever Been
+## Makaveli
+ - The Don Killuminati: The 7 Day Theory
 ## Maki
  - Exit Trance Presents Cm Trance
-## Mako
+## MAKO
  - Legends Never Die \(Remix\)
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜
 ## Mako Nena
  - HIGECORE!
+## Makzilla \(816 Boyz\)
+ - Sickology 101
+## Malik B.
+ - Game Theory Deluxe Edition \(Explicit Version\)
+## Malik Yusef
+ - Kanye West Presents Good Music Cruel Summer
+## Mallory Jackson
+ - Augustine's Legacy
+## Mally G
+ - Blackout!
+## Mally Mall
+ - Hotel California \(Deluxe\)
+## Maluma
+ - Encanto \(Original Motion Picture Soundtrack\)
+## Mamemi
+ - Alkatraz
+## MAN POWER
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜
 ## MAN WITH A MISSION
  - Dark Crow
 ## Mangoo
  - Play
-## Marc Martel
- - Thunderbolt and Lightning
+## Mann
+ - Buzzin Remix
+## Mannie Fresh
+ - 400 Degreez
+## Manuel
+ - GAS GAS GAS
+ - SUPER EUROBEAT presents INITIAL D WORLD HITS SELECTION 5
+## Marasy
+ - ウタカタリレイション
+ - 青く駆けろ!
+## Marc E. Bassy
+ - Jungle Rules
+ - When It's Dark Out
+## marc indigo
+ - Blood Moon
+## Marc Payne
+ - Boobie Trapp 3
 ## Marcin Przybyłowicz
  - Cyberpunk 2077 \- Original Score
  - The Witcher 3: Wild Hunt \(Original Game Soundtrack\)
  - The Witcher 3: Wild Hunt \- Hearts Of Stone \(Original Game Soundtrack\)
+## Marcus Matrix
+ - The Reconstruction
+## Marcus Yates
+ - Special Effects
+## MARETU
+ - ダーリンシンドローム
+## Marilyn Manson
+ - Flesh Of My Flesh, Blood Of My Blood
+## Mario
+ - Off The Grid
 ## Mario Batkovic
  - The Music of Red Dead Redemption 2 \(Original Score\)
 ## Mario Batkovic/Woody Jackson
  - The Music of Red Dead Redemption 2 \(Original Score\)
 ## Mario Judah
  - Die Very Rough
+## Mario Winans
+ - Bad Boy's 10th Anniversary\- The Hits
+ - Port Of Miami
+ - The Saga Continues...
 ## Mariye Ise
  - Deep In Abyss \(Made In Abyss OST\)
 ## Mark Bass
  - The Slim Shady LP
  - The Slim Shady LP \(Expanded Edition\)
+## Mark Curry
+ - The Saga Continues...
+## Mark Jenkins
+ - What You Gonna Do When The Grid Goes Down?
 ## Mark Ronson
+ - AT.LONG.LAST.A$AP
  - Suicide Squad: The Album
+## Marley Marl
+ - Dame Dash Presents Paid In Full / Dream Team
+ - Mama Said Knock You Out
+ - Paid In Full
+ - The 18th Letter / The Book Of Life
 ## Maroon 5
  - Don't Wanna Know
  - Memories
  - Overexposed
+## Marquee
+ - The Awakening
+## Marsha
+ - The Saga Continues...
+## Marsha Ambrosius
+ - Book of Ryan \(Bonus Track Edition\)
+ - Born 2 Rap
+ - Kanye West Presents Good Music Cruel Summer
+ - Thank H​.​E​.​R. Now
+ - The Storm \(Deluxe Edition\)
+ - Victory Lap
+## Marsha of Floetry
+ - The Documentary
 ## Marshmello
- - Alone
+ - Bobby Tarantino II
+ - Danger \(with Migos & Marshmello\) \[From Bright: The Album\]
+ - F\*CK LOVE 3: OVER YOU
  - FRIENDS
  - Happier
  - Here With Me
- - Joytime
+ - Legends Never Die
+ - You Can Cry
+## Martin Smith
+ - Hands Are Made for Working
 ## Marty
  - Therapy Session
+## Marty McMOON
+ - Long Days Longer Nights
+## MARUDARUMA
+ - EXIT TUNES PRESENTS GUMing from Megpoid
 ## Marvin Gaye
  - Guardians of the Galaxy: Awesome Mix Vol. 1 \(Original Motion Picture Soundtrack\)
  - United
+## Mary J. Blige
+ - Dreams and Nightmares \(Deluxe Edition\)
+ - Family Ties
+ - Flesh Of My Flesh, Blood Of My Blood
+ - Genesis
+ - Ironman
+ - Man On The Moon II: The Legend Of Mr. Rager
+ - More Than A Game
+ - Reasonable Doubt
+ - The Documentary
+ - The Miseducation of Lauryn Hill
+ - good kid, m.A.A.d city \(Deluxe\)
+## Mary Lambert
+ - The Heist
+ - The Heist \(Deluxe Edition\)
+## Marz Lovejoy
+ - A3c, Vol. 1
 ## Masaki
- - 熱烈!アニソン魂 ULTIMATEカバーシリーズ2017 JAPAN ANIMESONG COLLECTION mini vol.4
+ - 熱烈!アニソン魂 ULTIMATEカバーシリーズ2017 JAPAN ANIMESONG COLLECTION mini vol.4
  - 熱烈!アニソン魂 ULTIMATEカバーシリーズ2017 JAPAN ANIMESONG COLLECTION vol.54
+## Masaki Suda
+ - BOOTLEG
 ## Masako Iwanaga
  - 熱烈!アニソン魂 ULTIMATEカバーシリーズ2017 JAPAN ANIMESONG COLLECTION vol.54
 ## Masami Ueda
@@ -1855,172 +7908,689 @@ This file contains the list of all the songs that are currently added in the MDR
  - All Time Rock 'n' Roll
  - Funky Flag
  - Love Dramatic
+## Mase
+ - All Or Nothing
+ - Bad Boy's 10th Anniversary\- The Hits
+ - It's Dark And Hell Is Hot
+ - Life After Death \(2014 Remastered Edition\)
+ - Welcome Back
+## Mashonda
+ - All Or Nothing
+ - La Bella Mafia
+## Masicka
+ - Boobie Trapp 3
+## Masked Wolf
+ - Astronaut In The Ocean
+## MASN
+ - Don't Talk
+## Masta Drag
+ - YUNGDEATHLILLIFE
+## Masta Killa
+ - Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]
+ - Ironman
+ - Legend Of The Wu\-Tang: Wu\-Tang Clan's Greatest Hits
+ - Liquid Swords
+ - Only Built 4 Cuban Linx 2
+ - Only Built 4 Cuban Linx...
+ - The Essential Wu\-Tang Clan
+ - Wu\-Tang Forever
+ - YSIV
 ## Master Andross
  - The Velvet Lounge
+## Master Fuol
+ - Lyricist Lounge Volume 2
+## Master P
+ - Dame Dash Presents Paid In Full / Dream Team
 ## Matduke
  - Monstercat 007 \- Solace
+## Matrix
+ - Lyricist Lounge Vol. 1
 ## Matsirt
- - Monstercat 010 \- Conquest
+ - Monstercat 007 \- Solace
  - Monstercat 016 \- Expedition
 ## MATSUDO GABBA's
  - KASAI HARCORES2 ALL STAR
-## Matthew Blake
- - NCS: Uplifting
-## Matthew Steeper
- - Monstercat 012 \- Aftermath
+## Matt Ox
+ - ?
+## Matthew Santos
+ - Lasers \(Deluxe Edition\)
+ - Lupe Fiasco's Food & Liquor
+ - Lupe Fiasco's The Cool
+## Mauro Castillo
+ - Encanto \(Original Motion Picture Soundtrack\)
+## Mauseburg
+ - No Limit Top Dogg
+## Mavado
+ - T.O.S. \(Terminate On Sight\)
+ - The New Classic
+## MAX
+ - I Could Not Plan This
+## Max B
+ - Jungle Rules
+## Max Coveri
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜
 ## Max Frost
  - Gold Rush
 ## MAXIMUM THE HORMONE
  - Bu\-ikikaesu
+## Maxo Kream
+ - Brandon Banks
+ - Revenge Of The Dreamers III
+## MayDay
+ - Slow Motion
 ## Mayumi Morinaga
  - EDM Extreme
 ## Mazare
  - MIND HACK
  - Monstercat Uncaged Vol. 8
+## Maze
+ - Dame Dash Presents Paid In Full / Dream Team
+## MC Breed
+ - Gettin' It \(Album Number Ten\)
+## MC Eiht
+ - IV
+ - Tha Blue Carpet Treatment
+ - good kid, m.A.A.d city
+ - good kid, m.A.A.d city \(Deluxe\)
+## MC Lyte
+ - Like Water For Chocolate
+ - The Awakening
 ## MC Mota
  - Gunslinga
- - Rapture \(feat. MC Mota\)
+## MC Power
+ - Illadelph Halflife
 ## MC Ren
  - 2001
  - 2001 \(Explicit Version\)
+ - Gangsta Memorial
+ - Ghetto Heisman
 ## MC Virgins
  - DEATH NOTE?
- - Golden Wind!
+ - GOLDEN WIND!
  - Trap Anthem
+## MDMA
+ - Lasers
+ - Lasers \(Deluxe Edition\)
+## Mecca
+ - Reasonable Doubt
+## MED
+ - Madvillainy
+ - The Shining
+## Meechy Darko
+ - ALL\-AMERIKKKAN BADA$$
+ - Piñata
 ## Meek Mill
+ - Ambition
+ - Blue Notes 2 \(feat. Lil Uzi Vert\)
+ - Championships
+ - Cold Summer
+ - Cottonwood
+ - Dreams Worth More Than Money
+ - Dreams and Nightmares \(Deluxe Edition\)
+ - Expensive Pain
+ - Fear of God II: Let Us Pray
+ - Hollywood's Bleeding
+ - Jesus Piece \(Deluxe\)
+ - KHALED KHALED
+ - Love Songs 4 the Streets 2
+ - MMG Presents: Self Made, Vol. 1
+ - My Own Lane \(Expanded Edition\)
  - No.6 Collaborations Project
+ - Perfect Ten
+ - Please Excuse Me for Being Antisocial
+ - Rise Of An Empire \(Deluxe Edition\)
+ - Starvation 2
+ - Still Striving
+ - That's My N\*\*\*\* \(with Meek Mill, YG & Snoop Dogg\) \[From Bright: The Album\]
+ - The Lost Boy
+ - The Pinkprint \(Deluxe Edition\)
+ - The Pinkprint \(Deluxe\)
+ - The Smartest
+ - The Voice of the Heroes
 ## Mega
  - ななめが王国
 ## MEGA NRG MAN
  - SUPER EUROBEAT presents INITIAL D DAVE RODGERS SELECTION
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜
+ - SUPER EUROBEAT presents INITIAL D〜D SELECTION 3〜
+## Megalon
+ - Operation: Doomsday \(Complete\)
+## Megan Rochell
+ - 4:21...The Day After
+## Megan Thee Stallion
+ - BLAME IT ON BABY
+ - Brandon Banks
+ - Good News
+ - KHALED KHALED
+ - MONTERO
+ - On Me \(Remix\) \(with Megan Thee Stallion\)
+ - RNB \(feat. Megan Thee Stallion\)
+ - Something for Thee Hotties
+ - Suga
+ - THE HUSTLE CONTINUES
+ - The Saga of Wiz Khalifa
+ - Thot Shit
+ - Woptober II
 ## Megaphonix
  - Beat Saber \(Original Game Soundtrack\), Vol. II
 ## Meghan Trainor
  - Nine Track Mind
+## Meiko
+ - アイドル新鋭隊 \(feat. 初音ミク, 鏡音リン, 巡音ルカ, MEIKO\)
+ - 青く駆けろ!
+## Mekado
+ - New English
 ## Mel\-Man
  - 2001
  - 2001 \(Explicit Version\)
+## Melanie Rutherford
+ - Book of Ryan \(Bonus Track Edition\)
+## Meli'sa Morgan
+ - Dame Dash Presents Paid In Full / Dream Team
+## Melii
+ - Championships
+## Melissa White
+ - Eurobeat Kudos 20
+## Melky Sedeck
+ - The Hurricane \(Music From And Inspired By The Motion Picture\)
+## Mello
+ - Speakerboxxx/The Love Below
+## MellowHype
+ - The OF Tape Vol. 2
+## Melo\-D
+ - Expansion Team
+## Melody Thornton
+ - Authentic \(Deluxe Edition\)
+## Melvillous
+ - Hands Are Made for Working
+## members of the Detroit Youth Choir
+ - The Smartest
 ## Meme Station
  - Childish Flamingo
+## Memo600
+ - Only The Family \- Lil Durk Presents: Loyal Bros
+## Memphis Bleek
+ - Dame Dash Presents Paid In Full / Dream Team
+ - Reasonable Doubt
+ - Vol.2... Hard Knock Life
+## Men I Trust
+ - Lauren
+ - Seven
+ - Show Me How
+## Menace
+ - Lyricist Lounge Volume 2
 ## Mendum
  - NCS is Love, NCS is Life, Vol. 1
  - NCS: Infinity
-## Meron Ryan
- - Heavyweight
+## Mercedes Martinez
+ - Game Theory Deluxe Edition \(Explicit Version\)
+## Mereba
+ - Eve
+ - New Beginnings
+ - Only Way Is Up \(Deluxe\)
+ - Revenge Of The Dreamers III
+ - The Never Story
+## Meshell Ndegeocello
+ - The Hurricane \(Music From And Inspired By The Motion Picture\)
+## Method Man
+ - 4:21...The Day After
+ - Blackout!
+ - DMX: The Legacy
+ - DiCaprio 2
+ - Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]
+ - Every Hero Needs a Villain
+ - Hell On Earth
+ - Ironman
+ - Legend Of The Wu\-Tang: Wu\-Tang Clan's Greatest Hits
+ - Liquid Swords
+ - Only Built 4 Cuban Linx 2
+ - Only Built 4 Cuban Linx...
+ - Phenomenon
+ - Ready to Die \(The Remaster\)
+ - Ryde Or Die Vol. II
+ - The Best Of DMX
+ - The Essential Wu\-Tang Clan
+ - The Silent Partner
+ - Tical
+ - Wu\-Tang Forever
+ - YSIV
 ## Metro Area
  - Metro Area \(15th Anniversary Edition\)
-## Mia Suszko
- - Pure Tropical House
-## Mia Vaile
- - NCS: The Best of 2016
+## Metro Boomin
+ - Double Or Nothing \(& Metro Boomin\)
+ - SAVAGE MODE II
+ - Without Warning
+## Meyhem
+ - Mr. Wonderful
+## Meyhem Lauren
+ - Every Hero Needs a Villain
+## Mez
+ - Return of the B\-Girl
+ - Revenge Of The Dreamers III
+ - Thank H​.​E​.​R. Now
+## MF DOOM
+ - BORN LIKE THIS
+ - Every Hero Needs a Villain
+ - MM..FOOD
+ - Madvillainy
+ - Operation: Doomsday \(Complete\)
+ - Sour Soul
+ - THE MOUSE & THE MASK
+ - The Grind Date
+ - Vaudeville Villain
+## MF Grimm
+ - Operation: Doomsday \(Complete\)
+## MGK
+ - My Own Lane \(Expanded Edition\)
+## MGMT
+ - Man On The Moon: The End Of Day
+ - Man On The Moon: The End Of Day \(Deluxe\)
+ - Nip Hussle the Great: Vol. 2
+## Mhisani
+ - Get In Where You Fit In
+ - Shorty The Pimp
+## Mia Smith
+ - Us and the Moon
+## Mia X
+ - No Limit Top Dogg
+## Mic Geronimo
+ - The Great Depression
+## Mic Kellogg
+ - Bloom
+## Mic Vandalz
+ - I Got Next
+## Michael Bolton
+ - Indicud
+## Michael Christmas
+ - BACK AROUND THE WAY
+## Michael Da Vinci
+ - Four Two Three
+## Michael Fiya
+ - Summer Classics
 ## Michael Giacchino
  - Ratatouille \(Original Motion Picture Soundtrack\)
 ## Michael Leonhart/Woody Jackson
  - The Music of Red Dead Redemption 2 \(Original Score\)
+## Michael Marshall
+ - Operation Stackola
+## Michael Speaks
+ - No Shame
 ## Mick Gordon
  - Doom \(Original Game Soundtrack\)
+## Mick Jenkins
+ - Rags
+ - Revelations
+## Mickey Factz
+ - Next Wednesday
+## Mickey Shiloh
+ - Authentic \(Deluxe Edition\)
+## midwxst
+ - SUMMER03
+## Migos
+ - Culture
+ - Culture II
+ - Culture III
+ - Danger \(with Migos & Marshmello\) \[From Bright: The Album\]
+ - Full Speed
+ - I Decided.
+ - Invasion of Privacy
+ - KHALED KHALED
+ - KIRK
+ - LAW 3: Now Or Never
+ - Late Nights: The Album
+ - Mr. Davis
+ - No Label II
+ - Perfect Ten
+ - Pretty Girls Like Trap Music
+ - Still Striving
+ - Straightenin
+ - Street Runnaz 83
+ - We Set The Trends
 ## Miguel
+ - AT.LONG.LAST.A$AP
+ - Ambition
+ - Born 2 Rap
+ - Born Sinner
+ - Born Sinner \(Deluxe Version\)
+ - GO:OD AM
+ - Goodbye Yellow Brick Road \(40th Anniversary Celebration/ Super Deluxe Edition\)
  - Goodbye Yellow Brick Road \(Remastered / Deluxe Edition\)
+ - The World Is Yours 2
 ## Mihhi
  - Exit Trance Presents Cm Trance
 ## Mika Nakashima
  - Yuki No Hana 15th Anniversary Best Bible
+## Mike D
+ - What You Gonna Do When The Grid Goes Down?
+## Mike Epps
+ - Hell: The Sequel
+ - Hell: The Sequel \(Deluxe\)
+ - Laugh Now, Cry Later
+ - The State vs. Radric Davis \(Deluxe\)
+## Mike Fresh
+ - Underground Luxury
+## Mike G
+ - Goblin
+ - The OF Tape Vol. 2
+ - Wolf
+## Mike Jones
+ - Body Head Bangerz, Vol. 1
+ - Most Known Unknown \(Explicit\)
 ## Mike Mago
  - The Days / Nights
+## Mike Marty
+ - Therapeutic
+## Mike Posner
+ - Based On A T.R.U. Story \(Deluxe\)
+ - Next to Nothing \(Deluxe Edition\)
+## Mike WiLL Made\-It
+ - THE GOAT
+## Mike Zoot
+ - Lyricist Lounge Vol. 1
+## Mikey Dollaz
+ - Bride of Chucky
 ## Miki Matsubara
  - Miki Matsubara Best Collection
- - POCKET PARK \(Remastered\)
-## Mikk Mäe
- - NCS: The Best of 2016
+ - POCKET PARK
+## Mikito P
+ - 39みゅーじっく!
+ - DAISAN WAVE
+ - いーあるふぁんくらぶ
+ - 初音ミク「マジカルミライ 2014」 \[Live\]
 ## Miku Hatsune
- - Bootleg
+ - BOOTLEG
+ - Eve Vocaloid 01
+ - GETCHA! \(feat. Hatsune Miku & GUMI\)
+ - GRAPHIX
+ - Hand in Hand
+ - Miku
+ - Ready Steady \(feat. 初音ミク, 鏡音リン, 鏡音レン\)
+ - Tell Your World EP
+ - The Greatest Idol
+ - ray
+ - アイドル新鋭隊 \(feat. 初音ミク, 鏡音リン, 巡音ルカ, MEIKO\)
+ - ワーワーワールド \(feat. 初音ミク & 鏡音リン\)
+ - 愛されなくても君がいる
+ - 青く駆けろ!
+## Mila Moon
+ - tell me your feelings and i won't tell you mine
+ - tinted green \(feat. Mila Moon & Jomie\)
+## Miley Cyrus
+ - MONTERO
 ## Mili
  - Cast Me a Spell
+ - Dandelions & Bento Boxes
+ - In Hell We Live, Lament
  - Intrauterine Education
  - Millennium Mother
  - Miracle Milk
  - Rightfully \(TV Animation Goblin Slayer opening\)
  - Static
  - String Theocracy
+ - To Kill a Living Book \-for Library Of Ruina\-
  - Victim
  - Within \(Goblin Slayer Episode Twelve inserted song\)
  - 雨と体液と匂い
+## Milkoi
+ - Lab
+## Milky Chance
+ - Sadnecessary
+## Millennium Thug
+ - Stillmatic
+## Millie Go Lightly
+ - Beautiful Thugger Girls
+## Millyz
+ - BACK AROUND THE WAY
+## Milo
+ - The Coming
+## Milo of Leaders Of The New School
+ - The Coming
+## MIMI
+ - マシュマリー
+## MiMS
+ - Music Is My Savior
 ## Minamotoya
  - Voltage Ignition 2
+## Mishaal
+ - Blood Moon
+ - when we were 16
+## Miss Jones
+ - Capital Punishment \(Explicit Version\)
+ - The Big Picture
 ## Miss Kittin
  - Bassline EP
-## Miss Lina
- - Connected \- EP
+## Miss Mykie
+ - A3c, Vol. 1
+## Miss Ruby
+ - Passing Thoughts
+## Missy 'Misdemeanor' Elliot
+ - Any Given Sunday \(OST\)
 ## Missy Elliott
+ - Cole World: The Sideline Story
+ - FutureSex/LoveSounds Deluxe Edition
+ - La Bella Mafia
  - Sweetener
+## Missy Misdemeanor Elliott
+ - Blackout!
+## Mista Playa
+ - TOXIC MEMORIAL
+## Misumi
+ - オルターエゴ
+## Mitchie M
+ - The Greatest Idol
+ - アイドル新鋭隊 \(feat. 初音ミク, 鏡音リン, 巡音ルカ, MEIKO\)
+ - ワーワーワールド \(feat. 初音ミク & 鏡音リン\)
+ - 初音ミク「マジカルミライ 2014」 \[Live\]
+## Mitchy Slick
+ - Slauson Boy 2
 ## MitiS
  - Try \(feat. RØRY\)
 ## Miura Jam
- - Long Shot \(Re:Zero\)
  - Love Dramatic \(From "Kaguya\-sama: Love is War"\)
- - Realize \(Re:zero\) \[feat. Bruna Higs\]
 ## MIYAVI
  - SAMURAI SESSIONS vol.2
-## Miyoki
- - NCS: The Best of 2015
 ## Miyu Tomita
  - Deep In Abyss \(Made In Abyss OST\)
+## MJG
+ - The Saga Continues...
 ## MK
  - EDM Extreme
 ## MOB CHOIR
  - 99.9
+## Mob Style
+ - Dame Dash Presents Paid In Full / Dream Team
+## Mobb Deep
+ - Any Given Sunday \(OST\)
+ - Free Agents
+ - Get Rich Or Die Tryin'\- The Original Motion Picture Soundtrack
+ - Hell On Earth
+ - Infamy
+ - It Was Written
+ - Murda Muzik
+ - Outta Control \(Remix\)
+ - The Infamous
+## Mobonix
+ - BORN LIKE THIS
 ## Moby
  - Play
+ - TESTING
 ## Mochi
  - Centimeter \(Remix\)
 ## Modernmadeit
  - Arabic Nokia Type Beat
 ## Modjo
  - Modjo \(Remastered\)
-## MOL$
+## Moe Faygoo
+ - GEEZYWORLD
+## Moe Moks
+ - Milky Way
+## mohax \(VOCALO.ID\)
+ - HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]
+## Mojo
+ - Lavish Life
+## mol$
  - DEATH NOTE?
- - Golden Wind!
-## Molly Ann
- - NCS: The Best of 2016
+ - GOLDEN WIND!
+## Moma Gabbana
+ - Role Model
+## mOma+guy
+ - Milky Way
+## Money B
+ - Greatest Hits
+## Money Man
+ - Blockchain
+ - Epidemic \(Deluxe\)
+## Money Mark
+ - THE MOUSE & THE MASK
+## Moneybagg Yo
+ - A Gangsta’s Pain
+ - Blockchain
+ - Church on Sunday
+ - Deadstar 2
+ - Destined 2 Win
+ - Dope Don't Sell Itself
+ - Expensive Pain
+ - Hall of Fame 2.0
+ - Harder Than Ever
+ - KIRK
+ - My Turn
+ - My Turn \(Deluxe\)
+ - Welcome to O'Block
+## Monica
+ - Authentic \(Deluxe Edition\)
+ - Grand Champ
+ - Mr. Davis
+ - Pretty Girls Like Trap Music
 ## Monstercat
  - Monstercat 007 \- Solace
- - Monstercat 010 \- Conquest
  - Monstercat 016 \- Expedition
  - Monstercat Uncaged Vol. 8
+## Monty Datta
+ - Blood Moon
+ - Sing to You
+ - Touch Me
 ## Moona Hoshinova
+ - High Tide
  - 愛の小さな歌
+## Moonchild
+ - Crown
+ - Laila’s Wisdom
 ## Mord Fustang
  - Beat Saber \(Original Game Soundtrack\), Vol. II
+## MORE MORE JUMP!
+ - Color of Drops/天使のクローバー
+ - MORE MORE JUMP! SEKAI Album Vol.1
+ - アイドル新鋭隊/モア!ジャンプ!モア!
+## Morgan Wallen
+ - 7220
 ## Mori Calliope
+ - CapSule
  - Cursed Night
  - DEAD BEATS
+ - Dawn Blue
+ - Graveyard Shift ft. BOOGEY VOXX
  - Hololive English \-Myth\- Image Soundtrack\(ft. Camellia\)
+ - Journey Like a Thousand Years 〜千年の旅〜
  - Off With Their Heads
+ - Q
+ - TEMPLATE/Wicked feat. Mori Calliope
+ - UnAlive
  - Your Mori.
+ - end of a life
  - spiral tones
  - わためのうた vol.1
  - 居場所
+## Morray
+ - Street Sermons
+ - The Off\-Season
+ - Trenches \(feat. Polo G\) \[Remix\]
 ## Morris
  - Ken Blast And Friends \- REMASTERED
+## Morris Baxter
+ - Another Level
+## Mos Def
+ - AT.LONG.LAST.A$AP
+ - Black On Both Sides
+ - Graduation
+ - Like Water For Chocolate
+ - Lyricist Lounge Vol. 1
+ - Lyricist Lounge Volume 2
+ - Quality
+ - The College Dropout
+ - The Fast And The Furious: Tokyo Drift
+ - The Fast And The Furious: Tokyo Drift \(Original Motion Picture Soundtrack\)
+ - The Hurricane \(Music From And Inspired By The Motion Picture\)
+ - The Love Movement
+ - The New Danger
+ - Things Fall Apart
+ - Train Of Thought
+## MoStack
+ - Game Over
+## mothy
+ - EXIT TUNES PRESENTS Supernova\(スーパーノヴァ\)2 ジャケットイラスト:redjuice
+ - Evils Theater
+ - Kagaminext feat. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―
 ## MotionRide
  - Primetime Adventures
 ## Motoi Sakuraba
  - Dark Souls
  - Dark Souls 3
+## Mounika.
+ - some boring love stories pt 5
+## Mouse
+ - Flockaveli
+## Moxas
+ - YouTube Cypher, Vol. 2
+ - my bad
+## Mozzy
+ - Black Panther The Album Music From And Inspired By
+ - Born 2 Rap
+ - Dirt Bag
+ - RSS2
+ - Redemption
+ - STAY DANGEROUS
+ - Slauson Boy 2
+## Mr Eazi
+ - The Lion King: The Gift
+## Mr Fantastik
+ - MM..FOOD
+ - Take Me To Your Leader
 ## Mr FijiWiji
- - Monstercat 012 \- Aftermath
  - Monstercat 016 \- Expedition
+## Mr Groove
+ - SUPER EUROBEAT presents INITIAL D〜D SELECTION 3〜
+## Mr Hudson
+ - 808s & Heartbreak
+ - Watch The Throne \(Deluxe\)
+## Mr Magic
+ - Body Head Bangerz, Vol. 1
+## Mr. Cheeks
+ - Halfway Tree
 ## Mr. Goatee
  - Let's Fighting Love \(From "South Park"\)
-## Mr. Nickelz
- - Free, Vol. 4
+## Mr. Malik
+ - Regulate… G Funk Era
 ## Mr. Oizo
  - Flat Beat
 ## Mrs. GREEN APPLE
  - Attitude
+## Ms. Ariel
+ - What You Gonna Do When The Grid Goes Down?
+## Ms. Lauryn Hill
+ - It Was Written
+ - King's Disease II
+ - The Miseducation of Lauryn Hill
+ - The Score \(Expanded Edition\)
 ## Ms. Roq
  - 2001
  - 2001 \(Explicit Version\)
+## Ms. Toi
+ - At Tha Movies
+## msy
+ - IA SUPER BEST \-THE CREATORS \-
+## Muhsinah
+ - From the Mud
 ## Mumford & Sons
  - Babel
  - Delta
@@ -2028,23 +8598,81 @@ This file contains the list of all the songs that are currently added in the MDR
  - Wilder Mind
 ## Mumford & Sons Feat. Jerry Douglas & Paul Simon
  - Babel
+## Mumia Abu\-Jamal
+ - Revolutionary Vol. 2
+## Mumu Fresh
+ - CINCORIGINALS
+ - Game Theory Deluxe Edition \(Explicit Version\)
 ## Muray
  - JAPAN ANIMESONG COLLECTION VOL.28 \[アニソン・ジャパン\]
+## Murs
+ - A3c, Vol. 1
+ - Overly Dedicated
+## Murs & Sundown
+ - Thank H​.​E​.​R. Now
 ## Muse
  - Butterflies and Hurricanes
+## Musiko
+ - His Glory Alone
+## Musiq Soulchild
+ - Laila’s Wisdom
+## Mustard
+ - Cold Summer
+ - F\*CK LOVE 3: OVER YOU
+ - Featuring Ty Dolla $ign
+ - Good News
+ - My Krazy Life
+ - Perfect Ten
+ - Please Excuse Me for Being Antisocial
+ - THE GOAT
+ - The Saga of Wiz Khalifa
 ## Mutrix
  - Origins
 ## MUZZ
- - Monstercat 010 \- Conquest
  - Monstercat 016 \- Expedition
-## MYRNE
- - NCS: The Best of 2016
+## My cousin Nicole
+ - Coloring Book
+## My Dad
+ - Confessions of a Dangerous Mind
+## Myron Banx
+ - Therapeutic
+## Mysonne
+ - Let The Goons Loose \(BWS 7.0\)
+ - The Great Depression
+## Mystikal
+ - 508\-507\-2209
+ - Any Given Sunday \(OST\)
+ - Extinction Level Event: The Final World Front
 ## MYTH & ROID
  - MYTH & ROID ベストアルバム「MUSEUM\-THE BEST OF MYTH & ROID\-」
  - OPENING THEME FROM TV SERIES ”SHINCHO YUSHA”
  - eYe's
+## n\-buna
+ - カーテンコールが止む前に
+## N.E.R.D
+ - Seeing Sounds
+ - The Fast And The Furious: Tokyo Drift
+ - The Fast And The Furious: Tokyo Drift \(Original Motion Picture Soundtrack\)
 ## N.O.\-SYO
  - Exit Trance Presents Cm Trance
+## N.O.R.E.
+ - Capital Punishment \(Explicit Version\)
+ - Jealous Ones Still Envy \(J.O.S.E\)
+ - The Love Movement
+## N.W.A.
+ - 100 Miles And Runnin'
+ - Efil4zaggin
+ - Gangsta Memorial
+ - N.W.A. And The Posse
+ - N.W.A. Greatest Hits
+ - Straight Outta Compton
+ - The Best Of N.W.A: The Strength Of Street Knowledge
+## Na' kel
+ - Wolf
+## Nakani
+ - Moss
+## Nakanojojo
+ - Matcha Love
 ## Namba Hi\-Tech Full On's
  - KASAI HARCORES2 ALL STAR
 ## Nanahira
@@ -2067,7 +8695,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - Wonder Trick
  - Xronial Xero
  - いんふぃにてぃ・もふりてぃ!
- - ごーいん!
+ - ごーいん!
  - すりーぷ!
  - ななめが王国
  - ばーさす!
@@ -2076,80 +8704,335 @@ This file contains the list of all the songs that are currently added in the MDR
  - りぷれい!
  - トリップ×フロリック
  - 葛西ハーコーズ
+## NanahoshiKangengakudan
+ - EXIT TUNES PRESENTS GUMing from Megpoid
+## Nanashi Mumei
+ - A New Start
+## Nancy Fletcher
+ - Doggystyle
+## Nancy Sinatra
+ - Ultimate Christmas
+## Nao
+ - Uncle Drew \(Original Motion Picture Soundtrack\)
+## Naomi Lael
+ - Chill
+## Naomi Wild
+ - Hotel Diablo
+## Nardo Wick
+ - Who Want Smoke?? \(feat. G Herbo, Lil Durk & 21 Savage\)
+ - Who is Nardo Wick?
 ## NARUZO MACHIO\(CV:KAITO ISHIKAWA\)
  - TV SERIES ”DUMBBELL NAN\-KILO MOTERU?” OPENING THEME「ONEGAI MUSCLE」/ENDING THEME「MACHO ARE NAME?」
+## Nas
+ - 8 Mile \(Music From And Inspired By The Motion Picture\)
+ - Careless World: Rise Of The Last King
+ - DMX: The Legacy
+ - Dreams and Nightmares \(Deluxe Edition\)
+ - Fallen Stars Flying \(Original Song From Between The World And Me\)
+ - God's Son
+ - Hell On Earth
+ - I Am...
+ - Illmatic
+ - Illmatic XX
+ - It Was Written
+ - KHALED KHALED
+ - King's Disease
+ - King's Disease II
+ - LAX
+ - Late Registration
+ - Murda Muzik
+ - NASIR
+ - Only Built 4 Cuban Linx...
+ - Paranoia: A True Story
+ - Rodeo \(feat. Nas\)
+ - Stillmatic
+ - Tha Carter IV
+ - Tha Carter IV \(Complete Edition\)
+ - Tha Carter IV \(Deluxe\)
+ - The Art Of Storytelling
+ - The Best Of DMX
+ - The Infamous
+ - The LP
+ - The Lost Tapes
+ - The Lost Tapes 2
+ - The Red Light District
+ - What You Gonna Do When The Grid Goes Down?
 ## Natalia Natchan
  - Doom Crossing: Eternal Horizons
 ## Natalie Holt
  - Loki: Vol. 1 \(Episodes 1\-3\) \(Original Soundtrack\)
-## Natasha Farrow
- - METAL GEAR 20th ANNIVERSARY METAL GEAR MUSIC COLLECTION
+## Natasha Walker
+ - Thug Life: Volume 1
 ## Nate Dogg
  - 2001
  - 2001 \(Explicit Version\)
+ - Cheers
  - Curtain Call \(Deluxe\)
  - Curtain Call: The Hits
  - Curtain Call: The Hits \(Deluxe Edition\)
+ - Doggystyle
  - Encore \(Deluxe Version\)
  - Get Rich Or Die Tryin'
+ - Get Rich Or Die Tryin'\- The Original Motion Picture Soundtrack
+ - Ghetto Heisman
+ - Greatest Hits
+ - Loyal To The Game
+ - Lyricist Lounge Volume 2
+ - No Limit Top Dogg
+ - Party We Will Throw Now! \- Single
+ - Regulate… G Funk Era
+ - Restless
+ - Tha Blue Carpet Treatment
+ - The Documentary
  - The Eminem Show
  - The Marshall Mathers LP
+ - The Red Light District
+ - Thug Life: Volume 1
+## Nate Good
+ - Winter
 ## Nate Ruess
+ - Punk
  - The Marshall Mathers LP2
  - The Marshall Mathers LP2 \(Deluxe\)
-## Nathan Brumley
- - NCS: Uplifting
+## Nathalie
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜
+## Natural Elements
+ - Lyricist Lounge Vol. 1
+## Naughty By Nature
+ - 19 Naughty III
 ## NAV
+ - Drip Harder
  - Hoodie SZN
+ - Perfect Ten
+ - So Much Fun
+ - Still Striving
+ - The World Is Yours 2
+ - We Love You Tecca 2
+## Navé Monjo
+ - FEAR EXODUS
+ - N9NA
 ## nayuta
  - ななめが王国
+## Nayutalien
+ - ナユタン星からの物体Y
 ## NCT
  - NCS is Love, NCS is Life, Vol. 1
- - NCS: The Best of 2015
+## Ne\-Yo
+ - Ambition
+ - Fishscale \(Expanded Edition\)
+ - LAX
+ - Teflon Don
+## Nechie
+ - DS4EVER
+ - Slime Language
+## Need Not Worry
+ - Escapism
+## Nef The Pharaoh
+ - RSS2
 ## NEFFEX
  - Manifest It
+## Neil deGrasse Tyson
+ - Everybody
 ## nekodex
  - circles!
 ## NeLiME
  - Cytus II\-Neko \(Original Soundtracks\)
+## Nell
+ - Imperial
+## Nelly
+ - All Or Nothing
+ - Freaky with You \(feat. Jacquees\)
+ - Greatest Hits
+## Nelly Furtado
+ - Power In Numbers
+## NemRaps
+ - YouTube Cypher, Vol. 2
+## Nems
+ - Next Wednesday
+## Neo
+ - SUPER EUROBEAT presents INITIAL D WORLD HITS SELECTION 5
+## Neru
+ - CYNICISM
+ - IA SUPER BEST \-THE CREATORS \-
+ - Kagaminext feat. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―
+ - 初音ミク「マジカルミライ 2014」 \[Live\]
 ## NEXT DESIGN
  - 龍が如く5 夢、叶えし者 オリジナルサウンドトラック \(Vol.2\)
 ## NF
+ - Blessings
+ - CLOUDS
+ - CLOUDS \(THE MIXTAPE\)
+ - Epiphany \(feat. NF\)
+ - LOST
+ - Mansion
+ - NO NAME
+ - PAID MY DUES
  - Perception
+ - The Search
  - Therapy Session
+ - Warm Up
 ## NGHTMRE
  - Sick Boy
+## nhudle
+ - somehow
+## Nice & Smooth
+ - Behind Bars
+ - Full Clip: A Decade Of Gang Starr
+## Nicholas Smalc
+ - Escapism
+## Nick Hexum
+ - SWIM TEAM
+## Nick Kroll
+ - Sing \(Original Motion Picture Soundtrack / Deluxe\)
+## Nick Mansell
+ - Eurobeat Kudos 20
+## Nick Nack
+ - Operation Stackola
+## Nick Row
+ - OMNI.
 ## Nicki Minaj
+ - Based On A T.R.U. Story \(Deluxe\)
+ - Beam Me Up Scotty
+ - Bussin
+ - Careless World: Rise Of The Last King
+ - Cold Summer
+ - Culture II
+ - Do We Have A Problem?
+ - Dreams Worth More Than Money
+ - FOR CERTAIN \(Deluxe\)
+ - Featuring Ty Dolla $ign
+ - Finally Famous \(10th Anniversary Deluxe Edition Remixed and Remastered\)
+ - HNDRXX
+ - Hall of Fame
+ - I Am Not A Human Being
+ - I Am Not A Human Being II \(Deluxe\)
+ - Indigo
+ - Indigo \(Extended\)
+ - KIRK
+ - Legendary \(Deluxe Edition\)
+ - Love Songs 4 the Streets 2
+ - Mr. Davis
+ - My Beautiful Dark Twisted Fantasy
+ - My Everything \(Deluxe\)
+ - Pretty Girls Like Trap Music
+ - Rise Of An Empire \(Deluxe Edition\)
+ - STAY DANGEROUS
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
+ - SremmLife
  - Sweetener
-## Nightcore
- - Monster \(Dotexe Remix\)
+ - Take Care \(Deluxe\)
+ - Tha Carter V
+ - Tha Carter V \(Deluxe\)
+ - Thank Me Later
+ - The Pinkprint \(Deluxe Edition\)
+ - The Pinkprint \(Deluxe\)
+ - The State vs. Radric Davis \(Deluxe\)
+ - WHOLE LOTTA MONEY \(feat. Nicki Minaj\) \[Remix\]
+ - beerbongs & bentleys
+## Nico & Vinz
+ - Black Star Elephant
+## Nicole Wray
+ - Man On The Moon II: The Legend Of Mr. Rager
+ - Reservation
+## Niema Loca
+ - Stick 2 Da Code
+## Nieve
+ - Escapism
+## Night Lovell
+ - Concept Vague
+ - eat ya veggies
 ## Nightmare
  - the WORLD Ruler
  - the WORLD/アルミナ
+## Nigo
+ - Arya
+ - Heavy
+## Niki Randa
+ - Watching Movies with the Sound Off \(Deluxe Edition\)
+## Nikki
+ - Tha Carter II
+## Nikki Jean
+ - Lupe Fiasco's The Cool
+## Nikkiya
+ - Cabin Fever
+## NIKO
+ - SUPER EUROBEAT presents INITIAL D〜D SELECTION 3〜
+## Niko Brim
+ - Tank God
 ## Nina Simone
  - Verve Remixed 2
 ## NINE
  - Exit Trance Presents Cm Trance
+## Nine Inch Dix
+ - Tha Blue Carpet Treatment
 ## Ninja Sex Party
  - Under the Covers
+## Nino Brown
+ - Starvation 2
 ## Ninomae Ina’nis
  - Hololive English \-Myth\- Image Soundtrack\(ft. Camellia\)
+ - Journey Like a Thousand Years 〜千年の旅〜
+ - VIOLET
+ - hololive music studio \- Twilight
+ - 浸食!! 地球全域全おーしゃん
+## Nipsey Hussle
+ - Born 2 Rap
+ - Bullets Ain't Got No Name Vol. 2
+ - Cold Summer
+ - Detroit 2
+ - Nip Hussle the Great: Vol. 2
+ - Ohio
+ - Perfect Ten
+ - Slauson Boy 2
+ - Victory Lap
+ - What It Feels Like
 ## Nirvana
  - Nevermind \(Remastered\)
 ## Nitro Fun
  - Final Boss
  - Monstercat 016 \- Expedition
  - New Game
+## Nivea
+ - Tha Carter V
 ## NIVIRO
  - The Ghost
- - The Guardian of Angels
+## Njomza
+ - The Divine Feminine
 ## NK
  - NCS is Love, NCS is Life, Vol. 1
+## NLE Choppa
+ - Capo
+ - Cottonwood
+ - Final Warning
+ - Find The Beat
+ - From Dark to Light
+ - Hall of Fame 2.0
+ - Jumpin \(feat. Polo G\)
+ - Kawhi Leonard Presents: Culture Jam \(Vol. 1\)
+ - Levon James
+ - Mmm Hmm
+ - THE GOAT
+ - THE HUSTLE CONTINUES
+ - Top Shotta
+## Nmb Stunnaz
+ - Street Runnaz 83
+## Nneka Morton
+ - The Master
+## No I.D
+ - Everybody
 ## Noah Cyrus
  - Different World
+## Noah King
+ - Escapism
+## Noboru
+ - EXIT TUNES PRESENTS Supernova\(スーパーノヴァ\)2 ジャケットイラスト:redjuice
+ - HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]
 ## Nobuyoshi Suzuki
  - Dark Souls 3
+## NoCap
+ - Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies
+## Noelle Scaggs
+ - Authentic \(Deluxe Edition\)
 ## Nogizaka46
  - Baretta
 ## Noisestorm
@@ -2160,30 +9043,92 @@ This file contains the list of all the songs that are currently added in the MDR
 ## NOMA
  - Brain Power
  - Cytus II\-Neko \(Original Soundtracks\)
+## Noname
+ - Coloring Book
+ - Lockdown \(Remix Bundle\)
 ## nonoc
  - OVA「Re:ゼロから始める異世界生活 Memory Snow」Memory Album
  - TVアニメ「Re:ゼロから始める異世界生活」2nd season 後期エンディングテーマ「Believe in you」
  - TVアニメ「Re:ゼロから始める異世界生活」2nd seasonエンディングテーマ「Memento」
-## Nori
- - Lets Fly Away
+## Norah Jones
+ - The Renaissance
+## Norelle
+ - Oxnard
+## noripy
+ - HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]
+ - MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”
+## Norma Sheffield
+ - SUPER EUROBEAT presents INITIAL D WORLD HITS SELECTION 5
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜
 ## Norman Greenbaum
  - Guardians of the Galaxy: Awesome Mix Vol. 1 \(Original Motion Picture Soundtrack\)
+## Norman Michael
+ - Man vs. Machine
 ## Nostalghia
  - John Wick: Chapter 2 \(Original Motion Picture Soundtrack\)
 ## Notaker
  - Each Other
 ## NOTD
  - Leave It Beautiful \(Complete\)
+## nothing,nowhere.
+ - monarch
+## Novel
+ - Quality
+## Nu Jerzey Devil
+ - Let The Goons Loose \(BWS 7.0\)
+## Nuage
+ - SUPER EUROBEAT presents INITIAL D WORLD HITS SELECTION 5
+## Nuely
+ - Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies
+## Nuxe
+ - Blood Moon
 ## Nvdes
  - Psychomagic
  - Rock & Roll
-## Nyanikore
+## NyaniKore
  - Duckstep
+ - Pardun
+## Nyansis
+ - EXIT TUNES PRESENTS THE BEST OF GUMI from Megpoid
+## nyanyannya
+ - Kagaminext feat. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―
+ - ドクター=ファンクビート
+## Nyarons
+ - Lab
+## Nyck Caution
+ - 1999
+ - ALL\-AMERIKKKAN BADA$$
+## NYGz
+ - The Ownerz
+## NYTRO
+ - DRIFT
+## Nyyjerya
+ - TA13OO
+## O.C.
+ - Lyricist Lounge Vol. 1
+ - The Awakening
+ - The Big Picture
+## O.G.L.B.
+ - Regulate… G Funk Era
+## O.T. Genasis
+ - It's Different Now
+## O.Z the HitMaker
+ - Jugular
+## Oba Rowland
+ - Yuck Fou
 ## Obie Trice
+ - 8 Mile \(Music From And Inspired By The Motion Picture\)
+ - Cheers
+ - Cradle 2 The Grave
+ - D\-12 World
  - Encore \(Deluxe Version\)
- - The Eminem Show
+ - Loyal To The Game
+ - SHADYXV
+ - Thoughts Of A Predicate Felon
 ## Obsidia
  - Monstercat 007 \- Solace
+## Odd Future
+ - The OF Tape Vol. 2
 ## Of Monsters And Men
  - Fever Dream
  - Live From Vatnagarðar
@@ -2193,41 +9138,188 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Official HIGE DANdism
  - Cry Baby
 ## Offset
+ - Baby On Baby
+ - Destined 2 Win
+ - Dirt Bag
+ - Droptopwop
+ - Dying to Live
+ - East Atlanta Love Letter
+ - GEMINI
+ - Harder Than Ever
  - Hoodie SZN
+ - JACKBOYS
+ - Legendary
+ - Legendary \(Deluxe Edition\)
+ - Nudy Land
+ - On the Run
+ - RICH YOUNGIN
+ - Red Room
+ - Role Model
+ - Taste \(feat. Offset\)
+ - The World Is Yours 2
+ - UNDER8ED
+ - Without Warning
+## OG
+ - PRhyme \(Deluxe Version\)
+## OG Boobie Black
+ - Boobie Trapp 3
+## OG Parker
+ - Die 4 Respect
+## Oh Wonder
+ - Luv Is Rage 2
+## Ohana Bam
+ - Bam Got That Dope
+ - Half Way There...Pt. 1
+## OHGEESY
+ - Buy or Bye 2
+ - GEEZYWORLD
+ - Party Pack. Vol 2
+ - Secret Service
+## OJ Da Juiceman
+ - The State vs. Radric Davis \(Deluxe\)
+ - Woptober II
 ## Okazaki Taiiku
  - All Time Rock 'n' Roll
-## OLWIK
- - NCS: Uplifting
- - Taking Over
- - This Life
-## Omar LinX
- - Joytime
+## Ol' Dirty Bastard
+ - 4:21...The Day After
+ - Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]
+ - Legend Of The Wu\-Tang: Wu\-Tang Clan's Greatest Hits
+ - Liquid Swords
+ - Return to the 36 Chambers: The Dirty Version
+ - The Essential Wu\-Tang Clan
+ - Wu\-Tang Forever
+## Olga Merediz
+ - Encanto \(Original Motion Picture Soundtrack\)
+## Olivia
+ - Get Rich Or Die Tryin'\- The Original Motion Picture Soundtrack
+ - The Massacre
+ - Thoughts Of A Predicate Felon
+## Ollie
+ - Fading Away
+ - Overtime
+## Ollie's Graveyard
+ - Without a Smile
+## Olu Dara
+ - Illmatic
+ - Illmatic XX
 ## Omar Noir
  - Different World
+## Omarion
+ - More Than A Game
+ - Still Over It
+ - Summer In The Winter
+## OMB Peezy
+ - Days Inn
+## Omen
+ - Revenge Of The Dreamers III
 ## OMFG
  - Hello
  - I Love You
- - Ice Cream
- - Ok
- - Yeah
+## Omoi
+ - グリーンライツ・セレナーデ
+ - ファーストワルツ
 ## Omri
  - NCS is Love, NCS is Life, Vol. 1
 ## Ondřej Matějka
  - Arma 3 \(Original Game Soundtrack\)
+## One Hope
+ - the overthinker
+## One Room
+ - MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”
 ## OneRepublic
  - Native
-## Outwild
- - NCS: The Best of 2015
+## Only The Family
+ - Only The Family \- Lil Durk Presents: Loyal Bros
+## Onyx
+ - Trap Lord
+## Onyx Kobayashi
+ - MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”
+## Orangestar
+ - IA SUPER BEST \-THE CREATORS \-
+ - 未完成エイトビーツ
+ - 霽れを待つ
+## Organized Noize Productions
+ - ATLiens
+## Osbe Chill
+ - Born 2 Rap
+## Oscar Welsh
+ - Next to You
+## Oschino
+ - Dame Dash Presents Paid In Full / Dream Team
+## oskalizator.
+ - Touge
+## OSTER project
+ - Attractive Museum
+ - HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]
+ - MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”
+ - 初音ミク「マジカルミライ 2014」 \[Live\]
+## Oswin Benjamin
+ - The Allegory
+## OT Genesis
+ - Cold Summer
+## otetsu
+ - EXIT TUNES PRESENTS THE BEST OF GUMI from Megpoid
+## Otieno Terry
+ - GEMINI
+## Otis Redding
+ - Watch The Throne \(Deluxe\)
+## OttoMattic
+ - Locked In
+ - Momentum
+ - Rounds \(Part 3\)
+## Oumou Sangaré
+ - The Lion King: The Gift
+## Ouro Kronii
+ - Daydream
+## Ouse
+ - Night
+ - Realistic \(feat. Elijah Midjord\)
+## Out Of Survice
+ - IA SUPER BEST \-THE CREATORS \-
+## Outkast
+ - ATLiens
+ - Aquemini
+ - Big Boi & Dre Present...OutKast
+ - Speakerboxxx/The Love Below
+ - Stankonia
+ - Stankonia \(Deluxe Version\)
+ - The Art Of Storytelling
+## Outlawz
+ - Greatest Hits
+ - Until The End Of Time
+## Outsidaz
+ - The Score \(Expanded Edition\)
+## OverDoz.
+ - LONG.LIVE.A$AP \(Deluxe Version\)
+## Overload
+ - SUPER EUROBEAT presents INITIAL D〜D SELECTION 3〜
+## Overlord Scooch
+ - Ghetto Rich Niggaz
+## Overseer
+ - Any Given Sunday \(OST\)
 ## Oxia
  - Total 7
 ## OxT
  - Hello New World
  - Reunion
+## Ozzy Osbourne
+ - Extinction Level Event: The Final World Front
+ - Hollywood's Bleeding
+## P Dukes
+ - A3c, Vol. 1
 ## P!nk
  - Recovery
- - Revival
+ - Recovery \(Deluxe Edition\)
 ## P\*Light
  - すりーぷ!
+## P\-Lo
+ - Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)
+## P. Wright
+ - RSS2
+## P.I.N.A.
+ - Kagaminext feat. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―
+## P.O.D.
+ - Any Given Sunday \(OST\)
 ## P.T. Adamczyk
  - Cyberpunk 2077 \- Original Score
  - Cyberpunk 2077 \- Original Score EP
@@ -2238,6 +9330,12 @@ This file contains the list of all the songs that are currently added in the MDR
  - ふわもふはぴねす24/7!!
 ## PABLO
  - LEO\-NiNE
+## Pac star
+ - Changes \(feat. Pac star\)
+## Packy
+ - Dear Rap Game
+## Pamsy
+ - Eurobeat Kudos 20
 ## Panda Eyes
  - Kiko
 ## Panic! At The Disco
@@ -2246,12 +9344,42 @@ This file contains the list of all the songs that are currently added in the MDR
  - Suicide Squad: The Album
 ## Panta.Q
  - Ignite \(Remixes\)
+## Paparue
+ - 400 Degreez
+## Paper Lovee
+ - Waiting to Exhale
+## Paper Route EMPIRE
+ - PAPER ROUTE iLLUMINATi
+## PaperRoute Woo
+ - PAPER ROUTE iLLUMINATi
+## Papithbk
+ - EP
+ - Faith
+## Papu Wu
+ - Only Built 4 Cuban Linx 2
+## Pardison Fontaine
+ - UNDER8ED
+## Park Hill
+ - Word To LA
+## Parle
+ - Ryde Or Die Vol. II
+## Parliament Funkadelic
+ - Gettin' It \(Album Number Ten\)
+## Party Supplies
+ - Mr. Wonderful
+## PARTYNEXTDOOR
+ - Dark Sky Paradise \(Deluxe\)
+ - If You're Reading This It's Too Late
+ - More Life
+## Pastor Troy
+ - Flockaveli
+ - Lyricist Lounge Volume 2
+## Pat Metheny
+ - Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack
 ## Paul "Bunyan" Rosenberg
  - The Marshall Mathers LP
  - The Slim Shady LP
  - The Slim Shady LP \(Expanded Edition\)
-## Paul Flint
- - NCS: The Best of 2016
 ## Paul Johnson
  - Get Get Down
 ## Paul Kalkbrenner
@@ -2260,19 +9388,44 @@ This file contains the list of all the songs that are currently added in the MDR
  - Cyberpunk 2077 \- Original Score
 ## Paul Rosenberg
  - Kamikaze
+## Paul Wall
+ - LONG.LIVE.A$AP \(Deluxe Version\)
+ - Late Registration
+ - Most Known Unknown \(Explicit\)
+ - Season of the Assassin
 ## Paulo Londra
  - No.6 Collaborations Project
+## Pavolia Reine
+ - Gate Open: START!
+ - あの青空のせいだ / Love Me Love Me
+## Payroll
+ - Detroit 2
+## Payroll Giovanni
+ - Ghetto Rich Niggaz
+ - Spirit Of A Boss
 ## Peaky Blinders
  - Guardians Of The Galaxy \- Hooked On A Feeling
+## Pebbles The Invisible Girl
+ - Operation: Doomsday \(Complete\)
+## Pee Wee
+ - Get In Where You Fit In
+## Peedi Crakk
+ - Dame Dash Presents Paid In Full / Dream Team
+## Peewee Longway
+ - Days Inn
+ - Ice Daddy
+ - Nasty Dealer 2
+ - Woptober II
+## PeeWee Roscoe
+ - Slime Season 3
+## Peezy
+ - Ghetto Rich Niggaz
 ## Pegboard Nerds
- - Disconnected
  - Emoji VIP
  - Give A Little Love
  - Gunslinga
  - MOSHI
  - Monstercat 007 \- Solace
- - Monstercat 010 \- Conquest
- - Monstercat 012 \- Aftermath
  - Monstercat 016 \- Expedition
  - Monstercat Uncaged Vol. 8
  - Purple People Eater
@@ -2288,6 +9441,25 @@ This file contains the list of all the songs that are currently added in the MDR
  - Scary Monsters and Nice Sprites EP
 ## Pentatonix
  - PTX
+## Pep Love
+ - 93 'til Infinity
+## Pep Love and Jay Biz
+ - Hiero Oldies: Volume One
+## Percee P
+ - Champion Sound
+ - Power In Numbers
+## Perion
+ - Body Head Bangerz, Vol. 1
+## Pete Rock
+ - Center of Attention
+ - Fan\-Tas\-Tic, Vol. 2
+ - Fantastic, Vol. 2.10
+## Pete Rock & C.L. Smooth
+ - Mecca And The Soul Brother
+## Petey Pablo
+ - Body Head Bangerz, Vol. 1
+ - Jealous Ones Still Envy \(J.O.S.E\)
+ - Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies
 ## Petit Biscuit
  - Presence
 ## pewdiepie
@@ -2295,18 +9467,62 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Phaera
  - Sunlight
 ## Phantom Sage
- - Connected \- EP
- - Crystal Clouds
  - NCS is Love, NCS is Life, Vol. 1
- - NCS: The Best of 2016
+## Pharmacist
+ - 3\-6 Destruction
+ - All It Takes
+ - Cruisin' Down Da Block
+ - Cruisin’ Down Da Block
+ - High As Fuck
+ - North Memphis
+## Pharoahe Monch
+ - Lyricist Lounge Vol. 1
+ - Lyricist Lounge Volume 2
+ - Quality
+ - The Shining
 ## Pharrell Williams
+ - A Gangsta’s Pain
+ - B.O.A.T.S. II #METIME \(Deluxe\)
+ - CALL ME IF YOU GET LOST
+ - Careless World: Rise Of The Last King
  - Despicable Me
+ - Faith
+ - Fear of God II: Let Us Pray
+ - Jungle Rules
+ - Luv Is Rage 2
+ - Pretty Girls Like Trap Music
+ - Still Over It
  - Sweetener
-## Philly K.
- - Pure Tropical House
- - Savannah
-## Phoebe Ray
- - Monstercat 012 \- Aftermath
+ - The Autobiography
+ - The Fast And The Furious: Tokyo Drift
+ - The Fast And The Furious: Tokyo Drift \(Original Motion Picture Soundtrack\)
+ - The Lion King: The Gift
+ - Wolf
+## phem
+ - Hotel Diablo
+## Phil Adé
+ - A3c, Vol. 1
+ - Return of the B\-Girl
+## Phil Collins
+ - Dame Dash Presents Paid In Full / Dream Team
+## Phil Da Agony
+ - Expansion Team
+ - Lyricist Lounge Volume 2
+## Phocuz
+ - For What Its Worth
+## Phoebe Bridgers
+ - Man On The Moon III: The Chosen
+## Phonk Killer
+ - Trunk
+## PHONK WALKER
+ - OLD GENESIS
+ - TOUGE
+## Phonte
+ - Best Day Ever \(5th Anniversary Remastered Edition\)
+ - PRhyme \(Deluxe Version\)
+ - Thank H​.​E​.​R. Now
+## PHOROMANE
+ - WELCOME TO HELL
 ## PHQUASE
  - Lop Step Rabbits
  - MEGANTO METEOR
@@ -2317,8 +9533,22 @@ This file contains the list of all the songs that are currently added in the MDR
  - Revival
 ## Pháo
  - 2 Phút Hơn \(KAIZ Remix\)
+## Piakhan
+ - Train Of Thought
+## Pill
+ - MMG Presents: Self Made, Vol. 1
+## Pimp C
+ - 4eva Is A Mighty Long Time
+ - Stay Trippy
+## Pink
+ - Revival
 ## Pink Floyd
  - The Wall
+## PinocchioP
+ - PINOCCHIOP BEST ALBUM 2009\-2020 寿
+ - コスモスパイス
+ - 初音ミク「マジカルミライ 2014」 \[Live\]
+ - 愛されなくても君がいる
 ## Pitbull
  - Greenlight \(feat. Flo Rida & LunchMoney Lewis\)
 ## Pixel Terror
@@ -2329,44 +9559,299 @@ This file contains the list of all the songs that are currently added in the MDR
 ## Pixl
  - Full Charge
  - Monstercat 016 \- Expedition
+## PJ
+ - Free TC \(Deluxe Edition\)
+## PJ Morton
+ - Eve
+ - Rise Of An Empire \(Deluxe Edition\)
+## Planet Asia
+ - Lyricist Lounge Volume 2
+## PlayaPhonk
+ - Keraunos
+## Playboi Carti
+ - Dark Lane Demo Tapes
+ - Perfect Ten
+ - Still Striving
+ - Trip At Knight \(Complete Edition\)
+ - Whole Lotta Red
+## Playboy Tre´
+ - B.o.B Presents: The Adventures of Bobby Ray
+ - Underground Luxury
+## PlayThatBoiZay
+ - ZUU
+## Pleasure Pete
+ - BACK AROUND THE WAY
+## Plies
+ - O.M.M.I.O 2
+ - Starvation 2
+ - The State vs. Radric Davis \(Deluxe\)
 ## Plight
  - EDM Extreme
 ## Plácido Domingo
  - Definitive All\-Time Greatest Hits
+## PMD
+ - Hold It Down
+ - What You Gonna Do When The Grid Goes Down?
 ## PnB Rock
+ - ?
+ - Championships
+ - Church on Sunday
+ - Die 4 Respect
+ - Half Way There...Pt. 1
  - Hoodie SZN
  - No.6 Collaborations Project
  - The Bigger Artist
 ## Pochi Korone
  - Kokuhaku Bungee Jump \(Remix\)
+## Poetics
+ - Whole Team Winning
+## Poison Pen
+ - Revolutionary Vol. 2
+ - Revolutionary, Vol. 1
+## Polo G
+ - A Gangsta’s Pain
+ - Culture III
+ - Destined 2 Win
+ - F\*CK LOVE 3: OVER YOU
+ - Fighting Demons
+ - Fighting Demons \(Deluxe\)
+ - Find The Beat
+ - GANG GANG \(with Lil Wayne\)
+ - Hall of Fame
+ - Hall of Fame 2.0
+ - Jumpin \(feat. Polo G\)
+ - Just Cause Y'all Waited 2
+ - Just Cause Y'all Waited 2 \(Deluxe\)
+ - Kawhi Leonard Presents: Culture Jam \(Vol. 1\)
+ - Legends Never Die
+ - PTSD
+ - RAPSTAR
+ - THE GOAT
+ - Trenches \(feat. Polo G\) \[Remix\]
+ - Trip At Knight \(Complete Edition\)
+ - Welcome to O'Block
+## Polyester the Saint
+ - Piñata
+## PolyphonicBranch
+ - IA SUPER BEST \-THE CREATORS \-
+ - 初音ミク「マジカルミライ 2014」 \[Live\]
 ## Polyphonix
  - EDM Extreme
+## Poo Bear
+ - Cabin Fever
+ - Food & Liquor II: The Great American Rap Album, Pt. 1
+## Pooh Bear
+ - Lupe Fiasco's The Cool
+## Pooh Shiesty
+ - Ice Daddy
+ - SUVs \(Black on Black\)
+ - The Voice \(Deluxe\)
+## Poohman
+ - Shorty The Pimp
+## Pop Diesel
+ - What You Gonna Do When The Grid Goes Down?
+## Pop Smoke
+ - Culture III
+ - Faith
+ - Hall of Fame
+ - JACKBOYS
+ - Man On The Moon III: The Chosen
+ - Meet The Woo 2
+ - Shoot For The Stars Aim For The Moon
+ - They Got Amnesia
 ## POP TEAM EPIC
  - POP TEAM EPIC: ALL TIME BEST
+## Popa Smurf
+ - Flockaveli
+## Popcaan
+ - Good News
+## Popcorn Uiie
+ - Nasty Dealer 2
+## Poppa Wu
+ - Wu\-Tang Forever
+## Porn
+ - Game Theory Deluxe Edition \(Explicit Version\)
 ## PornoGraffitti
  - Butterfly Effect
  - Melissa
+## Posdnous
+ - BORN LIKE THIS
 ## Post Malone
+ - Culture II
+ - Detroit 2
+ - Featuring Ty Dolla $ign
+ - Hollywood's Bleeding
+ - KHALED KHALED
+ - Motley Crew
+ - Punk
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
+ - Stoney \(Deluxe\)
+ - Tha Carter V \(Deluxe\)
+ - Tommy Lee \(feat. Post Malone\)
+ - beerbongs & bentleys
+## POWERFUL T.
+ - SUPER EUROBEAT presents INITIAL D WORLD HITS SELECTION 5
+## Powfu
+ - 4708
+ - Are You Okay?
+ - Evidence I Exist
+ - Eyes Blue Like The Atlantic, Pt. 2 \(feat. Powfu, Alec Benjamin & Rxseboy\)
+ - I'm So Good at Lying \(feat. Powfu & Thomas Reid\)
+ - Laying on my porch while we watch the world end.
+ - Letter's You Never Received
+ - Scars on My Heart
+ - death bed \(coffee for your head\)
+ - drinking under the streetlights
+ - monarch
+ - soda stream sky \(feat. KNOWN.\)
+ - some boring love stories pt 5
+ - tell me your feelings and i won't tell you mine
+ - the way that you see me \(feat. Ayleen Valentine\)
+ - tinted green \(feat. Mila Moon & Jomie\)
+ - when we were 16
+## Pras
+ - The Score \(Expanded Edition\)
+## Pressa
+ - Buy or Bye 2
+ - Gardner Express
+## Pretty Tone
+ - Dame Dash Presents Paid In Full / Dream Team
+## Pretty Ugly
+ - Game Tight
+## Pretty Ugly & Royce Da 5'9
+ - Game Tight
+## Pretty Ugly, P\-Dap & 50 Cent
+ - Game Tight
+## PRhyme
+ - PRhyme \(Deluxe Version\)
+ - Southpaw \(Music From And Inspired By The Motion Picture\)
+## Prime
+ - Lyricist Lounge Vol. 1
+## Prince Cyhi
+ - MMG Presents: Self Made, Vol. 1
+## Prince Dre
+ - Welcome to O'Block
+## Prince Paul
+ - BORN LIKE THIS
 ## princess a la mode
  - 歌物語2 \-〈物語〉シリーズ主題歌集\-
+## Priscilla
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜
+ - Underground Luxury
+## PRO ERA
+ - 1999
+## Problem
+ - The Storm \(Deluxe Edition\)
+## Prodigal Son
+ - Streetsoul
+## Prodigy
+ - Get Rich Or Die Tryin'\- The Original Motion Picture Soundtrack
+ - Mr. Smith \(Deluxe Edition\)
+ - The Silent Partner
+## Profit
+ - Cradle 2 The Grave
 ## Project 46
  - Monstercat 007 \- Solace
- - Monstercat 010 \- Conquest
- - Monstercat 012 \- Aftermath
-## Project Veresen
- - Flames
+## Project Pat
+ - Certified Lover Boy
+ - Ice Daddy
+ - Most Known Unknown \(Explicit\)
+ - Negro Swan
+ - Stay Trippy
+ - THE HUSTLE CONTINUES
 ## Promise of wizard
  - Cast Me a Spell
+## Prophie Luciano
+ - Days Inn
+## Prospect
+ - Capital Punishment \(Explicit Version\)
+ - Jealous Ones Still Envy \(J.O.S.E\)
+ - True Story
 ## Protostar
  - Galaxies
  - Monstercat Uncaged Vol. 8
+## PRXSXNT FXTURE
+ - Japanese Drift
+## PSYCHOMANE
+ - LVL DEATH
+## PTAF
+ - Beam Me Up Scotty
+## Public Enemy
+ - Apocalypse 91… The Enemy Strikes Black
+ - Fear Of A Black Planet
+ - How You Sell Soul to a Soulless People Who Sold Their Soul?
+ - It Takes A Nation Of Millions To Hold Us Back
+ - What You Gonna Do When The Grid Goes Down?
+ - Yo! Bum Rush The Show
+## Pumpkinhead
+ - Revolutionary Vol. 2
+ - Revolutionary, Vol. 1
+## Punch
+ - Do What Thou Wilt.
+ - Setbacks
+## Punchline
+ - Lyricist Lounge Vol. 1
+ - Lyricist Lounge Volume 2
+ - Mos Def & Talib Kweli Are Black Star
+ - The Love Movement
+## Purple Popcorn
+ - Music Is My Savior
+## PUSH! Montana
+ - If Tomorrow Comes...
+## Pusha T
+ - B.O.A.T.S. II #METIME \(Deluxe\)
+ - Bandana
+ - Bobby Tarantino
+ - Book of Ryan \(Bonus Track Edition\)
+ - Diet Coke
+ - Faith
+ - Fan of A Fan The Album \(Expanded Edition\)
+ - Fear of God II: Let Us Pray
+ - Finally Famous \(10th Anniversary Deluxe Edition Remixed and Remastered\)
+ - H.F.M. 2 \(Hunger For More 2\)
+ - Jesus Piece \(Deluxe\)
+ - Kanye West Presents Good Music Cruel Summer
+ - Mercy
+ - My Beautiful Dark Twisted Fantasy
+ - My Own Lane \(Expanded Edition\)
+ - New English
+ - Oxnard
+ - Seeing Sounds
+ - The Autobiography
+ - The Light Pack
+ - The Lost Boy
+ - The Plugs I Met
 ## Pussy Revolution
  - Guardians Of The Galaxy \- Hooked On A Feeling
+## Pyromed
+ - High As Fuck
+## Q D III
+ - Bootlegs And B\-Sides
 ## Q\-Tip
+ - Amplified
+ - Black On Both Sides
+ - Center of Attention
+ - Done By The Forces Of Nature \(Deluxe Edition\)
+ - Fan\-Tas\-Tic, Vol. 2
+ - Fantastic, Vol. 2.10
+ - Illadelph Halflife
+ - Illmatic
+ - Illmatic XX
+ - Just Until....
+ - Lyricist Lounge Vol. 1
+ - Lyricist Lounge Volume 2
  - Music To Be Murdered By
+ - Oxnard
+ - The Anthology
+ - The Coming
+ - The Infamous
+ - The Renaissance
+ - The Velvet Rope
 ## Qaijff
  - Koufukuron
+## Quadeca
+ - Disgrace
+ - YouTube Cypher, Vol. 2
 ## Quando Rondo
  - Hoodie SZN
 ## Quarks
@@ -2374,52 +9859,252 @@ This file contains the list of all the songs that are currently added in the MDR
  - MEGANTO METEOR
  - MIND HACK
  - Xronial Xero
+## Quasimoto
+ - Madvillainy
+ - Yessir Whatever
+## Quavo
+ - B.E.D. \(Remix\)
+ - BLAME IT ON BABY
+ - BLAME IT ON BABY \(DELUXE\)
+ - Beautiful Thugger Girls
+ - Bigger Than You feat. Drake & Quavo
+ - Champions
+ - Cold Summer
+ - Faith
+ - Featuring Ty Dolla $ign
+ - Free TC \(Deluxe Edition\)
+ - Intentions
+ - JACKBOYS
+ - Jungle Rules
+ - Meet The Woo 2
+ - More Life
+ - Perfect Ten
+ - Pretty Girls Like Trap Music
+ - Rodeo \(Expanded Edition\)
+ - STAY DANGEROUS
+ - Shmoney \(feat. Quavo & Rowdy Rebel\)
+ - Shoot For The Stars Aim For The Moon
+ - So Much Fun
+ - Stoney \(Deluxe\)
+ - The Saga of Wiz Khalifa
+ - Without Warning
+ - Woptober II
+ - hopeless fountain kingdom \(Deluxe\)
 ## Queen
  - A Night At The Opera \(Deluxe Remastered Version\)
  - A Night at the Odeon
  - Bohemian Rhapsody \(The Original Soundtrack\)
- - Classic Queen
- - Greatest Hits \- We Will Rock You Edition
- - Greatest Hits II
- - Hot Space \(Deluxe Remastered Version\)
  - Jazz \(Deluxe Remastered Version\)
- - Live At The Rainbow
  - Queen 40 Limited Edition Collector's Box Set
- - Queen On Air
+ - Queen II \(Deluxe Remastered Version\)
  - Sheer Heart Attack \(2011 Remaster\)
- - Stone Cold Classics
  - The Game \(Deluxe Remastered Version\)
-## Queen + Paul Rodgers
- - Stone Cold Classics
 ## QUEEN BEE
  - Fire \(Full Edition\)
+## Queen Latifah
+ - 19 Naughty III
+ - Eve
 ## Queen Naija
  - Hoodie SZN
+ - Just A Matter of Slime
+ - The Smartest
+## Queen Pen
+ - Another Level
+## Quelle Chris
+ - From the Mud
+## Question?
+ - Bullets Ain't Got No Name Vol. 2
+## QUIN
+ - When It's Dark Out
+## Quin Nfn
+ - The Blixky Tape
+ - TheOneTheyDoubted
+## Qveen Herby
+ - EP 1
+ - Juice
+## R Sound Design
+ - Forward
+## R. City
+ - Slow Motion
+## R. Kelly
+ - Full Speed
+ - Greatest Hits
+ - Heartbreak on a Full Moon
+ - Jealous Ones Still Envy \(J.O.S.E\)
+ - Kanye West Presents Good Music Cruel Summer
+ - Life After Death \(2014 Remastered Edition\)
+ - Tha Blue Carpet Treatment
+## R.A. The Rugged Man
+ - Every Hero Needs a Villain
+ - Season of the Assassin
+ - Servants In Heaven, Kings In Hell
+## R.L. Hugger
+ - Until The End Of Time
+## Ra Diggs
+ - Flockaveli
 ## Rachel Muldoon
  - Rocketman \(Music From The Motion Picture\)
+## Racks Atm
+ - Best of Both Worlds
+## Rae Sremmurd
+ - Free TC \(Deluxe Edition\)
+ - SR3MM
+ - SremmLife
+## Raekwon
+ - 4:21...The Day After
+ - Anarchy
+ - Aquemini
+ - BORN LIKE THIS
+ - Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]
+ - Fishscale \(Expanded Edition\)
+ - Ghostface Killah...Shaolin's Finest
+ - H.F.M. 2 \(Hunger For More 2\)
+ - Ironman
+ - Kanye West Presents Good Music Cruel Summer
+ - LAX
+ - Legend Of The Wu\-Tang: Wu\-Tang Clan's Greatest Hits
+ - Liquid Swords
+ - My Beautiful Dark Twisted Fantasy
+ - Only Built 4 Cuban Linx 2
+ - Only Built 4 Cuban Linx...
+ - Oxymoron \(Deluxe\)
+ - Piñata
+ - Tha Carter V \(Deluxe\)
+ - Thank H​.​E​.​R. Now
+ - The Essential Wu\-Tang Clan
+ - The Infamous
+ - Tical
+ - Wu\-Tang Forever
+ - YSIV
+## Rage
+ - The Chronic
 ## Ragga Twins
  - Monstercat Uncaged Vol. 8
+## Rah
+ - Days Inn
+## Rah Digga
+ - Genesis
+ - Lyricist Lounge Vol. 1
+ - Return of the B\-Girl
+ - Train Of Thought
+## Rah Swish
+ - Faith
+## Raheem DeVaughn
+ - LAX
+## Rahn Harper
+ - Bloom
+## Rahzel
+ - Like Water For Chocolate
+ - The Master
 ## Raiden
  - Ignite \(Remixes\)
 ## Rainych
  - Say So \(Japanese Version\)
+## Rakim
+ - 8 Mile \(Music From And Inspired By The Motion Picture\)
+ - The 18th Letter / The Book Of Life
+ - The Master
+## Ralph Castelli
+ - Morning Sex
+## Ralph Tresvant
+ - Greatest Hits
+ - Phenomenon
+## Ralph Weah
+ - Yuck Fou
 ## Rameses B
  - Monstercat 016 \- Expedition
+## Rampage The Last Boy Scout
+ - The Coming
+## Ramsey
+ - Arcane League of Legends \(Soundtrack from the Animated Series\)
+## ramunyang
+ - EXIT TUNES PRESENTS GUMing from Megpoid
+## RANASOL
+ - Flashback
+ - Flicker
+## Ransom
+ - The Course of the Inevitable
+## Raphael Saadiq
+ - Crown
+ - No Limit Top Dogg
+ - Teflon Don
+ - The Renaissance
+## Rappa Boy
+ - Who Do You Love
+## Rappin' 4\-Tay
+ - Gettin' It \(Album Number Ten\)
+## Rapsody
+ - Crown
+ - Do What Thou Wilt.
+ - Eve
+ - For Everything
+ - Laila’s Wisdom
+ - Malibu
+ - New Beginnings
+ - Return of the B\-Girl
+ - She Got Game \(Deluxe Edition\)
+ - Sojourner \(feat. J. Cole\)
+ - Streams of Thought Vol. 1
+ - Thank H​.​E​.​R. Now
+ - The Idea Of Beautiful
+ - To Pimp A Butterfly
+ - What You Gonna Do When The Grid Goes Down?
+## RAq
+ - Good
+## Ras Kass
+ - At The Speed Of Life
+ - Lyricist Lounge Vol. 1
+## Rashad
+ - Ohio
+ - Welcome Back
 ## Raspberries
  - Guardians of the Galaxy: Awesome Mix Vol. 1 \(Original Motion Picture Soundtrack\)
+## Ratatat
+ - Man On The Moon: The End Of Day
+ - Man On The Moon: The End Of Day \(Deluxe\)
+## Rate Pg's
+ - Body Head Bangerz, Vol. 1
 ## Rats & Star
  - All Time Rock 'n' Roll
-## Raya
- - Flames
+## Raul Miaon
+ - Tha Blue Carpet Treatment
+## Raury
+ - Coloring Book
+ - SYRE
+## RaVaughn
+ - The Lost Tapes 2
+## Raw Dizzy
+ - Sorry 4 The Wait
+## Ray Charles
+ - The Hurricane \(Music From And Inspired By The Motion Picture\)
+## Ray Dalton
+ - The Heist
+ - The Heist \(Deluxe Edition\)
+## Ray J
+ - Death Before Dishonor
 ## Razihel
- - Love U
  - Monstercat 016 \- Expedition
- - NCS: The Best of 2016
  - Titans
 ## RBX
+ - The Chronic
  - The Marshall Mathers LP
+## Real Recognize Rio
+ - Keep IT 21
+## Really Doe
+ - Late Registration
 ## REAPER
  - Monstercat Uncaged Vol. 8
+## REASON
+ - Black Panther The Album Music From And Inspired By
+ - Days Inn
+ - New Beginnings
+ - Revenge Of The Dreamers III
+ - There You Have It
+## Rebecca Black
+ - eat ya veggies
+## Red Cafe
+ - Born 2 Rap
+ - Let The Goons Loose \(BWS 7.0\)
 ## REDALiCE
  - EDM Extreme
 ## Redbone
@@ -2427,34 +10112,178 @@ This file contains the list of all the songs that are currently added in the MDR
  - Guardians of the Galaxy: Awesome Mix Vol. 1 \(Original Motion Picture Soundtrack\)
  - The Essential Redbone
  - Wovoka
-## RedMoon
- - Heavyweight
- - NCS: Uplifting
+## Redman
+ - 4:21...The Day After
+ - Blackout!
+ - I Got Next
+ - Lyricist Lounge Volume 2
+ - Phenomenon
+ - Ryde Or Die Vol. II
+ - The Art Of Storytelling
+ - The Coming
+ - The Love Movement
+ - Whut? The Album
+## Reef The Lost Cauze
+ - Servants In Heaven, Kings In Hell
+## Reese
+ - Nasty Dealer 2
+## Reese LAFLARE
+ - Revenge Of The Dreamers III
+## Reese Witherspoon
+ - Sing \(Original Motion Picture Soundtrack / Deluxe\)
+## Reeves
+ - Lavish Life
+## Reflection Eternal
+ - Train Of Thought
+## Regina Bell
+ - ...And Then There Was X
+## Reginae Carter
+ - Tha Carter V
+## Reignwolf
+ - GEMINI
 ## Reiko Nakanishi
  - JAPAN ANIMESONG COLLECTION VOL.28 \[アニソン・ジャパン\]
+## Rell
+ - Dame Dash Presents Paid In Full / Dream Team
+## Remo
+ - These Things Happen
+## Remy
+ - Jealous Ones Still Envy \(J.O.S.E\)
+ - True Story
+## Remy Ma
+ - All Or Nothing
+ - Family Ties
+ - Most Known Unknown \(Explicit\)
+ - The Big Picture
+ - True Story
+ - Uncle Drew \(Original Motion Picture Soundtrack\)
+## Ren Thomas
+ - Next Wednesday
+## renforshort
+ - CHASING HARMONY
+## rerulili
+ - Kagaminext feat. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―
+ - ウタカタリレイション
+## Res
+ - Quality
+ - Revolutions Per Minute
+ - Train Of Thought
 ## RetroVision
- - Heroes
- - NCS: The Best of 2016
  - Puzzle
- - SICC
-## Rezonate
- - Monstercat 010 \- Conquest
+## Rex Orange County
+ - Best Friend
+ - Flower Boy
+ - KEEP IT UP
+ - Pony
+ - Sunflower
+## Rhenzy Feliz
+ - Encanto \(Original Motion Picture Soundtrack\)
 ## Rhiannon Giddens
  - The Music of Red Dead Redemption 2 \(Original Soundtrack\)
+## Ric Riggler Featuring Shecky Green
+ - Game Tight
+## Ricco Barrino
+ - B.o.B Presents: The Adventures of Bobby Ray
+## Rich Boy
+ - More Than A Game
+## Rich Brian
+ - eat ya veggies
+## Rich Dunk
+ - BLAME IT ON BABY \(DELUXE\)
+## Rich Homie Quan
+ - B.O.A.T.S. II #METIME \(Deluxe\)
+ - Baby On Baby
+ - My Krazy Life
+ - No Label II
+ - Professional Rapper
+## Rich The Kid
+ - Baby On Baby
+ - Cold Summer
+ - Crypto \(feat. Rich The Kid\)
+ - Dirt Bag
+ - Indigo \(Extended\)
+ - Missed Calls
+ - Still Striving
+ - Street Runnaz 83
+ - Tank God
+ - The World Is Yours 2
+ - Trust Fund Babies
 ## RichaadEB
  - Bullet Hell II
+## Richard Ashcroft
+ - Reconstructed : The Best Of DJ Shadow
 ## Richard Madden
  - Rocketman \(Music From The Motion Picture\)
 ## Richie Kohan
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
+## Richie Rich
+ - Me Against The World
+ - Operation Stackola
+## Richie Wess
+ - Street Runnaz 83
 ## Richmond Tang
  - Anime Songs #1
 ## Rick Ross
+ - Alfredo
+ - Ambition
+ - Certified Lover Boy
+ - Championships
+ - Cold Summer
+ - Dreams Worth More Than Money
+ - Dreams and Nightmares \(Deluxe Edition\)
+ - Droptopwop
+ - Evolution
+ - Faith
+ - Fear of God II: Let Us Pray
+ - Finally Famous \(10th Anniversary Deluxe Edition Remixed and Remastered\)
+ - Finally Rich \(Deluxe\)
+ - Hotel California \(Deluxe\)
+ - Imperial
+ - Jesus Piece \(Deluxe\)
+ - KHALED KHALED
+ - MMG Presents: Self Made, Vol. 1
+ - My Beautiful Dark Twisted Fantasy
+ - Ohio
+ - Outlawz \(feat. Jazmine Sullivan & 21 Savage\)
+ - Port Of Miami
+ - Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack
+ - Richer Than I Ever Been
+ - Scary Hours 2
+ - Still Striving
  - Suicide Squad: The Album
+ - Take Care \(Deluxe\)
+ - Teflon Don
+ - Tha Carter IV
+ - Tha Carter IV \(Complete Edition\)
+ - Tha Carter IV \(Deluxe\)
+ - The Best In The World Pack
+ - The State vs. Radric Davis \(Deluxe\)
+ - They Got Amnesia
+ - Trap Music 2k12
+ - ZUU
+## Rick Vocals
+ - Dame Dash Presents Paid In Full / Dream Team
+## Ricky Bell
+ - Phenomenon
+## Ricky Harris
+ - Regulate… G Funk Era
+## Rickyxsan
+ - Neon Grave Remixed
+## Rico Love
+ - Mr. Davis
+ - Southpaw \(Music From And Inspired By The Motion Picture\)
+## RIELL
+ - Hiding In The Blue
+ - Pride & Fear
 ## Rifti Beats
  - ANIME REMIXES
 ## Rihanna
+ - DAMN.
+ - DAMN. COLLECTORS EDITION.
+ - HNDRXX
  - Recovery
+ - Recovery \(Deluxe Edition\)
+ - Take Care \(Deluxe\)
  - The Marshall Mathers LP2
  - The Marshall Mathers LP2 \(Deluxe\)
 ## Rikka Ihara
@@ -2462,33 +10291,126 @@ This file contains the list of all the songs that are currently added in the MDR
  - Love Dramatic
 ## RIKO AZUNA
  - Ending theme from TV anime series ”Cautious Hero: The Hero Is Overpowered but Overly Cautious””be perfect, plz!”
+## Rileyy Lanez
+ - True 2 Myself
+## Rin Kagamine
+ - GRAPHIX
+ - Happy Halloween
+ - Ready Steady \(feat. 初音ミク, 鏡音リン, 鏡音レン\)
+ - アイドル新鋭隊 \(feat. 初音ミク, 鏡音リン, 巡音ルカ, MEIKO\)
+ - ワーワーワールド \(feat. 初音ミク & 鏡音リン\)
+## Rio Da Yung Og
+ - 1v1 \(feat. Lil Yachty\)
+## Rio Santana
+ - ?
 ## RIOT
  - Aiwa
  - Dogma Resistance
  - Monstercat Uncaged Vol. 8
  - Overkill
  - You Don't Even Know Me
+## Rita Ora
+ - The New Classic
+## Rittz
+ - Next to Nothing \(Deluxe Edition\)
 ## Rivers Cuomo
+ - B.o.B Presents: The Adventures of Bobby Ray
+ - The Autobiography
  - The Click
+## Rixton
+ - Let The Road
+## Riz Ortolani
+ - Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack
+## RJ
+ - Cold Summer
+## RJ Payne
+ - The Plugs I Met
+## RJMrLA
+ - O.M.M.I.O 2
+## Rob Bailey & The Hustle Standard
+ - Southpaw \(Music From And Inspired By The Motion Picture\)
+## Rob Curly
+ - Off The Grid
+## Rob Vicious
+ - Party Pack. Vol 2
+## Rob\-O
+ - Mecca And The Soul Brother
 ## Robert Chen
  - Realize \(From "Re: Zero \-Starting Life in Another World"\)
  - Tabibito no Uta \(From "Mushoku Tensei: Jobless Reincarnation"\)
+## Robert Glasper
+ - Book of Ryan \(Bonus Track Edition\)
 ## Robert Miles
  - 2gether 90 \(Années 90\)
 ## Robin S
  - Show Me Love
 ## Robin Thicke
+ - Careless World: Rise Of The Last King
  - Despicable Me
+ - Tha Carter II
+ - Tha Carter III \(MTV Bonus Version\)
  - The Bigger Artist
 ## robotomichenko
  - \(harder, better, faster\) stronger
+## Roc Marci
+ - The Course of the Inevitable
+## Roc Marciano
+ - Anarchy
+ - Pray for Paris
+## Rocci
+ - DISORDER
 ## Rocco DeLuca
  - The Music of Red Dead Redemption 2 \(Original Soundtrack\)
+## Rock
+ - Monkey Barz
+## Rock Abruham
+ - From the Mud
+## Rockie Fresh
+ - A3c, Vol. 1
+## Rocko
+ - Beam Me Up Scotty
+## Rocky Roberts
+ - Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack
+## Rod Stewart
+ - AT.LONG.LAST.A$AP
+## Rod Wave
+ - Hall of Fame
+ - Kawhi Leonard Presents: Culture Jam \(Vol. 1\)
+ - The Voice of the Heroes
+## Rodan
+ - Operation: Doomsday \(Complete\)
+ - Vaudeville Villain
+## Roddy Ricch
+ - BLAME IT ON BABY
+ - BLAME IT ON BABY \(DELUXE\)
+ - Championships
+ - DS4EVER
+ - Dope Don't Sell Itself
+ - Featuring Ty Dolla $ign
+ - From a Birds Eye View
+ - Hall of Fame
+ - KHALED KHALED
+ - LIVE LIFE FAST
+ - Perfect Ten
+ - Please Excuse Me for Being Antisocial
+ - Shoot For The Stars Aim For The Moon
+ - Top Shotta
+ - late at night
+ - too easy \(Remix\) \[feat. Future & Roddy Ricch\]
+## Roderick Porter
+ - I Like The Pain
+## Rodney
+ - Port Of Miami
+## Rodney J. "RJ" Brown
+ - My Krazy Life
+## Roger
+ - Greatest Hits
+ - The Best of 2Pac
 ## Rogue
  - Let's Talk
  - Monstercat 007 \- Solace
- - Monstercat 010 \- Conquest
- - Unity
+## Rokamouth
+ - 1999
 ## Rome in Silver
  - Forever Flame
 ## Romix
@@ -2496,35 +10418,154 @@ This file contains the list of all the songs that are currently added in the MDR
  - Red Swan \(Remixes\)
  - Wild Side \(Remix\)
  - 海底のオーケストラ
+## Ron\-de\-vu
+ - N.W.A. And The Posse
+## Ronald Isley
+ - Infamy
+ - Loyal To The Game
+ - The Essential Wu\-Tang Clan
+ - To Pimp A Butterfly
 ## Roomie
  - Congratulations
+## Rory Fresco
+ - ALIVE
+ - Missed Calls
+## ROSALÍA
+ - JACKBOYS
+## Roscoe Dash
+ - Finally Famous \(10th Anniversary Deluxe Edition Remixed and Remastered\)
+ - Flockaveli
+## Rottin Razkals
+ - 19 Naughty III
 ## Roudoudou
  - listener's digest
+## Rowdy Rebel
+ - Computers \(feat. Bobby Shmurda\)
+ - Shmoney \(feat. Quavo & Rowdy Rebel\)
+ - Shoot For The Stars Aim For The Moon
+ - Time Ticking
+## Roy Ayers
+ - Mama's Gun
+## Roy Ayres
+ - Mama's Gun
+## Roy Hargrove
+ - Like Water For Chocolate
+## Roy Jones Jr.
+ - Body Head Bangerz, Vol. 1
 ## Royce Da 5'9"
+ - Book of Ryan \(Bonus Track Edition\)
+ - CINCORIGINALS
+ - Detroit 2
+ - Game Tight
  - Kamikaze
+ - Lyricist Lounge Volume 2
  - Music To Be Murdered By
+ - Music To Be Murdered By \- Side B \(Deluxe Edition\)
+ - Rock City
+ - SHADYXV
+ - The Allegory
  - The Slim Shady LP
  - The Slim Shady LP \(Expanded Edition\)
 ## Rozes
  - Roses
+## Rozz Dyliams
+ - YUNGDEATHLILLIFE
+## Rubi Rose
+ - Poke
+ - Psycho \(feat. Rubi Rose\)
+## Rude Kid
+ - Hands Are Made for Working
 ## Rude\-α
  - 23
  - LIFE
 ## Ruelle
  - Madness
  - Perception
-## Rundfunk
- - Monstercat 010 \- Conquest
+## Ruff Ryders
+ - Ryde Or Die Vol. II
+## Run–D.M.C.
+ - RUN\-DMC \(Expanded Edition\)
+ - Raising Hell
+ - What You Gonna Do When The Grid Goes Down?
 ## Rupert Holmes
  - Guardians of the Galaxy: Awesome Mix Vol. 1 \(Original Motion Picture Soundtrack\)
  - Partners In Crime
+## Ruste Juxx
+ - Monkey Barz
+## Ruth Brown
+ - The Hurricane \(Music From And Inspired By The Motion Picture\)
+## Rvssian
+ - Death Race For Love
+ - M&M \(with Future feat. Lil Baby\)
+## Rxseboy
+ - Are You Okay?
+ - Bus Ride \(feat. chloe moriondo\)
+ - Evidence I Exist
+ - Eyes Blue Like The Atlantic, Pt. 2 \(feat. Powfu, Alec Benjamin & Rxseboy\)
+ - I'm So Good at Lying \(feat. Powfu & Thomas Reid\)
+ - Laying on my porch while we watch the world end.
+ - Letter's You Never Received
+ - Us and the Moon
+ - i'm a ghost but it hurts
+ - some boring love stories pt 5
+ - the way that you see me \(feat. Ayleen Valentine\)
+ - when we were 16
+## Ryan Beatty
+ - FRIENDS KEEP SECRETS
+## Ryan Bradley
+ - Special Effects
+## Ryan Leslie
+ - H.F.M. 2 \(Hunger For More 2\)
+## Ryan Lewis
+ - The Heist
+## Ryan Oakes
+ - YouTube Cypher, Vol. 2
+## Ryan Tedder
+ - YSIV
+## Rylo Rodriguez
+ - Love Me While I'm Here
+ - My Turn
+ - My Turn \(Deluxe\)
+## ryo \(supercell\)
+ - HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]
+ - MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”
 ## Ryoko Inagaki
- - 熱烈!アニソン魂 ULTIMATEカバーシリーズ2017 JAPAN ANIMESONG COLLECTION mini vol.4
+ - 熱烈!アニソン魂 ULTIMATEカバーシリーズ2017 JAPAN ANIMESONG COLLECTION mini vol.4
  - 熱烈!アニソン魂 ULTIMATEカバーシリーズ2017 JAPAN ANIMESONG COLLECTION vol.54
 ## Ryu
  - EDM Extreme
+## RZA
+ - 4:21...The Day After
+ - Birth of a Prince
+ - Doris
+ - Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]
+ - Indicud
+ - Ironman
+ - Legend Of The Wu\-Tang: Wu\-Tang Clan's Greatest Hits
+ - Liquid Swords
+ - My Beautiful Dark Twisted Fantasy
+ - Only Built 4 Cuban Linx...
+ - The Essential Wu\-Tang Clan
+ - Tical
+ - Wu\-Tang Forever
+ - YSIV
 ## RØRY
  - Try \(feat. RØRY\)
+## S&S
+ - The Art Of Storytelling
+## S'natra
+ - OMNI.
+## S.O.
+ - Augustine's Legacy
+## Sa\-Ra
+ - Free TC \(Deluxe Edition\)
+## Saafir
+ - At The Speed Of Life
+## Saba
+ - Coloring Book
+ - Revenge Of The Dreamers III
+## Sabor
+ - Halfway Tree
 ## Sabrina Carpenter
  - EVOLution
  - Let Me Move You \(From the Netflix film Work It\)
@@ -2533,25 +10574,150 @@ This file contains the list of all the songs that are currently added in the MDR
  - Singular Act II
  - Skin
  - Skinny Dipping
-## Sad Puppy
- - Pure Tropical House
+## Sada Baby
+ - Days Inn
+ - Detroit 2
+ - Love Me While I'm Here
+ - Trip At Knight \(Complete Edition\)
+## Sadat X
+ - Illmatic XX
+ - The Awakening
+ - The Big Picture
+## SadBoyProlific
+ - Alone
+ - Blood Moon
+ - Blow My Phone Up
+ - Dead and Cold
+ - Heartbreak & Bad Habits
+ - Scars
+ - Scars on My Heart
+ - doom
+ - isho
+## sadeyes
+ - Letter's You Never Received
+ - don't cry
+ - jaded
+ - monarch
+ - you deserve better
+ - you're my everything
+## Sadfriendd
+ - DONNA
+## sadgods
+ - 4708
+## Sage The Gemini
+ - Indigo \(Extended\)
+## sagun
+ - I'll Keep You Safe
+## Saint Claire
+ - GEMINI
+## Saint Dog
+ - Made for Kings
+## SAINt JHN
+ - Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)
+ - The Lion King: The Gift
 ## sajou no hana
  - 99.9
 ## Sakutasuke
  - TV Anime " ACTORS \- Songs Connection \- " Opening Theme " Titania "
+## Salaam Remi
+ - Blunted On Reality
+## Salatiel
+ - The Lion King: The Gift
+## Salt\-N\-Pepa
+ - Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)
 ## Sam Luff
  - Red Swan \(Remixes\)
+## Sam Martin
+ - The Beautiful & Damned
+## Sam Sneak
+ - Dreams and Nightmares \(Deluxe Edition\)
+ - ZUU
+## Samad Savage
+ - Diablo
+## Samfree
+ - HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]
+## Sammie
+ - iSouljaBoyTellem
+## Sammy Adams
+ - BACK AROUND THE WAY
+## Sampha
+ - More Life
+ - Nothing Was The Same
+ - Nothing Was The Same \(Deluxe\)
+## Samson
+ - The Rise
+## Samuel J. "Tone" Barnes
+ - Until The End Of Time
+## Samuel Kim
+ - Enemy \- Epic Version \(from Arcane League of Legends\)
+## Samuel L. Jackson
+ - Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack
+## sana
+ - Happy Halloween
+## Santana
+ - The Miseducation of Lauryn Hill
+## Santigold
+ - LONG.LIVE.A$AP \(Deluxe Version\)
 ## Sapphire
  - The Velvet Lounge
+## Sara
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜
+## Sara Kays
+ - drinking under the streetlights
+## Sara Tavares
+ - Reservation
+## Sarah Green
+ - Lasers
+ - Lasers \(Deluxe Edition\)
+ - Lupe Fiasco's Food & Liquor
+ - Lupe Fiasco's The Cool
+## Sarah Jones
+ - Lyricist Lounge Vol. 1
+## Sarah Reeves
+ - Today We Rebel
+## Sarcastic Sounds
+ - Evidence I Exist
+ - Eyes Blue Like The Atlantic, Pt. 2 \(feat. Powfu, Alec Benjamin & Rxseboy\)
+ - I Can't Help
+ - drinking under the streetlights
+ - fools \(can't help falling in love\) \(slowed down & reverb\)
+ - say goodbye
+ - tell me your feelings and i won't tell you mine
+ - the way that you see me \(feat. Ayleen Valentine\)
+## Sareena Dominguez
+ - Slow Motion
+## sasakure.UK
+ - EXIT TUNES PRESENTS THE BEST OF GUMI from Megpoid
+ - the EmpErroR
+ - ウタカタリレイション
+ - トンデモワンダーズ
+ - ボーカロイドは終末鳥の夢を見るか?
+## Sasha Alex Sloan
+ - The Search
+## Sasha Go Hard
+ - Stick 2 Da Code
 ## Satsy
- - 熱烈!アニソン魂 ULTIMATEカバーシリーズ2017 JAPAN ANIMESONG COLLECTION mini vol.4
+ - 熱烈!アニソン魂 ULTIMATEカバーシリーズ2017 JAPAN ANIMESONG COLLECTION mini vol.4
  - 熱烈!アニソン魂 ULTIMATEカバーシリーズ2017 JAPAN ANIMESONG COLLECTION vol.54
+## satuki ga tenkomori
+ - NEXT NEST
+## Sauce Money
+ - Reasonable Doubt
+ - Vol.2... Hard Knock Life
+## Saudi
+ - Black Panther The Album Music From And Inspired By
+## Saukrates
+ - Lyricist Lounge Volume 2
+## Saul Williams
+ - Lyricist Lounge Vol. 1
+ - The Autobiography
 ## Savage Garden
  - Savage Garden
 ## Savoi
  - NCS is Love, NCS is Life, Vol. 1
 ## SawanoHiroyuki\[nZk\]
  - A/Z | aLIEz
+ - Chaos Drifters / CRY
 ## SawanoHiroyuki\[nZk\]:Gemie&Tielle
  - Chaos Drifters / CRY
 ## SawanoHiroyuki\[nZk\]:Jean\-Ken Johnny
@@ -2559,22 +10725,102 @@ This file contains the list of all the songs that are currently added in the MDR
 ## SawanoHiroyuki\[nZk\]:mizuki
  - A/Z | aLIEz
  - Chaos Drifters / CRY
+## SawanoHiroyuki\[nZk\]:ReoNa
+ - time
+## Saweetie
+ - Best Friend \(feat. Doja Cat\)
+ - Destined 2 Win
+ - High Maintenance
+ - Missed Calls
+ - Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)
+ - Tap In
+ - They Got Amnesia
 ## SAYGRACE
  - Suicide Squad: The Album
+ - Uncle Drew \(Original Motion Picture Soundtrack\)
+ - When It's Dark Out
+## SAYUKI
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜
+## sayuw
+ - somehow
+## Scapegoat
+ - some boring love stories pt 5
+## Scar
+ - Next to Nothing \(Deluxe Edition\)
+## Scarface
+ - Based On A T.R.U. Story \(Deluxe\)
+ - Ghetto Heisman
+ - I Am...
+ - Moment Of Truth
+ - Piñata
+ - Ryde Or Die Vol. II
+## Scarlett Johansson
+ - Sing \(Original Motion Picture Soundtrack / Deluxe\)
 ## Scatman John
  - Scatman's World
+## ScHoolboy Q
+ - ALL\-AMERIKKKAN BADA$$
+ - AT.LONG.LAST.A$AP
+ - Black Panther The Album Music From And Inspired By
+ - Brandon Banks
+ - Do What Thou Wilt.
+ - Fan of A Fan The Album \(Expanded Edition\)
+ - Hands On The Wheel
+ - LIVE.LOVE.A$AP
+ - LONG.LIVE.A$AP \(Deluxe Version\)
+ - Malibu
+ - Mr. Davis
+ - My Krazy Life
+ - New Beginnings
+ - Overly Dedicated
+ - Oxymoron \(Deluxe\)
+ - PRhyme \(Deluxe Version\)
+ - Rodeo \(Expanded Edition\)
+ - Setbacks
+ - THat Part \(Black Hippy Remix\)
+ - The Heist
+ - The Heist \(Deluxe Edition\)
+ - Trap Lord
+ - Watching Movies with the Sound Off \(Deluxe Edition\)
+## Scop
+ - EXIT TUNES PRESENTS THE BEST OF GUMI from Megpoid
+## Scorey
+ - Die Young
+ - Hall of Fame
 ## Scorpions
  - Love At First Sting
 ## Scott Brown
  - Cytus II\-Neko \(Original Soundtracks\)
+## Scotty Sterling
+ - Check Check
+ - Lost
+## ScruFaceJean
+ - YouTube Cypher, Vol. 2
+## Seal
+ - Authentic \(Deluxe Edition\)
+## Sean Boog
+ - Return of the B\-Girl
+## Sean Kingston
+ - Bullets Ain't Got No Name Vol. 2
+ - iSouljaBoyTellem
+## Sean Paul
+ - The Grind Date
+## Sean Price
+ - Monkey Barz
+## Sean Price & Block Mc Cloud
+ - Servants In Heaven, Kings In Hell
+## Sean Sison
+ - Bloom
 ## SEATBELTS
  - COWBOY BEBOP Tank! the! Best!
-## Sebastian Ivarsson
- - Monstercat 012 \- Aftermath
 ## Sebastian Rich
  - Rocketman \(Music From The Motion Picture\)
+## Sebastian Yatra
+ - Encanto \(Original Motion Picture Soundtrack\)
 ## Sedliv
  - Beat Saber \(Original Game Soundtrack\), Vol. II
+## seed
+ - Music Is My Savior
 ## Seezyn
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
 ## SEGA SOUND TEAM
@@ -2582,14 +10828,27 @@ This file contains the list of all the songs that are currently added in the MDR
  - 龍が如く極 オリジナルサウンドトラック
 ## Seiko Oomori
  - 大森靖子
+## Sekou 720
+ - Blood In My Eye
+## Selah the Corner
+ - Man vs. Machine
 ## Selena Gomez
  - It Ain't Me
  - Nine Track Mind
  - Rare
+## Self
+ - Lasers
+ - Lasers \(Deluxe Edition\)
 ## Senyawa/Colin Stetson
  - The Music of Red Dead Redemption 2 \(Original Score\)
 ## Senyawa/Colin Stetson/Woody Jackson
  - The Music of Red Dead Redemption 2 \(Original Score\)
+## SEPPI
+ - Terminal
+## Seth MacFarlane
+ - Sing \(Original Motion Picture Soundtrack / Deluxe\)
+## Seth Rogen
+ - The Lion King: The Gift
 ## Sethh
  - NCS is Love, NCS is Life, Vol. 1
 ## SEUNGRI
@@ -2602,155 +10861,561 @@ This file contains the list of all the songs that are currently added in the MDR
  - Plastic JoJo
  - Shining Justice
  - Torture Dance \(Canzoni Preferite\)
+## Sevyn Streeter
+ - FOR CERTAIN \(Deluxe\)
+ - Free TC \(Deluxe Edition\)
+## Señor Coconut
+ - Sing \(Original Motion Picture Soundtrack / Deluxe\)
+## SG Lewis
+ - The Beautiful & Damned
 ## Shaboozey
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
+## Shachimu
+ - By The Seaside
+## Shad Gill
+ - Long Days Longer Nights
+## Shadow
+ - Blood In My Eye
+## Shady Blaze
+ - A3c, Vol. 1
+## Shady Moon
+ - Cherry Blossoms
+ - DONNA
+ - chinatown!
+## Shahadi Wright Joseph
+ - The Lion King: The Gift
+## shamas
+ - Bullet with Yo Name
+ - Massacre
+## Shampoo
+ - Party
+## Shane Heyl
+ - I Am Not A Human Being II \(Deluxe\)
+## Shanell
+ - Rise Of An Empire \(Deluxe Edition\)
 ## Shanels
  - All Time Rock 'n' Roll
+## Shara Worden
+ - Season of the Assassin
+## Sharod Virtuoso
+ - Good
+## Shatta Wale
+ - The Lion King: The Gift
 ## Shawn Mendes
  - Señorita
+## Shawn Wigs
+ - Fishscale \(Expanded Edition\)
+## Shawnna
+ - Bride of Chucky
+## Shawty Fatt
+ - Next to Nothing \(Deluxe Edition\)
+## Shawty Lo
+ - iSouljaBoyTellem
+## ShawtyHitt
+ - Price Of The Streets
 ## Shayne Orok
  - TOP \(Remix\)
+## Shaé Universe
+ - Everythings For Sale
 ## Sheck Wes
+ - JACKBOYS
  - MUDBOY
+## Sheek
+ - DMX: The Legacy
+ - Grand Champ
+ - It's Dark And Hell Is Hot
+ - Ryde Or Die Vol. II
+ - The Best Of DMX
+ - The Definition of X: Pick Of The Litter
+## Sheet Music Boss
+ - Rush Collection
+## Sheff G
+ - Gardner Express
+## Shido from TinyTitanBox
+ - Kakigori Galaxy Astronaut
+## Shiggy Sha
+ - Moment Of Truth
+## Shiloh Dynasty
+ - I'll Keep You Safe
+ - Love Is the Same as Sadness
+ - Missing
+ - Passion & Confusion
+ - Sing to You
 ## Shim
  - Resident Evil 2 Original Soundtrack
+## Shimmi
+ - The Scary Meaning of Devil Facezzz
 ## Shin Sakiura
  - アニメ『BNA ビー・エヌ・エー』Complete album
+## Shinjou\-P
+ - HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]
+## Shinpuruu
+ - Letter's You Never Received
 ## Shinsei Kamattechan
  - Boku no Sensou
  - Boku no Sensou \(TV Size\)
- - 僕の戦争 \(TV Size\)
+ - 僕の戦争
  - 児童カルテ
-## Shinya Kiyozuka
- - METAL GEAR 20th ANNIVERSARY METAL GEAR MUSIC COLLECTION
+## Shion Hinano
+ - iceQuarium \-Strawberry\-
 ## Shion Miyawaki
  - バイバイ YESTERDAY
-## Ship Wrek
- - NCS: The Best of 2016
 ## Shiro Sagisu
  - Neon Genesis Evangelion \(Original Series Soundtrack\)
-## ShiroNeko
- - Long Shot \(From "Re:ZERO \-Starting Life in Another World\- Season 2"\) \[Cover\]
- - Paradisus\-Paradoxum \(Re:ZERO \-Starting Life in Another World\-\) \[Cover\]
+## Shlohmo
+ - BALLADS 1
+## Shock G
+ - Greatest Hits
 ## SHOKICHI
  - SAMURAI SESSIONS vol.2
 ## Shoko Nakagawa
  - Big Bang!!!
  - Magic Time
+## SHOKUBAI PHANTOM GIRL
+ - EXIT TUNES PRESENTS GUMing from Megpoid
+## Shootashellz
+ - Mr Death of 150
+ - Price Of The Streets
+## Shoreline Mafia
+ - Party Pack. Vol 2
 ## Shoujy
  - Hacking to the Gate
+## Show Stoppas
+ - iSouljaBoyTellem
+## Showbiz
+ - The Awakening
+## shoyun
+ - Candied Apple
+ - Teichopsia
+## Shun
+ - EXIT TUNES PRESENTS GUMing from Megpoid
 ## Shy Carter
  - Nine Track Mind
 ## Shy FX
  - Original Nuttah 25
+## Shy Glizzy
+ - LAW 3: Now Or Never
+## Shyeim
+ - The Essential Wu\-Tang Clan
+## Shyheim
+ - Wu\-Tang Forever
+## Shyne
+ - Tha Carter IV
+ - Tha Carter IV \(Complete Edition\)
+ - Tha Carter IV \(Deluxe\)
 ## Sia
+ - Dirty Gold \(Deluxe\)
+ - SHADYXV
  - The Marshall Mathers LP2 \(Deluxe\)
+## Sick Jacken
+ - Season of the Assassin
 ## SID
  - SID 10th Anniversary BEST
-## SideB
- - NCS: Uplifting
+## Sigh
+ - Passing Thoughts
 ## Signal
  - The Wall \(Buunshin Remix\) / If U \(Synergy Remix\)
+## Sik World
+ - Hella Bars
+ - Tired
+## Silas
+ - 1998
+## Silk Sonic
+ - Skate
+## Silkk The Shocker
+ - No Limit Top Dogg
 ## Silver
  - Silver
+## SiM
+ - The Rumbling \(TV Size\)
 ## Simian
  - We Are Your Friends
 ## Simpsonill
  - Awaken
+## Sing Cast
+ - Sing \(Original Motion Picture Soundtrack / Deluxe\)
+## SiR
+ - 90059
+ - Eve
+ - The Sun's Tirade
+## Sir Menelik
+ - Lyricist Lounge Vol. 1
+## Sir Michael Rocks
+ - Macadelic \(Remastered Edition\)
+## Sir Mix\-A\-Lot
+ - Ice Daddy
+## Sisqo
+ - ...And Then There Was X
+ - DMX: The Legacy
+ - The Best Of DMX
+ - The Definition of X: Pick Of The Litter
+## Sista Prod
+ - Eyes Blue Like The Atlantic, Pt. 2 \(feat. Powfu, Alec Benjamin & Rxseboy\)
+## Sister Souljah
+ - Apocalypse 91… The Enemy Strikes Black
 ## Six\-Two
  - 2001
  - 2001 \(Explicit Version\)
+## Sizzla
+ - Blood In My Eye
+## Sjava
+ - Black Panther The Album Music From And Inspired By
+## Sk La Flare
+ - Doris
+## Skee\-Lo
+ - I Wish
+## Skeme
+ - O.M.M.I.O 2
+## Skepta
+ - Man On The Moon III: The Chosen
+ - TESTING
+## Sketch
+ - Laugh Now, Cry Later
+## SKG
+ - Until The End Of Time
+## Ski Beatz
+ - A3c, Vol. 1
 ## Ski Mask The Slump God
+ - Revenge Of The Dreamers III
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
-## Skifonix
- - Monstercat 010 \- Conquest
+ - Trip At Knight \(Complete Edition\)
+## Skidz
+ - massacre
+## Skillibeng
+ - Beam Me Up Scotty
+## Skinny Atlas
+ - Evidence I Exist
+ - Meant to Be
+ - The Ones Who Never Flew
+ - Touch Me
+ - drinking under the streetlights
+ - this is bs.
+ - you never meant it
 ## Skrillex
+ - LONG.LIVE.A$AP \(Deluxe Version\)
  - No.6 Collaborations Project
  - Scary Monsters and Nice Sprites EP
  - Suicide Squad: The Album
+## Skrizzly Adams
+ - Next Wednesday
 ## Skully Tun
  - Primetime Adventures
 ## SKY\-HI
  - SAMURAI SESSIONS vol.2
+## SkyDxddy
+ - Terminal
+## Skye
+ - For What Its Worth
 ## Skylar Grey
+ - GEMINI
  - I Need A Doctor
+ - Lasers
+ - Lasers \(Deluxe Edition\)
  - Music To Be Murdered By
+ - Music To Be Murdered By \- Side B \(Deluxe Edition\)
  - Revival
+ - SHADYXV
  - Suicide Squad: The Album
  - The Marshall Mathers LP2
  - The Marshall Mathers LP2 \(Deluxe\)
+ - The Pinkprint \(Deluxe Edition\)
+ - The Pinkprint \(Deluxe\)
+## Skyzoo
+ - Return of the B\-Girl
+## Sl Jones
+ - A3c, Vol. 1
+## Slaine
+ - BACK AROUND THE WAY
 ## SLANDER
  - You Don't Even Know Me
 ## Slash
- - Escala
+ - The Fast And The Furious: Tokyo Drift
+ - The Fast And The Furious: Tokyo Drift \(Original Motion Picture Soundtrack\)
+## Slaughterhouse
+ - Hell: The Sequel
+ - Hell: The Sequel \(Deluxe\)
+ - PRhyme \(Deluxe Version\)
+ - Recovery \(Deluxe Edition\)
+ - SHADYXV
+ - Southpaw \(Music From And Inspired By The Motion Picture\)
 ## Slaydit
  - Solitude
  - Stronger
+## Slaydro
+ - YSIV
+## sleep.ing
+ - some boring love stories pt 5
+## Sleepy Brown
+ - 4eva Is A Mighty Long Time
+ - Loyal To The Game
+ - Speakerboxxx/The Love Below
+ - The Red Light District
+## Sleepy Hallow
+ - Gardner Express
+## Sleepy Rose
+ - Dope Don't Sell Itself
+## Slicc Pulla
+ - Street Runnaz 83
+## Slick Pulla
+ - Death Before Dishonor
+## Slick Rick
+ - Behind Bars
+ - Dame Dash Presents Paid In Full / Dream Team
+ - Only Built 4 Cuban Linx 2
+ - The Art Of Storytelling
+ - The Great Adventures Of Slick Rick \(Deluxe Edition\)
+## Slim Dunkin
+ - Flockaveli
+## Slim Jxmmi
+ - Mr. Davis
+ - SR3MM
+## Slim Thug
+ - Most Known Unknown \(Explicit\)
+## Slimelife Shawty
+ - LARRY
+ - Only The Family \- Lil Durk Presents: Loyal Bros
+## Slimm Calhoun
+ - Speakerboxxx/The Love Below
+ - Stankonia
+ - Stankonia \(Deluxe Version\)
+## Slipfunc
+ - Laying on my porch while we watch the world end.
 ## Slippy
  - Immortal
- - Unity
+## slowthai
+ - Limbo
+## Slug
+ - BORN LIKE THIS
+## Slum Village
+ - Fan\-Tas\-Tic, Vol. 2
+ - Fantastic, Vol. 2.10
+ - J\-88
+ - Like Water For Chocolate
 ## Slushii
  - All I Need
  - Monstercat Uncaged Vol. 8
-## Smash Mouth
- - Astro Lounge
+## Sly
+ - Born 2 Rap
+## Sly Pyper
+ - Music To Be Murdered By \- Side B \(Deluxe Edition\)
+## Small World
+ - The Red Light District
 ## Smile
  - Bohemian Rhapsody \(The Original Soundtrack\)
+## Smiley
+ - Buy or Bye 2
+ - Over The Top \(feat. Drake\)
+## Smino
+ - Hot Pink
+ - Revenge Of The Dreamers III
+ - The House Is Burning
+## Smoke DZA
+ - A3c, Vol. 1
+## Smokepurpp
+ - Deadstar 2
+ - Revenge Of The Dreamers III
+## Smoove
+ - For What Its Worth
+## Snapkatt
+ - Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies
+## Sniper Gang
+ - Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies
+## Snoh Aalegra
+ - 508\-507\-2209
+ - Everythings For Sale
+ - Summertime '06
 ## Snoop Dogg
  - 2001
  - 2001 \(Explicit Version\)
+ - Authentic \(Deluxe Edition\)
+ - Beautiful Thugger Girls
+ - Doggystyle
+ - Ghetto Heisman
+ - Greatest Hits
+ - Kush
+ - Laugh Now, Cry Later
+ - Lupe Fiasco's The Cool
+ - Mac and Devin Go to High School \(Music from and Inspired by the Movie\)
+ - No Limit Top Dogg
+ - Only Way Is Up \(Deluxe\)
+ - Oxnard
+ - Professional Rapper
+ - Restless
+ - Role Model
+ - Ryde Or Die Vol. II
+ - Slauson Boy 2
+ - Still Striving
+ - Tha Blue Carpet Treatment
+ - Tha Carter V
+ - That's My N\*\*\*\* \(with Meek Mill, YG & Snoop Dogg\) \[From Bright: The Album\]
+ - The Art Of Storytelling
+ - The Best of 2Pac
+ - The Chronic
+ - The Hunger For More
  - The Marshall Mathers LP
+ - The Ownerz
+ - To Pimp A Butterfly
+## Snow Tha Product
+ - Half Way There...Pt. 1
+## SNUPE BANDZ
+ - PAPER ROUTE iLLUMINATi
+## Snøw
+ - Blood Moon
+ - Evidence I Exist
+ - Meant to Be
+ - this is bs.
+ - you never meant it
+## SOB X RBE
+ - Black Panther The Album Music From And Inspired By
+## Social Club Misfits
+ - Man vs. Machine
+## Sody
+ - fools \(can't help falling in love\) \(slowed down & reverb\)
+## SoFaygo
+ - Life of a DON
+ - Trip At Knight \(Complete Edition\)
 ## Sofia Carson
  - Different World
+## Softwilly
+ - DONNA
 ## Sojiro
  - Resonance
+## SOLIZY
+ - Japanese Drift
+## Soltan
+ - Neon Grave Remixed
+## Son Lux
+ - The Beautiful & Damned
 ## Sonita Alizadeh
  - SAMURAI SESSIONS vol.2
+## Sonny B
+ - Until The End Of Time
+## Sonny Digital
+ - Woponese
 ## Sono
  - Solid State
+## Sonta
+ - PTSD
+## Sonyae
+ - Malibu
+ - Oxnard
 ## Sophia Somajo
  - Different World
+## Sophie
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜
 ## Sorana
  - Different World
+## sorrow
+ - tall tales
+## Sosa Geek
+ - Dark Lane Demo Tapes
+## Sosamann
+ - Tha Carter V
+ - Tha Carter V \(Deluxe\)
+## Soufboi
+ - Street Runnaz 83
+## SoulChef
+ - Escapism
+ - Escapism: Instrumentals
 ## Soulero
  - Monstercat 007 \- Solace
- - Monstercat 010 \- Conquest
- - Monstercat 012 \- Aftermath
+## Soulja Boy
+ - I Am Not A Human Being II \(Deluxe\)
+ - More Than A Game
+ - The DeAndre Way
+ - The State vs. Radric Davis \(Deluxe\)
+ - iSouljaBoyTellem
+ - souljaboytellem.com
+## Souls Of Mischief
+ - 93 'til Infinity
+ - Hiero Oldies: Volume One
+## Southside
+ - Stankonia
+ - Stankonia \(Deluxe Version\)
+## Space 600 & D Beezey
+ - There You Have It
+## SpaceGhostPurrp
+ - LIVE.LOVE.A$AP
+## Spanky
+ - The Love Movement
 ## SPARK!!SOUND!!SHOW!!
  - STEAL!!
-## Spektrem
- - Shine
- - Shine \(Gabriel Drew & Bloom Remix\)
+## Sparks
+ - Dame Dash Presents Paid In Full / Dream Team
+## Special Ed
+ - Dame Dash Presents Paid In Full / Dream Team
+## Spice 1
+ - Get In Where You Fit In
+## Spider Loc
+ - Get Rich Or Die Tryin'\- The Original Motion Picture Soundtrack
+ - Thoughts Of A Predicate Felon
 ## Spitfya
  - NCS is Love, NCS is Life, Vol. 1
-## SPLITBREED
- - Monstercat 012 \- Aftermath
+## Spock
+ - SUPER EUROBEAT presents INITIAL D WORLD HITS SELECTION 5
+## SprngBrk
+ - Heartbreak on a Full Moon
 ## Sqeepo
  - Beat Saber \(Original Game Soundtrack\)
 ## Square Punch
  - Primetime Adventures
-## Stahl
- - Moments
-## Star Party
- - Ark
+## St. Beauty
+ - Revenge Of The Dreamers III
+## St. Vincent
+ - Man On The Moon II: The Legend Of Mr. Rager
+## Stacy Barthe
+ - Slauson Boy 2
+ - Victory Lap
+## Stacy Epps
+ - Madvillainy
+## Stalley
+ - Ohio
+## Stan Spit
+ - The Big Picture
+## Stanaj
+ - Sweat \(When I Think About You\)
+## Starang Wondah
+ - Monkey Barz
+## Starlito
+ - Harder Than Ever
+ - Stranger Than Fiction
+## Starrah
+ - I Decided.
+ - Legendary \(Deluxe Edition\)
+ - Nasty Dealer 2
+ - Summer In The Winter
+ - When It's Dark Out
 ## Starving Trancer
  - EDM Extreme
 ## Stasia Estep
  - Warrior Songs
 ## Stat Quo
  - Encore \(Deluxe Version\)
+ - SHADYXV
+## Static Major
+ - Tha Carter III \(MTV Bonus Version\)
+ - Thats What They All Say
+## Statik Selektah
+ - BACK AROUND THE WAY
+## Steele
+ - Monkey Barz
+## Stefflon Don
+ - 508\-507\-2209
+ - Kawhi Leonard Presents: Culture Jam \(Vol. 1\)
 ## stei
  - STEAL!!
+## Stephanie Beatriz
+ - Encanto \(Original Motion Picture Soundtrack\)
+## Stephanie Mills
+ - The Great Depression
+## Stephen Marley
+ - Halfway Tree
 ## Stephen Walking
  - Monstercat 007 \- Solace
- - Monstercat 010 \- Conquest
- - Monstercat 012 \- Aftermath
 ## STEREO DIVE FOUNDATION
  - Daisy \(アーティスト盤\)
 ## Stereotronique
  - Monstercat 007 \- Solace
- - Monstercat 010 \- Conquest
- - Monstercat 012 \- Aftermath
 ## Steve Aoki
  - Are You Lonely \(feat. ISÁK\)
  - Different World
@@ -2759,109 +11424,513 @@ This file contains the list of all the songs that are currently added in the MDR
  - The Marshall Mathers LP
 ## Steve Hansen
  - Memento \(From "Re:Zero Season 2"\)
+## Steve Jobs
+ - Nip Hussle the Great: Vol. 2
+## Steve Lacy
+ - Dark Red
+ - Flower Boy
+ - Negro Swan
+## Steve Russell
+ - More Than A Game
 ## Steven Mackintosh
  - Rocketman \(Music From The Motion Picture\)
-## Stewart Wallace
- - Future Vibes
+## Stevie J
+ - I Got Next
+ - Love Me While I'm Here
+## Stevie Stone
+ - FEAR EXODUS
+ - The Storm \(Deluxe Edition\)
+## Stevie Wonder
+ - From a Birds Eye View
+ - Sing \(Original Motion Picture Soundtrack / Deluxe\)
 ## Sticky Fingaz
+ - No Limit Top Dogg
  - The Marshall Mathers LP
 ## Stonebank
  - Monstercat Uncaged Vol. 8
- - Unity
+## Storm
+ - The Fast And The Furious: Tokyo Drift
+ - The Fast And The Furious: Tokyo Drift \(Original Motion Picture Soundtrack\)
 ## Stormzy
+ - Heavy Is The Head
  - No.6 Collaborations Project
+## Stove God Cooks
+ - Dope Don't Sell Itself
+## Strawberry Guy
+ - Mrs Magic
 ## Stray Kids
  - SLUMP \-Japanese ver.\-
  - TOP \-Japanese ver.\-
+## Street
+ - Blackout!
+ - Ironman
+## Street Ka$h
+ - Let The Goons Loose \(BWS 7.0\)
+## Street Promoters
+ - Lyricist Lounge Vol. 1
+## Streetlife
+ - 4:21...The Day After
+ - The Essential Wu\-Tang Clan
+ - Tical
+ - Wu\-Tang Forever
+## Strick
+ - Punk
+ - Slime Language
 ## STRIX
  - NCS is Love, NCS is Life, Vol. 1
 ## Stuart Rowe
  - Aftershock
 ## STUNK\(CV:JUNJI MAJIMA\)
  - OPENING&ENDING THEME FROM TV SERIES ”INTERSPECIES REVIEWERS”
+## Stunna 4 Vegas
+ - BLAME IT ON BABY \(DELUXE\)
+ - Baby On Baby
+ - Find The Beat
+ - KIRK
+ - RICH YOUNGIN
+ - THE GOAT
+## Stunna Gambino
+ - F\*CK LOVE 3: OVER YOU
+## Styles
+ - Ryde Or Die Vol. II
+## Styles P
+ - 4:21...The Day After
+ - ALL\-AMERIKKKAN BADA$$
+ - Flesh Of My Flesh, Blood Of My Blood
+ - Grand Champ
+ - H.F.M. 2 \(Hunger For More 2\)
+ - La Bella Mafia
+ - Only Built 4 Cuban Linx 2
+ - Streams of Thought Vol. 1
+ - Teflon Don
+ - The Course of the Inevitable
+ - Year Of The Dog...Again \(Explicit\)
+## Suave Lee
+ - Phonky Trap
+## Substantial
+ - somehow
 ## Subtact
- - Away
  - NCS is Love, NCS is Life, Vol. 1
+## Such
+ - Dawn
 ## Sudstep
  - Primetime Adventures
+## SUGA
+ - Fighting Demons
+ - Fighting Demons \(Deluxe\)
+## Suga Free
+ - No Limit Top Dogg
+ - Oxymoron \(Deluxe\)
+ - Restless
+## Sugar Bang
+ - Only Built 4 Cuban Linx 2
+## Suicideyear
+ - SUICIDE YEAR
 ## Sukima Switch
  - Anly One
+## Sulaiman
+ - Piñata
 ## Sullivan King
  - Someone Else
 ## Summer Haze
  - Beat Saber \(Original Game Soundtrack\)
+## Summer Walker
+ - 7220
+ - Limbo
+ - Still Over It
+## Sun God
+ - Fishscale \(Expanded Edition\)
+## Sunday Service Choir
+ - JESUS IS KING
+## Sundown of Actual Proof
+ - Return of the B\-Girl
+## Sunni Patterson
+ - B.O.A.T.S. II #METIME \(Deluxe\)
+## Supa Dav West
+ - Train Of Thought
 ## supercell
  - Utamonogatari Special Edition \(Original Soundtrack\)
 ## Survive Said The Prophet
  - Mukanjyo
  - found & lost
+## Susan Bell
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜
 ## Swae Lee
+ - Black Panther The Album Music From And Inspired By
  - Close To Me \(feat. Swae Lee\)
+ - Dope Don't Sell Itself
+ - Double Or Nothing \(& Metro Boomin\)
+ - FRIENDS KEEP SECRETS
+ - Faith
+ - Hollywood's Bleeding
+ - Jungle Rules
+ - Legendary
+ - Legendary \(Deluxe Edition\)
+ - Pretty Girls Like Trap Music
+ - Rodeo \(Expanded Edition\)
+ - SR3MM
+ - Shoot For The Stars Aim For The Moon
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
+ - beerbongs & bentleys
 ## Swavay
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
+## Sway
+ - Lasers
+ - Lasers \(Deluxe Edition\)
 ## Sweet
  - Best Of Sweet
  - Desolation Boulevard
+## Swellz
+ - Body Head Bangerz, Vol. 1
+## Swift
+ - For What Its Worth
+## Swizz Beatz
+ - Any Given Sunday \(OST\)
+ - Dreams Worth More Than Money
+ - Grand Champ
+ - H.F.M. 2 \(Hunger For More 2\)
+ - If Tomorrow Comes...
+ - La Bella Mafia
+ - My Beautiful Dark Twisted Fantasy
+ - Tank God
+ - Tha Carter V
+ - Tha Carter V \(Deluxe\)
+ - Thank Me Later
+ - The Best Of DMX
+ - The Lost Tapes 2
+ - Year Of The Dog...Again \(Explicit\)
+## SwizZz
+ - Pound Syndrome
+ - Slow Motion
+ - SmokeOut Conversations
+## Sy
+ - The Reconstruction
+## Sy Ari Da Kid
+ - Slow Motion
+ - The Allegory
+ - The Course of the Inevitable
+## Sy Scott
+ - Lyricist Lounge Volume 2
+## Syd
+ - The Autobiography
+ - The OF Tape Vol. 2
+ - The Sun's Tirade
+## Sydny August
+ - The Voice \(Deluxe\)
+## Syke
+ - Greatest Hits
+## Syko Bob
+ - Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies
+## Syleena Johnson
+ - Grand Champ
+ - The College Dropout
+## Sylk E. Fine
+ - No Limit Top Dogg
+## Symba
+ - Dope Don't Sell Itself
+ - Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)
+## Symbol
+ - SUPER EUROBEAT presents INITIAL D WORLD HITS SELECTION 5
 ## Syn Cole
  - Feel Good
- - NCS: The Best of 2016
-## Syndec
- - NCS: Uplifting
 ## Synergy
  - The Wall \(Buunshin Remix\) / If U \(Synergy Remix\)
 ## Synthesia Orchestra
  - Komm, süsser Tod / Ven, dulce muerte
+## syudou
+ - 必死
+ - 最悪
 ## Syusaku Uchiyama
  - Resident Evil 2 Original Soundtrack
+## SZA
+ - 90059
+ - Black Panther The Album Music From And Inspired By
+ - Do What Thou Wilt.
+ - Good News
+ - Hollywood's Bleeding
+ - Invasion of Privacy
+ - Oxymoron \(Deluxe\)
+ - Planet Her
+ - Redemption
+ - Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)
+ - Still Over It
+ - The House Is Burning
+ - The Sun's Tirade
 ## T & Sugah
  - NCS is Love, NCS is Life, Vol. 1
- - NCS: The Best of 2015
+## T Streets
+ - I Am Not A Human Being
+## T$P
+ - Return of the B\-Girl
+## T'nah Apex
+ - 1999
 ## t+pazolite
  - Cytus II\-Neko \(Original Soundtracks\)
  - HYPER4ID
  - Voltage Ignition 2
+## T\-Ferg
+ - Keep Pushing \(feat. Kamira\)
+## T\-Mo
+ - Stankonia \(Deluxe Version\)
+## T\-Pain
+ - B.O.A.T.S. II #METIME \(Deluxe\)
+ - Book of Ryan \(Bonus Track Edition\)
+ - Careless World: Rise Of The Last King
+ - Coloring Book
+ - Cyclone \(feat. T\-Pain\) \[Main\]
+ - Death Before Dishonor
+ - Graduation
+ - If Tomorrow Comes...
+ - Professional Rapper
+ - Tha Carter III \(MTV Bonus Version\)
+ - Tha Carter IV
+ - Tha Carter IV \(Complete Edition\)
+ - Tha Carter IV \(Deluxe\)
+## T\-SET
+ - 龍が如く5 夢、叶えし者 オリジナルサウンドトラック \(Vol.2\)
 ## T\-SET\(白石涼子/野中藍\)
  - 龍が如く5 夢、叶えし者 オリジナルサウンドトラック \(Vol.2\)
-## T. M. Schultz
- - Pure Tropical House
+## T\-Shyne
+ - On the Run
+ - Punk
+## T.I.
+ - 4eva Is A Mighty Long Time
+ - B.o.B Presents: The Adventures of Bobby Ray
+ - Church on Sunday
+ - Fan of A Fan The Album \(Expanded Edition\)
+ - FutureSex/LoveSounds Deluxe Edition
+ - I Stand On That
+ - Jungle Rules
+ - More Than A Game
+ - No Mediocre \(feat. Iggy Azalea\)
+ - Only Way Is Up \(Deluxe\)
+ - Revenge Of The Dreamers III
+ - Special Effects
+ - TESTING
+ - Teflon Don
+ - Thank Me Later
+ - The Allegory
+ - The New Classic
+ - Underground Luxury
+ - What It’s Come To
+## T@
+ - Sorry 4 The Wait
+## Tab\-One
+ - Thank H​.​E​.​R. Now
+## Taco
+ - Goblin
+ - The OF Tape Vol. 2
+ - Wolf
 ## TADAYOSHI MAKINO
  - Resident Evil 2 Original Soundtrack
+## Tahir And Peoples Army
+ - Let's Get Free
+## Tajai
+ - Hiero Oldies: Volume One
+## takamatt
+ - イーストエンド・パンデモニウム
 ## Takanashi Kiara
  - HINOTORI
  - Heart Challenger
  - Hololive English \-Myth\- Image Soundtrack\(ft. Camellia\)
+ - Journey Like a Thousand Years 〜千年の旅〜
+ - SPARKS
+## Takanon
+ - EXIT TUNES PRESENTS GUMing from Megpoid
 ## Takayoshi Tanimoto
  - Career along
+## Takeoff
+ - Crypto \(feat. Rich The Kid\)
+ - Faith
+ - LIVE LIFE FAST
+ - Legendary \(Deluxe Edition\)
+ - The World Is Yours 2
+ - Woptober II
 ## Taku Iwasaki
  - JOJO'S BIZARRE ADVENTURE \-O.S.T Battle Tendency \[Musik\]
+## Talent
+ - Greatest Hits
+ - The Best of 2Pac
+## Talib Kweli
+ - Black On Both Sides
+ - Champion Sound
+ - Lyricist Lounge Vol. 1
+ - Lyricist Lounge Volume 2
+ - Malibu
+ - Quality
+ - Revolutions Per Minute
+ - The College Dropout
+## Talib Kwell
+ - THE MOUSE & THE MASK
+## Taliban Glizzy
+ - Gardner Express
+## Tamar Braxton
+ - More Than A Game
+## Tamara Jewel
+ - Spirit Of A Boss
+## Tame Impala
+ - Currents
+## Tamia
+ - Phenomenon
 ## Tammi Terrell
  - Guardians of the Galaxy: Awesome Mix Vol. 1 \(Original Motion Picture Soundtrack\)
  - United
+## Tammy Lucas
+ - Beats, Rhymes & Life
+## Tammy Ruggieri
+ - Bad Boy's 10th Anniversary\- The Hits
+## tanaka B
+ - Kagaminext feat. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―
+## Tank
+ - Jesus Piece \(Deluxe\)
+ - More Than A Game
+## Tank God
+ - Tank God
+## Tariq Trotter
+ - Things Fall Apart
 ## Taron Egerton
  - Rocketman \(Music From The Motion Picture\)
+ - Sing \(Original Motion Picture Soundtrack / Deluxe\)
+## Tash
+ - Lyricist Lounge Vol. 1
+ - Restless
 ## Tasha Baxter
  - The Wall \(Buunshin Remix\) / If U \(Synergy Remix\)
 ## Tatsuyuki Kobayashi
  - NEVER\-END TALE
+## Tay 600
+ - Best of Both Worlds
+## Tay Dizm
+ - Death Before Dishonor
+## Tay Keith
+ - Days Inn
+ - ZUU
 ## Taylor Swift
  - folklore \(deluxe version\)
+## TeamMOER
+ - HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]
+## TEC
+ - Epidemic \(Deluxe\)
+## Tech N9ne
+ - All 6's And 7's
+ - Between Somewhere
+ - Blessings
+ - CLOUDS \(THE MIXTAPE\)
+ - FEAR EXODUS
+ - N9NA
+ - Sound Of Change
+ - Southpaw \(Music From And Inspired By The Motion Picture\)
+ - Special Effects
+ - Tha Carter IV
+ - Tha Carter IV \(Complete Edition\)
+ - Tha Carter IV \(Deluxe\)
+ - The Storm \(Deluxe Edition\)
+## Tech N9ne Collabos
+ - Sickology 101
+## Teddi Jones
+ - Ethereal
+## Teddy
+ - Operation Stackola
+## Teddy Wheet
+ - Body Head Bangerz, Vol. 1
+## Tee Cee
+ - My Krazy Life
+## Tee Grizzley
+ - Detroit 2
+ - Just A Matter of Slime
+ - Levon James
+ - Only The Family \- Lil Durk Presents: Loyal Bros
+ - Redemption
+ - The Smartest
+ - Word To LA
+## TeeCee4800
+ - Cold Summer
+ - Free TC \(Deluxe Edition\)
+## Teedra Moses
+ - Do What Thou Wilt.
+ - MMG Presents: Self Made, Vol. 1
+## TeeFLii
+ - My Krazy Life
+ - Victory Lap
+## Teezo Touchdown
+ - CALL ME IF YOU GET LOST
+## Tego Calderon
+ - The Fast And The Furious: Tokyo Drift
+ - The Fast And The Furious: Tokyo Drift \(Original Motion Picture Soundtrack\)
+## Tei Shi
+ - Negro Swan
+## TEK
+ - Monkey Barz
+## Tekitha
+ - Wu\-Tang Forever
+## Tekno
+ - The Lion King: The Gift
 ## Televisor
  - Monstercat 007 \- Solace
- - Monstercat 010 \- Conquest
- - Monstercat 012 \- Aftermath
 ## Teminite
  - Inception
  - Kiko
  - Unstoppable EP
+## Tems
+ - Certified Lover Boy
+## Teniwoha
+ - ヴィラン
+## Tension
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜
+## Teqkoi
+ - Blood Moon
+## Teriyaki Boyz
+ - The Fast And The Furious: Tokyo Drift
+ - The Fast And The Furious: Tokyo Drift \(Original Motion Picture Soundtrack\)
+## Termanology
+ - BACK AROUND THE WAY
+## Terrace Martin
+ - Laila’s Wisdom
+## Terror Squad
+ - True Story
+## Terry Reid
+ - Reconstructed : The Best Of DJ Shadow
+## Teyana Taylor
+ - Kanye West Presents Good Music Cruel Summer
+## TG
+ - Old Habits Never Die
+ - The Reconstruction
+## Tha Dogg Pound
+ - Doggystyle
+## Tha Liks
+ - Expansion Team
+## The 1975
+ - Don't Play \(feat. The 1975 & Big Sean\)
+## The 49ers
+ - Escapism
+## The 5.6.7.8's
+ - The Fast And The Furious: Tokyo Drift
+ - The Fast And The Furious: Tokyo Drift \(Original Motion Picture Soundtrack\)
+## The Alchemist
+ - 1985
+ - Alfredo
+ - The Silent Partner
 ## The Avalanches
  - Since I Left You
+## The B\-52's
+ - Party
+## The Backseat Lovers
+ - When We Were Friends
 ## The Band Perry
  - Goodbye Yellow Brick Road \(Remastered / Deluxe Edition\)
 ## The Beatles
  - 1 \(Remastered\)
+## The Benjamin Wright Orchestra
+ - FutureSex/LoveSounds Deluxe Edition
+## The Black Sunn
+ - Escapism
+## The Blues Brothers
+ - Party
+## The Boys Choir Of Harlem
+ - The College Dropout
 ## The Chainsmokers
  - All We Know
+ - Don't Let Me Down
  - Memories...Do Not Open
  - Roses
  - Setting Fires
@@ -2872,6 +11941,7 @@ This file contains the list of all the songs that are currently added in the MDR
  - Memories...Do Not Open
 ## The Chalkeaters
  - Doom Crossing: Eternal Horizons
+ - Lock Me Up \(Quarantine Song\) \[feat. Idrise\]
 ## The Chalkeaters, Idrise
  - Lock Me Up \(Quarantine Song\) \[feat. Idrise\]
 ## The Chalkeaters, Natalia Natchan
@@ -2881,27 +11951,104 @@ This file contains the list of all the songs that are currently added in the MDR
  - Surrender
 ## The Clash
  - Combat Rock \(Remastered\)
+## The Classical II
+ - Dame Dash Presents Paid In Full / Dream Team
+## The Coldcut Crew
+ - Paid In Full
 ## The Consouls
  - The Velvet Lounge
+## The Creators
+ - Illmatic XX
+## The Diplomats
+ - Dame Dash Presents Paid In Full / Dream Team
+## The Doc
+ - Doggystyle
+## The Dramatics
+ - Doggystyle
+## The Dream
+ - The Autobiography
 ## THE DU
  - CRAZY NOISY BIZARRE TOWN
+## The Firm
+ - King's Disease
 ## The Five Stairsteps
  - Guardians of the Galaxy: Awesome Mix Vol. 1 \(Original Motion Picture Soundtrack\)
  - The First Family of Soul: The Best of The Five Stairsteps
-## The Friendzone
- - NCS: Uplifting
+## The Flint Chozen Choir
+ - I Decided.
+## The Free Nationals United Fellowship Choir
+ - Malibu
+## The Furious Five
+ - Rapper's Delight
+## The Game
+ - 1992
+ - Born 2 Rap
+ - Bullets Ain't Got No Name Vol. 2
+ - Dirt Bag
+ - Eazy
+ - Evolution
+ - Face of L.A.
+ - Hotel California \(Deluxe\)
+ - I'm Brain
+ - Jesus Piece \(Deluxe\)
+ - LAX
+ - Late Registration
+ - Malibu
+ - Me, Myself & I
+ - Party We Will Throw Now! \- Single
+ - Sauce \- Single
+ - Tha Blue Carpet Treatment
+ - The Documentary
+ - The Hunger For More
+ - Westside Story
+## The Game & Dj Haze
+ - Let The Goons Loose \(BWS 7.0\)
 ## The Gentle Men
  - Skynut
 ## The Glitch Mob
  - Seven Nation Army \(The Glitch Mob Remix\)
 ## The Goo Goo Dolls
  - Dizzy up the Girl
+## The Home Depot
+ - The Home Depot Beat
+## the Impossebulls
+ - What You Gonna Do When The Grid Goes Down?
+## The Internet
+ - The OF Tape Vol. 2
 ## The Irrepressibles
  - In This Shirt
 ## The Jackson 5
+ - Diana Ross Presents The Jackson 5
  - Guardians of the Galaxy: Awesome Mix Vol. 1 \(Original Motion Picture Soundtrack\)
+## The Jimmy Joyce Singers
+ - Ultimate Christmas
+## The Kid LAROI
+ - F\*CK LOVE
+ - F\*CK LOVE 3: OVER YOU
+ - Hall of Fame
+ - Hall of Fame 2.0
+ - Legends Never Die
+## The Kinks
+ - Kinks
 ## The Knife
  - Deep Cuts
+## The Lady Of Rage
+ - Doggystyle
+## The Large Professor for Paul Sea Productions, Inc.
+ - Illmatic XX
+## The Last Artful, Dodgr
+ - Oxnard
+## The Last Boy Scout
+ - The Coming
+## The LOX
+ - ...And Then There Was X
+ - Bad Boy's 10th Anniversary\- The Hits
+ - Flesh Of My Flesh, Blood Of My Blood
+ - It's Dark And Hell Is Hot
+ - Life After Death \(2014 Remastered Edition\)
+ - Ryde Or Die Vol. II
+ - The Definition of X: Pick Of The Litter
+ - Vol.2... Hard Knock Life
 ## The Lumineers
  - Cleopatra
  - III
@@ -2910,52 +12057,137 @@ This file contains the list of all the songs that are currently added in the MDR
  - Ultra Instinct Mastered \(From "Dragon Ball Super"\)
 ## The Minions
  - Despicable Me
+## The Neptunes
+ - Faith
+ - Still Over It
+ - The Saga Continues...
 ## The Notorious B.I.G.
+ - Bad Boy's 10th Anniversary\- The Hits
  - Curtain Call \(Deluxe\)
  - Curtain Call: The Hits \(Deluxe Edition\)
+ - Greatest Hits
+ - Life After Death \(2014 Remastered Edition\)
+ - Lyricist Lounge Volume 2
+ - Ready to Die \(The Remaster\)
+ - Reasonable Doubt
+ - Southpaw \(Music From And Inspired By The Motion Picture\)
 ## THE ORAL CIGARETTES
  - FIXION
+## The Outfit
+ - Escapism
 ## the peggies
  - Hell Like Heaven
  - センチメートル
+## The Pharcyde
+ - Bizarre Ride II The Pharcyde
+ - Labcabincalifornia \(Deluxe Edition\)
+## The Proclaimers
+ - Party
 ## The Prodigy
+ - Lyricist Lounge Volume 2
  - The Fat of the Land \- Expanded Edition
+## The Rare Occasions
+ - Big Whoop
+ - Notion
+## The RattPack
+ - YSIV
+## The Roots
+ - Do You Want More?!!!??!
+ - Game Theory Deluxe Edition \(Explicit Version\)
+ - Illadelph Halflife
+ - Streetsoul
+ - The Hurricane \(Music From And Inspired By The Motion Picture\)
+ - Things Fall Apart
 ## The Runaways
  - Guardians of the Galaxy: Awesome Mix Vol. 1 \(Original Motion Picture Soundtrack\)
  - The Runaways
+## THE SCOTTS
+ - THE SCOTTS
+## The Snake
+ - Eurobeat Kudos 20
+## The Spencer Davis Group
+ - Sing \(Original Motion Picture Soundtrack / Deluxe\)
 ## The Spinners
- - The Rubberband Man / Now That We're Together \[Digital 45\]
+ - The Rubberband Man / Now That We're Together
+## The Sugarhill Gang
+ - Party
+ - Rapper's Delight
 ## The Sylvers
  - Despicable Me
+## The Teaching
+ - The Heist
+ - The Heist \(Deluxe Edition\)
 ## The Time Bomb
  - 2001
 ## The Toxic Avenger
  - Furi \(Original Game Soundtrack\)
+## The Twinz
+ - Regulate… G Funk Era
+## The Unlikely Candidates
+ - SWIM TEAM
 ## The Weeknd
+ - Black Panther The Album Music From And Inspired By
+ - Dreams Worth More Than Money
+ - EVOL
+ - HNDRXX
+ - Jungle Rules
+ - Legends Never Die
+ - Luv Is Rage 2
+ - Mr. Davis
+ - My Everything \(Deluxe\)
+ - Planet Her
+ - Positions
  - Positions \(Deluxe\)
+ - Rodeo \(Expanded Edition\)
+ - SR3MM
+ - Southpaw \(Music From And Inspired By The Motion Picture\)
  - Starboy
+ - Take Care \(Deluxe\)
 ## The White Stripes
  - Elephant
  - Seven Nation Army \(The Glitch Mob Remix\)
+## The WRLDFMS Tony Williams
+ - NASIR
+## The\-Dream
+ - Based On A T.R.U. Story \(Deluxe\)
+ - Faith
+ - Finally Famous \(10th Anniversary Deluxe Edition Remixed and Remastered\)
+ - I Decided.
+ - Kanye West Presents Good Music Cruel Summer
+ - NASIR
+ - Richer Than I Ever Been
+ - Thank Me Later
+ - Victory Lap
+ - Watch The Throne \(Deluxe\)
 ## THEATRE BROOK
  - 裏切りの夕焼け
+## thebreathingbackwards
+ - 4708
 ## Thee Stallion
  - Positions \(Deluxe\)
+## Thee Tom Hardy
+ - Return of the B\-Girl
 ## TheFatRat
+ - Arcadia
  - Chosen
  - Close To The Sun
  - Dancing Naked
  - Electrified
+ - Fire
  - Fly Away
+ - Hiding In The Blue
  - Infinite Power
  - Jackpot
+ - Let Love Win
+ - Love It When You Hurt Me
  - MAYDAY
  - Monody \(feat. Laura Brehm\)
  - Never Be Alone
  - No No No
  - Oblivion
- - Pokémon Theme \(TheFatRat Remix\) \[feat. Jason Paige\]
+ - Our Song
  - Prelude \(VIP Edit\)
+ - Pride & Fear
  - Rise Up
  - Rule the World
  - Solitude
@@ -2965,56 +12197,133 @@ This file contains the list of all the songs that are currently added in the MDR
  - The Storm
  - Time Lapse
  - Unity
+ - Upwind
+ - Violet Sky
+ - Warbringer
  - Warrior Songs
  - We'll Meet Again
  - Windfall
  - Xenogenesis
- - Youtubers Life Rap
+## Theodore Unit
+ - Fishscale \(Expanded Edition\)
+## Theory 13
+ - Out of Focus
+## Thf Zoo
+ - Only The Family \- Lil Durk Presents: Loyal Bros
+## Thief
+ - Off The Grid
+## Third Eye Blind
+ - Party
 ## Third World
  - Guardians Of The Galaxy \- Hooked On A Feeling
+## Thirstin Howl The 3rd
+ - Lyricist Lounge Vol. 1
+## Thomas Reid
+ - Are You Okay?
+ - Blood Moon
+ - I'm So Good at Lying \(feat. Powfu & Thomas Reid\)
+ - Meant to Be
+## Three 6 Mafia
+ - FutureSex/LoveSounds Deluxe Edition
+ - Most Known Unknown \(Explicit\)
+## Three The...
+ - The Saga Continues...
 ## Throttle
  - Monstercat 007 \- Solace
- - Monstercat 010 \- Conquest
  - Where U Are
+## Thug Life
+ - Thug Life: Volume 1
+ - Until The End Of Time
+## Thugga
+ - Sorry 4 The Wait
+## Thundercat
+ - Featuring Ty Dolla $ign
+ - To Pimp A Butterfly
 ## Thutmose
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
 ## Tia
  - Deal with the devil
+## Tiana Major9
+ - Heavy Is The Head
+## Tierra Whack
+ - Rap?
+## Tif the Gift
+ - Escapism
 ## Tifita
  - EPIC Battle Themes I
+## Tiki Pasillas
+ - Sing \(Original Motion Picture Soundtrack / Deluxe\)
 ## Tim Barton
  - Guardians Of The Galaxy \- Hooked On A Feeling
+## Tim Latham
+ - The Love Movement
+## Timan Family Choir
+ - Malibu
 ## Timbaland
+ - 10 Bands
+ - ADHD
  - FutureSex/LoveSounds
+ - FutureSex/LoveSounds Deluxe Edition
 ## Time Bomb
  - 2001 \(Explicit Version\)
+## Timmies
+ - Passion & Confusion
+## Timo
+ - Only The Family \- Lil Durk Presents: Loyal Bros
+## Tinashe
+ - Full Speed
 ## Tiny C
  - Beat Saber \(Original Game Soundtrack\)
+## Tish Hyman
+ - I TAPE
+## Tiwa Savage
+ - The Lion King: The Gift
 ## TK from Ling tosite sigure
  - Fantastic Magic
  - Katharsis
- - unravel \(acoustic version\) \[Acoustic Version\]
+ - unravel \(acoustic version\)
 ## Tkay Maidza
  - Blue Neighbourhood \(Deluxe\)
+## TLC
+ - Born Sinner
+ - Born Sinner \(Deluxe Version\)
+## TMO
+ - Aquemini
+ - Stankonia
+## toa
+ - アイディスマイル
+ - ツギハギスタッカート
+## Toastie Taylor
+ - The Fast And The Furious: Tokyo Drift
+ - The Fast And The Furious: Tokyo Drift \(Original Motion Picture Soundtrack\)
+## Tobe Nwigwe
+ - CINCORIGINALS
+## TOBi
+ - Born 2 Rap
 ## Tobu
  - Candyland
  - Cloud 9
- - Colors
- - Dusk
- - Higher
  - Hope
  - Infectious \(Original Mix\)
- - Life
- - Mesmerize
  - NCS: Infinity
- - NCS: The Best of 2016
- - NCS: Uplifting
- - Pure Tropical House
- - Roots
- - Running Away
- - Seven
- - Sound of Goodbye
  - Sunburst
+## Token
+ - Between Somewhere
+ - Code Red
+ - Doozy
+ - Eraser Shavings
+ - No Game
+## tokiwa
+ - Charm
+## Toko Inui
+ - OUT OF FRAME
+## TOKOTOKO
+ - EXIT TUNES PRESENTS GUMing from Megpoid
+ - ワールドワイドワンダー
+## tokuP
+ - EXIT TUNES PRESENTS Supernova\(スーパーノヴァ\)2 ジャケットイラスト:redjuice
+## Tokyo Jetz
+ - Love Me While I'm Here
 ## Tokyo Machine
  - EPIC
  - FIGHT
@@ -3025,49 +12334,249 @@ This file contains the list of all the songs that are currently added in the MDR
  - PLAY
  - ROCK IT \(VIP\)
  - Rocket League x Monstercat Vol. 1
+## Tokyomane
+ - PUSHER
+## Tom Morello
+ - Authentic \(Deluxe Edition\)
+## tomcbumpz
+ - doom
 ## Tomine Harket
  - Different World
-## Tones And I
- - Dance Monkey \(Stripped Back\) / Dance Monkey
-## Tony Igy
- - Astronomia
+## Tommy Gunn
+ - Operation: Doomsday \(Complete\)
+## Tommy Ice
+ - Suicidal
+## Tommy K
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION〜
+## Tommy Royale
+ - His Glory Alone
+## Tone Stith
+ - Uncle Drew \(Original Motion Picture Soundtrack\)
+## Tonedeff
+ - Revolutionary Vol. 2
+## Toni Braxton
+ - More Than A Game
+## Tony Colts
+ - Changes \(feat. Pac star\)
 ## Tony Romera
  - Monstercat Uncaged Vol. 8
+## Tony Smalios
+ - The Love Movement
+## Tony Sunshine
+ - True Story
+## Tony Tillman
+ - Whole Team Winning
 ## Tony Yayo
  - Get Rich Or Die Tryin'
+ - Get Rich Or Die Tryin'\- The Original Motion Picture Soundtrack
+ - H.F.M. 2 \(Hunger For More 2\)
+ - The Documentary
+ - The Hunger For More
+ - The Massacre
+ - Thoughts Of A Predicate Felon
+## Too $hort
+ - Get In Where You Fit In
+ - Gettin' It \(Album Number Ten\)
+ - Indicud
+ - Rolling Papers
+ - Short Dog's In The House
+ - Shorty The Pimp
+ - Vol.2... Hard Knock Life
+ - When It's Dark Out
+## Toofpick From South\-West
+ - Ghetto Heisman
+## Toosii
+ - Destined 2 Win
+## Toraboruta
+ - HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]
+## Torch
+ - MMG Presents: Self Made, Vol. 1
+## Tori Kelly
+ - Sing \(Original Motion Picture Soundtrack / Deluxe\)
+## Tori Solkowski
+ - I Could Not Plan This
 ## TORIENA
  - Oedo Controller
+## Toro y Moi
+ - Rodeo \(Expanded Edition\)
+## Tory Lanez
+ - Church on Sunday
+ - Dreams Worth More Than Money
+ - Indigo
+ - Indigo \(Extended\)
+ - My Krazy Life
+ - Thats What They All Say
+ - The World Is Yours 2
+ - When It's Dark Out
+## Total
+ - Bad Boy's 10th Anniversary\- The Hits
+ - Full Clip: A Decade Of Gang Starr
+## Tove Lo
+ - Queen Of The Clouds
+## Towkio
+ - Coloring Book
 ## Traci Nelson
  - 2001
  - 2001 \(Explicit Version\)
+## Tracy T
+ - Slime Language
+## Trademark Da Skydiver
+ - A3c, Vol. 1
+## Trae Tha Truth
+ - CINCORIGINALS
+ - Cabin Fever
+ - Next to Nothing \(Deluxe Edition\)
+## Trampa
+ - Neon Grave Remixed
+## Trap Boy Freddy
+ - Slime Language
 ## Trap Manny
  - Hoodie SZN
+## TRAVI
+ - Faith
+## Travis Barker
+ - 11 Minutes \(with Halsey feat. Travis Barker\)
+ - ?
+ - Authentic \(Deluxe Edition\)
+ - Born 2 Rap
+ - Hotel Diablo
+ - drinking under the streetlights
+ - on to better things
 ## Travis Mendes
  - The Human Condition
+## Travis Mills
+ - I met you when I was 18. \(the playlist\)
 ## Travis Scott
  - ASTROWORLD
+ - Birds In The Trap Sing McKnight
+ - Black Panther The Album Music From And Inspired By
+ - Brandon Banks
+ - Buss It \(feat. Travis Scott\)
+ - Certified Lover Boy
+ - Champions
+ - Culture
+ - Culture II
+ - Detroit 2
+ - Don't Play \(feat. The 1975 & Big Sean\)
+ - Double Or Nothing \(& Metro Boomin\)
+ - Dying to Live
+ - ESCAPE PLAN / MAFIA
+ - HIGHEST IN THE ROOM
+ - Hollywood's Bleeding
+ - Hot \(Remix\) \[feat. Gunna and Travis Scott\]
+ - If You're Reading This It's Too Late
+ - JACKBOYS
+ - Jungle Rules
+ - Kanye West Presents Good Music Cruel Summer
+ - Life of a DON
+ - More Life
  - No.6 Collaborations Project
+ - Pretty Girls Like Trap Music
+ - Punk
+ - Rodeo \(Expanded Edition\)
+ - SR3MM
+ - So Much Fun
+ - THE SCOTTS
+ - Tha Carter V
+ - Tha Carter V \(Deluxe\)
+ - The London \(feat. J. Cole & Travis Scott\)
+ - The Melodic Blue
+ - The Voice of the Heroes
+ - Wash Us In The Blood
+ - Without Warning
+## Travis Thompson
+ - GEMINI
 ## Tray Dee
  - 2001
  - 2001 \(Explicit Version\)
+## Tre'
+ - Rock City
+## Treach
+ - Halfway Tree
+ - Strictly 4 My N.I.G.G.A.Z...
+## Treasur'
+ - Bride of Chucky
+## Tree
+ - Sour Soul
+## Trefuego
+ - 90mh
+## Trend
+ - I Wish
 ## Trevor Guthrie
  - Different World
 ## Trevor Rich
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
 ## Trey Songz
+ - 4275 \(Bonus Version\)
+ - Cole World: The Sideline Story
+ - Death Before Dishonor
+ - Dreams and Nightmares \(Deluxe Edition\)
+ - Free TC \(Deluxe Edition\)
+ - Full Speed
+ - If Tomorrow Comes...
+ - Islah \(Deluxe\)
+ - Jesus Piece \(Deluxe\)
+ - Lasers
+ - Lasers \(Deluxe Edition\)
+ - Pretty Girls Like Trap Music
+ - Stay Trippy
+ - Teflon Don
  - The Bigger Artist
+ - The DeAndre Way
+## Trick Daddy
+ - Any Given Sunday \(OST\)
+ - Most Known Unknown \(Explicit\)
+ - Ryde Or Die Vol. II
+ - The Red Light District
+## Trick Trick
+ - SHADYXV
+## Trife
+ - Fishscale \(Expanded Edition\)
+## Trife Da God
+ - Fishscale \(Expanded Edition\)
+## Trina
+ - Any Given Sunday \(OST\)
+ - I Am Not A Human Being II \(Deluxe\)
+ - The State vs. Radric Davis \(Deluxe\)
+## Trinidad James
+ - Trap Lord
+## Triple Seis
+ - Capital Punishment \(Explicit Version\)
+## Trippie Redd
+ - 17
+ - BALLADS 1
+ - Deadstar 2
+ - Ethereal
+ - Fighting Demons
+ - Fighting Demons \(Deluxe\)
+ - Hotel Diablo
+ - Legends Never Die
+ - Man On The Moon III: The Chosen
+ - Trip At Knight \(Complete Edition\)
+ - We Love You Tecca 2
+## Trippz Michaud
+ - Dreaming With Our Eyes Open
+## Tripstar
+ - A Gangsta’s Pain
 ## Tristam
- - Flight
  - Monstercat 007 \- Solace
- - Monstercat 012 \- Aftermath
  - Razor Sharp
+## Trouble
+ - Body Head Bangerz, Vol. 1
 ## Troye Sivan
  - Angel Baby
  - Bloom
  - Blue Neighbourhood \(Deluxe\)
  - In A Dream
+## True Mathematics
+ - Apocalypse 91… The Enemy Strikes Black
+## Truth Hurts
+ - Devils Night
 ## TrySail
  - 歌物語2 \-〈物語〉シリーズ主題歌集\-
+## Tré Little
+ - Game Tight
+ - Rock City
 ## Tsukasa
  - Cytus II\-Neko \(Original Soundtracks\)
 ## Tsukasa Saitoh
@@ -3080,13 +12589,15 @@ This file contains the list of all the songs that are currently added in the MDR
  - Lop Step Rabbits
 ## Tungevaag
  - Play
+## Tunji
+ - Escapism
+## Turk
+ - 400 Degreez
 ## Tut Tut Child
  - Monstercat 007 \- Solace
- - Monstercat 010 \- Conquest
- - Monstercat 012 \- Aftermath
-## TVDS
- - Monstercat 010 \- Conquest
- - Monstercat 012 \- Aftermath
+## Twelve'len
+ - Imperial
+ - TA13OO
 ## Twenty One Pilots
  - Blurryface
  - Choker
@@ -3094,70 +12605,226 @@ This file contains the list of all the songs that are currently added in the MDR
  - Jumpsuit / Nico And The Niners
  - My Blood And A Few Others From Trench
  - Saturday
- - Scaled And Icy
- - Scaled and Icy
  - Shy Away
  - Suicide Squad: The Album
  - Trench
+## TWENTY88
+ - Detroit 2
+ - I Decided.
+## Twista
+ - Dame Dash Presents Paid In Full / Dream Team
+ - La Bella Mafia
+ - Late Nights: The Album
+ - Next to Nothing \(Deluxe Edition\)
+ - Ryde Or Die Vol. II
+ - The College Dropout
+## Two Door Cinema Club
+ - Tourist History
+## Two Feet
+ - Until I Come Home
 ## Two Thirds
  - Monstercat 007 \- Solace
 ## TwoThirds
  - Monstercat 007 \- Solace
- - Monstercat 010 \- Conquest
- - Monstercat 012 \- Aftermath
+## Ty Brasel
+ - Today We Rebel
 ## Ty Dolla $ign
+ - B.E.D. \(Remix\)
+ - CALL ME IF YOU GET LOST
+ - Certified Lover Boy
+ - Church on Sunday
+ - Cold Summer
+ - Coloring Book
+ - Culture II
+ - Dark Sky Paradise
+ - Dark Sky Paradise \(Deluxe\)
+ - Deadstar 2
+ - Detroit 2
+ - FRIENDS KEEP SECRETS
+ - Family Ties
+ - Fan of A Fan The Album \(Expanded Edition\)
+ - Featuring Ty Dolla $ign
+ - Free TC \(Deluxe Edition\)
+ - I Won \[From F9 The Fast Saga Original Motion Picture Soundtrack\]
+ - Islah \(Deluxe\)
+ - JESUS IS KING
+ - Kawhi Leonard Presents: Culture Jam \(Vol. 1\)
+ - LIVE LIFE FAST
+ - Late Nights: The Album
+ - Late to the Party
+ - Legendary \(Deluxe Edition\)
+ - Mr. Davis
+ - Music To Be Murdered By \- Side B \(Deluxe Edition\)
+ - My Krazy Life
+ - Nasty Dealer 2
+ - O.M.M.I.O 2
+ - Ohio
+ - Perfect Ten
+ - Please Excuse Me for Being Antisocial
+ - Positions
  - Positions \(Deluxe\)
+ - Pretty Girls Like Trap Music
+ - Revenge Of The Dreamers III
+ - STAY DANGEROUS
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
  - Suicide Squad: The Album
+ - THE HUSTLE CONTINUES
+ - The Autobiography
+ - The Divine Feminine
+ - The Lost Boy
+ - The Saga of Wiz Khalifa
+ - The World Is Yours 2
+ - They Got Amnesia
+ - beerbongs & bentleys
+## Ty Nitty
+ - Hell On Earth
 ## Tyga
+ - Careless World: Rise Of The Last King
+ - Destined 2 Win
+ - Do My Dance
+ - Fan of A Fan The Album \(Expanded Edition\)
  - Hoodie SZN
+ - Hot Pink
+ - Hotel California \(Deluxe\)
+ - I Am Not A Human Being
+ - Indigo
+ - Indigo \(Extended\)
+ - Jesus Piece \(Deluxe\)
+ - Legendary
+ - Legendary \(Deluxe Edition\)
+ - Let The Goons Loose \(BWS 7.0\)
+ - Love Me While I'm Here
+ - My Own Lane \(Expanded Edition\)
+ - Perfect Ten
+ - Rise Of An Empire \(Deluxe Edition\)
+ - Shoot For The Stars Aim For The Moon
+ - Taste \(feat. Offset\)
+ - The Gold Album: 18th Dynasty
+ - The Saga of Wiz Khalifa
+ - Well Done 4
+## Tyla Yaweh
+ - Die 4 Respect
+ - Tommy Lee \(feat. Post Malone\)
 ## Tyler Bates
  - John Wick: Chapter 2 \(Original Motion Picture Soundtrack\)
-## Tyler Fiore
- - NCS: Uplifting
- - Paralyzed
+## Tyler Woods
+ - Thank H​.​E​.​R. Now
+## Tyler, The Creator
+ - Alfredo
+ - CALL ME IF YOU GET LOST
+ - Doris
+ - Fear of God II: Let Us Pray
+ - Flower Boy
+ - Goblin
+ - Oxymoron \(Deluxe\)
+ - Potato Salad
+ - Pray for Paris
+ - The OF Tape Vol. 2
+ - Watching Movies with the Sound Off \(Deluxe Edition\)
+ - Wolf
+## Tyra B
+ - Death Before Dishonor
+## Tyrese
+ - More Than A Game
+## TZAR
+ - Phonk House Demo
+## U\-God
+ - Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]
+ - Ghostface Killah...Shaolin's Finest
+ - Ironman
+ - Legend Of The Wu\-Tang: Wu\-Tang Clan's Greatest Hits
+ - Liquid Swords
+ - Only Built 4 Cuban Linx...
+ - The Essential Wu\-Tang Clan
+ - Wu\-Tang Forever
+ - YSIV
+## U2
+ - DAMN.
+ - DAMN. COLLECTORS EDITION.
+## Ubi
+ - FEAR EXODUS
+## UGK
+ - AT.LONG.LAST.A$AP
+## Ugochi
+ - The Beautiful & Damned
 ## Uk Apache
  - Original Nuttah 25
 ## UKI
  - Exit Trance Presents Cm Trance
 ## UMA
  - Cytus II\-Neko \(Original Soundtracks\)
+## UMETORA
+ - DIVINE\-DIVA
+## UMISEA
+ - 浸食!! 地球全域全おーしゃん
 ## Un3h
  - Gurenge
  - Jingo Jungle \(Remixes\)
  - Realize \(Extended\) \[Remix\]
+## Uncle Murda
+ - Flockaveli
+## Uncle Pete
+ - Wu\-Tang Forever
+## Uncle Reo
+ - The Ownerz
+## Undagroundmane
+ - Burnin' Tires
 ## Underworld
  - 1992 \- 2012
-## Unison
- - Aperture
+## UNKLE
+ - Lupe Fiasco's The Cool
+ - Reconstructed : The Best Of DJ Shadow
 ## Unknown Brain
  - Perfect 10
+## unknxwn.
+ - i lost her.
+## Unodavid
+ - In My Head
 ## Uplink
  - NCS is Love, NCS is Life, Vol. 1
+## Ursula Rucker
+ - Do You Want More?!!!??!
+ - Things Fall Apart
 ## USAO
  - EDM Extreme
+## Usher
+ - Confessions \(Expanded Edition\)
+ - Full Speed
+ - Heartbreak on a Full Moon
+ - The State vs. Radric Davis \(Deluxe\)
 ## Ushirokara Haiyori Tai B
  - 恋は渾沌の隷也
 ## Ushirokarahaiyoritai G
  - 恋は渾沌の隷也
+## UtataP
+ - MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”
 ## UVERworld
  - All Time Best
  - Rob the Frontier
  - Touch off
  - UNSER
+## V.I.N
+ - TRAPPIN' IN JAPAN!
+## Vado
+ - The Course of the Inevitable
+## Val
+ - Grand Champ
+## Valee
+ - Missed Calls
 ## Valley
  - sucks to see you doing better \(extended\)
 ## vally.exe
  - Shock \(Remix\)
+## VALORANT
+ - Die For You
 ## Valve
  - Half\-Life 2
+## Vanessa\-Mae
+ - The Velvet Rope
 ## Vantage
  - J\-Funk City : Vantage's Edits Collection
-## Vanze
- - Forever
 ## Varien
  - Monstercat 007 \- Solace
- - Monstercat 012 \- Aftermath
  - Monstercat 016 \- Expedition
 ## Varien & 7 Minutes Dead
  - Mirai Sekai
@@ -3169,130 +12836,488 @@ This file contains the list of all the songs that are currently added in the MDR
  - Rocket League x Monstercat Vol. 3
 ## Various Artists, Favored Nations
  - The Music of Grand Theft Auto V, Vol. 1: Original Music
+## vaultboy
+ - everything sucks
 ## Vaundy
  - strobo
+## Vee tha Rula
+ - RSS2
+ - RULA 2
 ## Veela
  - Monstercat 007 \- Solace
-## Vena Cava
- - Flames
 ## Veorra
  - Ruby
 ## VERBAL
  - SAMURAI SESSIONS vol.2
-## Vexento
- - Pure Tropical House
-## Vicetone
- - Astronomia
- - Monstercat 012 \- Aftermath
+## Verse Simmonds
+ - RSS2
+ - RULA 2
+## Verum
+ - Passing Thoughts
+ - Planet
+ - This Letter I Write
+## VI Seconds
+ - YouTube Cypher, Vol. 2
+## VIC MENSA
+ - I TAPE
+ - The Autobiography
+## Vic Padilla
+ - Illmatic XX
+## Vic Sage
+ - Long Days Longer Nights
 ## Vickeblanka
  - Devil
  - wizard
  - ウララ
+## VickeeLo
+ - Something for Thee Hotties
+## Vicky Vale
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜
 ## Victor Borba
  - Bury the Light
-## Video Games Live
- - Pokémon Theme \(TheFatRat Remix\) \[feat. Jason Paige\]
+## VICTORIA
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜
+## Victoria Monét
+ - General Admission \(Deluxe\)
 ## Vidya Vidya
  - NCS: Infinity
+## Viktor Vaughn
+ - Madvillainy
+ - Vaudeville Villain
+## Vin Jay
+ - Beast Mode
+ - Beast Unleashed
+ - Diablo
+ - Divine Deception
+ - Get It Poppin'
+ - Nobody's Help
+ - On Our Way
+ - Out of My Mind
+ - Prophecy
+ - The Rock
+ - Update
+ - Welcome To The Fame
 ## Vince Staples
+ - Big Fish Theory
+ - Black Panther The Album Music From And Inspired By
+ - Doris
+ - Limbo
+ - New Beginnings
+ - Revenge Of The Dreamers III
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
+ - Summertime '06
+ - The Allegory
 ## Vindata
  - Good 4 Me / Union
+## Vinia Mojica
+ - Black On Both Sides
+ - Like Water For Chocolate
+ - Mos Def & Talib Kweli Are Black Star
+ - Quality
+ - Train Of Thought
+## Vinnie Paz
+ - Season of the Assassin
+## Vinny Radio
+ - Watching Movies with the Sound Off \(Deluxe Edition\)
+## Violator
+ - The Anthology
 ## VitaminMer
  - Everybody's Circulation
+## Vivian Green
+ - Summer Classics
+## Vivid BAD SQUAD
+ - RAD DOGS/シネマ
+ - Ready Steady/Forward
+## Vluestar
+ - Heart Shaped Kisses
+## vocaliodP\(noa\)
+ - MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”
 ## Voicians
  - NCS is Love, NCS is Life, Vol. 1
- - Seconds
+## void
+ - DONNA
 ## void \(Mournfinale\)
  - Voltage Ignition 2
 ## Voidoid
  - Guardians Of The Galaxy \- Hooked On A Feeling
+## Voose Pablo
+ - Last Day of High School
+## Vory
+ - Expensive Pain
+ - The World Is Yours 2
+## Vulgatron
+ - Neon Grave Remixed
+## W. Darling
+ - Half Way There...Pt. 1
+## WADATAKEAKI KurageP
+ - わたしの未成年観測
+## Wadud Ahmad
+ - Game Theory Deluxe Edition \(Explicit Version\)
+## Waka Flocka Flame
+ - Flockaveli
+ - NAGA
+ - The State vs. Radric Davis \(Deluxe\)
+ - Trap Lord
+ - Trap Music 2k12
 ## Wale
+ - Ambition
+ - Careless World: Rise Of The Last King
+ - Detroit 2
+ - Dreams and Nightmares \(Deluxe Edition\)
+ - Fan of A Fan The Album \(Expanded Edition\)
+ - Flockaveli
+ - Goodbye Yellow Brick Road \(40th Anniversary Celebration/ Super Deluxe Edition\)
  - Goodbye Yellow Brick Road \(Remastered / Deluxe Edition\)
+ - Kawhi Leonard Presents: Culture Jam \(Vol. 1\)
+ - MMG Presents: Self Made, Vol. 1
+ - Man On The Moon: The End Of Day \(Deluxe\)
+ - My Own Lane \(Expanded Edition\)
+ - Poke It Out \(feat. J. Cole\)
+ - Pray for Paris
+ - Richer Than I Ever Been
+ - Stay Trippy
+ - YSIV
+## Wale the Sage
+ - PAY MY DUES
+## WaMi
+ - Euphoria
 ## Wanted Rabbit
  - Primetime Adventures
+## Wanz
+ - The Heist
+ - The Heist \(Deluxe Edition\)
 ## War
  - Suicide Squad: The Album
+## War Zone
+ - Tha Blue Carpet Treatment
 ## Warbly Jets
  - Warbly Jets
-## Warptech
- - Last Summer
+## Ward 21
+ - Sound Of Change
+## Warhol.SS
+ - Party Pack. Vol 2
+## Warren G
+ - Doggystyle
+ - No Limit Top Dogg
+ - Party We Will Throw Now! \- Single
+ - Regulate… G Funk Era
+## Warren Riker
+ - The Score \(Expanded Edition\)
+## WATCH THE DUCK
+ - The New Classic
+## Watsky
+ - Off The Grid
+## Watson
+ - Tank God
 ## Watson Amelia
  - Hololive English \-Myth\- Image Soundtrack\(ft. Camellia\)
+ - Journey Like a Thousand Years 〜千年の旅〜
 ## Waylon Reavis
  - Beat Saber \(Original Game Soundtrack\), Vol. IV
+## Wayniac
+ - Regulate… G Funk Era
 ## Waysons
- - Daydream
- - Eternal Minds
  - NCS is Love, NCS is Life, Vol. 1
- - Running
+## WC
+ - Ghetto Heisman
+ - Laugh Now, Cry Later
 ## We.B
  - Bloody Stream \(From "Jojo's Bizarre Adventure: Battle Tendency"\)
  - Dragon Soul \(From "Dragon Ball Z Kai"\)
  - Limit Break X Survivor \(From "Dragon Ball Super"\)
  - Traitor's Requiem \(From "Jojo's Bizarre Adventure: Golden Wind"\)
  - Ultimate Battle \- Ka Ka Kachi Daze \(From "Dragon Ball Super"\)
+## WEEDMANE
+ - SUICIDE YEAR
 ## Ween
  - The Mollusk
 ## Weezer
  - Africa
+## Weldon Irvine
+ - Mos Def & Talib Kweli Are Black Star
+## Wendy Goldstein
+ - Illadelph Halflife
+## West Coast Truth
+ - Old Habits Never Die
+## Western Union
+ - Tha Blue Carpet Treatment
+## WESTSIDE BOOGIE
+ - Book of Ryan \(Bonus Track Edition\)
+ - Everythings For Sale
+## Westside Connection
+ - Bow Down
+ - Terrorist Threats
+## Westside Gunn
+ - Pray for Paris
+ - The Allegory
+## Wett Brain
+ - Suicidal
+## wex
+ - END OF LIFE
 ## whaledontsleep
  - Sleeping town
-## Whales
- - NCS: The Best of 2016
+## WHATEVER WE ARE
+ - Nevers Road
+ - Yuck Fou
 ## WHIPPED CREAM
  - Monstercat Uncaged Vol. 8
+## White Dave
+ - Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)
 ## White Gold
  - Music To Be Murdered By
+ - Music To Be Murdered By \- Side B \(Deluxe Edition\)
+ - The Allegory
+## Wifisfuneral
+ - \- TRAGEDY +
+## Wild Child
+ - Madvillainy
+## Will Smith
+ - Confessions of a Dangerous Mind
 ## Will Stetson
  - Inferno \(Extended Version\)
  - Polaris \(Remix\)
+## will.i.am
+ - FutureSex/LoveSounds Deluxe Edition
+## William $
+ - OMNI.
 ## William Ekh
  - NCS: Infinity
+## Willie Falcon
+ - Richer Than I Ever Been
 ## Willie Nelson
  - The Music of Red Dead Redemption 2 \(Original Soundtrack\)
 ## Winona Oak
  - Sick Boy
+## Wise Guy The Unsigned Emcee
+ - Lyricist Lounge Vol. 1
+## Witchdoctor
+ - Soul Food
+## Witt Lowry
+ - Dreaming With Our Eyes Open
+ - I Could Not Plan This
+ - Nevers Road
+## Wiz
+ - Street Runnaz 83
 ## Wiz Khalifa
+ - B.O.A.T.S. II #METIME \(Deluxe\)
+ - Best Day Ever \(5th Anniversary Remastered Edition\)
+ - Bobby Tarantino II
+ - Cabin Fever
+ - Church on Sunday
+ - Confessions of a Dangerous Mind
+ - Dex Meets Dexter
+ - FWA
+ - Finally Famous \(10th Anniversary Deluxe Edition Remixed and Remastered\)
+ - Finally Rich \(Deluxe\)
+ - Free TC \(Deluxe Edition\)
+ - Hotel California \(Deluxe\)
+ - Jesus Piece \(Deluxe\)
+ - Mac and Devin Go to High School \(Music from and Inspired by the Movie\)
  - Overexposed
+ - Paranoia: A True Story
+ - Richer Than I Ever Been
+ - Rolling Papers
+ - Stay Trippy
+ - Stranger Than Fiction
+ - Street Runnaz 83
  - Suicide Squad: The Album
+ - THE HUSTLE CONTINUES
+ - The Saga of Wiz Khalifa
+ - Uncle Drew \(Original Motion Picture Soundtrack\)
+## WizKid
+ - The Lion King: The Gift
 ## Wolfgang Gartner
  - \> album title goes here \<
-## Wonder
+## wonder
  - DEATH NOTE?
+## Wonderful★opportunity!
+ - にっこり^^調査隊のテーマ
+ - ワン☆オポ!VOL.07
 ## Woody Jackson
  - Red Dead Redemption II Original Soundtrack
  - The Music of Red Dead Redemption 2 \(Original Score\)
+## Wooh Da Kid
+ - The State vs. Radric Davis \(Deluxe\)
+ - Trap Music 2k12
+## Word A' Mouth
+ - Lyricist Lounge Vol. 1
+## Words
+ - Lyricist Lounge Volume 2
+## Wordsworth
+ - Lyricist Lounge Vol. 1
+ - Mos Def & Talib Kweli Are Black Star
+ - The Love Movement
 ## World's End Girlfriend
  - Millennium Mother
+## wowaka
+ - EXIT TUNES PRESENTS Supernova\(スーパーノヴァ\)2 ジャケットイラスト:redjuice
+ - MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”
+## WR GANG
+ - Right Now
+## Wrekonize
+ - FEAR EXODUS
+## Wu\-Tang Clan
+ - Enter The Wu\-Tang \(36 Chambers\) \[Expanded Edition\]
+ - Fishscale \(Expanded Edition\)
+ - Legend Of The Wu\-Tang: Wu\-Tang Clan's Greatest Hits
+ - The Essential Wu\-Tang Clan
+ - Wu\-Tang Forever
+## Wyatt Waddell
+ - I TAPE
+## Wycked
+ - Strictly 4 My N.I.G.G.A.Z...
+## Wyclef Jean
+ - Capital Punishment \(Explicit Version\)
+ - I TAPE
+ - The Score \(Expanded Edition\)
+## Wynter Gordon
+ - Careless World: Rise Of The Last King
 ## X Ambassadors
  - Revival
  - Suicide Squad: The Album
+## X\-Ray
+ - Operation: Doomsday \(Complete\)
+## XANAKIN SKYWOK
+ - DONNA
+## Xenoswrld
+ - Believe
+ - Brass Takz
+ - What About Me?
 ## Xerox
  - Return to the Sauce
 ## XI
  - Parousia
+## Xian Bell
+ - There You Have It
+## XO
+ - Let The Goons Loose \(BWS 7.0\)
+## Xperience
+ - GEMINI
+## XV
+ - A3c, Vol. 1
 ## XXXTENTACION
+ - 17
+ - ?
+ - Come Over When You're Sober, Pt. 2
+ - Look At Me!
  - Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)
+ - Tha Carter V
+ - Tha Carter V \(Deluxe\)
+ - Trip At Knight \(Complete Edition\)
+ - vice city
 ## Xzibit
  - 2001
  - 2001 \(Explicit Version\)
+ - 8 Mile \(Music From And Inspired By The Motion Picture\)
+ - At The Speed Of Life
+ - Jealous Ones Still Envy \(J.O.S.E\)
+ - No Limit Top Dogg
+ - Restless
  - The Marshall Mathers LP
-## Y&V
- - Back In Time
+ - Train Of Thought
+## Y. Kim
+ - Tical
+## Y.N.V.
+ - Thug Life: Volume 1
+## Ya Boy
+ - More Than A Game
 ## YaboiMatoi
  - Bullet Hell II
+## Yairi
+ - IA SUPER BEST \-THE CREATORS \-
+## Yak Gotti
+ - Slime Season 3
 ## yama
  - Sleeping town
 ## Yamajet
  - Cytus II\-Neko \(Original Soundtracks\)
+## Yami Bolo
+ - Halfway Tree
+## Yams
+ - AT.LONG.LAST.A$AP
+## yanagiP
+ - HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]
+## Yasiin Bey
+ - Bandana
+## YASUHIRO
+ - ワンスアポンアドリーム
+## Yasuo
+ - MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”
+## YBN Nahmir
+ - Find The Beat
+ - Uncle Drew \(Original Motion Picture Soundtrack\)
 ## Yeah Yeah Yeahs
  - It's Blitz! \(Deluxe Edition\)
+## Yeat
+ - Gët Busy
 ## Yebba
+ - Certified Lover Boy
+ - Heavy Is The Head
  - No.6 Collaborations Project
+## Yelawolf
+ - LONG.LIVE.A$AP \(Deluxe Version\)
+ - Next to Nothing \(Deluxe Edition\)
+ - SHADYXV
+ - Stay Trippy
+## Yella Beezy
+ - Indigo \(Extended\)
+## Yemi Alade
+ - The Lion King: The Gift
 ## Yes
- - Fragile
  - Fragile \(Deluxe Edition\)
+## YFN Lucci
+ - Epidemic \(Deluxe\)
+## YG
+ - Carnival
+ - Cold Summer
+ - Fortunate
+ - Free TC \(Deluxe Edition\)
+ - GEEZYWORLD
+ - Invasion of Privacy
+ - King's Disease II
+ - Late Nights: The Album
+ - Legendary \(Deluxe Edition\)
+ - My Krazy Life
+ - Perfect Ten
+ - Rise Of An Empire \(Deluxe Edition\)
+ - STAY DANGEROUS
+ - That's My N\*\*\*\* \(with Meek Mill, YG & Snoop Dogg\) \[From Bright: The Album\]
+ - Trust Fund Babies
+ - Victory Lap
+ - What You Gonna Do When The Grid Goes Down?
+ - beerbongs & bentleys
+## YG Hootie
+ - Flockaveli
+ - Trap Music 2k12
+## YGTUT
+ - Four Two Three
+ - The House Is Burning
+## YK Osiris
+ - KIRK
+## YM
+ - EXIT TUNES PRESENTS GUMing from Megpoid
+ - EXIT TUNES PRESENTS THE BEST OF GUMI from Megpoid
+## YNW Gunna
+ - Just A Matter of Slime
+## YNW Melly
+ - Just A Matter of Slime
+ - Levon James
+ - The Voice
+ - The Voice \(Deluxe\)
+ - Waiting to Exhale
+## Yo Baby
+ - Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies
+## Yo Gotti
+ - Champions
+ - Church on Sunday
+ - Only Way Is Up \(Deluxe\)
+ - Rise Of An Empire \(Deluxe Edition\)
+ - Special Effects
+ - Starvation 2
+ - Street Runnaz 83
+ - Trap Music 2k12
+ - Uncle Drew \(Original Motion Picture Soundtrack\)
+ - iSouljaBoyTellem
 ## YOASOBI
  - 夜に駆ける
 ## Yoko Hikasa
@@ -3300,23 +13325,152 @@ This file contains the list of all the songs that are currently added in the MDR
  - Utsukushiki Zankokuna Sekai
 ## Yoko Takahashi
  - Neon Genesis Evangelion \(Original Series Soundtrack\)
+## yomoha
+ - iceQuarium \-Strawberry\-
 ## Yooh
  - Voltage Ignition 2
 ## Yoshihisa Hirano
  - HUNTER×HUNTER セレクト×ベスト×α
 ## Yoshiki
  - Red Swan
+## Young Bleed
+ - Body Head Bangerz, Vol. 1
 ## Young Buck
  - Get Rich Or Die Tryin'
+ - Get Rich Or Die Tryin'\- The Original Motion Picture Soundtrack
+ - Loyal To The Game
+ - T.O.S. \(Terminate On Sight\)
+ - The Hunger For More
+## Young Chris
+ - Dame Dash Presents Paid In Full / Dream Team
+ - Trap Music 2k12
+## Young Devi D
+ - The Storm \(Deluxe Edition\)
+## Young Dolph
+ - Boobie Trapp 3
+ - Droptopwop
+ - Ice Daddy
+ - LAW 3: Now Or Never
+ - Mr. Davis
+ - PAPER ROUTE iLLUMINATi
+ - RNB \(feat. Megan Thee Stallion\)
+ - Role Model
+ - Slauson Boy 2
+ - Street Runnaz 83
+ - THE HUSTLE CONTINUES
+## Young Dro
+ - More Than A Game
+## young friend
+ - PINCH ME
+## Young Lungs
+ - Fearless
 ## Young M.A
  - Music To Be Murdered By
+ - Music To Be Murdered By \- Side B \(Deluxe Edition\)
+## Young Merc
+ - Blood In My Eye
+## Young Money
+ - Rise Of An Empire \(Deluxe Edition\)
+## Young Nudy
+ - Keep IT 21
+ - Nudy Land
+ - Revenge Of The Dreamers III
+ - SAVAGE MODE II
+## Young Roddy
+ - A3c, Vol. 1
+## Young Sac
+ - Trap Music 2k12
+## Young Selah
+ - True Story
+## Young Sinatra
+ - Bobby Tarantino II
+## Young Stoner Life
+ - Slime Language
 ## Young Thug
+ - 4275 \(Bonus Version\)
+ - ADHD
+ - BLAME IT ON BABY \(DELUXE\)
+ - Beautiful Thugger Girls
+ - Birds In The Trap Sing McKnight
+ - Certified Lover Boy
+ - Championships
+ - Cold Summer
+ - Coloring Book
+ - DS4EVER
+ - Dark Lane Demo Tapes
+ - Death Race For Love
+ - Detroit 2
+ - Double Or Nothing \(& Metro Boomin\)
+ - Drip Harder
+ - Expensive Pain
+ - Featuring Ty Dolla $ign
+ - Full Speed
+ - Good News
+ - Hall of Fame
+ - Harder Than Ever
+ - Hollywood's Bleeding
  - Hoodie SZN
+ - Hot \(Remix\) \[feat. Gunna and Travis Scott\]
+ - JACKBOYS
+ - Jungle Rules
+ - Just A Matter of Slime
+ - Just Until....
+ - Limbo
+ - More Life
+ - My Turn
+ - My Turn \(Deluxe\)
+ - Nasty Dealer 2
+ - No Label II
  - No.6 Collaborations Project
+ - On the Run
+ - Perfect Ten
+ - Planet Her
+ - Punk
+ - Rodeo \(Expanded Edition\)
+ - SAVAGE MODE II
+ - SR3MM
+ - Slauson Boy 2
+ - Slime Language
+ - Slime Season 3
+ - So Much Fun
+ - SremmLife
+ - The London \(feat. J. Cole & Travis Scott\)
+ - The Voice
+ - The Voice \(Deluxe\)
+ - The Voice of the Heroes
+ - The World Is Yours 2
+## Young Thugg
+ - Street Runnaz 83
+## Young Zee
+ - 8 Mile \(Music From And Inspired By The Motion Picture\)
+ - D\-12 World
+## Youngbloodz
+ - Body Head Bangerz, Vol. 1
 ## YoungBoy Never Broke Again
+ - BLAME IT ON BABY
+ - BLAME IT ON BABY \(DELUXE\)
+ - Bandit \(with YoungBoy Never Broke Again\)
+ - CALL ME IF YOU GET LOST
+ - Culture III
+ - Die 4 Respect
+ - Dope Don't Sell Itself
+ - F\*CK LOVE 3: OVER YOU
+ - Flossin’ \(feat. YoungBoy Never Broke Again\)
+ - Kawhi Leonard Presents: Culture Jam \(Vol. 1\)
+ - STAY DANGEROUS
  - The Bigger Artist
+ - The World Is Yours 2
+ - Woptober II
+## Youngn' Restless
+ - Cradle 2 The Grave
+## Yousei Teikoku
+ - PAX VESANIA
 ## Yu\_Asahina
  - Voltage Ignition 2
+## Yucha
+ - EXIT TUNES PRESENTS THE BEST OF GUMI from Megpoid
+## Yugen Blakrok
+ - Black Panther The Album Music From And Inspired By
 ## Yugo Kanno
  - JOJO'S BIZARRE ADVENTURE \-Diamond is unbreakable O.S.T Vol.1 \-Good Morning Morioh Cho\- Music by Yugo Kanno
  - JOJO'S BIZARRE ADVENTURE \-Diamond is unbreakable O.S.T Vol.2 \-Good Night Morioh Cho\- Music by Yugo Kanno
@@ -3339,25 +13493,106 @@ This file contains the list of all the songs that are currently added in the MDR
  - 葛西ハーコーズ
 ## Yuki
  - Exit Trance Presents Cm Trance
+## Yuki Kaai
+ - 少年少女のコトバ
+## yukkedoluce
+ - EXIT TUNES PRESENTS THE BEST OF GUMI from Megpoid
 ## Yuko Koura
  - JAPAN ANIMESONG COLLECTION VOL.28 \[アニソン・ジャパン\]
+## Yumi
+ - DONNA
 ## Yumiko
  - JAPAN ANIMESONG COLLECTION VOL.28 \[アニソン・ジャパン\]
+## Yummy
+ - The Grind Date
 ## Yun Head
  - Trap Anthem
-## Yung Fusion
- - NCS: The Best of 2016
+## Yung Bans
+ - Waiting to Exhale
+## Yung Bleu
+ - Blockchain
+ - Buy or Bye 2
+ - DS4EVER
+ - Kawhi Leonard Presents: Culture Jam \(Vol. 1\)
+## Yung Dred
+ - Street Runnaz 83
+## Yung Gravy
+ - eat ya veggies
+## Yung Jake
+ - Nasty Dealer 2
+## Yung Kage
+ - DONNA
+## Yung Mal
+ - Woptober II
+ - Word To LA
+## Yung Redd
+ - Eviction Notice 2.0
+## Yung Wun
+ - Ryde Or Die Vol. II
+## YUNGBLUD
+ - 11 Minutes \(with Halsey feat. Travis Barker\)
+ - Hotel Diablo
+## Yungeen Ace
+ - Belair Baby 2
+ - Levon James
+ - Richer Than I Ever Been
+## YungLiV
+ - Hall of Fame 2.0
+## YuNi
+ - 青く駆けろ!
 ## Yunomi
  - Oedo Controller
+ - Unison
+## Yunosuke
+ - PaIII.INCEPTION / PaIII.SENSATION
+## Yurry Canon
+ - Kardia
+## Yusef Sharid
+ - Until The End Of Time
 ## Yusuf / Cat Stevens
+ - Sing \(Original Motion Picture Soundtrack / Deluxe\)
  - Tea for the Tillerman
 ## Yuuki Okamoto
  - JAPAN ANIMESONG COLLECTION VOL.28 \[アニソン・ジャパン\]
+## Yuuyu
+ - MIKUNOPOLIS in LOS ANGELES “はじめまして、初音ミクです”
+ - 初音ミク「マジカルミライ 2014」 \[Live\]
+## Yuyoyuppe
+ - GRAPHIX
+## YUZY
+ - ミルククラウン・オン・ソーネチカ
+## Yxng Davi
+ - Uila and Maple
+## Yxngxr1
+ - BOY IN BLUE
+ - Childhood Dreams
+ - Digikid 2
+ - Paperbag Princess
+## Z\-Trip
+ - Authentic \(Deluxe Edition\)
+## Z. Lew
+ - IDK
+## Z3ro
+ - Therapeutic
+## Zacari
+ - Black Panther The Album Music From And Inspired By
+ - DAMN.
+ - DAMN. COLLECTORS EDITION.
+ - Do What Thou Wilt.
+ - I TAPE
+ - The Sun's Tirade
+## Zach Diamond
+ - On My Own
 ## ZAK
  - TOP \(Remix\)
+## Zakku
+ - Matcha Love
 ## Zaza
- - Be Together
+ - SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜
+## Zed Zilla
+ - Street Runnaz 83
 ## Zedd
+ - My Everything \(Deluxe\)
  - Scary Monsters and Nice Sprites EP
 ## Zekk
  - Cytus II\-Neko \(Original Soundtracks\)
@@ -3369,26 +13604,61 @@ This file contains the list of all the songs that are currently added in the MDR
  - Kaikai Kitan \(Remix\)
  - My War \(Remix\)
  - Shinzou wo Sasageyo \(Remixes\)
+## Zhané
+ - The Best of Busta Rhymes
+ - The Coming
 ## Zhenlan Kang
  - Resident Evil 2 Original Soundtrack
+## Ziico Niico
+ - Jungle Rules
+## ZillaKami
+ - TA13OO
+## Zimm
+ - Haunted
+## Zoe Nash
+ - The Beautiful & Damned
 ## Zoe Winkler
  - The Slim Shady LP
  - The Slim Shady LP \(Expanded Edition\)
-## Zookeepers
- - Ark
-## 〈物語〉シリーズ
- - 歌物語2 \-〈物語〉シリーズ主題歌集\-
+## Zoink Gang
+ - Revenge Of The Dreamers III
+## Zomboy
+ - Neon Grave Remixed
+## Zuse
+ - Special Effects
+## Émoi
+ - Willy's Wonderland \(Original Motion Picture Soundtrack\)
 ## ぁゅ
  - Voltage Ignition 2
 ## いとうかなこ
  - STEINS;GATE SYMPHONIC REUNION
+## いろはにほへっと あやふぶみ
+ - おにけもだんす
 ## かめりあ as "Bang Riot"
  - GALAXY BURST
+## こなたP
+ - EXIT TUNES PRESENTS GUMing from Megpoid
 ## さくらみこ
  - さくら色ハイテンション!
+ - みっころね×しょうたいむ‼︎
  - サクラカゼ
+ - マイネームイズエリート☆
+ - 花月ノ夢
+## すこやか大聖堂
+ - ジウダス
+## すりぃ
+ - pandemic
+## せきこみごはん
+ - ラストスコア
+## ぬゆり
+ - plotoplan
+ - ロウワー
+## ふわりP
+ - ウタカタリレイション
 ## ももすももす
  - アネクドット
+## れるりり&もじゃ\(大柴広己\)
+ - Kagaminext feat. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―
 ## アキバタノシーズ
  - 葛西ハーコーズ2 オールスターズ
 ## アキ・ローゼンタール
@@ -3397,10 +13667,27 @@ This file contains the list of all the songs that are currently added in the MDR
  - ヒロインオーディション
 ## エミリア\(CV:高橋李依\)
  - HIGECORE!
-## オインゴ
- - Akuyaku Kyousoukyoku \- Oingo&Boingo \(TV edit\)
+## オゾン
+ - しっくおぶはうす!
+## カンザキイオリ
+ - 白紙
+## ガルナ\(オワタP\)
+ - Kagaminext feat. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―
+## ゴボウメン
+ - IA SUPER BEST \-THE CREATORS \-
+## シノ
+ - 花を唄う
+## シャノ
+ - 41m
+ - ウタカタリレイション
+## スバおか
+ - さしみお feat.スバおか
+## タケノコ少年
+ - そうだった!!
 ## チト\(CV:水瀬いのり\)
  - HIGECORE!
+## ナノウ
+ - ハロ/ハワユ
 ## ハセガワダイスケ
  - Great Days
  - Uragirimonono Requiem \(English Ver.\)
@@ -3408,8 +13695,18 @@ This file contains the list of all the songs that are currently added in the MDR
  - 熱烈!アニソン魂 ULTIMATEカバーシリーズ2017 JAPAN ANIMESONG COLLECTION vol.54
 ## ファンタズム\(FES cv.榊原ゆい\)
  - STEINS;GATE SYMPHONIC REUNION
+## ホルホース
+ - Akuyaku Kyousoukyoku \- Hol Horse&Boingo \(TV edit\)
+## ホロライブ4期生
+ - キセキ結び
+## ホロライブファンタジー
+ - いんたらくとふぁんたじあ
 ## ボインゴ
- - Akuyaku Kyousoukyoku \- Oingo&Boingo \(TV edit\)
+ - Akuyaku Kyousoukyoku \- Hol Horse&Boingo \(TV edit\)
+## ミライアカリ
+ - 青く駆けろ!
+## メルキス
+ - Choco♡Melty
 ## ユミコ/なかにし鈴子
  - JAPAN ANIMESONG COLLECTION VOL.28 \[アニソン・ジャパン\]
 ## ユミコ/高良祐子
@@ -3418,58 +13715,121 @@ This file contains the list of all the songs that are currently added in the MDR
  - HIGECORE!
 ## レム\(CV:水瀬いのり\)
  - HIGECORE!
+## ロボ子さん
+ - コトノハ
+## ワンダーランズ×ショウタイム
+ - セカイはまだ始まってすらいない/potatoになっていく
+ - ニジイロストーリーズ/ワンスアポンアドリーム
+ - ワンダーランズ×ショウタイム SEKAI ALBUM vol.1\(Selected Edition\)
 ## 三宅日向\(CV:井口裕香\)
  - HIGECORE!
 ## 上ノ瀬つかさ
  - Xronial Xero
 ## 不知火フレア
  - Smile & Go!!
+ - いんたらくとふぁんたじあ
 ## 佐倉千代\(CV:小澤亜李\)
  - HIGECORE!
+## 傘村トータ
+ - IA SUPER BEST \-THE CREATORS \-
 ## 兎田ぺこら
  - Hacha\-Mecha ミラクル
+ - いいわけバニー
+ - いんたらくとふぁんたじあ
  - ぺこらんだむぶれいん!
+## 初音ミク、星乃一歌、天馬司、宵崎奏
+ - セカイ/ワーワーワールド/群青讃歌
+## 初音ミク、星乃一歌、花里みのり、小豆沢こはね、天馬司、宵崎奏
+ - セカイ/ワーワーワールド/群青讃歌
+## 初音ミク、花里みのり、小豆沢こはね
+ - セカイ/ワーワーワールド/群青讃歌
 ## 前島麻由
  - From Dream And You
  - TVアニメ「Re:ゼロから始める異世界生活」2nd season 後期オープニングテーマ「Long shot」
+## 加賀\(ネギシャワーP\)
+ - Negi Shower Party!!
 ## 十條姫和\(CV:大西沙織\)
  - HIGECORE!
+## 千穂
+ - 41m
 ## 原田ひとみ
  - HIGECORE!
+## 古川P
+ - EXIT TUNES PRESENTS Supernova\(スーパーノヴァ\)2 ジャケットイラスト:redjuice
 ## 吉田沙織
  - 龍が如く極 オリジナルサウンドトラック
+## 和田たけあき
+ - ブレス・ユア・ブレス
+## 堀江晶太\(kemu\)
+ - セカイ
 ## 夏色まつり
+ - HiHiハイテンション!
  - Plasmagic Seasons!
+## 夜のロサンゼルス
+ - IA SUPER BEST \-THE CREATORS \-
 ## 夜空メル
+ - Choco♡Melty
  - Plasmagic Seasons!
+ - かぷっとNightSky
 ## 大原ゆい子
  - オンリー
  - 旅人の唄
 ## 大橋美和
  - 熱烈!アニソン魂 ULTIMATEカバーシリーズ2017 JAPAN ANIMESONG COLLECTION vol.54
+## 大神ミオ
+ - Howling
+ - さしみお feat.スバおか
+ - わくわくエブリデイ
 ## 大空スバル
  - Hacha\-Mecha ミラクル
+ - ぷ・れ・あ・で・す!
+ - 太陽少女
 ## 大野翠 \(CV: 富田美憂\)
  - TVアニメ「放課後さいころ倶楽部」エンディング・テーマ 「On the Board」
-## 妖精帝國
- - PAX VESANIA
+## 天音かなた
+ - hololive music studio \- Twilight
+ - キセキ結び
+ - マドロミ
+ - 天使のagape
+ - 特者生存ワンダラダー!!
+## 姫森ルーナ
+ - キセキ結び
+ - 絶対忠誠♡なのなのら!
 ## 安月名莉子
  - OVA「Re:ゼロから始める異世界生活 Memory Snow」Memory Album
 ## 安田みずほ
- - 熱烈!アニソン魂 ULTIMATEカバーシリーズ2017 JAPAN ANIMESONG COLLECTION mini vol.4
+ - 熱烈!アニソン魂 ULTIMATEカバーシリーズ2017 JAPAN ANIMESONG COLLECTION mini vol.4
  - 熱烈!アニソン魂 ULTIMATEカバーシリーズ2017 JAPAN ANIMESONG COLLECTION vol.54
 ## 宝鐘マリン
  - Ahoy!! 我ら宝鐘海賊団☆
+ - Happiness World
+ - Unison
+ - いんたらくとふぁんたじあ
+ - 浸食!! 地球全域全おーしゃん
+## 富士葵
+ - 青く駆けろ!
 ## 小河幸男
  - 龍が如く極 オリジナルサウンドトラック
 ## 小淵沢報瀬\(CV:花澤香菜\)
  - HIGECORE!
 ## 小紺ココ
  - LOP STEP RABBITS!
+## 尾丸ポルカ
+ - Pastel Tea Time/ペルソナ
+ - ぽ
+ - エヴァーブルー
+## 市瀬るぽ
+ - alive
 ## 常闇トワ
+ - AKUMA
+ - FACT
  - Palette
+ - born to be real
+ - キセキ結び
+ - マイロア
+ - マドロミ
 ## 平間美賀
- - 熱烈!アニソン魂 ULTIMATEカバーシリーズ2017 JAPAN ANIMESONG COLLECTION mini vol.4
+ - 熱烈!アニソン魂 ULTIMATEカバーシリーズ2017 JAPAN ANIMESONG COLLECTION mini vol.4
  - 熱烈!アニソン魂 ULTIMATEカバーシリーズ2017 JAPAN ANIMESONG COLLECTION vol.54
 ## 庄司 英徳
  - 龍が如く5 夢、叶えし者 オリジナルサウンドトラック \(Vol.2\)
@@ -3482,20 +13842,40 @@ This file contains the list of all the songs that are currently added in the MDR
  - アニメ『BNA ビー・エヌ・エー』Complete album
 ## 律可
  - spiral tones
+## 想太
+ - 少年少女のコトバ
 ## 戌神ころね
- - ころねの最凶天災わんだふぉーわーるど
-## 日比野則彦
- - METAL GEAR 20th ANNIVERSARY METAL GEAR MUSIC COLLECTION
+ - ころねの最凶天災わんだふぉーわーるど
+ - みっころね×しょうたいむ‼︎
+## 日向電工
+ - ブラックホールディスク
 ## 日渡なずな\(CV:長縄まりあ\)
  - アニメ『BNA ビー・エヌ・エー』Complete album
+## 星乃一歌
+ - 青く駆けろ!
 ## 星街すいせい
+ - Bluerose / comet
+ - CapSule
  - GHOST
  - NEXT COLOR PLANET
+ - OUT OF FRAME
+ - Still Still Stellar
+ - TEMPLATE/Wicked feat. Mori Calliope
+ - The Last Frontier
+ - hololive meets DJ'TEKINA//SOMETHING remix
+ - hololive music studio \- Twilight
+ - 自分勝手Dazzling / バイバイレイニー
+ - 駆けろ / 天球、彗星は夜を跨いで
 ## 松戸ガバーズ
  - 葛西ハーコーズ2 オールスターズ
+## 柊キライ
+ - ボッカデラベリタ
 ## 桃鈴ねね
  - Lunch with me
  - ねねねねねねねね!大爆走
+ - モモノネ
+## 桐生ココ
+ - キセキ結び
 ## 歌組雪月花
  - HIGECORE!
 ## 武笠美姫 \(CV: 宮下早紀\)
@@ -3503,38 +13883,68 @@ This file contains the list of all the songs that are currently added in the MDR
 ## 武笠美姫 \(CV: 宮下早紀\)、高屋敷綾 \(CV: 高野麻里佳\)、大野翠 \(CV: 富田美憂\)
  - TVアニメ「放課後さいころ倶楽部」エンディング・テーマ 「On the Board」
 ## 池田 エライザ
- - Bootleg
+ - BOOTLEG
 ## 河野 マリナ
  - Otorimonogatari Gekihanongakushu \(Original Soundtrack\)
  - Utamonogatari Special Edition \(Original Soundtrack\)
-## 泉陸奥彦
- - METAL GEAR 20th ANNIVERSARY METAL GEAR MUSIC COLLECTION
 ## 涼風青葉\(CV:高田憂希\)
  - HIGECORE!
 ## 湊あくあ
  - #あくあ色ぱれっと
  - Hacha\-Mecha ミラクル
+ - aqua iro palette
+ - hololive meets DJ'TEKINA//SOMETHING remix
+ - uni\-birth
+ - あいわな
+ - あくたんのこと好きすぎ☆ソング/For The Win \(2022 ver.\)
+ - きらきら
+ - 海想列車
+ - 浸食!! 地球全域全おーしゃん
 ## 湊あくあ・大空スバル・兎田ぺこら
  - Hacha\-Mecha ミラクル
 ## 滝本ひふみ\(CV:山口 愛\)
  - HIGECORE!
 ## 潤羽るしあ
+ - いんたらくとふぁんたじあ
  - アイリス
+ - 思ひ恋ふ
+## 澤村 遥
+ - 龍が如く5 夢、叶えし者 オリジナルサウンドトラック \(Vol.2\)
 ## 澤村 遥\(釘宮理恵\)
  - 龍が如く5 夢、叶えし者 オリジナルサウンドトラック \(Vol.2\)
+## 煮ル果実
+ - トラフィック・ジャム
+ - トリコロージュ
 ## 物語シリーズ
  - Otorimonogatari Gekihanongakushu \(Original Soundtrack\)
  - Owarimonogatari Gekihanongakushu \(Original Soundtrack\)
  - Utamonogatari Special Edition \(Original Soundtrack\)
+ - 歌物語2 \-〈物語〉シリーズ主題歌集\-
 ## 猫又おかゆ
- - もぐもぐYUMMY!
+ - もぐもぐYUMMY!
+ - デタバレネコ
+## 獅白ぼたん
+ - Lioness’ Pride
+ - hololive music studio \- Twilight
+ - わためのうた vol.2
 ## 玉木マリ\(CV:水瀬いのり\)
  - HIGECORE!
+## 癒月ちょこ
+ - ChocoLove
+ - Choco♡Melty
+ - Secret Class
 ## 白上フブキ
+ - Happiness World
  - Plasmagic Seasons!
  - Say!ファンファーレ!
+ - わくわくエブリデイ
 ## 白石結月\(CV:早見沙織\)
  - HIGECORE!
+## 白銀ノエル
+ - いんたらくとふぁんたじあ
+ - ほめのび
+## 百鬼あやめ
+ - 宵の余、良い!
 ## 真山りか
  - Liar Mask
 ## 福山光晴
@@ -3547,6 +13957,10 @@ This file contains the list of all the songs that are currently added in the MDR
 ## 築地ハードスタイラーズ
  - 葛西ハーコーズ
  - 葛西ハーコーズ2 オールスターズ
+## 篠倉
+ - IA SUPER BEST \-THE CREATORS \-
+## 紫咲シオン
+ - メイジ・オブ・ヴァイオレット
 ## 美波
  - カワキヲアメク
 ## 葛西ハーコーズ
@@ -3555,16 +13969,26 @@ This file contains the list of all the songs that are currently added in the MDR
 ## 衛藤可奈美\(CV:本渡楓\)
  - HIGECORE!
 ## 角巻わため
+ - Everlasting Soul
+ - hololive music studio \- Twilight
+ - mayday、mayday
  - わためのうた vol.1
+ - わためのうた vol.2
+ - キセキ結び
+ - キミだけのメロディ
  - 愛昧ショコラーテ
 ## 赤井はあと
  - Plasmagic Seasons!
 ## 道重さゆみ
  - 大森靖子
+## 鏡音リン・レン
+ - 劣等上等 feat. 鏡音リン・レン
 ## 阿保 剛
  - STEINS;GATE SYMPHONIC REUNION
 ## 難波ハイテックフルオンズ
  - 葛西ハーコーズ2 オールスターズ
+## 雪花ラミィ
+ - 明日への境界線
 ## 青木千紘
  - 龍が如く5 夢、叶えし者 オリジナルサウンドトラック \(Vol.2\)
  - 龍が如く極 オリジナルサウンドトラック
