@@ -10,7 +10,7 @@ const resemble = require("resemblejs/compareImages");
 
 const startTime = new Date().getTime();
 
-const imageProcessingThreads = 10;
+const imageProcessingThreads = 8;
 
 let version = -1;
 let amountExported = 0;
@@ -154,14 +154,14 @@ function executeCoverFromApple(albumName = "Origins", artistName = "") {
 }
 
 function Main() {
-    if (!fs.existsSync("questionedImages"))
-        fs.mkdirSync("questionedImages");
-    if (!fs.existsSync("foundImages"))
-        fs.mkdirSync("foundImages");
-    if (!fs.existsSync("questionableImages"))
-        fs.mkdirSync("questionableImages");
-    if (!fs.existsSync("images"))
-        fs.mkdirSync("images");
+    if (!fs.existsSync(path.join(process.cwd(), "questionedImages")))
+        fs.mkdirSync(path.join(process.cwd(), "questionedImages"));
+    if (!fs.existsSync(path.join(process.cwd(), "foundImages")))
+        fs.mkdirSync(path.join(process.cwd(), "foundImages"));
+    if (!fs.existsSync(path.join(process.cwd(), "questionableImages")))
+        fs.mkdirSync(path.join(process.cwd(), "questionableImages"));
+    if (!fs.existsSync(path.join(process.cwd(), "images")))
+        fs.mkdirSync(path.join(process.cwd(), "images"));
     readline.question('Where are your music files? (fully qualified dir pls)\n', loc => {
         if (fs.lstatSync(loc).isDirectory()) {
             locateMP3FromFolder(loc);
@@ -238,9 +238,9 @@ function locateMP3FromFolder(folder) {
 function grindTheNewGrind() {
     expectedAlbums = files.length;
     return new Promise((resolve, reject) => {
-        const expectedResolves = files.length;
+        const expectedResolves = Math.min(imageProcessingThreads, files.length);
         let seenResolves = 0;
-        for (var i = 0; i < files.length; i++) {
+        for (var i = 0; i < Math.min(imageProcessingThreads, files.length); i++) {
             newgrind(i).then(() => {
                 if (++seenResolves === expectedResolves)
                     resolve();
@@ -342,7 +342,10 @@ function newgrind(myIndex = -1, file = files[myIndex]) {
                 resolve(myIndex);
             });
         }).then(() => {
-            resolve2();
+            if (myIndex + imageProcessingThreads < files.length)
+                newgrind(myIndex + imageProcessingThreads, files[myIndex + imageProcessingThreads]).then(resolve2);
+            else
+                resolve2();
         });
     });
 }
