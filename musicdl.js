@@ -6,13 +6,11 @@ const readline = require('readline').createInterface({
 const fs = require("fs");
 const jsmediatags = require("jsmediatags");
 const path = require("path");
-const resizer = require("sharp");
 const resemble = require("resemblejs/compareImages");
 
 const startTime = new Date().getTime();
 
-const imageProcessingThreads = 100;
-const postverificationThreadCount = 50;
+const imageProcessingThreads = 10;
 
 let version = -1;
 let amountExported = 0;
@@ -34,21 +32,24 @@ function areTwoPicsTheSame(location1, location2) {
     const options = {
         returnEarlyThreshold: threshold,
         ignore: "antialiasing",
+        scaleToSameSize: true
     };
 
     // The parameters can be Node Buffers
     // data is the same as usual with an additional getBuffer() function
-    return new Promise((resolve, reject) => resemble(
-        fs.readFileSync(location1),
-        fs.readFileSync(location2),
-        options
-    ).then(data => {
-        /*if (data.rawMisMatchPercentage < threshold)
-            console.log("winner: " + data.rawMisMatchPercentage);*/
-        resolve(data.rawMisMatchPercentage < threshold);
-    }).catch((whatev) => {
-        reject(whatev);
-    }));
+    return new Promise((resolve, reject) => {
+        resemble(
+            fs.readFileSync(location1),
+            fs.readFileSync(location2),
+            options
+        ).then(data => {
+            /*if (data.rawMisMatchPercentage < threshold)
+                console.log("winner: " + data.rawMisMatchPercentage);*/
+            resolve(data.rawMisMatchPercentage < threshold);
+        }).catch((whatev) => {
+            reject(whatev);
+        });
+    });
 }
 
 function similarityOfTwo(location1, location2) {
@@ -71,23 +72,25 @@ function similarityOfTwo(location1, location2) {
 let appleStack = [];
 
 function doNextAppleRequest() {
-    if (appleStack.length === 0)
-        process.exit(0);
+    /*if (appleStack.length === 0)
+        process.exit(0);*/
     writeOverwritable("Pending Requests: " + appleStack.length + " remaining (" + (appleStack.length * 4 / 60).toFixed(0).padStart(2, "0") + ":" + (appleStack.length * 4 % 60).toFixed(1).padStart(4, "0") + " left)");
     setTimeout(() => {
-        let thing = appleStack[0];
-        executeCoverFromApple(thing.name, thing.artistName).then((res) => {
-            thing.promise.resolve(res);
-        }).catch((msg) => {
-            if (msg === "Nope") {
-                console.error("response was empty        ");
-            } else {
-                console.error("Failed to locate " + thing.name + " ".repeat(10));
-            }
-            thing.promise.reject();
-        });
-        appleStack.splice(0, 1);
-        doNextAppleRequest();
+        if (appleStack.length > 0) {
+            let thing = appleStack[0];
+            executeCoverFromApple(thing.name, thing.artistName).then((res) => {
+                thing.promise.resolve(res);
+            }).catch((msg) => {
+                if (msg === "Nope") {
+                    console.error("response was empty        ");
+                } else {
+                    console.error("Failed to locate " + thing.name + " ".repeat(10));
+                }
+                thing.promise.reject();
+            });
+            appleStack.splice(0, 1);
+            doNextAppleRequest();
+        }
     }, 4000);
 }
 
@@ -127,13 +130,20 @@ function executeCoverFromApple(albumName = "Origins", artistName = "") {
                 if (json.resultCount === 0)
                     reject("No chance");
                 else {
-                    let album = json.results.filter((listing) => (listing.artistName + "").toLowerCase().includes(artistName.toLowerCase()));
+                    let album = json.results;//.filter((listing) => (listing.artistName + "").toLowerCase().includes(artistName.toLowerCase()));
                     if (album.length === 0)
                         reject("Nope");
-                    else if (album.filter(album => album.collectionName === albumName).length === 1)
-                        resolve(album.find(album => album.collectionName === albumName).artworkUrl100);
-                    else
-                        resolve(album[0].artworkUrl100);
+                    else {
+                        let resolution = [];
+                        album.forEach(item => {
+                            resolution.push({
+                                album: item.collectionName,
+                                artist: item.artistName,
+                                link: item.artworkUrl100,//.replace("100x100", "512x512"),
+                            })
+                        });
+                        resolve(resolution);
+                    }
                 }
             } catch (e) {
                 reject();
@@ -156,7 +166,7 @@ function Main() {
         if (fs.lstatSync(loc).isDirectory()) {
             locateMP3FromFolder(loc);
             grindTheNewGrind().then(() => {
-                //process.exit(0);
+                process.exit(0);
             });
         } else
             console.log("I can't find this.");
@@ -228,9 +238,9 @@ function locateMP3FromFolder(folder) {
 function grindTheNewGrind() {
     expectedAlbums = files.length;
     return new Promise((resolve, reject) => {
-        const expectedResolves = Math.min(imageProcessingThreads, files.length);
+        const expectedResolves = files.length;
         let seenResolves = 0;
-        for (var i = 0; i < Math.min(imageProcessingThreads, files.length); i++) {
+        for (var i = 0; i < files.length; i++) {
             newgrind(i).then(() => {
                 if (++seenResolves === expectedResolves)
                     resolve();
@@ -242,14 +252,19 @@ function grindTheNewGrind() {
     });
 }
 
-function downloadImageFromWebAndVerify(album, artist, url, picture, questionableImages = "images") {
-    return new Promise((resolve, reject) => {
+function downloadImageFromWebAndVerify(album, artist, picture, url = [], questionableImages = "images") {
+    return new Promise(async function (resolve, reject)  {
         const {data, format} = picture;
         fs.writeFileSync(path.join(process.cwd(), "foundImages/" + cleanUp(album) + cleanUp(artist ? artist : "") + "_raw.jpg"), Buffer.from(data));
-        downloadImageFromWeb(album, artist, url, questionableImages).then(location => {
-            areTwoPicsTheSame(location, path.join(process.cwd(), "foundImages/" + cleanUp(album) + cleanUp(artist ? artist : "") + "_raw.jpg"))
-                .then(resolve).catch(reject);
-        });
+        for (var i = 0; i < url.length; i++) {
+            var location = await downloadImageFromWeb(album, artist, url[i].link, questionableImages);
+            var res = await areTwoPicsTheSame(location, path.join(process.cwd(), "foundImages/" + cleanUp(album) + cleanUp(artist ? artist : "") + "_raw.jpg"));
+            if (res) {
+                resolve(location);
+                return;
+            }
+        }
+        resolve(undefined);
     });
 }
 
@@ -270,22 +285,38 @@ function newgrind(myIndex = -1, file = files[myIndex]) {
                             return;
                         }
                         albumsAskedFor.push(musicData.album);
-                        findCoverFromApple(musicData.album, musicData.artist.substring(0, 8)).then((url = "") => {
+                        findCoverFromApple(musicData.album, musicData.artist.substring(0, 8)).then((url = []) => {
                             if (!musicData.picture) {
-                                downloadImageFromWeb(musicData.album, musicData.artist, url, "questionedImages").then((res) => {
+                                let bestUrl = "";
+                                if (url.filter((item) => {
+                                    return item.artistName === musicData.artist;
+                                }).length === 1)
+                                    bestUrl = url.find((item) => {
+                                        return item.artistName === musicData.artist;
+                                    }).link;
+                                else if (url.filter((item) => {
+                                    return item.album === musicData.album;
+                                }).length === 1)
+                                    bestUrl = url.find((item) => {
+                                        return item.album === musicData.album;
+                                    });
+                                else
+                                    bestUrl = url[0].link;
+                                downloadImageFromWeb(musicData.album, musicData.artist, bestUrl, "questionedImages").then((res) => {
                                     completed.push(musicData.album + musicData.artist);
                                     fs.appendFileSync(path.join(process.cwd(), "all.dat"), musicData.album + (musicData.artist ? "==" + musicData.artist : "") + "\r\n");
-                                    appendNewSingleton(musicData.album, musicData.artist ? [musicData.artist] : [], url);
+                                    appendNewSingleton(musicData.album, musicData.artist ? [musicData.artist] : [], bestUrl);
                                     resolve1(res);
                                 }).catch(() => {
                                     resolve1();
                                 });
                             } else {
-                                downloadImageFromWebAndVerify(musicData.album, musicData.artist, url, musicData.picture, "questionableImages").then((res) => {
+                                downloadImageFromWebAndVerify(musicData.album, musicData.artist, musicData.picture, url, "questionableImages").then((res) => {
                                     if (res) {
                                         completed.push(musicData.album + musicData.artist);
                                         fs.appendFileSync(path.join(process.cwd(), "all.dat"), musicData.album + (musicData.artist ? "==" + musicData.artist : "") + "\r\n");
-                                        appendNewSingleton(musicData.album, musicData.artist ? [musicData.artist] : [], url);
+                                        appendNewSingleton(musicData.album, musicData.artist ? [musicData.artist] : [], res);
+                                        fs.unlinkSync(path.join(process.cwd(), "questionableImages", cleanUp(musicData.album) + cleanUp(musicData.artist) + ".jpg"))
                                     } else {
                                         console.log("Confirmed wrong art for " + musicData.album);
                                         fs.appendFileSync(path.join(process.cwd(), "incorrectAlbums.dat"), musicData.album + (musicData.artist ? "==" + musicData.artist : "") + "\r\n");
@@ -304,38 +335,14 @@ function newgrind(myIndex = -1, file = files[myIndex]) {
                     }).catch(() => {
                         resolve(myIndex);
                     });
-                }
-                resolve(myIndex);
-                /*else {
-                   /*const {data, format} = musicData.picture;
-                   fs.writeFileSync(path.join(process.cwd(), "images/" + cleanUp(musicData.album) + cleanUp(musicData.artist ? musicData.artist : "") + "_raw.jpg"), Buffer.from(data));
-                   completed.push(musicData.album + musicData.artist);
-                   fs.appendFileSync(path.join(process.cwd(), "all.dat"), musicData.album + (musicData.artist ? "==" + musicData.artist : "") + "\r\n");
-                   resizer(path.join(process.cwd(), "images/" + cleanUp(musicData.album) + cleanUp(musicData.artist ? musicData.artist : "") + "_raw.jpg")).resize({
-                       height: 512,
-                       width: 512
-                   }).toFile(path.join(process.cwd(), "images/" + cleanUp(musicData.album) + cleanUp(musicData.artist ? musicData.artist : "") + ".jpg")).then(() => {
-                       appendSingleton(musicData.album, musicData.artist ? [musicData.artist] : []).then(() => {
-                           setTimeout(() => {
-                               fs.unlinkSync(path.join(process.cwd(), "images/" + cleanUp(musicData.album) + cleanUp(musicData.artist ? musicData.artist : "") + "_raw.jpg"));
-                               fs.unlinkSync(path.join(process.cwd(), "images/" + cleanUp(musicData.album) + cleanUp(musicData.artist ? musicData.artist : "") + ".jpg"));
-
-                               resolve(myIndex);
-                           }, 500);
-                       }).catch(console.error);
-                   }).catch(() => {
-                       resolve(myIndex);
-                   });
-               }*/
+                }else
+                    resolve(myIndex);
             }).catch(e => {
                 console.error(`Something went wrong reading art from ${file} `, e);
                 resolve(myIndex);
             });
         }).then(() => {
-            if (myIndex + imageProcessingThreads < files.length)
-                newgrind(myIndex + imageProcessingThreads, files[myIndex + imageProcessingThreads]).then(resolve2);
-            else
-                resolve2();
+            resolve2();
         });
     });
 }
